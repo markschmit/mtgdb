@@ -1,0 +1,145 @@
+Absorb Vis|C
+Aerie Mystics|U
+Ancient Ziggurat|U
+Apocalypse Hydra|M
+Armillary Sphere|C
+Asha's Favor|C
+Aven Squire|C
+Aven Trailblazer|C
+Banefire|R
+Beacon Behemoth|C
+Blood Tyrant|R
+Bloodhall Ooze|R
+Bone Saw|C
+Brackwater Elemental|C
+Canyon Minotaur|C
+Celestial Purge|U
+Charnelhoard Wurm|R
+Child of Alara|M
+Cliffrunner Behemoth|R
+Conflux|M
+Constricting Tendrils|C
+Controlled Instincts|U
+Corrupted Roots|U
+Countersquall|U
+Court Homunculus|C
+Cumber Stone|U
+Cylian Sunsinger|R
+Dark Temper|C
+Darklit Gargoyle|C
+Drag Down|C
+Dragonsoul Knight|U
+Dreadwing|U
+Elder Mastery|U
+Ember Weaver|C
+Esper Cormorants|C
+Esperzoa|U
+Ethersworn Adjudicator|M
+Exotic Orchard|R
+Exploding Borders|C
+Extractor Demon|R
+Faerie Mechanist|C
+Fiery Fall|C
+Filigree Fracture|U
+Fleshformer|U
+Font of Mythos|R
+Frontline Sage|C
+Fusion Elemental|U
+Giltspire Avenger|R
+Gleam of Resistance|C
+Gluttonous Slime|U
+Goblin Outlander|C
+Goblin Razerunners|R
+Grixis Illusionist|C
+Grixis Slavedriver|U
+Gwafa Hazid, Profiteer|R
+Hellkite Hatchling|U
+Hellspark Elemental|U
+Ignite Disorder|U
+Infectious Horror|C
+Inkwell Leviathan|R
+Jhessian Balmgiver|U
+Kaleidostone|C
+Kederekt Parasite|R
+Knight of the Reliquary|R
+Knotvine Mystic|U
+Kranioceros|C
+Lapse of Certainty|C
+Maelstrom Archangel|M
+Magister Sphinx|R
+Malfegor|M
+Mana Cylix|C
+Manaforce Mace|U
+Maniacal Rage|C
+Mark of Asylum|R
+Martial Coup|R
+Master Transmuter|R
+Matca Rioters|C
+Meglonoth|R
+Might of Alara|C
+Mirror-Sigil Sergeant|M
+Molten Frame|C
+Nacatl Hunt-Pride|U
+Nacatl Outlander|C
+Nacatl Savage|C
+Nicol Bolas, Planeswalker|M
+Noble Hierarch|R
+Nyxathid|R
+Obelisk of Alara|R
+Paleoloth|R
+Paragon of the Amesha|U
+Parasitic Strix|C
+Path to Exile|U
+Pestilent Kathari|C
+Progenitus|M
+Quenchable Fire|C
+Rakka Mar|R
+Reliquary Tower|U
+Rhox Bodyguard|C
+Rhox Meditant|C
+Rotting Rats|C
+Rupture Spire|C
+Sacellum Archers|U
+Salvage Slasher|C
+Scarland Thrinax|U
+Scattershot Archer|C
+Scepter of Dominance|R
+Scepter of Fugue|R
+Scepter of Insight|R
+Scornful Aether-Lich|U
+Sedraxis Alchemist|C
+Shambling Remains|U
+Shard Convergence|U
+Sigil of the Empty Throne|R
+Skyward Eye Prophets|U
+Sludge Strider|U
+Soul's Majesty|R
+Sphinx Summoner|R
+Spore Burst|U
+Suicidal Charge|C
+Sylvan Bounty|C
+Telemin Performance|R
+Thornling|M
+Toxic Iguanar|C
+Traumatic Visions|C
+Tukatongue Thallid|C
+Unstable Frontier|U
+Unsummon|C
+Vagrant Plowbeasts|U
+Valeron Outlander|C
+Valiant Guard|C
+Vectis Agents|C
+Vedalken Outlander|C
+Viashino Slaughtermaster|U
+View from Above|U
+Voices from the Void|U
+Volcanic Fallout|U
+Voracious Dragon|R
+Wall of Reverence|R
+Wandering Goblins|C
+Wild Leotau|C
+Worldheart Phoenix|R
+Worldly Counsel|C
+Wretched Banquet|C
+Yoke of the Damned|C
+Zombie Outlander|C

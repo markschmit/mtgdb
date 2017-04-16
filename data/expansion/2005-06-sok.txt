@@ -1,0 +1,170 @@
+Adamaro, First to Desire|R
+Aether Shockwave|U
+Akki Drillmaster|C
+Akki Underling|C
+Akuta, Born of Ash|R
+Araba Mothrider|C
+Arashi, the Sky Asunder|R
+Ashes of the Fallen|R
+Ayumi, the Last Visitor|R
+Barrel Down Sokenzan|C
+Blood Clock|R
+Bounteous Kirin|R
+Briarknit Kami|U
+Burning-Eye Zubera|U
+Captive Flame|U
+Celestial Kirin|R
+Charge Across the Araba|U
+Choice of Damnations|R
+Cloudhoof Kirin|R
+Cowed by Wisdom|C
+Curtain of Light|C
+Cut the Earthly Bond|C
+Death Denied|C
+Death of a Thousand Stings|C
+Deathknell Kami|C
+Deathmask Nezumi|C
+Dense Canopy|U
+Descendant of Kiyomaro|U
+Descendant of Masumaro|U
+Descendant of Soramaro|C
+Dosan's Oldest Chant|C
+Dreamcatcher|C
+Ebony Owl Netsuke|U
+Eiganjo Free-Riders|U
+Elder Pine of Jukai|C
+Endless Swarm|R
+Enduring Ideal|R
+Erayo's Essence|R
+Erayo, Soratami Ascendant|R
+Eternal Dominion|R
+Evermind|U
+Exile into Darkness|U
+Feral Lightning|U
+Fiddlehead Kami|C
+Footsteps of the Goryo|U
+Freed from the Real|C
+Gaze of Adamaro|U
+Ghost-Lit Nourisher|U
+Ghost-Lit Raider|U
+Ghost-Lit Redeemer|U
+Ghost-Lit Stalker|U
+Ghost-Lit Warder|U
+Glitterfang|C
+Gnat Miser|C
+Godo's Irregulars|U
+Hail of Arrows|U
+Hand of Cruelty|U
+Hand of Honor|U
+Haru-Onna|U
+Hidetsugu's Second Rite|R
+Homura's Essence|R
+Homura, Human Ascendant|R
+Ideas Unbound|C
+Iizuka the Ruthless|R
+Iname as One|R
+Infernal Kirin|R
+Inner Calm, Outer Strength|C
+Inner Fire|C
+Inner-Chamber Guard|U
+Into the Fray|C
+Ivory Crane Netsuke|U
+Jiwari, the Earth Aflame|R
+Kagemaro's Clutch|C
+Kagemaro, First to Suffer|R
+Kaho, Minamo Historian|R
+Kami of Empty Graves|C
+Kami of the Crescent Moon|R
+Kami of the Tended Garden|U
+Kashi-Tribe Elite|U
+Kataki, War's Wage|R
+Kemuri-Onna|U
+Kiku's Shadow|U
+Kiri-Onna|U
+Kitsune Bonesetter|C
+Kitsune Dawnblade|C
+Kitsune Loreweaver|C
+Kiyomaro, First to Stand|R
+Kuon's Essence|R
+Kuon, Ogre Ascendant|R
+Kuro's Taken|C
+Locust Miser|U
+Maga, Traitor to Mortals|R
+Manriki-Gusari|U
+Masumaro, First to Live|R
+Matsu-Tribe Birdstalker|C
+Measure of Wickedness|U
+Meishin, the Mind Cage|R
+Michiko Konda, Truth Seeker|R
+Mikokoro, Center of the Sea|R
+Minamo Scrollkeeper|C
+Miren, the Moaning Well|R
+Molting Skin|U
+Moonbow Illusionist|C
+Moonwing Moth|C
+Murmurs from Beyond|C
+Neverending Torment|R
+Nightsoil Kami|C
+Nikko-Onna|U
+O-Naginata|U
+Oboro Breezecaller|C
+Oboro Envoy|U
+Oboro, Palace in the Clouds|R
+Okina Nightwatch|C
+One with Nothing|R
+Oni of Wild Places|U
+Oppressive Will|C
+Overwhelming Intellect|U
+Pain's Reward|R
+Path of Anger's Flame|C
+Pithing Needle|R
+Plow Through Reito|C
+Presence of the Wise|U
+Promise of Bunrei|R
+Promised Kannushi|C
+Pure Intentions|R
+Rally the Horde|R
+Raving Oni-Slave|C
+Razorjaw Oni|U
+Reki, the History of Kamigawa|R
+Rending Vines|C
+Reverence|R
+Ronin Cavekeeper|C
+Rune-Tail's Essence|R
+Rune-Tail, Kitsune Ascendant|R
+Rushing-Tide Zubera|U
+Sakashima the Impostor|R
+Sakura-Tribe Scout|C
+Sasaya's Essence|R
+Sasaya, Orochi Ascendant|R
+Scroll of Origins|R
+Secretkeeper|U
+Seed the Land|R
+Seek the Horizon|U
+Sekki, Seasons' Guide|R
+Shape Stealer|U
+Shifting Borders|U
+Shinen of Fear's Chill|C
+Shinen of Flight's Wings|C
+Shinen of Fury's Fire|C
+Shinen of Life's Roar|C
+Shinen of Stars' Light|C
+Sink into Takenuma|C
+Skull Collector|U
+Skyfire Kirin|R
+Sokenzan Renegade|U
+Sokenzan Spellblade|C
+Soramaro, First to Dream|R
+Soratami Cloud Chariot|U
+Spiraling Embers|C
+Spiritual Visit|C
+Stampeding Serow|U
+Sunder from Within|U
+Thoughts of Ruin|R
+Tomb of Urami|R
+Torii Watchward|C
+Trusted Advisor|U
+Twincast|R
+Undying Flames|R
+Wine of Blood and Iron|R
+Yuki-Onna|U

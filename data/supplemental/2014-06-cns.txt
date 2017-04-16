@@ -1,0 +1,210 @@
+Academy Elite|R
+Advantageous Proclamation|U
+Aether Searcher|R
+Aether Tradewinds|C
+Agent of Acquisitions|U
+Air Servant|U
+Ajani's Sunstriker|C
+Altar of Dementia|R
+Altar's Reap|C
+Apex Hawks|C
+Assassinate|C
+Backup Plan|R
+Barbed Shocker|U
+Basandra, Battle Seraph|R
+Bite of the Black Rose|U
+Boldwyr Intimidator|U
+Brago's Favor|C
+Brago's Representative|C
+Brago, King Eternal|R
+Brainstorm|C
+Breakthrough|U
+Brimstone Volley|C
+Canal Dredger|R
+Charging Rhino|C
+Chartooth Cougar|C
+Cinder Wall|C
+Coercive Portal|M
+Cogwork Grinder|R
+Cogwork Librarian|C
+Cogwork Spy|C
+Cogwork Tracker|U
+Compulsive Research|C
+Copperhorn Scout|C
+Council Guardian|U
+Council's Judgment|R
+Courier Hawk|C
+Crookclaw Transmuter|C
+Custodi Soulbinders|R
+Custodi Squire|C
+Dack Fayden|M
+Dack's Duplicate|R
+Deal Broker|R
+Deathforge Shaman|U
+Deathreap Ritual|U
+Deathrender|R
+Decimate|R
+Dimir Doppelganger|R
+Doomed Traveler|C
+Double Stroke|U
+Drakestown Forgotten|R
+Dream Fracture|C
+Echoing Courage|C
+Edric, Spymaster of Trest|R
+Elephant Guide|U
+Elvish Aberration|C
+Enclave Elite|C
+Enraged Revolutionary|C
+Exploration|R
+Explorer's Scope|U
+Extract from Darkness|U
+Fact or Fiction|U
+Favorable Winds|U
+Fires of Yavimaya|U
+Fireshrieker|U
+Flamewright|U
+Flaring Flame-Kin|U
+Flowstone Blade|C
+Galvanic Juggernaut|U
+Gamekeeper|U
+Glimmerpoint Stag|U
+Gnarlid Pack|C
+Grenzo's Cutthroat|C
+Grenzo's Rebuttal|R
+Grenzo, Dungeon Warden|R
+Grixis Illusionist|C
+Grudge Keeper|C
+Guardian Zendikon|C
+Heartless Hidetsugu|R
+Heckling Fiends|U
+Howling Wolf|C
+Hunger of the Howlpack|C
+Hydra Omnivore|M
+Ignition Team|R
+Ill-Gotten Gains|R
+Immediate Action|C
+Infectious Horror|C
+Intangible Virtue|U
+Iterative Analysis|U
+Jetting Glasskite|U
+Kor Chant|C
+Lead the Stampede|U
+Liliana's Specter|C
+Lizard Warrior|C
+Lore Seeker|R
+Lurking Automaton|C
+Magister of Worth|R
+Magus of the Mirror|R
+Mana Geyser|C
+Marchesa's Emissary|C
+Marchesa's Infiltrator|U
+Marchesa's Smuggler|U
+Marchesa, the Black Rose|M
+Minamo Scrollkeeper|C
+Mirari's Wake|M
+Mirrodin's Core|U
+Misdirection|R
+Moment of Heroism|C
+Morkrut Banshee|U
+Mortify|U
+Muzzio's Preparations|C
+Muzzio, Visionary Architect|M
+Nature's Claim|C
+Necromantic Thirst|C
+Noble Templar|C
+Orcish Cannonade|C
+Paliano, the High City|R
+Peace Strider|U
+Pelakka Wurm|U
+Pernicious Deed|M
+Phage the Untouchable|M
+Pillarfield Ox|C
+Pitchburn Devils|C
+Plagued Rusalka|U
+Plated Seastrider|C
+Plea for Power|R
+Plummet|C
+Power of Fire|C
+Power Play|U
+Predator's Howl|U
+Pride Guardian|C
+Pristine Angel|M
+Provoke|C
+Quag Vampires|C
+Quicksand|U
+Realm Seekers|R
+Reckless Scholar|C
+Reckless Spite|U
+Reflecting Pool|R
+Reign of the Pit|R
+Reito Lantern|U
+Relic Crush|U
+Respite|C
+Reya Dawnbringer|R
+Rousing of Souls|C
+Rout|R
+Runed Servitor|U
+Sakura-Tribe Elder|C
+Scaled Wurm|C
+Scourge of the Throne|M
+Screaming Seahawk|C
+Secret Summoning|U
+Secrets of Paradise|C
+Selvala's Charge|U
+Selvala's Enforcer|C
+Selvala, Explorer Returned|R
+Sentinel Dispatch|C
+Shoreline Ranger|C
+Silent Arbiter|R
+Silverchase Fox|C
+Skeletal Scrying|U
+Skitter of Lizards|C
+Sky Spirit|U
+Smallpox|U
+Soulcatcher|U
+Spectral Searchlight|U
+Spiritmonger|R
+Split Decision|U
+Spontaneous Combustion|U
+Sporecap Spider|C
+Squirrel Nest|U
+Stasis Cell|C
+Stave Off|C
+Stifle|R
+Stronghold Discipline|C
+Sulfuric Vortex|R
+Swords to Plowshares|U
+Syphon Soul|C
+Terastodon|R
+Torch Fiend|C
+Tragic Slip|C
+Traveler's Cloak|C
+Treasonous Ogre|U
+Trumpet Blast|C
+Turn the Tide|C
+Twisted Abomination|C
+Typhoid Rats|C
+Tyrant's Choice|C
+Uncontrollable Anger|U
+Unexpected Potential|U
+Unhallowed Pact|C
+Unquestioned Authority|U
+Valor Made Real|C
+Vampire Hexmage|U
+Vedalken Orrery|R
+Vent Sentinel|C
+Victimize|U
+Volcanic Fallout|U
+Vow of Duty|U
+Wakedancer|C
+Wakestone Gargoyle|U
+Warmonger's Chariot|U
+Whispergear Sneak|C
+Wind Dancer|U
+Wolfbriar Elemental|R
+Wood Sage|U
+Woodvine Elemental|U
+Worldknit|R
+Wrap in Flames|C
+Wrap in Vigor|C
+Zombie Goliath|C

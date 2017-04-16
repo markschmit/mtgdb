@@ -1,0 +1,165 @@
+Acolyte's Reward|U
+Aerie Worshippers|U
+Akroan Conscriptor|U
+Akroan Phalanx|U
+Akroan Skyguard|C
+Arbiter of the Ideal|R
+Archetype of Aggression|U
+Archetype of Courage|U
+Archetype of Endurance|U
+Archetype of Finality|U
+Archetype of Imagination|U
+Ashiok's Adept|U
+Aspect of Hydra|C
+Asphyxiate|C
+Astral Cornucopia|R
+Bile Blight|U
+Black Oak of Odunos|U
+Bolt of Keranos|C
+Brimaz, King of Oreskos|M
+Champion of Stray Souls|M
+Charging Badger|C
+Chorus of the Tides|C
+Chromanticore|M
+Claim of Erebos|C
+Courser of Kruphix|R
+Crypsis|C
+Culling Mark|C
+Cyclops of One-Eyed Pass|C
+Dawn to Dusk|U
+Deepwater Hypnotist|C
+Divination|C
+Drown in Sorrow|U
+Eater of Hope|R
+Eidolon of Countless Battles|R
+Elite Skirmisher|C
+Ephara's Enlightenment|U
+Ephara's Radiance|C
+Ephara, God of the Polis|M
+Epiphany Storm|C
+Eternity Snare|U
+Evanescent Intellect|C
+Everflame Eidolon|U
+Excoriate|C
+Eye Gouge|C
+Fall of the Hammer|C
+Fanatic of Xenagos|U
+Fate Unraveler|R
+Fated Conflagration|R
+Fated Infatuation|R
+Fated Intervention|R
+Fated Retribution|R
+Fated Return|R
+Fearsome Temper|C
+Felhide Brawler|C
+Felhide Spiritbinder|R
+Flame-Wreathed Phoenix|M
+Flitterstep Eidolon|U
+Floodtide Serpent|C
+Forgestoker Dragon|R
+Forlorn Pseudamma|U
+Forsaken Drifters|C
+Ghostblade Eidolon|U
+Gild|R
+Glimpse the Sun God|U
+God-Favored General|U
+Gorgon's Head|U
+Graverobber Spider|U
+Great Hart|C
+Griffin Dreamfinder|C
+Grisly Transformation|C
+Herald of Torment|R
+Hero of Iroas|R
+Hero of Leina Tower|R
+Heroes' Podium|R
+Hold at Bay|C
+Hunter's Prowess|R
+Impetuous Sunchaser|C
+Karametra's Favor|C
+Karametra, God of Harvests|M
+Kiora's Follower|U
+Kiora, the Crashing Wave|M
+Kragma Butcher|C
+Kraken of the Straits|U
+Lightning Volley|U
+Loyal Pegasus|C
+Marshmist Titan|C
+Meletis Astronomer|U
+Mindreaver|R
+Mischief and Mayhem|U
+Mogis, God of Slaughter|M
+Mortal's Ardor|C
+Mortal's Resolve|C
+Necrobite|C
+Nessian Demolok|U
+Nessian Wilds Ravager|R
+Noble Quarry|U
+Nullify|C
+Nyxborn Eidolon|C
+Nyxborn Rollicker|C
+Nyxborn Shieldmate|C
+Nyxborn Triton|C
+Nyxborn Wolf|C
+Odunos River Trawler|U
+Oracle of Bones|R
+Oracle's Insight|U
+Oreskos Sun Guide|C
+Ornitharch|U
+Pain Seer|R
+Peregrination|U
+Perplexing Chimera|R
+Pharagax Giant|C
+Phenax, God of Deception|M
+Pheres-Band Raiders|U
+Pheres-Band Tromper|C
+Pillar of War|U
+Pinnacle of Rage|U
+Plea for Guidance|R
+Ragemonger|U
+Raised by Wolves|U
+Reap What Is Sown|U
+Reckless Reveler|C
+Retraction Helix|C
+Revoke Existence|C
+Rise to the Challenge|C
+Sanguimancy|U
+Satyr Firedancer|R
+Satyr Nyx-Smith|U
+Satyr Wayfinder|C
+Scourge of Skola Vale|R
+Scouring Sands|C
+Searing Blood|U
+Servant of Tymaret|C
+Setessan Oathsworn|C
+Setessan Starbreaker|C
+Shrike Harpy|U
+Silent Sentinel|R
+Siren of the Fanged Coast|U
+Siren of the Silent Song|U
+Siren Song Lyre|U
+Skyreaping|U
+Snake of the Golden Grove|C
+Sphinx's Disciple|C
+Spirit of the Labyrinth|R
+Spiteful Returned|U
+Springleaf Drum|U
+Stormcaller of Keranos|U
+Stratus Walk|C
+Sudden Storm|C
+Sunbond|U
+Swordwise Centaur|C
+Temple of Enlightenment|R
+Temple of Malice|R
+Temple of Plenty|R
+Thassa's Rebuff|U
+Thunder Brute|U
+Thunderous Might|U
+Tromokratis|R
+Unravel the Aether|U
+Vanguard of Brimaz|U
+Vortex Elemental|U
+Warchanter of Mogis|C
+Weight of the Underworld|C
+Whelming Wave|R
+Whims of the Fates|R
+Xenagos, God of Revels|M

@@ -1,0 +1,170 @@
+Act of Aggression|U
+Alloy Myr|U
+Apostle's Blessing|C
+Argent Mutation|U
+Arm with Aether|U
+Artillerize|C
+Auriok Survivors|U
+Batterskull|M
+Beast Within|U
+Birthing Pod|R
+Blade Splicer|R
+Blighted Agent|C
+Blind Zealot|C
+Blinding Souleater|C
+Bludgeon Brawl|R
+Brutalizer Exarch|U
+Caged Sun|R
+Caress of Phyrexia|U
+Cathedral Membrane|U
+Chained Throatseeker|C
+Chancellor of the Annex|R
+Chancellor of the Dross|R
+Chancellor of the Forge|R
+Chancellor of the Spires|R
+Chancellor of the Tangle|R
+Conversion Chamber|U
+Corrosive Gale|U
+Corrupted Resolve|U
+Darksteel Relic|U
+Death-Hood Cobra|C
+Deceiver Exarch|U
+Defensive Stance|C
+Dementia Bat|C
+Despise|U
+Dismember|U
+Dispatch|U
+Due Respect|U
+Elesh Norn, Grand Cenobite|M
+Enslave|U
+Entomber Exarch|U
+Etched Monstrosity|M
+Evil Presence|C
+Exclusion Ritual|U
+Fallen Ferromancer|U
+Flameborn Viron|C
+Forced Worship|C
+Forest|L
+Fresh Meat|R
+Furnace Scamp|C
+Geosurge|U
+Geth's Verdict|C
+Gitaxian Probe|C
+Glissa's Scorn|C
+Glistener Elf|C
+Glistening Oil|R
+Greenhilt Trainee|U
+Gremlin Mine|C
+Grim Affliction|C
+Gut Shot|U
+Hex Parasite|R
+Hovermyr|C
+Ichor Explosion|U
+Immolating Souleater|C
+Impaler Shrike|C
+Inquisitor Exarch|U
+Insatiable Souleater|C
+Invader Parasite|R
+Island|L
+Isolation Cell|U
+Jin-Gitaxias, Core Augur|M
+Jor Kadeen, the Prevailer|R
+Karn Liberated|M
+Kiln Walker|U
+Lashwrithe|R
+Leeching Bite|C
+Life's Finale|R
+Lost Leonin|C
+Loxodon Convert|C
+Marrow Shards|U
+Master Splicer|U
+Maul Splicer|C
+Melira, Sylvok Outcast|R
+Mental Misstep|U
+Mindcrank|U
+Mindculling|U
+Moltensteel Dragon|R
+Mortis Dogs|C
+Mountain|L
+Mutagenic Growth|C
+Mycosynth Fiend|U
+Mycosynth Wellspring|C
+Myr Superion|R
+Necropouncer|U
+Norn's Annex|R
+Noxious Revival|U
+Numbing Dose|C
+Ogre Menial|C
+Omen Machine|R
+Parasitic Implant|C
+Pestilent Souleater|C
+Phyrexia's Core|U
+Phyrexian Hulk|C
+Phyrexian Ingester|R
+Phyrexian Metamorph|R
+Phyrexian Obliterator|M
+Phyrexian Swarmlord|R
+Phyrexian Unlife|R
+Pith Driller|C
+Plains|L
+Porcelain Legionnaire|C
+Postmortem Lunge|U
+Praetor's Grasp|R
+Priest of Urabrask|U
+Pristine Talisman|C
+Psychic Barrier|C
+Psychic Surgery|R
+Puresteel Paladin|R
+Rage Extractor|U
+Razor Swine|C
+Reaper of Sheoldred|U
+Remember the Fallen|C
+Rotted Hystrix|C
+Ruthless Invasion|C
+Scrapyard Salvo|C
+Sensor Splicer|C
+Shattered Angel|U
+Sheoldred, Whispering One|M
+Shriek Raptor|C
+Shrine of Boundless Growth|U
+Shrine of Burning Rage|U
+Shrine of Limitless Power|U
+Shrine of Loyal Legions|U
+Shrine of Piercing Vision|U
+Sickleslicer|U
+Slag Fiend|R
+Slash Panther|C
+Soul Conduit|R
+Spellskite|R
+Spinebiter|U
+Spined Thopter|C
+Spire Monitor|C
+Surge Node|U
+Surgical Extraction|R
+Suture Priest|C
+Swamp|L
+Sword of War and Peace|M
+Tezzeret's Gambit|U
+Thundering Tanadon|C
+Tormentor Exarch|U
+Torpor Orb|R
+Toxic Nim|C
+Trespassing Souleater|C
+Triumph of the Hordes|U
+Unwinding Clock|R
+Urabrask the Hidden|M
+Vapor Snag|C
+Vault Skirge|C
+Victorious Destruction|C
+Viral Drake|U
+Viridian Betrayers|C
+Viridian Harvest|C
+Vital Splicer|U
+Volt Charge|C
+Vorinclex, Voice of Hunger|M
+Vulshok Refugee|U
+War Report|C
+Whipflare|U
+Whispering Specter|U
+Wing Splicer|U
+Xenograft|R

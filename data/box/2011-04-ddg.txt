@@ -1,0 +1,72 @@
+Alaborn Cavalier|U
+Armillary Sphere|C
+Benalish Lancer|C
+Bloodmark Mentor|U
+Bogardan Hellkite|M
+Bogardan Rager|C
+Breath of Darigaaz|U
+Captive Flame|U
+Caravan Escort|C
+Cinder Wall|C
+Claws of Valakut|C
+Cone of Flame|U
+Dragon Fodder|C
+Dragon Whelp|U
+Dragon's Claw|U
+Dragonspeaker Shaman|U
+Edge of Autumn|C
+Fiery Fall|C
+Fire-Belly Changeling|C
+Forest|L
+Ghostfire|C
+Grasslands|U
+Griffin Guide|U
+Harm's Way|U
+Henge Guardian|U
+Heroes' Reunion|U
+Jaws of Stone|U
+Juniper Order Ranger|U
+Kabira Vindicator|U
+Kilnmouth Dragon|R
+Kinsbaile Cavalier|R
+Knight Exemplar|R
+Knight of Cliffhaven|C
+Knight of Meadowgrain|U
+Knight of the Reliquary|M
+Knight of the White Orchid|R
+Knotvine Paladin|R
+Leonin Skyhunter|U
+Lionheart Maverick|C
+Loxodon Warhammer|R
+Mighty Leap|C
+Mordant Dragon|R
+Mountain|L
+Mudbutton Torchrunner|C
+Oblivion Ring|C
+Paladin of Prahv|U
+Plains|L
+Plover Knights|C
+Punishing Fire|U
+Reciprocate|U
+Reprisal|U
+Seething Song|C
+Seismic Strike|C
+Sejiri Steppe|C
+Selesnya Sanctuary|C
+Shiv's Embrace|U
+Shivan Hellkite|R
+Sigil Blessing|C
+Silver Knight|U
+Skirk Prospector|C
+Skyhunter Patrol|C
+Spidersilk Armor|C
+Spitting Earth|C
+Steward of Valeron|C
+Temporary Insanity|U
+Test of Faith|U
+Thunder Dragon|R
+Treetop Village|U
+Voracious Dragon|R
+White Knight|U
+Wilt-Leaf Cavaliers|U
+Zhalfirin Commander|U

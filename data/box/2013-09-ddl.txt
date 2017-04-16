@@ -1,0 +1,68 @@
+Anax and Cymede|R
+Armory Guard|C
+Auramancer|C
+Battle Mastery|U
+Beast Within|U
+Blood Ogre|C
+Bonds of Faith|C
+Boros Guildgate|C
+Cavalry Pegasus|C
+Condemn|U
+Conquering Manticore|R
+Crater Hellion|R
+Crowned Ceratok|U
+Daily Regimen|U
+Dawnstrike Paladin|C
+Deadly Recluse|C
+Destructive Revelry|U
+Deus of Calamity|R
+Dragon Blood|U
+Fencing Ace|U
+Figure of Destiny|R
+Fires of Yavimaya|U
+Forest|L
+Freewind Equenaut|C
+Ghor-Clan Savage|C
+Gorehorn Minotaurs|C
+Griffin Guide|U
+Gustcloak Sentinel|U
+Kamahl, Pit Fighter|R
+Kavu Predator|U
+Kazandu Refuge|U
+Krosan Tusker|C
+Llanowar Reborn|U
+Magma Jet|U
+Miraculous Recovery|U
+Moment of Heroism|C
+Mountain|L
+New Benalia|U
+Nobilis of War|R
+Orcish Lumberjack|C
+Ordeal of Purphoros|U
+Pay No Heed|C
+Plains|L
+Polukranos, World Eater|M
+Prey Upon|C
+Pyroclasm|U
+Pyrokinesis|U
+Regrowth|U
+Righteousness|U
+Satyr Hedonist|C
+Shower of Sparks|C
+Skarrg, the Rage Pits|U
+Skarrgan Firebird|R
+Skarrgan Skybreaker|U
+Smite the Monstrous|C
+Somberwald Vigilante|C
+Stand Firm|C
+Stun Sniper|U
+Sun Titan|M
+Terrifying Presence|C
+Thraben Valiant|C
+Troll Ascetic|R
+Truefire Paladin|U
+Undying Rage|U
+Valley Rannet|C
+Volt Charge|C
+Winds of Rath|R
+Zhur-Taa Druid|C

@@ -1,0 +1,269 @@
+Accursed Spirit|C
+Act on Impulse|U
+Aegis Angel|R
+Aeronaut Tinkerer|C
+Aetherspouts|R
+Aggressive Mining|R
+Ajani Steadfast|M
+Ajani's Pridemate|U
+Altac Bloodseeker|U
+Amphin Pathmage|C
+Ancient Silverback|U
+Avacyn, Guardian Angel|R
+Avarice Amulet|R
+Back to Nature|U
+Battle Mastery|U
+Battlefield Forge|R
+Belligerent Sliver|U
+Black Cat|C
+Blastfire Bolt|C
+Blood Host|U
+Boonweaver Giant|U
+Borderland Marauder|C
+Brawler's Plate|U
+Bronze Sable|C
+Brood Keeper|U
+Burning Anger|R
+Cancel|C
+Carnivorous Moss-Beast|C
+Carrion Crow|C
+Caustic Tar|U
+Caves of Koilos|R
+Centaur Courser|C
+Chandra, Pyromaster|M
+Charging Rhino|C
+Chasm Skulker|R
+Chief Engineer|R
+Child of Night|C
+Chord of Calling|R
+Chronostutter|C
+Circle of Flame|U
+Clear a Path|C
+Cone of Flame|U
+Congregate|U
+Constricting Sliver|U
+Coral Barrier|C
+Covenant of Blood|C
+Crippling Blight|C
+Crowd's Favor|C
+Crucible of Fire|R
+Cruel Sadist|R
+Darksteel Citadel|U
+Dauntless River Marshal|U
+Devouring Light|U
+Diffusion Sliver|U
+Dissipate|U
+Divination|C
+Divine Favor|C
+Divine Verdict|C
+Elvish Mystic|C
+Encrust|C
+Endless Obedience|U
+Ensoul Artifact|U
+Ephemeral Shields|C
+Eternal Thirst|C
+Evolving Wilds|C
+Feast on the Fallen|U
+Feral Incarnation|U
+Festergloom|C
+First Response|U
+Flesh to Dust|C
+Forest|L
+Forge Devil|C
+Foundry Street Denizen|C
+Frenzied Goblin|U
+Frost Lynx|C
+Fugitive Wizard|C
+Furnace Whelp|U
+Gargoyle Sentinel|U
+Garruk's Packleader|U
+Garruk, Apex Predator|M
+Gather Courage|U
+Geist of the Moors|U
+Generator Servant|C
+Genesis Hydra|R
+Glacial Crasher|C
+Goblin Kaboomist|R
+Goblin Rabblemaster|R
+Goblin Roughrider|C
+Gravedigger|U
+Grindclock|R
+Hammerhand|C
+Haunted Plate Mail|R
+Heat Ray|U
+Heliod's Pilgrim|C
+Hoarding Dragon|R
+Hornet Nest|R
+Hornet Queen|R
+Hot Soup|U
+Hunt the Weak|C
+Hunter's Ambush|C
+Hushwing Gryff|R
+Hydrosurge|C
+Illusory Angel|U
+In Garruk's Wake|R
+Indulgent Tormentor|R
+Inferno Fist|C
+Inspired Charge|C
+Into the Void|U
+Invasive Species|C
+Invisibility|C
+Island|L
+Jace's Ingenuity|U
+Jace, the Living Guildpact|M
+Jalira, Master Polymorphist|R
+Jorubai Murk Lurker|U
+Juggernaut|U
+Kalonian Twingrove|R
+Kapsho Kitefins|U
+Kinsbaile Skirmisher|C
+Kird Chieftain|U
+Krenko's Enforcer|C
+Kurkesh, Onakke Ancient|R
+Lava Axe|C
+Leeching Sliver|U
+Life's Legacy|R
+Lightning Strike|C
+Liliana Vess|M
+Living Totem|C
+Llanowar Wastes|R
+Mahamoti Djinn|R
+Marked by Honor|C
+Mass Calcify|R
+Master of Predicaments|R
+Meditation Puzzle|C
+Mercurial Pretender|R
+Meteorite|U
+Midnight Guard|C
+Might Makes Right|U
+Military Intelligence|U
+Mind Rot|C
+Mind Sculpt|C
+Miner's Bane|C
+Mountain|L
+Naturalize|C
+Necrobite|C
+Necrogen Scudder|U
+Necromancer's Assistant|C
+Necromancer's Stockpile|R
+Negate|C
+Netcaster Spider|C
+Nightfire Giant|U
+Nightmare|R
+Nimbus of the Isles|C
+Nissa's Expedition|U
+Nissa, Worldwaker|M
+Ob Nixilis, Unshackled|R
+Obelisk of Urd|R
+Oppressive Rays|C
+Oreskos Swiftclaw|C
+Ornithopter|C
+Overwhelm|U
+Paragon of Eternal Wilds|U
+Paragon of Fierce Defiance|U
+Paragon of Gathering Mists|U
+Paragon of New Dawns|U
+Paragon of Open Graves|U
+Peel from Reality|C
+Perilous Vault|M
+Phyrexian Revoker|R
+Phytotitan|R
+Pillar of Light|C
+Plains|L
+Plummet|C
+Polymorphist's Jest|R
+Preeminent Captain|R
+Profane Memento|U
+Quickling|U
+Radiant Fountain|C
+Raise the Alarm|C
+Ranger's Guile|C
+Razorfoot Griffin|C
+Reclamation Sage|U
+Research Assistant|C
+Resolute Archangel|R
+Restock|U
+Return to the Ranks|R
+Roaring Primadox|U
+Rogue's Gloves|U
+Rotfeaster Maggot|C
+Rummaging Goblin|C
+Runeclaw Bear|C
+Sacred Armory|U
+Sanctified Charge|C
+Satyr Wayfinder|C
+Scrapyard Mongrel|C
+Scuttling Doom Engine|R
+Seismic Strike|C
+Selfless Cathar|C
+Sengir Vampire|U
+Seraph of the Masses|U
+Serra Angel|U
+Shadowcloak Vampire|C
+Shaman of Spring|C
+Shield of the Avatar|R
+Shivan Dragon|R
+Shivan Reef|R
+Shrapnel Blast|U
+Siege Dragon|R
+Siege Wurm|C
+Sign in Blood|C
+Sliver Hive|R
+Sliver Hivelord|M
+Solemn Offering|C
+Soul of Innistrad|M
+Soul of New Phyrexia|M
+Soul of Ravnica|M
+Soul of Shandalar|M
+Soul of Theros|M
+Soul of Zendikar|M
+Soulmender|C
+Spectra Ward|R
+Spirit Bonds|R
+Stab Wound|U
+Staff of the Death Magus|U
+Staff of the Flame Magus|U
+Staff of the Mind Magus|U
+Staff of the Sun Magus|U
+Staff of the Wild Magus|U
+Stain the Mind|R
+Statute of Denial|C
+Stoke the Flames|U
+Stormtide Leviathan|R
+Sunblade Elf|U
+Sungrace Pegasus|C
+Swamp|L
+Terra Stomper|R
+The Chain Veil|M
+Thundering Giant|C
+Tireless Missionaries|C
+Titanic Growth|C
+Torch Fiend|C
+Tormod's Crypt|U
+Triplicate Spirits|C
+Turn to Frog|U
+Typhoid Rats|C
+Tyrant's Machine|C
+Ulcerate|U
+Undergrowth Scavenger|C
+Unmake the Graves|C
+Urborg, Tomb of Yawgmoth|R
+Venom Sliver|U
+Verdant Haven|C
+Vineweft|C
+Void Snare|C
+Walking Corpse|C
+Wall of Essence|U
+Wall of Fire|C
+Wall of Frost|U
+Wall of Limbs|U
+Wall of Mulch|U
+Warden of the Beyond|U
+Waste Not|R
+Welkin Tern|C
+Will-Forged Golem|C
+Witch's Familiar|C
+Xathrid Slyblade|U
+Yavimaya Coast|R
+Yisan, the Wanderer Bard|R
+Zof Shade|C

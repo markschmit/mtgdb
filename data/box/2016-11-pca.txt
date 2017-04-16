@@ -1,0 +1,136 @@
+Arc Trail|U
+Armillary Sphere|C
+Armored Griffin|U
+Assassinate|C
+Augury Owl|C
+Aura Gnarlid|C
+Auramancer|C
+Auratouched Mage|U
+Awakening Zone|R
+Baleful Strix|U
+Beast Within|U
+Beetleback Chief|U
+Bituminous Blast|U
+Bloodbraid Elf|U
+Boar Umbra|U
+Bramble Elemental|C
+Brindle Shoat|U
+Brutalizer Exarch|U
+Cadaver Imp|C
+Cage of Hands|C
+Cancel|C
+Celestial Ancient|R
+Concentrate|U
+Cultivate|C
+Dark Hatchling|R
+Deny Reality|C
+Dimir Aqueduct|C
+Dimir Infiltrator|C
+Dowsing Shaman|U
+Dragonlair Spider|R
+Dreampod Druid|U
+Elderwood Scion|R
+Enigma Sphinx|R
+Enlisted Wurm|U
+Erratic Explosion|C
+Etherium-Horn Sorcerer|R
+Exotic Orchard|R
+Farsight Mask|U
+Felidar Umbra|U
+Fiery Conclusion|C
+Fiery Fall|C
+Fires of Yavimaya|U
+Flayer Husk|C
+Fling|C
+Forest|L
+Fractured Powerstone|C
+Fusion Elemental|U
+Ghostly Prison|U
+Glen Elendra Liege|R
+Gluttonous Slime|U
+Graypelt Refuge|U
+Gruul Turf|C
+Guard Gomazoa|U
+Hellion Eruption|R
+Hellkite Hatchling|U
+Higure, the Still Wind|R
+Hissing Iguanar|C
+Hyena Umbra|C
+Illusory Angel|U
+Indrik Umbra|R
+Ink-Eyes, Servant of Oni|R
+Inkfathom Witch|U
+Island|L
+Jwar Isle Refuge|U
+Kathari Remnant|U
+Kazandu Refuge|U
+Khalni Garden|C
+Kor Spiritdancer|R
+Krond the Dawn-Clad|M
+Krosan Verge|U
+Last Stand|R
+Liliana's Specter|C
+Lumberknot|U
+Maelstrom Wanderer|M
+Mammoth Umbra|U
+Mark of Mutiny|U
+Mass Mutiny|R
+Mistblade Shinobi|C
+Mitotic Slime|R
+Mountain|L
+Mudbutton Torchrunner|C
+Mycoloth|R
+Nest Invader|C
+Ninja of the Deep Hours|C
+Noggle Ransacker|U
+Nullmage Advocate|C
+Okiba-Gang Shinobi|C
+Ondu Giant|C
+Overrun|U
+Penumbra Spider|C
+Peregrine Drake|U
+Plains|L
+Pollenbright Wings|U
+Predatory Urge|R
+Preyseizer Dragon|R
+Primal Plasma|C
+Quiet Disrepair|C
+Quietus Spike|R
+Rancor|C
+Rivals' Duel|U
+Rupture Spire|C
+Sai of the Shinobi|U
+Sakashima's Student|R
+See Beyond|C
+Selesnya Sanctuary|C
+Shardless Agent|U
+Shimmering Grotto|C
+Sigil of the Empty Throne|R
+Silent-Blade Oni|R
+Silhana Ledgewalker|C
+Skarrg, the Rage Pits|U
+Skullsnatcher|C
+Snake Umbra|C
+Spirit Mantle|U
+Sunken Hope|R
+Swamp|L
+Tainted Isle|U
+Terramorphic Expanse|C
+Thorn-Thrash Viashino|C
+Thran Golem|U
+Three Dreams|R
+Throat Slitter|U
+Thromok the Insatiable|M
+Thunder-Thrash Elder|U
+Tormented Soul|C
+Tukatongue Thallid|C
+Vela the Night-Clad|M
+Viridian Emissary|C
+Vitu-Ghazi, the City-Tree|U
+Vivid Creek|U
+Walker of Secret Ways|U
+Wall of Blossoms|U
+Wall of Frost|U
+Warstorm Surge|R
+Whirlpool Warrior|R
+Whispersilk Cloak|U

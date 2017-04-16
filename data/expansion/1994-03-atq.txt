@@ -1,0 +1,85 @@
+Amulet of Kroog|C
+Argivian Archaeologist|R
+Argivian Blacksmith|C
+Argothian Pixies|C
+Argothian Treefolk|C
+Armageddon Clock|U
+Artifact Blast|C
+Artifact Possession|C
+Artifact Ward|C
+Ashnod's Altar|U
+Ashnod's Battle Gear|U
+Ashnod's Transmogrant|U
+Atog|C
+Battering Ram|C
+Bronze Tablet|R
+Candelabra of Tawnos|R
+Circle of Protection: Artifacts|U
+Citanul Druid|U
+Clay Statue|C
+Clockwork Avian|R
+Colossus of Sardia|R
+Coral Helm|R
+Crumble|C
+Cursed Rack|U
+Damping Field|U
+Detonate|U
+Drafna's Restoration|C
+Dragon Engine|C
+Dwarven Weaponsmith|U
+Energy Flux|U
+Feldon's Cane|U
+Gaea's Avenger|R
+Gate to Phyrexia|U
+Goblin Artisans|U
+Golgothian Sylex|R
+Grapeshot Catapult|C
+Haunting Wind|U
+Hurkyl's Recall|R
+Ivory Tower|U
+Jalum Tome|U
+Martyrs of Korlis|U
+Mightstone|U
+Millstone|U
+Mishra's Factory|U
+Mishra's War Machine|R
+Mishra's Workshop|R
+Obelisk of Undoing|R
+Onulet|U
+Orcish Mechanics|C
+Ornithopter|C
+Phyrexian Gremlins|C
+Power Artifact|U
+Powerleech|U
+Priest of Yawgmoth|C
+Primal Clay|U
+Rakalite|U
+Reconstruction|C
+Reverse Polarity|C
+Rocket Launcher|U
+Sage of Lat-Nam|C
+Shapeshifter|R
+Shatterstorm|R
+Staff of Zegon|C
+Strip Mine|U
+Su-Chi|U
+Tablet of Epityr|C
+Tawnos's Coffin|R
+Tawnos's Wand|U
+Tawnos's Weaponry|U
+Tetravus|R
+The Rack|U
+Titania's Song|U
+Transmute Artifact|U
+Triskelion|R
+Urza's Avenger|R
+Urza's Chalice|C
+Urza's Mine|C
+Urza's Miter|R
+Urza's Power Plant|C
+Urza's Tower|C
+Wall of Spears|U
+Weakstone|U
+Xenic Poltergeist|U
+Yawgmoth Demon|R
+Yotian Soldier|C

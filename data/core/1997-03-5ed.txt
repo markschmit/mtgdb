@@ -1,0 +1,434 @@
+Abbey Gargoyles|U
+Abyssal Specter|U
+Adarkar Wastes|R
+Aether Storm|U
+Air Elemental|U
+Akron Legionnaire|R
+Alabaster Potion|C
+Aladdin's Ring|R
+Ambush Party|C
+Amulet of Kroog|C
+An-Havva Constable|R
+Angry Mob|U
+Animate Dead|U
+Animate Wall|R
+Ankh of Mishra|R
+Anti-Magic Aura|U
+Arenson's Aura|U
+Armageddon|R
+Armor of Faith|C
+Ashes to Ashes|U
+Ashnod's Altar|U
+Ashnod's Transmogrant|C
+Aspect of Wolf|R
+Atog|U
+Aurochs|C
+Aysen Bureaucrats|C
+Azure Drake|U
+Bad Moon|R
+Ball Lightning|R
+Barbed Sextant|C
+Barl's Cage|R
+Battering Ram|C
+Benalish Hero|C
+Binding Grasp|U
+Bird Maiden|C
+Birds of Paradise|R
+Black Knight|U
+Blessed Wine|C
+Blight|U
+Blinking Spirit|R
+Blood Lust|C
+Bog Imp|C
+Bog Rats|C
+Bog Wraith|U
+Boomerang|C
+Bottle of Suleiman|R
+Bottomless Vault|R
+Brainstorm|C
+Brainwash|C
+Brassclaw Orcs|C
+Breeding Pit|U
+Broken Visage|R
+Brothers of Fire|C
+Brushland|R
+Carapace|C
+Caribou Range|R
+Carrion Ants|U
+Castle|U
+Cat Warriors|C
+Cave People|U
+Chub Toad|C
+Circle of Protection: Artifacts|U
+Circle of Protection: Black|C
+Circle of Protection: Blue|C
+Circle of Protection: Green|C
+Circle of Protection: Red|C
+Circle of Protection: White|C
+City of Brass|R
+Clay Statue|C
+Cloak of Confusion|C
+Clockwork Beast|R
+Clockwork Steed|U
+Cockatrice|R
+Colossus of Sardia|R
+Conquer|U
+Coral Helm|R
+Counterspell|C
+Craw Giant|U
+Craw Wurm|C
+Crimson Manticore|R
+Crown of the Ages|R
+Crumble|U
+Crusade|R
+Crystal Rod|U
+Cursed Land|U
+D'Avenant Archer|C
+Dance of Many|R
+Dancing Scimitar|R
+Dandân|C
+Dark Maze|C
+Dark Ritual|C
+Death Speakers|C
+Death Ward|C
+Deathgrip|U
+Deflection|R
+Derelor|R
+Desert Twister|U
+Detonate|U
+Diabolic Machine|U
+Dingus Egg|R
+Disenchant|C
+Disintegrate|C
+Disrupting Scepter|R
+Divine Offering|C
+Divine Transformation|U
+Dragon Engine|R
+Drain Life|C
+Drain Power|R
+Drudge Skeletons|C
+Durkwood Boars|C
+Dust to Dust|U
+Dwarven Catapult|U
+Dwarven Hold|R
+Dwarven Ruins|U
+Dwarven Soldier|C
+Dwarven Warriors|C
+Earthquake|R
+Ebon Stronghold|U
+Elder Druid|R
+Elkin Bottle|R
+Elven Riders|U
+Elvish Archers|R
+Energy Flux|U
+Enervate|C
+Erg Raiders|C
+Errantry|C
+Eternal Warrior|C
+Evil Eye of Orms-by-Gore|U
+Evil Presence|U
+Eye for an Eye|R
+Fallen Angel|U
+Fear|C
+Feedback|U
+Feldon's Cane|U
+Fellwar Stone|U
+Feroz's Ban|R
+Fire Drake|U
+Fireball|C
+Firebreathing|C
+Flame Spirit|U
+Flare|C
+Flashfires|U
+Flight|C
+Flood|C
+Flying Carpet|R
+Fog|C
+Force of Nature|R
+Force Spike|C
+Forest|L
+Forget|R
+Fountain of Youth|U
+Foxfire|C
+Frozen Shade|C
+Funeral March|C
+Fungusaur|R
+Fyndhorn Elder|U
+Game of Chaos|R
+Gaseous Form|C
+Gauntlets of Chaos|R
+Ghazbán Ogre|C
+Giant Growth|C
+Giant Spider|C
+Giant Strength|C
+Glacial Wall|U
+Glasses of Urza|U
+Gloom|U
+Goblin Digging Team|C
+Goblin Hero|C
+Goblin King|R
+Goblin War Drums|C
+Goblin Warrens|R
+Grapeshot Catapult|C
+Greater Realm of Preservation|U
+Greater Werewolf|U
+Grizzly Bears|C
+Havenwood Battleground|U
+Heal|C
+Healing Salve|C
+Hecatomb|R
+Helm of Chatzuk|R
+Hill Giant|C
+Hipparion|C
+Hollow Trees|R
+Holy Strength|C
+Homarid Warrior|C
+Howl from Beyond|C
+Howling Mine|R
+Hungry Mist|C
+Hurkyl's Recall|R
+Hurloon Minotaur|C
+Hurricane|U
+Hydroblast|U
+Icatian Phalanx|U
+Icatian Scout|C
+Icatian Store|R
+Icatian Town|R
+Ice Floe|U
+Imposing Visage|C
+Incinerate|C
+Inferno|R
+Infinite Hourglass|R
+Initiates of the Ebon Hand|C
+Instill Energy|U
+Iron Star|U
+Ironclaw Curse|R
+Ironclaw Orcs|C
+Ironroot Treefolk|C
+Island|L
+Island Sanctuary|R
+Ivory Cup|U
+Ivory Guardians|U
+Jade Monolith|R
+Jalum Tome|R
+Jandor's Saddlebags|R
+Jayemdae Tome|R
+Jester's Cap|R
+Johtull Wurm|U
+Jokulhaups|R
+Joven's Tools|U
+Justice|U
+Juxtapose|R
+Karma|U
+Karplusan Forest|R
+Keldon Warlord|U
+Killer Bees|U
+Kismet|U
+Kjeldoran Dead|C
+Kjeldoran Royal Guard|R
+Kjeldoran Skycaptain|U
+Knight of Stromgald|U
+Krovikan Fetish|C
+Krovikan Sorcerer|C
+Labyrinth Minotaur|C
+Leshrac's Rite|U
+Leviathan|R
+Ley Druid|C
+Lhurgoyf|R
+Library of Leng|U
+Lifeforce|U
+Lifetap|U
+Living Artifact|R
+Living Lands|R
+Llanowar Elves|C
+Lord of Atlantis|R
+Lord of the Pit|R
+Lost Soul|C
+Lure|U
+Magical Hack|R
+Magus of the Unseen|R
+Mana Clash|R
+Mana Flare|R
+Mana Vault|R
+Manabarbs|R
+Marsh Viper|C
+Meekstone|R
+Memory Lapse|C
+Merfolk of the Pearl Trident|C
+Mesa Falcon|C
+Mesa Pegasus|C
+Millstone|R
+Mind Bomb|U
+Mind Ravel|C
+Mind Warp|U
+Mindstab Thrull|C
+Mole Worms|U
+Mons's Goblin Raiders|C
+Mountain|L
+Mountain Goat|C
+Murk Dwellers|C
+Nature's Lore|C
+Necrite|C
+Necropotence|R
+Nether Shadow|R
+Nevinyrral's Disk|R
+Nightmare|R
+Obelisk of Undoing|R
+Orcish Artillery|U
+Orcish Captain|U
+Orcish Conscripts|C
+Orcish Farmer|C
+Orcish Oriflamme|U
+Orcish Squatters|R
+Order of the Sacred Torch|R
+Order of the White Shield|U
+Orgg|R
+Ornithopter|U
+Panic|C
+Paralyze|C
+Pearled Unicorn|C
+Pentagram of the Ages|R
+Personal Incarnation|R
+Pestilence|C
+Phantasmal Forces|U
+Phantasmal Terrain|C
+Phantom Monster|U
+Pikemen|C
+Pirate Ship|R
+Pit Scorpion|C
+Plague Rats|C
+Plains|L
+Portent|C
+Power Sink|U
+Pox|R
+Pradesh Gypsies|C
+Primal Clay|R
+Primal Order|R
+Primordial Ooze|U
+Prismatic Ward|C
+Prodigal Sorcerer|C
+Psychic Venom|C
+Pyroblast|U
+Pyrotechnics|U
+Rabid Wombat|U
+Radjan Spirit|U
+Rag Man|R
+Raise Dead|C
+Ray of Command|C
+Recall|R
+Reef Pirates|C
+Regeneration|C
+Remove Soul|C
+Repentant Blacksmith|C
+Reverse Damage|R
+Righteousness|R
+Rod of Ruin|U
+Ruins of Trokair|U
+Sabretooth Tiger|C
+Sacred Boon|U
+Samite Healer|C
+Sand Silos|R
+Scaled Wurm|C
+Scathe Zombies|C
+Scavenger Folk|C
+Scryb Sprites|C
+Sea Serpent|C
+Sea Spirit|U
+Sea Sprite|U
+Seasinger|U
+Segovian Leviathan|U
+Sengir Autocrat|R
+Seraph|R
+Serpent Generator|R
+Serra Bestiary|U
+Serra Paladin|U
+Shanodin Dryads|C
+Shapeshifter|U
+Shatter|C
+Shatterstorm|U
+Shield Bearer|C
+Shield Wall|C
+Shivan Dragon|R
+Shrink|C
+Sibilant Spirit|R
+Skull Catapult|U
+Sleight of Mind|R
+Smoke|R
+Sorceress Queen|R
+Soul Barrier|C
+Soul Net|U
+Spell Blast|C
+Spirit Link|U
+Stampede|R
+Stasis|R
+Steal Artifact|U
+Stone Giant|U
+Stone Rain|C
+Stone Spirit|U
+Stream of Life|C
+Stromgald Cabal|R
+Sulfurous Springs|R
+Svyelunite Temple|U
+Swamp|L
+Sylvan Library|R
+Tarpan|C
+Tawnos's Weaponry|U
+Terror|C
+The Brute|C
+The Hive|R
+The Wretched|R
+Thicket Basilisk|U
+Throne of Bone|U
+Thrull Retainer|U
+Time Bomb|R
+Time Elemental|R
+Titania's Song|R
+Torture|C
+Touch of Death|C
+Tranquility|C
+Truce|R
+Tsunami|U
+Tundra Wolves|C
+Twiddle|C
+Underground River|R
+Unholy Strength|C
+Unstable Mutation|C
+Unsummon|C
+Untamed Wilds|U
+Updraft|C
+Urza's Avenger|R
+Urza's Bauble|U
+Urza's Mine|C
+Urza's Power Plant|C
+Urza's Tower|C
+Vampire Bats|C
+Venom|C
+Verduran Enchantress|R
+Vodalian Soldiers|C
+Wall of Air|U
+Wall of Bone|U
+Wall of Brambles|U
+Wall of Fire|U
+Wall of Spears|C
+Wall of Stone|U
+Wall of Swords|U
+Wanderlust|U
+War Mammoth|C
+Warp Artifact|R
+Weakness|C
+Whirling Dervish|U
+White Knight|U
+Wild Growth|C
+Wind Spirit|U
+Winds of Change|R
+Winter Blast|U
+Winter Orb|R
+Wolverine Pack|U
+Wooden Sphere|U
+Word of Blasting|U
+Wrath of God|R
+Wyluli Wolf|R
+Xenic Poltergeist|R
+Zephyr Falcon|C
+Zombie Master|R
+Zur's Weirding|R

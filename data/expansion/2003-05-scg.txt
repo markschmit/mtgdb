@@ -1,0 +1,143 @@
+Accelerated Mutation|C
+Ageless Sentinels|R
+Alpha Status|U
+Ambush Commander|R
+Ancient Ooze|R
+Aphetto Runecaster|U
+Ark of Blight|U
+Astral Steel|C
+Aven Farseer|C
+Aven Liberator|C
+Bladewing the Risen|R
+Bladewing's Thrall|U
+Bonethorn Valesk|C
+Brain Freeze|U
+Break Asunder|C
+Cabal Conditioning|R
+Cabal Interrogator|U
+Call to the Grave|R
+Carbonize|U
+Carrion Feeder|C
+Chartooth Cougar|C
+Chill Haunting|U
+Claws of Wirewood|U
+Clutch of Undeath|C
+Coast Watcher|C
+Consumptive Goo|R
+Daru Spiritualist|C
+Daru Warchief|U
+Dawn Elemental|R
+Day of the Dragons|R
+Death's-Head Buzzard|C
+Decree of Annihilation|R
+Decree of Justice|R
+Decree of Pain|R
+Decree of Savagery|R
+Decree of Silence|R
+Dimensional Breach|R
+Dispersal Shield|C
+Divergent Growth|C
+Dragon Breath|C
+Dragon Fangs|C
+Dragon Mage|R
+Dragon Scales|C
+Dragon Shadow|C
+Dragon Tyrant|R
+Dragon Wings|C
+Dragonspeaker Shaman|U
+Dragonstalker|U
+Dragonstorm|R
+Edgewalker|U
+Elvish Aberration|U
+Enrage|U
+Eternal Dragon|R
+Exiled Doomsayer|R
+Extra Arms|U
+Faces of the Past|R
+Fatal Mutation|U
+Fierce Empath|C
+Final Punishment|R
+Force Bubble|R
+Forgotten Ancient|R
+Form of the Dragon|R
+Frontline Strategist|C
+Frozen Solid|C
+Gilded Light|U
+Goblin Brigand|C
+Goblin Psychopath|U
+Goblin War Strike|C
+Goblin Warchief|U
+Grip of Chaos|R
+Guilty Conscience|C
+Hindering Touch|C
+Hunting Pack|U
+Karona's Zealot|U
+Karona, False God|R
+Krosan Drover|C
+Krosan Warchief|U
+Kurgadon|U
+Lethal Vapors|R
+Lingering Death|C
+Long-Term Plans|U
+Mercurial Kite|C
+Metamorphose|U
+Mind's Desire|R
+Mischievous Quanar|R
+Misguided Rage|C
+Mistform Warchief|U
+Nefashu|R
+Noble Templar|C
+One with Nature|U
+Parallel Thoughts|R
+Pemmin's Aura|U
+Primitive Etchings|R
+Proteus Machine|U
+Putrid Raptor|U
+Pyrostatic Pillar|U
+Rain of Blades|U
+Raven Guild Initiate|C
+Raven Guild Master|R
+Reaping the Graves|C
+Recuperate|C
+Reward the Faithful|U
+Riptide Survivor|U
+Rock Jockey|C
+Root Elemental|R
+Rush of Knowledge|C
+Scattershot|C
+Scornful Egotist|C
+Shoreline Ranger|C
+Siege-Gang Commander|R
+Silver Knight|U
+Skirk Volcanist|U
+Skulltap|C
+Sliver Overlord|R
+Soul Collector|R
+Spark Spray|C
+Sprouting Vines|C
+Stabilizer|R
+Stifle|R
+Sulfuric Vortex|R
+Temple of the False God|U
+Temporal Fissure|C
+Tendrils of Agony|U
+Thundercloud Elemental|U
+Titanic Bulvox|C
+Torrent of Fire|C
+Trap Digger|R
+Treetop Scout|C
+Twisted Abomination|C
+Unburden|C
+Uncontrolled Infestation|C
+Undead Warchief|U
+Unspeakable Symbol|U
+Upwelling|R
+Vengeful Dead|C
+Wing Shards|U
+Wipe Clean|C
+Wirewood Guardian|C
+Wirewood Symbiote|U
+Woodcloaker|C
+Xantid Swarm|R
+Zealous Inquisitor|C
+Zombie Cutthroat|C

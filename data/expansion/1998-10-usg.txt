@@ -1,0 +1,335 @@
+Absolute Grace|U
+Absolute Law|U
+Abundance|R
+Abyssal Horror|R
+Academy Researchers|U
+Acidic Soil|U
+Acridian|C
+Albino Troll|U
+Anaconda|U
+Angelic Chorus|R
+Angelic Page|C
+Annul|C
+Antagonism|R
+Arc Lightning|C
+Arcane Laboratory|U
+Argothian Elder|U
+Argothian Enchantress|R
+Argothian Swine|C
+Argothian Wurm|R
+Attunement|R
+Back to Basics|R
+Barrin's Codex|R
+Barrin, Master Wizard|R
+Bedlam|R
+Befoul|C
+Bereavement|U
+Blanchwood Armor|U
+Blanchwood Treefolk|C
+Blasted Landscape|U
+Blood Vassal|C
+Bog Raiders|C
+Brand|R
+Bravado|C
+Breach|C
+Brilliant Halo|C
+Bull Hippo|U
+Bulwark|R
+Cackling Fiend|C
+Carpet of Flowers|U
+Carrion Beetles|C
+Catalog|C
+Catastrophe|R
+Cathodion|U
+Cave Tiger|C
+Child of Gaea|R
+Chimeric Staff|R
+Citanul Centaurs|R
+Citanul Flute|R
+Citanul Hierophants|R
+Claws of Gix|U
+Clear|U
+Cloak of Mists|C
+Confiscate|U
+Congregate|C
+Contamination|R
+Copper Gnomes|R
+Coral Merfolk|C
+Corrupt|C
+Cradle Guard|U
+Crater Hellion|R
+Crazed Skirge|U
+Crosswinds|U
+Crystal Chimes|U
+Curfew|C
+Dark Hatchling|R
+Dark Ritual|C
+Darkest Hour|R
+Defensive Formation|U
+Despondency|C
+Destructive Urge|U
+Diabolic Servitude|U
+Disciple of Grace|C
+Disciple of Law|C
+Discordant Dirge|R
+Disenchant|C
+Disorder|U
+Disruptive Student|C
+Douse|U
+Dragon Blood|U
+Drifting Djinn|R
+Drifting Meadow|C
+Dromosaur|C
+Duress|C
+Eastern Paladin|R
+Electryte|R
+Elite Archers|R
+Elvish Herder|C
+Elvish Lyrist|C
+Enchantment Alteration|U
+Endless Wurm|R
+Endoskeleton|U
+Energy Field|R
+Exhaustion|U
+Exhume|C
+Exploration|R
+Expunge|C
+Faith Healer|R
+Falter|C
+Fault Line|R
+Fecundity|U
+Fertile Ground|C
+Fiery Mantle|C
+Fire Ants|U
+Flesh Reaver|U
+Fluctuator|R
+Fog Bank|U
+Forest|L
+Fortitude|C
+Gaea's Bounty|C
+Gaea's Cradle|R
+Gaea's Embrace|U
+Gamble|R
+Gilded Drake|R
+Glorious Anthem|R
+Goblin Cadets|U
+Goblin Lackey|U
+Goblin Matron|C
+Goblin Offensive|U
+Goblin Patrol|C
+Goblin Raider|C
+Goblin Spelunkers|C
+Goblin War Buggy|C
+Gorilla Warrior|C
+Grafted Skullcap|R
+Great Whale|R
+Greater Good|R
+Greener Pastures|R
+Guma|U
+Hawkeater Moth|U
+Headlong Rush|C
+Healing Salve|C
+Heat Ray|C
+Herald of Serra|R
+Hermetic Study|C
+Hibernation|U
+Hidden Ancients|U
+Hidden Guerrillas|U
+Hidden Herd|R
+Hidden Predators|R
+Hidden Spider|C
+Hidden Stag|R
+Hollow Dogs|C
+Hopping Automaton|U
+Horseshoe Crab|C
+Humble|U
+Hush|C
+Ill-Gotten Gains|R
+Imaginary Pet|R
+Intrepid Hero|R
+Island|L
+Jagged Lightning|U
+Karn, Silver Golem|R
+Launch|C
+Lay Waste|C
+Lifeline|R
+Lightning Dragon|R
+Lilting Refrain|U
+Lingering Mirage|U
+Looming Shade|C
+Lotus Blossom|R
+Lull|C
+Lurking Evil|R
+Mana Leech|U
+Meltdown|U
+Metrognome|R
+Midsummer Revel|R
+Mishra's Helix|R
+Mobile Fort|U
+Monk Idealist|U
+Monk Realist|C
+Morphling|R
+Mountain|L
+No Rest for the Wicked|U
+Noetic Scales|R
+Okk|R
+Opal Acrolith|U
+Opal Archangel|R
+Opal Caryatid|C
+Opal Gargoyle|C
+Opal Titan|R
+Oppression|R
+Order of Yawgmoth|U
+Outmaneuver|U
+Pacifism|C
+Parasitic Bond|U
+Pariah|R
+Path of Peace|C
+Pegasus Charger|C
+Pendrell Drake|C
+Pendrell Flux|C
+Peregrine Drake|U
+Persecute|R
+Pestilence|C
+Phyrexian Colossus|R
+Phyrexian Ghoul|C
+Phyrexian Processor|R
+Phyrexian Tower|R
+Pit Trap|U
+Plains|L
+Planar Birth|R
+Planar Void|U
+Polluted Mire|C
+Pouncing Jaguar|C
+Power Sink|C
+Power Taint|C
+Presence of the Master|U
+Priest of Gix|U
+Priest of Titania|C
+Purging Scythe|R
+Rain of Filth|U
+Rain of Salt|U
+Ravenous Skirge|C
+Raze|C
+Recantation|R
+Reclusive Wight|U
+Redeem|U
+Reflexes|C
+Rejuvenate|C
+Remembrance|R
+Remote Isle|C
+Reprocess|R
+Rescind|C
+Retaliation|U
+Retromancer|C
+Rewind|C
+Rumbling Crescendo|R
+Rune of Protection: Artifacts|U
+Rune of Protection: Black|C
+Rune of Protection: Blue|C
+Rune of Protection: Green|C
+Rune of Protection: Lands|R
+Rune of Protection: Red|C
+Rune of Protection: White|C
+Sanctum Custodian|C
+Sanctum Guardian|U
+Sandbar Merfolk|C
+Sandbar Serpent|U
+Sanguine Guard|U
+Scald|U
+Scoria Wurm|R
+Scrap|C
+Seasoned Marshal|U
+Serra Avatar|R
+Serra Zealot|C
+Serra's Embrace|U
+Serra's Hymn|U
+Serra's Liturgy|R
+Serra's Sanctum|R
+Shimmering Barrier|U
+Shiv's Embrace|U
+Shivan Gorge|R
+Shivan Hellkite|R
+Shivan Raptor|U
+Show and Tell|R
+Shower of Sparks|C
+Sicken|C
+Silent Attendant|C
+Skirge Familiar|U
+Skittering Skirge|C
+Sleeper Agent|R
+Slippery Karst|C
+Smokestack|R
+Smoldering Crater|C
+Sneak Attack|R
+Somnophore|R
+Songstitcher|U
+Soul Sculptor|R
+Spined Fluke|U
+Spire Owl|C
+Sporogenesis|R
+Spreading Algae|U
+Steam Blast|U
+Stern Proctor|U
+Stroke of Genius|R
+Sulfuric Vapors|R
+Sunder|R
+Swamp|L
+Symbiosis|C
+Tainted Aether|R
+Telepathy|U
+Temporal Aperture|R
+Thran Quarry|R
+Thran Turbine|U
+Thundering Giant|U
+Time Spiral|R
+Titania's Boon|U
+Titania's Chosen|U
+Tolarian Academy|R
+Tolarian Winds|C
+Torch Song|U
+Treefolk Seedlings|U
+Treetop Rangers|C
+Turnabout|U
+Umbilicus|R
+Unnerve|C
+Unworthy Dead|C
+Urza's Armor|U
+Vampiric Embrace|U
+Vebulid|R
+Veil of Birds|C
+Veiled Apparition|U
+Veiled Crocodile|R
+Veiled Sentry|U
+Veiled Serpent|C
+Venomous Fangs|C
+Vernal Bloom|R
+Viashino Outrider|C
+Viashino Runner|C
+Viashino Sandswimmer|R
+Viashino Weaponsmith|C
+Victimize|U
+Vile Requiem|U
+Voice of Grace|U
+Voice of Law|U
+Voltaic Key|U
+Vug Lizard|U
+Wall of Junk|U
+War Dance|U
+Waylay|U
+Western Paladin|R
+Whetstone|R
+Whirlwind|R
+Wild Dogs|C
+Wildfire|R
+Windfall|U
+Winding Wurm|C
+Wirecat|U
+Witch Engine|R
+Wizard Mentor|C
+Worn Powerstone|U
+Worship|R
+Yawgmoth's Edict|U
+Yawgmoth's Will|R
+Zephid|R
+Zephid's Embrace|U

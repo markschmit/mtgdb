@@ -1,0 +1,335 @@
+Aerial Caravan|R
+Afterlife|U
+Alabaster Wall|C
+Alley Grifters|C
+Ancestral Mask|C
+Armistice|R
+Arms Dealer|U
+Arrest|U
+Assembly Hall|R
+Ballista Squad|U
+Balloon Peddler|C
+Barbed Wire|U
+Bargaining Table|R
+Battle Rampart|C
+Battle Squadron|R
+Bifurcate|R
+Black Market|R
+Blaster Mage|C
+Blockade Runner|C
+Blood Hound|R
+Blood Oath|R
+Boa Constrictor|U
+Bog Smugglers|C
+Bog Witch|C
+Brainstorm|C
+Brawl|R
+Briar Patch|U
+Bribery|R
+Buoyancy|C
+Cackling Witch|U
+Caller of the Hunt|R
+Cateran Brute|C
+Cateran Enforcer|U
+Cateran Kidnappers|U
+Cateran Overlord|R
+Cateran Persuader|C
+Cateran Slaver|R
+Cateran Summons|U
+Caustic Wasps|U
+Cave Sense|C
+Cave-In|R
+Cavern Crawler|C
+Ceremonial Guard|C
+Chambered Nautilus|U
+Chameleon Spirit|U
+Charisma|R
+Charm Peddler|C
+Charmed Griffin|U
+Cho-Arrim Alchemist|R
+Cho-Arrim Bruiser|R
+Cho-Arrim Legate|U
+Cho-Manno's Blessing|C
+Cho-Manno, Revolutionary|R
+Cinder Elemental|U
+Clear the Land|R
+Close Quarters|U
+Cloud Sprite|C
+Coastal Piracy|U
+Collective Unconscious|R
+Common Cause|R
+Conspiracy|R
+Cornered Market|R
+Corrupt Official|R
+Counterspell|C
+Cowardice|R
+Crackdown|R
+Crag Saurian|R
+Crash|C
+Credit Voucher|U
+Crenellated Wall|U
+Crooked Scales|R
+Crossbow Infantry|C
+Crumbling Sanctuary|R
+Customs Depot|U
+Dark Ritual|C
+Darting Merfolk|C
+Dawnstrider|R
+Deadly Insect|C
+Deathgazer|U
+Deepwood Drummer|C
+Deepwood Elder|R
+Deepwood Ghoul|C
+Deepwood Legate|U
+Deepwood Tantiv|U
+Deepwood Wolverine|C
+Dehydration|C
+Delraich|R
+Desert Twister|U
+Devout Witness|C
+Diplomatic Escort|U
+Diplomatic Immunity|C
+Disenchant|C
+Distorting Lens|R
+Drake Hatchling|C
+Dust Bowl|R
+Embargo|R
+Energy Flux|U
+Enslaved Horror|U
+Erithizon|R
+Extortion|R
+Extravagant Spirit|R
+Eye of Ramos|R
+False Demise|U
+Ferocity|C
+Flailing Manticore|R
+Flailing Ogre|U
+Flailing Soldier|C
+Flaming Sword|C
+Food Chain|R
+Forced March|R
+Forest|L
+Foster|R
+Fountain of Cho|U
+Fountain Watch|R
+Fresh Volunteers|C
+Furious Assault|C
+Game Preserve|R
+General's Regalia|R
+Gerrard's Irregulars|C
+Ghoul's Feast|U
+Giant Caterpillar|C
+Glowing Anemone|U
+Groundskeeper|U
+Gush|C
+Hammer Mage|U
+Haunted Crossroads|U
+Heart of Ramos|R
+Henge Guardian|U
+Henge of Ramos|U
+Hickory Woodlot|C
+High Market|R
+High Seas|U
+Highway Robber|C
+Hired Giant|U
+Honor the Fallen|R
+Hoodwink|C
+Horn of Plenty|R
+Horn of Ramos|R
+Horned Troll|C
+Howling Wolf|C
+Hunted Wumpus|U
+Ignoble Soldier|U
+Indentured Djinn|U
+Instigator|R
+Insubordination|C
+Intimidation|U
+Invigorate|C
+Inviolability|C
+Iron Lance|U
+Island|L
+Ivory Mask|R
+Jeweled Torque|U
+Jhovall Queen|R
+Jhovall Rider|U
+Karn's Touch|R
+Kris Mage|C
+Kyren Archive|R
+Kyren Glider|C
+Kyren Legate|U
+Kyren Negotiations|U
+Kyren Sniper|C
+Kyren Toy|R
+Land Grant|C
+Larceny|U
+Last Breath|U
+Lava Runner|R
+Ley Line|U
+Liability|R
+Lightning Hounds|C
+Lithophage|R
+Lumbering Satyr|U
+Lunge|C
+Lure|U
+Maggot Therapy|C
+Magistrate's Scepter|R
+Magistrate's Veto|U
+Megatherium|R
+Mercadia's Downfall|U
+Mercadian Atlas|R
+Mercadian Bazaar|U
+Mercadian Lift|R
+Midnight Ritual|R
+Misdirection|R
+Misshapen Fiend|C
+Misstep|C
+Molting Harpy|U
+Moment of Silence|C
+Monkey Cage|R
+Moonlit Wake|U
+Mountain|L
+Muzzle|C
+Natural Affinity|R
+Nether Spirit|R
+Nightwind Glider|C
+Noble Purpose|U
+Notorious Assassin|R
+Ogre Taskmaster|U
+Orim's Cure|C
+Overtaker|R
+Panacea|U
+Pangosaur|R
+Peat Bog|C
+Pious Warrior|C
+Plains|L
+Port Inspector|C
+Power Matrix|R
+Pretender's Claim|U
+Primeval Shambler|U
+Puffer Extract|U
+Pulverize|R
+Puppet's Verdict|R
+Putrefaction|U
+Quagmire Lamprey|U
+Rain of Tears|U
+Ramosian Captain|U
+Ramosian Commander|U
+Ramosian Lieutenant|C
+Ramosian Rally|C
+Ramosian Sergeant|C
+Ramosian Sky Marshal|R
+Rampart Crawler|C
+Rappelling Scouts|R
+Remote Farm|C
+Renounce|U
+Revered Elder|C
+Reverent Mantra|R
+Revive|U
+Righteous Aura|U
+Righteous Indignation|U
+Rishadan Airship|C
+Rishadan Brigand|R
+Rishadan Cutpurse|C
+Rishadan Footpad|U
+Rishadan Pawnshop|R
+Rishadan Port|R
+Robber Fly|U
+Rock Badger|U
+Rouse|C
+Rushwood Dryad|C
+Rushwood Elemental|R
+Rushwood Grove|U
+Rushwood Herbalist|C
+Rushwood Legate|U
+Saber Ants|U
+Sacred Prey|C
+Sailmonger|U
+Sand Squid|R
+Sandstone Needle|C
+Saprazzan Bailiff|R
+Saprazzan Breaker|U
+Saprazzan Cove|U
+Saprazzan Heir|R
+Saprazzan Legate|U
+Saprazzan Outrigger|C
+Saprazzan Raider|C
+Saprazzan Skerry|C
+Scandalmonger|U
+Security Detail|R
+Seismic Mage|R
+Sever Soul|C
+Shock Troops|C
+Shoving Match|U
+Silent Assassin|R
+Silverglade Elemental|C
+Silverglade Pathfinder|U
+Sizzle|C
+Skulking Fugitive|C
+Skull of Ramos|R
+Snake Pit|U
+Snorting Gahr|C
+Snuff Out|C
+Soothing Balm|C
+Soothsaying|U
+Soul Channeling|C
+Specter's Wail|C
+Spidersilk Armor|C
+Spiritual Focus|R
+Spontaneous Generation|R
+Squall|C
+Squallmonger|U
+Squee, Goblin Nabob|R
+Squeeze|R
+Stamina|U
+Statecraft|R
+Steadfast Guard|C
+Stinging Barrier|C
+Stone Rain|C
+Story Circle|U
+Strongarm Thug|U
+Subterranean Hangar|U
+Sustenance|U
+Swamp|L
+Task Force|C
+Tectonic Break|R
+Territorial Dispute|R
+Thermal Glider|C
+Thieves' Auction|R
+Thrashing Wumpus|R
+Thunderclap|C
+Thwart|U
+Tidal Bore|C
+Tidal Kraken|R
+Tiger Claws|C
+Timid Drake|U
+Tonic Peddler|U
+Tooth of Ramos|R
+Tower of the Magistrate|R
+Toymaker|U
+Trade Routes|R
+Tranquility|C
+Trap Runner|U
+Tremor|C
+Two-Headed Dragon|R
+Undertaker|C
+Unmask|R
+Unnatural Hunger|R
+Uphill Battle|U
+Vendetta|C
+Venomous Breath|U
+Venomous Dragonfly|C
+Vernal Equinox|R
+Vine Dryad|R
+Vine Trellis|C
+Volcanic Wind|U
+Wall of Distortion|C
+War Cadence|U
+War Tax|U
+Warmonger|U
+Warpath|U
+Waterfront Bouncer|C
+Wave of Reckoning|R
+Wild Jhovall|C
+Wishmonger|U
+Word of Blasting|U
+Worry Beads|R

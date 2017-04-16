@@ -1,0 +1,170 @@
+Akki Blizzard-Herder|C
+Akki Raider|U
+Ashen Monstrosity|U
+Aura Barbs|U
+Azamuki, Treachery Incarnate|U
+Baku Altar|R
+Bile Urchin|C
+Blademane Baku|C
+Blazing Shoal|R
+Blessing of Leeches|C
+Blinding Powder|U
+Body of Jukai|U
+Budoka Pupil|U
+Call for Blood|C
+Callow Jushi|U
+Child of Thorns|C
+Chisei, Heart of Oceans|R
+Clash of Realities|R
+Crack the Earth|C
+Crawling Filth|C
+Cunning Bandit|U
+Day of Destiny|R
+Disrupting Shoal|R
+Empty-Shrine Kannushi|U
+Enshrined Memories|R
+Eradicate|U
+Faithful Squire|U
+Final Judgment|R
+First Volley|C
+Flames of the Blood Hand|U
+Floodbringer|C
+Forked-Branch Garami|U
+Frost Ogre|C
+Frostling|C
+Fumiko the Lowblood|R
+Genju of the Cedars|U
+Genju of the Falls|U
+Genju of the Fens|U
+Genju of the Fields|U
+Genju of the Realm|R
+Genju of the Spires|U
+Gnarled Mass|C
+Goblin Cohort|C
+Gods' Eye, Gate to the Reikai|U
+Goryo's Vengeance|R
+Harbinger of Spring|C
+Heart of Light|C
+Heartless Hidetsugu|R
+Heed the Mists|U
+Hero's Demise|R
+Higure, the Still Wind|R
+Hired Muscle|U
+Hokori, Dust Drinker|R
+Horobi's Whisper|C
+Hundred-Talon Strike|C
+Ichiga, Who Topples Oaks|U
+In the Web of War|R
+Indebted Samurai|U
+Ink-Eyes, Servant of Oni|R
+Ire of Kaminari|C
+Isao, Enlightened Bushi|R
+Ishi-Ishi, Akki Crackshot|R
+Iwamori of the Open Fist|R
+Jaraku the Interloper|U
+Jetting Glasskite|U
+Kaijin of the Vanishing Touch|U
+Kaiso, Memory of Loyalty|U
+Kami of False Hope|C
+Kami of Tattered Shoji|C
+Kami of the Honored Dead|U
+Kentaro, the Smiling Cat|R
+Kira, Great Glass-Spinner|R
+Kitsune Palliator|U
+Kodama of the Center Tree|R
+Kumano's Blessing|C
+Kyoki, Sanity's Eclipse|R
+Lifegift|R
+Lifespinner|U
+Loam Dweller|U
+Mannichi, the Fevered Dream|R
+Mark of Sakiko|U
+Mark of the Oni|U
+Matsu-Tribe Sniper|C
+Mending Hands|C
+Minamo Sightbender|U
+Minamo's Meddling|C
+Mirror Gallery|R
+Mistblade Shinobi|C
+Moonlit Strider|C
+Neko-Te|R
+Nezumi Shadow-Watcher|U
+Ninja of the Deep Hours|C
+Nourishing Shoal|R
+Ogre Marauder|U
+Ogre Recluse|U
+Okiba-Gang Shinobi|C
+Opal-Eye, Konda's Yojimbo|R
+Orb of Dreams|R
+Ornate Kanzashi|R
+Overblaze|U
+Oyobi, Who Split the Heavens|R
+Patron of the Akki|R
+Patron of the Kitsune|R
+Patron of the Moon|R
+Patron of the Nezumi|R
+Patron of the Orochi|R
+Petalmane Baku|C
+Phantom Wings|C
+Psychic Spear|C
+Pus Kami|U
+Quash|U
+Quillmane Baku|C
+Reduce to Dreams|R
+Ribbons of the Reikai|C
+Roar of Jukai|C
+Ronin Cliffrider|U
+Ronin Warclub|U
+Sakiko, Mother of Summer|R
+Sakura-Tribe Springcaller|C
+Scaled Hulk|C
+Scarmaker|U
+Scour|U
+Scourge of Numai|U
+Shimmering Glasskite|C
+Shining Shoal|R
+Shinka Gatekeeper|C
+Shirei, Shizo's Caretaker|R
+Shizuko, Caller of Autumn|R
+Shuko|U
+Shuriken|U
+Sickening Shoal|R
+Silverstorm Samurai|C
+Skullmane Baku|C
+Skullsnatcher|C
+Slumbering Tora|R
+Soratami Mindsweeper|U
+Sosuke's Summons|U
+Sowing Salt|U
+Splinter|U
+Split-Tail Miko|C
+Stir the Grave|C
+Stream of Consciousness|U
+Sway of the Stars|R
+Takeno's Cavalry|C
+Takenuma Bleeder|C
+Tallowisp|U
+Teardrop Kami|C
+Tendo Ice Bridge|R
+Terashi's Grasp|C
+Terashi's Verdict|U
+That Which Was Taken|R
+Threads of Disloyalty|R
+Three Tragedies|U
+Throat Slitter|U
+Toils of Night and Day|C
+Tomorrow, Azami's Familiar|R
+Torrent of Stone|C
+Toshiro Umezawa|R
+Traproot Kami|C
+Twist Allegiance|R
+Umezawa's Jitte|R
+Unchecked Growth|U
+Uproot|C
+Veil of Secrecy|C
+Vital Surge|C
+Walker of Secret Ways|U
+Ward of Piety|U
+Waxmane Baku|C
+Yomiji, Who Bars the Way|R
+Yukora, the Prisoner|R

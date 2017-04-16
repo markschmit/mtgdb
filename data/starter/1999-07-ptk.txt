@@ -1,0 +1,170 @@
+Alert Shu Infantry|U
+Ambition's Cost|R
+Balance of Power|R
+Barbarian General|U
+Barbarian Horde|C
+Blaze|U
+Borrowing 100,000 Arrows|U
+Borrowing the East Wind|R
+Brilliant Plan|U
+Broken Dam|C
+Burning Fields|C
+Burning of Xinye|R
+Cao Cao, Lord of Wei|R
+Cao Ren, Wei Commander|R
+Capture of Jingzhou|R
+Champion's Victory|U
+Coercion|U
+Control of the Court|U
+Corrupt Court Official|U
+Corrupt Eunuchs|U
+Council of Advisors|U
+Counterintelligence|U
+Cunning Advisor|U
+Deception|C
+Desert Sandstorm|C
+Desperate Charge|U
+Diaochan, Artful Beauty|R
+Dong Zhou, the Tyrant|R
+Eightfold Maze|R
+Empty City Ruse|U
+Eunuchs' Intrigues|U
+Exhaustion|R
+Extinguish|C
+False Defeat|C
+False Mourning|U
+Famine|U
+Fire Ambush|C
+Fire Bowman|U
+Flanking Troops|U
+Forced Retreat|C
+Forest|L
+Forest Bear|C
+Ghostly Visit|C
+Guan Yu's 1,000-Li March|R
+Guan Yu, Sainted Warrior|R
+Heavy Fog|U
+Hua Tuo, Honored Physician|R
+Huang Zhong, Shu General|R
+Hunting Cheetah|U
+Imperial Edict|C
+Imperial Recruiter|U
+Imperial Seal|R
+Independent Troops|C
+Island|L
+Kongming's Contraptions|R
+Kongming, “Sleeping Dragon”|R
+Lady Sun|R
+Lady Zhurong, Warrior Queen|R
+Liu Bei, Lord of Shu|R
+Lone Wolf|U
+Loyal Retainers|U
+Lu Bu, Master-at-Arms|R
+Lu Meng, Wu General|R
+Lu Su, Wu Advisor|R
+Lu Xun, Scholar General|R
+Ma Chao, Western Warrior|R
+Marshaling the Troops|R
+Meng Huo's Horde|C
+Meng Huo, Barbarian King|R
+Misfortune's Gain|C
+Mountain|L
+Mountain Bandit|C
+Mystic Denial|U
+Overwhelming Forces|R
+Pang Tong, “Young Phoenix”|R
+Peach Garden Oath|U
+Plains|L
+Poison Arrow|U
+Preemptive Strike|C
+Rally the Troops|U
+Ravages of War|R
+Ravaging Horde|U
+Red Cliffs Armada|U
+Relentless Assault|R
+Renegade Troops|U
+Return to Battle|C
+Riding Red Hare|C
+Riding the Dilu Horse|R
+Rockslide Ambush|U
+Rolling Earthquake|R
+Sage's Knowledge|C
+Shu Cavalry|C
+Shu Defender|C
+Shu Elite Companions|U
+Shu Elite Infantry|C
+Shu Farmer|C
+Shu Foot Soldiers|C
+Shu General|U
+Shu Grain Caravan|C
+Shu Soldier-Farmers|U
+Sima Yi, Wei Field Marshal|R
+Slashing Tiger|R
+Southern Elephant|C
+Spoils of Victory|U
+Spring of Eternal Peace|C
+Stalking Tiger|C
+Stolen Grain|U
+Stone Catapult|R
+Stone Rain|C
+Strategic Planning|U
+Straw Soldiers|C
+Sun Ce, Young Conquerer|R
+Sun Quan, Lord of Wu|R
+Swamp|L
+Taoist Hermit|U
+Taoist Mystic|R
+Taunting Challenge|R
+Three Visits|C
+Trained Cheetah|U
+Trained Jackal|C
+Trip Wire|U
+Vengeance|U
+Virtuous Charge|C
+Volunteer Militia|C
+Warrior's Oath|R
+Warrior's Stand|U
+Wei Ambush Force|C
+Wei Assassins|U
+Wei Elite Companions|U
+Wei Infantry|C
+Wei Night Raiders|U
+Wei Scout|C
+Wei Strike Force|C
+Wielding the Green Dragon|C
+Wolf Pack|R
+Wu Admiral|U
+Wu Elite Cavalry|C
+Wu Infantry|C
+Wu Light Cavalry|C
+Wu Longbowman|U
+Wu Scout|C
+Wu Spy|U
+Wu Warship|C
+Xiahou Dun, the One-Eyed|R
+Xun Yu, Wei Advisor|R
+Yellow Scarves Cavalry|C
+Yellow Scarves General|R
+Yellow Scarves Troops|C
+Young Wei Recruits|C
+Yuan Shao's Infantry|U
+Yuan Shao, the Indecisive|R
+Zhang Fei, Fierce Warrior|R
+Zhang He, Wei General|R
+Zhang Liao, Hero of Hefei|R
+Zhao Zilong, Tiger General|R
+Zhou Yu, Chief Commander|R
+Zhuge Jin, Wu Strategist|R
+Zodiac Dog|C
+Zodiac Dragon|R
+Zodiac Goat|C
+Zodiac Horse|U
+Zodiac Monkey|C
+Zodiac Ox|U
+Zodiac Pig|U
+Zodiac Rabbit|C
+Zodiac Rat|C
+Zodiac Rooster|C
+Zodiac Snake|C
+Zodiac Tiger|U
+Zuo Ci, the Mocking Sage|R

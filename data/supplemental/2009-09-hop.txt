@@ -1,0 +1,148 @@
+Akroma's Vengeance|R
+Ancient Den|C
+Arc Lightning|C
+Arcbound Crusher|U
+Arcbound Slith|U
+Arsenal Thresher|C
+Ascendant Evincar|R
+Assault (Assault/Battery)|U
+Balefire Liege|R
+Battery (Assault/Battery)|U
+Battlegate Mimic|C
+Beacon of Unrest|R
+Beast Hunt|C
+Beseech the Queen|U
+Blaze|U
+Bogardan Firefiend|C
+Bogardan Rager|C
+Boros Garrison|C
+Boros Guildmage|U
+Boros Signet|C
+Boros Swiftblade|U
+Bosh, Iron Golem|R
+Branching Bolt|C
+Briarhorn|U
+Broodstar|R
+Browbeat|U
+Bull Cerodon|U
+Cabal Coffers|U
+Cadaverous Knight|C
+Captain's Maneuver|U
+Cerodon Yearling|C
+Chaos (Order/Chaos)|U
+Cinder Elemental|U
+Cone of Flame|U
+Congregate|C
+Consume Spirit|U
+Copper Myr|C
+Corpse Harvester|U
+Cranial Plating|C
+Cruel Revival|C
+Dark Ritual|C
+Darksteel Forge|R
+Death Baron|R
+Door to Nothingness|R
+Double Cleave|C
+Dregscape Zombie|C
+Duergar Hedge-Mage|U
+Etched Oracle|U
+Explosive Vegetation|U
+Fabricate|U
+Fertile Ground|C
+Fertilid|C
+Festering Goblin|C
+Fires of Yavimaya|U
+Flamekin Harbinger|U
+Flametongue Kavu|U
+Forest|L
+Forgotten Ancient|R
+Furnace of Rath|R
+Glory of Warfare|R
+Goblin Offensive|U
+Gold Myr|C
+Grave Pact|R
+Gravedigger|C
+Great Furnace|C
+Gruul Turf|C
+Hearthfire Hobgoblin|U
+Helldozer|R
+Hideous End|C
+Hull Breach|C
+Incremental Blight|U
+Innocent Blood|C
+Insurrection|R
+Iron Myr|C
+Island|L
+Ivy Elemental|R
+Keep Watch|C
+Keldon Champion|U
+Kor Sanctifiers|C
+Leaden Myr|C
+Leechridden Swamp|U
+Lightning Helix|U
+Living Hive|R
+Lodestone Myr|R
+Loxodon Warhammer|R
+Mage Slayer|U
+Mask of Memory|U
+Master of Etherium|R
+Menacing Ogre|R
+Mountain|L
+Myr Enforcer|C
+Nefashu|R
+Noxious Ghoul|U
+Nuisance Engine|U
+Oblivion Ring|C
+Order (Order/Chaos)|U
+Orim's Thunder|C
+Pentad Prism|C
+Pentavus|R
+Phyrexian Arena|R
+Phyrexian Ghoul|C
+Plains|L
+Prison Term|U
+Profane Command|R
+Pyrotechnics|U
+Qumulox|U
+Rampant Growth|C
+Razia, Boros Archangel|R
+Reckless Charge|C
+Relentless Assault|R
+Relic of Progenitus|C
+Rockslide Elemental|U
+Rolling Thunder|C
+Rorix Bladewing|R
+Rotting Rats|C
+Rumbling Slum|R
+Sarcomite Myr|C
+Savage Twister|U
+Search for Tomorrow|C
+Seat of the Synod|C
+Serum Tank|U
+Shepherd of Rot|C
+Shivan Oasis|U
+Silver Myr|C
+Silverglade Elemental|C
+Skeleton Shard|U
+Sludge Strider|U
+Smokebraider|C
+Soul Warden|C
+Soulless One|U
+Sunhome, Fortress of the Legion|U
+Suntouched Myr|C
+Swamp|L
+Syphon Mind|C
+Syphon Soul|C
+Taurean Mauler|R
+Terramorphic Expanse|C
+Thirst for Knowledge|U
+Tornado Elemental|R
+Tree of Tales|C
+Tribal Unity|U
+Undead Warchief|U
+Vault of Whispers|C
+Vedalken Engineer|C
+Verdant Force|R
+Whiplash Trap|C
+Withered Wretch|U
+Wizard Replica|C

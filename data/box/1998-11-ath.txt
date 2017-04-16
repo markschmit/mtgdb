@@ -1,0 +1,81 @@
+Aesthir Glider|S
+Armageddon|S
+Armored Pegasus|S
+Benalish Knight|S
+Black Knight|S
+Brushland|S
+Canopy Spider|S
+Carnivorous Plant|S
+Combat Medic|S
+Cuombajj Witches|S
+Disenchant|S
+Drifting Meadow|S
+Erhnam Djinn|S
+Feast of the Unicorn|S
+Fireball|S
+Forest|L
+Freewind Falcon|S
+Giant Growth|S
+Giant Spider|S
+Goblin Balloon Brigade|S
+Goblin Digging Team|S
+Goblin Grenade|S
+Goblin Hero|S
+Goblin King|S
+Goblin Matron|S
+Goblin Mutant|S
+Goblin Offensive|S
+Goblin Recruiter|S
+Goblin Snowman|S
+Goblin Tinkerer|S
+Goblin Vandal|S
+Goblin Warrens|S
+Gorilla Chieftain|S
+Hurricane|S
+Hymn to Tourach|S
+Hypnotic Specter|S
+Icatian Javelineers|S
+Ihsan's Shade|S
+Infantry Veteran|S
+Jalum Tome|S
+Knight of Stromgald|S
+Lady Orca|S
+Lightning Bolt|S
+Llanowar Elves|S
+Mirri, Cat Warrior|S
+Mogg Fanatic|S
+Mogg Flunkies|S
+Mogg Raider|S
+Mountain|L
+Nevinyrral's Disk|S
+Order of the White Shield|S
+Overrun|S
+Pacifism|S
+Pegasus Charger|S
+Pegasus Stampede|S
+Pendelhaven|S
+Plains|L
+Polluted Mire|S
+Pyrokinesis|S
+Pyrotechnics|S
+Raging Goblin|S
+Ranger en-Vec|S
+Sacred Mesa|S
+Samite Healer|S
+Scavenger Folk|S
+Serra Angel|S
+Serrated Arrows|S
+Slippery Karst|S
+Smoldering Crater|S
+Spectral Bears|S
+Strip Mine|S
+Swamp|L
+Swords to Plowshares|S
+Terror|S
+Unholy Strength|S
+Uthden Troll|S
+Volcanic Dragon|S
+Warrior's Honor|S
+White Knight|S
+Woolly Spider|S
+Youthful Knight|S

@@ -1,0 +1,70 @@
+Aether Membrane|U
+Angelic Shield|U
+Anger|U
+Armillary Sphere|C
+Augury Owl|C
+Azorius Chancery|C
+Bloodfire Colossus|R
+Bloodfire Kavu|U
+Cache Raiders|U
+Chartooth Cougar|C
+Clone|R
+Coral Fighters|U
+Cosi's Ravager|C
+Cryptic Annelid|U
+Downhill Charge|C
+Earth Servant|U
+Fiery Hellhound|C
+Flood Plain|U
+Galepowder Mage|R
+Geyser Glider|U
+Greater Stone Spirit|U
+Island|L
+Jaws of Stone|U
+Jedit's Dragoons|C
+Journeyer's Kite|R
+Kor Cartographer|C
+Koth of the Hammer|M
+Lithophage|R
+Minamo Sightbender|U
+Mistmeadow Witch|U
+Mountain|L
+Neurok Invisimancer|C
+New Benalia|U
+Oblivion Ring|U
+Overrule|C
+Path to Exile|U
+Pilgrim's Eye|C
+Plains|L
+Plated Geopede|C
+Preordain|C
+Primal Plasma|C
+Pygmy Pyrosaur|C
+Revoke Existence|C
+Safe Passage|C
+Sawtooth Loon|U
+Scroll Thief|C
+Searing Blaze|C
+Seismic Strike|C
+Sejiri Refuge|U
+Sigil of Sleep|C
+Sky Spirit|U
+Slith Strider|U
+Soaring Seacliff|C
+Sphinx of Uthuun|R
+Spire Barrage|C
+Steel of the Godhead|C
+Stone Giant|U
+Sunblast Angel|R
+Torchling|R
+Vanish into Memory|U
+Venser, the Sojourner|M
+Volley of Boulders|R
+Vulshok Battlegear|U
+Vulshok Berserker|C
+Vulshok Morningstar|U
+Vulshok Sorcerer|C
+Wall of Denial|U
+Wayfarer's Bauble|C
+Whitemane Lion|C
+Windreaver|R

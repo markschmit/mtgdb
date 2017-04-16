@@ -1,0 +1,165 @@
+Absolver Thrull|C
+Abyssal Nocturnus|R
+Aetherplasm|U
+Agent of Masks|U
+Angel of Despair|R
+Battering Wurm|U
+Beastmaster's Magemark|C
+Belfry Spirit|U
+Benediction of Moons|C
+Bioplasm|R
+Blind Hunter|C
+Bloodscale Prowler|C
+Borborygmos|R
+Burning-Tree Bloodscale|C
+Burning-Tree Shaman|R
+Castigate|C
+Caustic Rain|U
+Cerebral Vortex|R
+Conjurer's Ban|U
+Crash Landing|U
+Cremate|C
+Cry of Contrition|C
+Cryptwailing|U
+Crystal Seer|C
+Culling Sun|R
+Daggerclaw Imp|U
+Debtors' Knell|R
+Djinn Illuminatus|R
+Douse in Gloom|C
+Droning Bureaucrats|U
+Drowned Rusalka|U
+Dryad Sophisticate|U
+Dune-Brood Nephilim|R
+Earth Surge|R
+Electrolyze|U
+Exhumer Thrull|U
+Fencer's Magemark|C
+Feral Animist|U
+Frazzle|U
+Gatherer of Graces|U
+Gelectrode|U
+Ghor-Clan Bloodscale|U
+Ghor-Clan Savage|C
+Ghost Council of Orzhova|R
+Ghost Warden|C
+Ghostway|R
+Giant Solifuge|R
+Gigadrowse|C
+Glint-Eye Nephilim|R
+Goblin Flectomancer|U
+Godless Shrine|R
+Graven Dominator|R
+Gristleback|U
+Gruul Guildmage|U
+Gruul Nodorog|C
+Gruul Scrapper|C
+Gruul Signet|C
+Gruul Turf|C
+Gruul War Plow|R
+Guardian's Magemark|C
+Harrier Griffin|U
+Hatching Plans|R
+Hissing Miasma|U
+Hypervolt Grasp|U
+Infiltrator's Magemark|C
+Ink-Treader Nephilim|R
+Invoke the Firemind|R
+Izzet Boilerworks|C
+Izzet Chronarch|C
+Izzet Guildmage|U
+Izzet Signet|C
+Killer Instinct|R
+Leap of Flame|C
+Leyline of Lifeforce|R
+Leyline of Lightning|R
+Leyline of Singularity|R
+Leyline of the Meek|R
+Leyline of the Void|R
+Lionheart Maverick|C
+Living Inferno|R
+Martyred Rusalka|U
+Mimeofacture|R
+Mizzium Transreliquat|R
+Moratorium Stone|R
+Mortify|U
+Mourning Thrull|C
+Necromancer's Magemark|C
+Niv-Mizzet, the Firemind|R
+Nivix, Aerie of the Firemind|U
+Ogre Savant|C
+Order of the Stars|U
+Orzhov Basilica|C
+Orzhov Euthanist|C
+Orzhov Guildmage|U
+Orzhov Pontiff|R
+Orzhov Signet|C
+Orzhova, the Church of Deals|U
+Ostiary Thrull|C
+Parallectric Feedback|R
+Petrahydrox|C
+Petrified Wood-Kin|R
+Pillory of the Sleepless|C
+Plagued Rusalka|U
+Poisonbelly Ogre|C
+Predatory Focus|U
+Primeval Light|U
+Pyromatics|C
+Quicken|R
+Rabble-Rouser|U
+Repeal|C
+Restless Bones|C
+Revenant Patriarch|U
+Rumbling Slum|R
+Runeboggle|C
+Sanguine Praetor|R
+Savage Twister|U
+Scab-Clan Mauler|C
+Schismotivate|U
+Scorched Rusalka|U
+Seize the Soul|R
+Shadow Lance|U
+Shattering Spree|U
+Shrieking Grotesque|C
+Siege of Towers|R
+Silhana Ledgewalker|C
+Silhana Starfletcher|C
+Sinstriker's Will|U
+Skarrg, the Rage Pits|U
+Skarrgan Firebird|R
+Skarrgan Pit-Skulk|C
+Skarrgan Skybreaker|U
+Skeletal Vampire|R
+Sky Swallower|R
+Skyrider Trainee|C
+Smogsteed Rider|U
+Souls of the Faultless|U
+Spelltithe Enforcer|R
+Starved Rusalka|U
+Steam Vents|R
+Steamcore Weird|C
+Stitch in Time|R
+Stomping Ground|R
+Storm Herd|R
+Stratozeppelid|U
+Streetbreaker Wurm|C
+Sword of the Paruns|R
+Teysa, Orzhov Scion|R
+Thunderheads|U
+Tibor and Lumia|R
+Tin Street Hooligan|C
+To Arms!|U
+Torch Drake|C
+Train of Thought|C
+Ulasht, the Hate Seed|R
+Vacuumelt|U
+Vedalken Plotter|U
+Vertigo Spawn|U
+Wee Dragonauts|C
+Wild Cantor|C
+Wildsize|C
+Witch-Maw Nephilim|R
+Withstand|C
+Wreak Havoc|U
+Wurmweaver Coil|R
+Yore-Tiller Nephilim|R

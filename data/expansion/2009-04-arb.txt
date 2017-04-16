@@ -1,0 +1,145 @@
+Anathemancer|U
+Architects of Will|C
+Ardent Plea|U
+Arsenal Thresher|C
+Aven Mimeomancer|R
+Bant Sojourners|C
+Bant Sureblade|C
+Behemoth Sledge|U
+Bituminous Blast|U
+Blitz Hellion|R
+Bloodbraid Elf|U
+Brainbite|C
+Breath of Malfegor|C
+Captured Sunlight|C
+Cerodon Yearling|C
+Cloven Casting|R
+Colossal Might|C
+Crystallization|C
+Dauntless Escort|R
+Deadshot Minotaur|C
+Deathbringer Thoctar|R
+Defiler of Souls|M
+Demonic Dread|C
+Demonspine Whip|U
+Deny Reality|C
+Double Negative|U
+Dragon Appeasement|U
+Dragon Broodmother|M
+Drastic Revelation|U
+Enigma Sphinx|R
+Enlisted Wurm|U
+Esper Sojourners|C
+Esper Stormblade|C
+Ethercaste Knight|C
+Etherium Abomination|C
+Ethersworn Shieldmage|C
+Etherwrought Page|U
+Fieldmist Borderpost|C
+Fight to the Death|R
+Filigree Angel|R
+Finest Hour|R
+Firewild Borderpost|C
+Flurry of Wings|U
+Giant Ambush Beetle|U
+Glassdust Hulk|C
+Glory of Warfare|R
+Gloryscale Viashino|U
+Godtracker of Jund|C
+Gorger Wurm|C
+Grixis Grimblade|C
+Grixis Sojourners|C
+Grizzled Leotau|C
+Identity Crisis|R
+Igneous Pouncer|C
+Illusory Demon|U
+Intimidation Bolt|U
+Jenara, Asura of War|M
+Jhessian Zombies|C
+Jund Hackblade|C
+Jund Sojourners|C
+Karrthus, Tyrant of Jund|M
+Kathari Bomber|C
+Kathari Remnant|U
+Knight of New Alara|R
+Knotvine Paladin|R
+Lavalanche|R
+Leonin Armorguard|C
+Lich Lord of Unx|R
+Lightning Reaver|R
+Lord of Extinction|M
+Lorescale Coatl|U
+Madrush Cyclops|R
+Maelstrom Nexus|M
+Maelstrom Pulse|R
+Mage Slayer|U
+Magefire Wings|C
+Marisi's Twinclaws|U
+Marrow Chomper|U
+Mask of Riddles|U
+Mayael's Aria|R
+Meddling Mage|R
+Messenger Falcons|U
+Mind Funeral|U
+Mistvein Borderpost|C
+Monstrous Carabid|C
+Morbid Bloom|U
+Mycoid Shepherd|R
+Naya Hushblade|C
+Naya Sojourners|C
+Necromancer's Covenant|R
+Nemesis of Reason|R
+Nulltread Gargantuan|U
+Offering to Asha|C
+Pale Recluse|C
+Predatory Advantage|R
+Putrid Leech|C
+Qasali Pridemage|C
+Reborn Hope|U
+Retaliator Griffin|R
+Rhox Brute|C
+Sages of the Anima|R
+Sanctum Plowbeast|C
+Sangrite Backlash|C
+Sanity Gnawers|U
+Sen Triplets|M
+Sewn-Eye Drake|C
+Shield of the Righteous|U
+Sigil Captain|U
+Sigil of the Nayan Gods|C
+Sigiled Behemoth|C
+Singe-Mind Ogre|C
+Skyclaw Thrash|U
+Slave of Bolas|U
+Soul Manipulation|C
+Soulquake|R
+Sovereigns of Lost Alara|R
+Spellbound Dragon|R
+Spellbreaker Behemoth|R
+Sphinx of the Steel Wind|M
+Stormcaller's Boon|C
+Stun Sniper|U
+Tainted Sigil|U
+Talon Trooper|C
+Terminate|C
+Thopter Foundry|U
+Thought Hemorrhage|R
+Thraximundar|M
+Time Sieve|R
+Trace of Abundance|C
+Unbender Tine|U
+Unscythe, Killer of Kings|R
+Uril, the Miststalker|M
+Valley Rannet|C
+Vectis Dominator|C
+Vedalken Ghoul|C
+Vedalken Heretic|R
+Veinfire Borderpost|C
+Vengeful Rebirth|U
+Violent Outburst|C
+Vithian Renegades|U
+Wall of Denial|U
+Wargate|R
+Wildfield Borderpost|C
+Winged Coatl|C
+Zealous Persecution|U

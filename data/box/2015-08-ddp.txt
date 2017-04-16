@@ -1,0 +1,70 @@
+Affa Guard Hound|U
+Akoum Refuge|U
+Artisan of Kozilek|U
+Avenger of Zendikar|M
+Beastbreaker of Bala Ged|U
+Bloodrite Invoker|C
+Bloodthrone Vampire|C
+Butcher of Malakir|R
+Cadaver Imp|C
+Caravan Escort|C
+Consume the Meek|R
+Corpsehatch|U
+Daggerback Basilisk|C
+Dominator Drone|C
+Eldrazi Spawn|C
+Eldrazi Temple|U
+Emrakul's Hatcher|C
+Evolving Wilds|C
+Explorer's Scope|C
+Forerunner of Slaughter|U
+Forest|L
+Forked Bolt|C
+Frontier Guide|U
+Graypelt Hunter|C
+Graypelt Refuge|U
+Grazing Gladehart|C
+Groundswell|C
+Harrow|C
+Heartstabber Mosquito|C
+Hellion|C
+Hellion Eruption|R
+Induce Despair|C
+It That Betrays|R
+Joraga Bard|C
+Kabira Vindicator|U
+Khalni Heart Expedition|C
+Knight of Cliffhaven|C
+Magmaw|R
+Makindi Griffin|C
+Marsh Casualties|U
+Mind Stone|U
+Mountain|L
+Oblivion Sower|M
+Ondu Giant|C
+Oust|U
+Pawn of Ulamog|U
+Plains|L
+Plant|C
+Primal Command|R
+Read the Bones|C
+Repel the Darkness|C
+Retreat to Kazandu|U
+Rocky Tar Pit|U
+Runed Servitor|U
+Scute Mob|R
+Seer's Sundial|R
+Sheer Drop|C
+Smother|U
+Stirring Wildwood|R
+Stonework Puma|C
+Swamp|L
+Tajuru Archer|U
+Territorial Baloth|C
+Torch Slinger|C
+Turntimber Basilisk|U
+Turntimber Grove|C
+Ulamog's Crusher|C
+Vampire Nighthawk|U
+Veteran Warleader|R
+Wildheart Invoker|C

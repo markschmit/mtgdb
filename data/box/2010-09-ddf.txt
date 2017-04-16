@@ -1,0 +1,73 @@
+Abolish|U
+Aether Spellbomb|C
+Angel of Salvation|R
+Arcbound Worker|C
+Argivian Restoration|U
+Assembly-Worker|U
+Blinding Beam|C
+Burrenton Bombardier|C
+Catapult Master|R
+Celestial Crusader|U
+Clockwork Condor|C
+Clockwork Hydra|U
+Conclave Equenaut|C
+Conclave Phalanx|U
+Contagion Clasp|U
+Crusade|R
+Darksteel Citadel|C
+Daru Encampment|U
+Echoing Truth|C
+Elite Vanguard|U
+Elixir of Immortality|U
+Elspeth, Knight-Errant|M
+Energy Chamber|U
+Esperzoa|U
+Everflowing Chalice|U
+Faerie Mechanist|C
+Foil|U
+Frogmite|C
+Glory Seeker|C
+Goldmeadow Harrier|C
+Infantry Veteran|C
+Island|L
+Journey to Nowhere|C
+Juggernaut|U
+Kabira Crossroads|C
+Kemba's Skyguard|C
+Kor Aeronaut|U
+Kor Hookmaster|C
+Kor Skyfisher|C
+Loyal Sentry|R
+Master of Etherium|R
+Mighty Leap|C
+Mishra's Factory|U
+Moonglove Extract|C
+Mosquito Guard|C
+Pentavus|R
+Plains|L
+Qumulox|U
+Raise the Alarm|C
+Razor Barrier|C
+Razormane Masticore|R
+Runed Servitor|U
+Rustic Clachan|R
+Saltblast|U
+Seasoned Marshal|U
+Seat of the Synod|C
+Serrated Biskelion|U
+Silver Myr|C
+Stalking Stones|U
+Steel Overseer|R
+Steel Wall|C
+Stormfront Riders|U
+Sunlance|C
+Swell of Courage|U
+Swords to Plowshares|U
+Synod Centurion|U
+Temple Acolyte|C
+Tezzeret the Seeker|M
+Thirst for Knowledge|U
+Thoughtcast|C
+Trinket Mage|C
+Trip Noose|U
+Triskelion|R

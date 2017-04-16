@@ -1,0 +1,234 @@
+Acidic Slime|U
+Acolyte of Xathrid|C
+Act of Treason|U
+Air Elemental|U
+Ajani Goldmane|M
+Alluring Siren|U
+Angel's Feather|U
+Angel's Mercy|C
+Ant Queen|R
+Armored Ascension|U
+Assassinate|C
+Awakener Druid|U
+Ball Lightning|R
+Baneslayer Angel|M
+Berserkers of Blood Ridge|C
+Birds of Paradise|R
+Black Knight|U
+Blinding Mage|C
+Bog Wraith|U
+Bogardan Hellkite|M
+Borderland Ranger|C
+Bountiful Harvest|C
+Bramble Creeper|C
+Burning Inquiry|C
+Burst of Speed|C
+Cancel|C
+Canyon Minotaur|C
+Capricious Efreet|R
+Captain of the Watch|R
+Celestial Purge|U
+Cemetery Reaper|R
+Centaur Courser|C
+Chandra Nalaar|M
+Child of Night|C
+Clone|R
+Coat of Arms|R
+Consume Spirit|U
+Convincing Mirage|C
+Coral Merfolk|C
+Craw Wurm|C
+Cudgel Troll|U
+Darksteel Colossus|M
+Deadly Recluse|C
+Deathmark|U
+Demon's Horn|U
+Diabolic Tutor|U
+Disentomb|C
+Disorient|C
+Divination|C
+Divine Verdict|C
+Djinn of Wishes|R
+Doom Blade|C
+Dragon Whelp|U
+Dragon's Claw|U
+Dragonskull Summit|R
+Dread Warlock|C
+Drowned Catacomb|R
+Drudge Skeletons|C
+Duress|C
+Earthquake|R
+Elite Vanguard|U
+Elvish Archdruid|R
+Elvish Piper|R
+Elvish Visionary|C
+Emerald Oryx|C
+Enormous Baloth|U
+Entangling Vines|C
+Essence Scatter|C
+Excommunicate|C
+Fabricate|U
+Fiery Hellhound|C
+Fireball|U
+Firebreathing|C
+Flashfreeze|U
+Fog|C
+Forest|L
+Gargoyle Castle|R
+Garruk Wildspeaker|M
+Giant Growth|C
+Giant Spider|C
+Glacial Fortress|R
+Glorious Charge|C
+Goblin Artillery|U
+Goblin Chieftain|R
+Goblin Piker|C
+Gorgon Flail|U
+Gravedigger|C
+Great Sable Stag|R
+Griffin Sentinel|C
+Guardian Seraph|R
+Harm's Way|U
+Haunting Echoes|R
+Hive Mind|R
+Holy Strength|C
+Honor of the Pure|R
+Horned Turtle|C
+Howl of the Night Pack|U
+Howling Banshee|U
+Howling Mine|R
+Hypnotic Specter|R
+Ice Cage|C
+Ignite Disorder|U
+Illusionary Servant|C
+Indestructibility|R
+Inferno Elemental|U
+Island|L
+Jace Beleren|M
+Jackal Familiar|C
+Jump|C
+Kalonian Behemoth|R
+Kelinore Bat|C
+Kindled Fury|C
+Kraken's Eye|U
+Lava Axe|C
+Levitation|U
+Lifelink|C
+Lightning Bolt|C
+Lightning Elemental|C
+Lightwielder Paladin|R
+Liliana Vess|M
+Llanowar Elves|C
+Looming Shade|C
+Lurking Predators|R
+Magebane Armor|R
+Magma Phoenix|R
+Manabarbs|R
+Master of the Wild Hunt|M
+Megrim|U
+Merfolk Looter|C
+Merfolk Sovereign|R
+Mesa Enchantress|R
+Might of Oaks|R
+Mind Control|U
+Mind Rot|C
+Mind Shatter|R
+Mind Spring|R
+Mirror of Fate|R
+Mist Leopard|C
+Mold Adder|U
+Mountain|L
+Naturalize|C
+Nature's Spiral|U
+Negate|C
+Nightmare|R
+Oakenform|C
+Open the Vaults|R
+Ornithopter|U
+Overrun|U
+Pacifism|C
+Palace Guard|C
+Panic Attack|C
+Phantom Warrior|U
+Pithing Needle|R
+Plains|L
+Planar Cleansing|R
+Platinum Angel|M
+Polymorph|R
+Ponder|C
+Prized Unicorn|U
+Prodigal Pyromancer|U
+Protean Hydra|M
+Pyroclasm|U
+Raging Goblin|C
+Rampant Growth|C
+Razorfoot Griffin|C
+Regenerate|C
+Relentless Rats|U
+Rhox Pikemaster|U
+Righteousness|U
+Rise from the Grave|U
+Rod of Ruin|U
+Rootbound Crag|R
+Royal Assassin|R
+Runeclaw Bear|C
+Safe Passage|C
+Sage Owl|C
+Sanguine Bond|R
+Seismic Strike|C
+Serpent of the Endless Sea|C
+Serra Angel|U
+Shatter|C
+Shivan Dragon|R
+Siege Mastodon|C
+Siege-Gang Commander|R
+Sign in Blood|C
+Silence|R
+Silvercoat Lion|C
+Sleep|U
+Snapping Drake|C
+Solemn Offering|C
+Soul Bleed|C
+Soul Warden|C
+Sparkmage Apprentice|C
+Spellbook|U
+Sphinx Ambassador|M
+Stampeding Rhino|C
+Stone Giant|U
+Stormfront Pegasus|C
+Sunpetal Grove|R
+Swamp|L
+Telepathy|U
+Tempest of Light|U
+Tendrils of Corruption|C
+Terramorphic Expanse|C
+Time Warp|M
+Tome Scour|C
+Traumatize|R
+Trumpet Blast|C
+Twincast|R
+Undead Slayer|U
+Underworld Dreams|R
+Unholy Strength|C
+Unsummon|C
+Vampire Aristocrat|C
+Vampire Nocturnus|M
+Veteran Armorsmith|C
+Veteran Swordsmith|C
+Viashino Spearhunter|C
+Wall of Bone|U
+Wall of Faith|C
+Wall of Fire|U
+Wall of Frost|U
+Warp World|R
+Warpath Ghoul|C
+Weakness|C
+Whispersilk Cloak|U
+White Knight|U
+Wind Drake|C
+Windstorm|U
+Wurm's Tooth|U
+Xathrid Demon|M
+Yawning Fissure|C
+Zephyr Sprite|C
+Zombie Goliath|C

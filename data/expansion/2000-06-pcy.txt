@@ -1,0 +1,143 @@
+Abolish|U
+Agent of Shauku|C
+Alexi's Cloak|C
+Alexi, Zephyr Mage|R
+Aura Fracture|C
+Avatar of Fury|R
+Avatar of Hope|R
+Avatar of Might|R
+Avatar of Will|R
+Avatar of Woe|R
+Barbed Field|U
+Blessed Wind|R
+Bog Elemental|R
+Bog Glider|C
+Branded Brawlers|C
+Brutal Suppression|U
+Calming Verse|C
+Celestial Convergence|R
+Chilling Apparition|U
+Chimeric Idol|U
+Citadel of Pain|U
+Coastal Hornclaw|C
+Coffin Puppets|R
+Copper-Leaf Angel|R
+Darba|U
+Death Charmer|C
+Denying Wind|R
+Despoil|C
+Devastate|C
+Diving Griffin|C
+Dual Nature|R
+Elephant Resurgence|R
+Endbringer's Revel|U
+Entangler|U
+Excavation|U
+Excise|C
+Fault Riders|C
+Fen Stalker|C
+Fickle Efreet|R
+Flameshot|U
+Flay|C
+Flowering Field|U
+Foil|U
+Forgotten Harvest|R
+Glittering Lion|U
+Glittering Lynx|C
+Greel's Caress|C
+Greel, Mind Raker|R
+Gulf Squid|C
+Hazy Homunculus|C
+Heightened Awareness|R
+Hollow Warrior|U
+Infernal Genesis|R
+Inflame|C
+Jeweled Spirit|R
+Jolrael's Favor|C
+Jolrael, Empress of Beasts|R
+Keldon Arsonist|U
+Keldon Battlewagon|R
+Keldon Berserker|C
+Keldon Firebombers|R
+Latulla's Orders|C
+Latulla, Keldon Overseer|R
+Lesser Gargadon|U
+Living Terrain|U
+Mageta the Lion|R
+Mageta's Boon|C
+Mana Vapors|U
+Marsh Boa|C
+Mercenary Informer|R
+Mine Bearer|C
+Mirror Strike|U
+Mungha Wurm|R
+Nakaya Shade|U
+Noxious Field|U
+Outbreak|U
+Overburden|R
+Panic Attack|C
+Pit Raptor|U
+Plague Fiend|C
+Plague Wind|R
+Psychic Theft|R
+Pygmy Razorback|C
+Quicksilver Wall|U
+Rebel Informer|R
+Rethink|C
+Reveille Squad|U
+Rhystic Cave|U
+Rhystic Circle|C
+Rhystic Deluge|C
+Rhystic Lightning|C
+Rhystic Scrying|U
+Rhystic Shield|C
+Rhystic Study|C
+Rhystic Syphon|U
+Rhystic Tutor|R
+Rib Cage Spider|C
+Ribbon Snake|C
+Ridgeline Rager|C
+Root Cage|U
+Samite Sanctuary|R
+Scoria Cat|U
+Search for Survivors|R
+Searing Wind|R
+Sheltering Prayers|R
+Shield Dancer|U
+Shrouded Serpent|R
+Silt Crawler|C
+Snag|U
+Soul Charmer|C
+Soul Strings|C
+Spiketail Drake|U
+Spiketail Hatchling|C
+Spitting Spider|U
+Spore Frog|C
+Spur Grappler|C
+Squirrel Wrangler|R
+Steal Strength|C
+Stormwatch Eagle|C
+Sunken Field|U
+Sword Dancer|U
+Task Mage Assembly|R
+Thresher Beast|C
+Thrive|C
+Trenching Steed|C
+Troubled Healer|C
+Troublesome Spirit|R
+Verdant Field|U
+Veteran Brawlers|R
+Vintara Elephant|C
+Vintara Snapper|U
+Vitalizing Wind|R
+Wall of Vipers|U
+Well of Discovery|R
+Well of Life|U
+Whip Sergeant|U
+Whipstitched Zombie|C
+Wild Might|C
+Windscouter|U
+Wing Storm|U
+Wintermoon Mesa|R
+Withdraw|C
+Zerapa Minotaur|C

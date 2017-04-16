@@ -1,0 +1,234 @@
+Abundant Growth|C
+Aggravate|U
+Alchemist's Apprentice|C
+Alchemist's Refuge|R
+Amass the Components|C
+Angel of Glory's Rise|R
+Angel of Jubilation|R
+Angel's Mercy|C
+Angel's Tomb|U
+Angelic Armaments|U
+Angelic Wall|C
+Appetite for Brains|U
+Arcane Melee|R
+Archangel|U
+Archwing Dragon|R
+Avacyn, Angel of Hope|M
+Banishing Stroke|U
+Banners Raised|C
+Barter in Blood|U
+Battle Hymn|C
+Bladed Bracers|C
+Blessings of Nature|U
+Blood Artist|U
+Bloodflow Connoisseur|C
+Bone Splinters|C
+Bonfire of the Damned|M
+Borderland Ranger|C
+Bower Passage|U
+Bruna, Light of Alabaster|M
+Builder's Blessing|U
+Burn at the Stake|R
+Butcher Ghoul|C
+Call to Serve|C
+Captain of the Mists|R
+Cathars' Crusade|R
+Cathedral Sanctifier|C
+Cavern of Souls|R
+Champion of Lambholt|R
+Cloudshift|C
+Commander's Authority|U
+Conjurer's Closet|R
+Corpse Traders|U
+Craterhoof Behemoth|M
+Crippling Chill|C
+Crypt Creeper|C
+Cursebreak|C
+Dangerous Wager|C
+Dark Impostor|R
+Deadeye Navigator|R
+Death Wind|C
+Defang|C
+Defy Death|U
+Demolish|C
+Demonic Rising|R
+Demonic Taskmaster|U
+Demonlord of Ashmouth|R
+Descendants' Path|R
+Descent into Madness|M
+Desolate Lighthouse|R
+Devastation Tide|R
+Devout Chaplain|U
+Diregraf Escort|C
+Divine Deflection|R
+Dread Slaver|R
+Dreadwaters|C
+Driver of the Dead|C
+Druid's Familiar|U
+Druids' Repository|R
+Dual Casting|R
+Eaten by Spiders|U
+Elgaud Shieldmate|C
+Emancipation Angel|U
+Entreat the Angels|M
+Essence Harvest|C
+Evernight Shade|U
+Exquisite Blood|R
+Falkenrath Exterminator|U
+Farbog Explorer|C
+Favorable Winds|U
+Fervent Cathar|C
+Fettergeist|U
+Fleeting Distraction|C
+Flowering Lumberknot|C
+Forest|L
+Gallows at Willow Hill|R
+Galvanic Alchemist|C
+Gang of Devils|U
+Geist Snatch|C
+Geist Trappers|C
+Ghostform|C
+Ghostly Flicker|C
+Ghostly Touch|U
+Ghoulflesh|C
+Gisela, Blade of Goldnight|M
+Gloom Surgeon|R
+Gloomwidow|U
+Goldnight Commander|U
+Goldnight Redeemer|U
+Grave Exchange|C
+Griselbrand|M
+Grounded|C
+Gryff Vanguard|C
+Guise of Fire|C
+Hanweir Lancer|C
+Harvester of Souls|R
+Haunted Guardian|U
+Havengul Skaab|C
+Havengul Vampire|U
+Heirs of Stromkirk|C
+Herald of War|R
+Holy Justiciar|U
+Homicidal Seclusion|U
+Hound of Griselbrand|R
+Howlgeist|U
+Human Frailty|U
+Hunted Ghoul|C
+Infinite Reflection|R
+Into the Void|U
+Island|L
+Joint Assault|C
+Kessig Malcontents|U
+Killing Wave|R
+Kruin Striker|C
+Lair Delve|C
+Latch Seeker|U
+Leap of Faith|C
+Lightning Mauler|U
+Lightning Prowess|U
+Lone Revenant|R
+Lunar Mystic|R
+Maalfeld Twins|U
+Mad Prophet|C
+Malicious Intent|C
+Malignus|M
+Marrow Bats|U
+Mass Appeal|U
+Mental Agony|C
+Midnight Duelist|C
+Midvast Protector|C
+Mist Raven|C
+Misthollow Griffin|M
+Moonlight Geist|C
+Moonsilver Spear|R
+Moorland Inquisitor|C
+Mountain|L
+Narstad Scrapper|C
+Natural End|C
+Nearheath Pilgrim|U
+Necrobite|C
+Nephalia Smuggler|U
+Nettle Swine|C
+Nightshade Peddler|C
+Otherworld Atlas|R
+Outwit|C
+Pathbreaker Wurm|C
+Peel from Reality|C
+Pillar of Flame|C
+Plains|L
+Polluted Dead|C
+Predator's Gambit|C
+Primal Surge|M
+Raging Poltergeist|C
+Rain of Thorns|U
+Reforge the Soul|R
+Renegade Demon|C
+Restoration Angel|R
+Revenge of the Hunted|R
+Riders of Gavony|R
+Righteous Blow|C
+Riot Ringleader|C
+Rite of Ruin|R
+Rotcrown Ghoul|C
+Rush of Blood|U
+Scalding Devil|C
+Scrapskin Drake|C
+Scroll of Avacyn|C
+Scroll of Griselbrand|C
+Searchlight Geist|C
+Second Guess|U
+Seraph of Dawn|C
+Seraph Sanctuary|C
+Sheltering Word|C
+Sigarda, Host of Herons|M
+Silverblade Paladin|R
+Slayers' Stronghold|R
+Snare the Skies|C
+Somberwald Sage|R
+Somberwald Vigilante|C
+Soul of the Harvest|R
+Soulcage Fiend|C
+Spectral Gateguards|C
+Spectral Prison|C
+Spirit Away|R
+Stern Mentor|U
+Stolen Goods|R
+Stonewright|U
+Swamp|L
+Tamiyo, the Moon Sage|M
+Tandem Lookout|U
+Temporal Mastery|M
+Terminus|R
+Terrifying Presence|C
+Thatcher Revolt|C
+Thraben Valiant|C
+Thunderbolt|C
+Thunderous Wrath|U
+Tibalt, the Fiend-Blooded|M
+Timberland Guide|C
+Tormentor's Trident|U
+Treacherous Pit-Dweller|R
+Triumph of Cruelty|U
+Triumph of Ferocity|U
+Trusted Forcemage|C
+Tyrant of Discord|R
+Ulvenwald Tracker|R
+Uncanny Speed|C
+Undead Executioner|C
+Unhallowed Pact|C
+Vanguard's Shield|C
+Vanishment|U
+Vessel of Endless Rest|U
+Vexing Devil|R
+Vigilante Justice|U
+Voice of the Provinces|C
+Vorstclaw|U
+Wandering Wolf|C
+Wild Defiance|R
+Wildwood Geist|C
+Wingcrafter|C
+Wolfir Avenger|U
+Wolfir Silverheart|R
+Yew Spirit|U
+Zealous Conscripts|R
+Zealous Strike|C

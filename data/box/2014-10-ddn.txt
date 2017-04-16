@@ -1,0 +1,71 @@
+Act of Treason|C
+Aquamorph Entity|C
+Arc Trail|U
+Arcanis the Omnipotent|M
+Arrow Volley Trap|U
+Banefire|R
+Beetleback Chief|U
+Bone Splinters|C
+Coral Trickster|C
+Dauntless Onslaught|U
+Dregscape Zombie|C
+Echo Tracer|C
+Evolving Wilds|C
+Faerie Impostor|U
+Faerie Invaders|C
+Fathom Seer|C
+Fiery Fall|C
+Flame-Kin Zealot|U
+Fleeting Distraction|C
+Fleshbag Marauder|U
+Frenzied Goblin|U
+Fury of the Horde|R
+Ghitu Encampment|U
+Goblin Bombardment|U
+Goblin Deathraiders|C
+Goblin Warchief|U
+Hell's Thunder|R
+Hellraiser Goblin|U
+Hold the Line|R
+Hussar Patrol|C
+Impulse|C
+Infantry Veteran|C
+Inferno Trap|U
+Island|L
+Jeskai Elder|U
+Kathari Bomber|C
+Kor Hookmaster|C
+Krenko's Command|C
+Krenko, Mob Boss|R
+Leonin Snarecaster|C
+Lightning Angel|R
+Lightning Helix|U
+Lone Missionary|C
+Mana Leak|C
+Mardu Heart-Piercer|U
+Master Decoy|C
+Mountain|L
+Mystic Monastery|U
+Nomad Outpost|U
+Ogre Battledriver|R
+Oni of Wild Places|U
+Orcish Cannonade|C
+Plains|L
+Reckless Abandon|C
+Repeal|C
+Scourge Devil|U
+Shambling Remains|U
+Shock|C
+Sparkmage Apprentice|C
+Sphinx of Uthuun|R
+Stave Off|C
+Steam Augury|R
+Stonecloaker|U
+Swamp|L
+Swift Justice|C
+Terramorphic Expanse|C
+Thousand Winds|R
+Traumatic Visions|C
+Whiplash Trap|C
+Willbender|U
+Zurgo Helmsmasher|M

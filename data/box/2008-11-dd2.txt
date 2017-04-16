@@ -1,0 +1,56 @@
+Aethersnipe|C
+Air Elemental|U
+Ancestral Vision|R
+Bottle Gnomes|U
+Brine Elemental|U
+Chandra Nalaar|M
+Chartooth Cougar|C
+Condescend|C
+Cone of Flame|U
+Counterspell|C
+Daze|C
+Demonfire|R
+Errant Ephemeron|C
+Fact or Fiction|U
+Fathom Seer|C
+Fireball|U
+Fireblast|C
+Firebolt|C
+Fireslinger|C
+Flame Javelin|U
+Flamekin Brawler|C
+Flametongue Kavu|U
+Flamewave Invoker|U
+Fledgling Mawcor|U
+Furnace Whelp|U
+Guile|R
+Gush|C
+Hostility|R
+Incinerate|C
+Ingot Chewer|C
+Inner-Flame Acolyte|C
+Island|L
+Jace Beleren|M
+Keldon Megaliths|U
+Magma Jet|U
+Man-o'-War|C
+Martyr of Frost|C
+Mind Stone|U
+Mountain|L
+Mulldrifter|C
+Ophidian|C
+Oxidda Golem|C
+Pyre Charger|U
+Quicksilver Dragon|R
+Rakdos Pit Dragon|R
+Repulse|C
+Riftwing Cloudskate|U
+Seal of Fire|C
+Slith Firewalker|U
+Soulbright Flamekin|C
+Spire Golem|C
+Terrain Generator|U
+Voidmage Apprentice|C
+Wall of Deceit|U
+Waterspout Djinn|U
+Willbender|U

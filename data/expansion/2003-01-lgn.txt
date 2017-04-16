@@ -1,0 +1,145 @@
+Akroma's Devoted|U
+Akroma, Angel of Wrath|R
+Aphetto Exterminator|U
+Aven Envoy|C
+Aven Redeemer|C
+Aven Warhawk|U
+Bane of the Living|R
+Beacon of Destiny|R
+Berserk Murlodont|C
+Blade Sliver|U
+Blood Celebrant|C
+Bloodstoke Howler|C
+Branchsnap Lorian|U
+Brontotherium|U
+Brood Sliver|R
+Caller of the Claw|R
+Canopy Crawler|U
+Celestial Gatekeeper|R
+Cephalid Pathmage|C
+Chromeshell Crab|R
+Clickslither|R
+Cloudreach Cavalry|U
+Corpse Harvester|U
+Covert Operative|C
+Crested Craghorn|C
+Crookclaw Elder|U
+Crypt Sliver|C
+Dark Supplicant|U
+Daru Mender|U
+Daru Sanctifier|C
+Daru Stinger|C
+Deathmark Prelate|U
+Defender of the Order|R
+Defiant Elf|C
+Deftblade Elite|C
+Dermoplasm|R
+Dreamborn Muse|R
+Drinker of Sorrow|R
+Dripping Dead|C
+Earthblighter|U
+Echo Tracer|C
+Elvish Soultiller|R
+Embalmed Brawler|C
+Enormous Baloth|U
+Essence Sliver|R
+Feral Throwback|R
+Flamewave Invoker|C
+Frenetic Raptor|U
+Fugitive Wizard|C
+Gempalm Avenger|C
+Gempalm Incinerator|U
+Gempalm Polluter|C
+Gempalm Sorcerer|U
+Gempalm Strider|U
+Ghastly Remains|R
+Glintwing Invoker|C
+Glowering Rogon|C
+Glowrider|R
+Goblin Assassin|U
+Goblin Clearcutter|U
+Goblin Dynamo|U
+Goblin Firebug|C
+Goblin Goon|R
+Goblin Grappler|C
+Goblin Lookout|C
+Goblin Turncoat|C
+Graveborn Muse|R
+Havoc Demon|R
+Hollow Specter|R
+Hundroog|C
+Hunter Sliver|C
+Imperial Hellkite|R
+Infernal Caretaker|C
+Keeneye Aven|C
+Keeper of the Nine Gales|R
+Kilnmouth Dragon|R
+Krosan Cloudscraper|R
+Krosan Vorine|C
+Lavaborn Muse|R
+Liege of the Axe|U
+Lowland Tracker|C
+Macetail Hystrodon|C
+Magma Sliver|R
+Master of the Veil|U
+Merchant of Secrets|C
+Mistform Seaswift|C
+Mistform Sliver|C
+Mistform Ultimus|R
+Mistform Wakecaster|U
+Nantuko Vigilante|C
+Needleshot Gourna|C
+Noxious Ghoul|U
+Patron of the Wild|C
+Phage the Untouchable|R
+Planar Guide|R
+Plated Sliver|C
+Primal Whisperer|R
+Primoc Escapee|U
+Quick Sliver|C
+Ridgetop Raptor|U
+Riptide Director|R
+Riptide Mangler|R
+Rockshard Elemental|R
+Root Sliver|U
+Scion of Darkness|R
+Seedborn Muse|R
+Shaleskin Plower|C
+Shifting Sliver|U
+Skinthinner|C
+Skirk Alarmist|R
+Skirk Drill Sergeant|U
+Skirk Marauder|C
+Skirk Outrider|C
+Smokespew Invoker|C
+Sootfeather Flock|C
+Spectral Sliver|U
+Starlight Invoker|C
+Stoic Champion|U
+Stonewood Invoker|C
+Sunstrike Legionnaire|R
+Swooping Talon|U
+Synapse Sliver|R
+Timberwatch Elf|C
+Totem Speaker|U
+Toxin Sliver|R
+Tribal Forcemage|R
+Unstable Hulk|R
+Vexing Beetle|R
+Vile Deacon|C
+Voidmage Apprentice|C
+Wall of Deceit|U
+Wall of Hope|C
+Warbreak Trumpeter|U
+Ward Sliver|U
+Warped Researcher|U
+Weaver of Lies|R
+Whipgrass Entangler|C
+White Knight|U
+Willbender|U
+Windborn Muse|R
+Wingbeat Warrior|C
+Wirewood Channeler|U
+Wirewood Hivemaster|U
+Withered Wretch|U
+Zombie Brute|U

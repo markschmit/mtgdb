@@ -1,0 +1,165 @@
+Aether Snap|R
+Aether Vial|U
+Ageless Entity|R
+Angel's Feather|U
+Arcane Spyglass|C
+Arcbound Bruiser|C
+Arcbound Crusher|U
+Arcbound Fiend|U
+Arcbound Hybrid|C
+Arcbound Lancer|U
+Arcbound Overseer|R
+Arcbound Ravager|R
+Arcbound Reclaimer|R
+Arcbound Slith|U
+Arcbound Stinger|C
+Arcbound Worker|C
+Auriok Glaivemaster|C
+Auriok Siege Sled|U
+Barbed Lightning|C
+Blinkmoth Nexus|R
+Burden of Greed|C
+Carry Away|U
+Chimeric Egg|U
+Chittering Rats|C
+Chromescale Drake|R
+Coretapper|U
+Crazed Goblin|C
+Darksteel Brute|U
+Darksteel Citadel|C
+Darksteel Colossus|R
+Darksteel Forge|R
+Darksteel Gargoyle|U
+Darksteel Ingot|C
+Darksteel Pendant|C
+Darksteel Reactor|R
+Death Cloud|R
+Death-Mask Duplicant|U
+Demon's Horn|U
+Dismantle|U
+Dragon's Claw|U
+Drill-Skimmer|C
+Drooling Ogre|C
+Dross Golem|C
+Eater of Days|R
+Echoing Calm|C
+Echoing Courage|C
+Echoing Decay|C
+Echoing Ruin|C
+Echoing Truth|C
+Emissary of Despair|U
+Emissary of Hope|U
+Essence Drain|C
+Fangren Firstborn|R
+Fireball|U
+Flamebreak|R
+Furnace Dragon|R
+Gemini Engine|R
+Genesis Chamber|U
+Geth's Grimoire|U
+Goblin Archaeologist|U
+Greater Harvester|R
+Grimclaw Bats|C
+Hallow|C
+Heartseeker|R
+Hoverguard Observer|U
+Hunger of the Nim|C
+Infested Roothold|U
+Inflame|C
+Juggernaut|U
+Karstoderm|U
+Kraken's Eye|U
+Krark-Clan Stoker|C
+Last Word|R
+Leonin Battlemage|U
+Leonin Bola|C
+Leonin Shikari|R
+Lich's Tomb|R
+Loxodon Mystic|C
+Machinate|C
+Magnetic Flux|C
+Memnarch|R
+Mephitic Ooze|R
+Metal Fatigue|C
+Mirrodin's Core|U
+Murderous Spoils|U
+Mycosynth Lattice|R
+Myr Landshaper|C
+Myr Matrix|R
+Myr Moonvessel|C
+Nemesis Mask|U
+Neurok Prodigy|C
+Neurok Transmuter|U
+Nim Abomination|U
+Nourish|C
+Oxidda Golem|C
+Oxidize|U
+Panoptic Mirror|R
+Pristine Angel|R
+Psychic Overload|U
+Pteron Ghost|C
+Pulse of the Dross|R
+Pulse of the Fields|R
+Pulse of the Forge|R
+Pulse of the Grid|R
+Pulse of the Tangle|R
+Purge|U
+Quicksilver Behemoth|C
+Razor Golem|C
+Reap and Sow|C
+Rebuking Ceremony|R
+Reshape|R
+Retract|R
+Ritual of Restoration|C
+Roaring Slagwurm|R
+Savage Beating|R
+Scavenging Scarab|C
+Screams from Within|U
+Scrounge|U
+Second Sight|U
+Serum Powder|R
+Shield of Kaldra|R
+Shriveling Rot|R
+Shunt|R
+Skullclamp|U
+Slobad, Goblin Tinkerer|R
+Soulscour|R
+Spawning Pit|U
+Specter's Shroud|U
+Spellbinder|R
+Spincrusher|U
+Spire Golem|C
+Stand Together|U
+Steelshaper Apprentice|R
+Stir the Pride|U
+Sundering Titan|R
+Surestrike Trident|U
+Sword of Fire and Ice|R
+Sword of Light and Shadow|R
+Synod Artificer|R
+Talon of Pain|U
+Tangle Golem|C
+Tangle Spider|C
+Tanglewalker|U
+Tears of Rage|U
+Tel-Jilad Outrider|C
+Tel-Jilad Wolf|C
+Test of Faith|U
+Thought Dissector|R
+Thunderstaff|U
+Trinisphere|R
+Turn the Tables|R
+Unforge|C
+Ur-Golem's Eye|C
+Vedalken Engineer|C
+Vex|C
+Viridian Acolyte|C
+Viridian Zealot|R
+Voltaic Construct|U
+Vulshok Morningstar|C
+Vulshok War Boar|U
+Wand of the Elements|R
+Well of Lost Dreams|R
+Whispersilk Cloak|C
+Wirefly Hive|U
+Wurm's Tooth|U

@@ -1,0 +1,119 @@
+Amnesia|R
+Angry Mob|R
+Apprentice Wizard|R
+Ashes to Ashes|C
+Ball Lightning|R
+Banshee|R
+Barl's Cage|R
+Blood Moon|R
+Blood of the Martyr|R
+Bog Imp|C
+Bog Rats|C
+Bone Flute|R
+Book of Rass|R
+Brainwash|C
+Brothers of Fire|R
+Carnivorous Plant|C
+Cave People|R
+City of Shadows|R
+Cleansing|R
+Coal Golem|R
+Curse Artifact|R
+Dance of Many|R
+Dark Heart of the Wood|C
+Dark Sphere|R
+Deep Water|C
+Diabolic Machine|R
+Drowned|C
+Dust to Dust|C
+Eater of the Dead|R
+Electric Eel|R
+Elves of Deep Shadow|R
+Erosion|C
+Eternal Flame|R
+Exorcist|R
+Fasting|R
+Fellwar Stone|R
+Festival|C
+Fire and Brimstone|R
+Fire Drake|R
+Fissure|C
+Flood|R
+Fountain of Youth|R
+Frankenstein's Monster|R
+Gaea's Touch|C
+Ghost Ship|C
+Giant Shark|C
+Goblin Caves|C
+Goblin Digging Team|C
+Goblin Hero|C
+Goblin Rock Sled|C
+Goblin Shrine|C
+Goblin Wizard|R
+Goblins of the Flarg|C
+Grave Robbers|R
+Hidden Path|R
+Holy Light|C
+Inferno|R
+Inquisition|C
+Knights of Thorn|R
+Land Leeches|C
+Leviathan|R
+Living Armor|R
+Lurker|R
+Mana Clash|R
+Mana Vortex|R
+Marsh Gas|C
+Marsh Goblins|C
+Marsh Viper|C
+Martyr's Cry|R
+Maze of Ith|U
+Merfolk Assassin|R
+Mind Bomb|R
+Miracle Worker|C
+Morale|C
+Murk Dwellers|C
+Nameless Race|R
+Necropolis|R
+Niall Silvain|R
+Orc General|R
+People of the Woods|R
+Pikemen|C
+Preacher|R
+Psychic Allergy|R
+Rag Man|R
+Reflecting Mirror|R
+Riptide|C
+Runesword|R
+Safe Haven|R
+Savaen Elves|C
+Scarecrow|R
+Scarwood Bandits|R
+Scarwood Goblins|C
+Scarwood Hag|R
+Scavenger Folk|C
+Season of the Witch|R
+Sisters of the Flame|R
+Skull of Orm|R
+Sorrow's Path|R
+Spitting Slug|R
+Squire|C
+Standing Stones|R
+Stone Calendar|R
+Sunken City|C
+Tangle Kelp|R
+The Fallen|R
+Tivadar's Crusade|R
+Tormod's Crypt|R
+Tower of Coireall|R
+Tracker|R
+Uncle Istvan|R
+Venom|C
+Wand of Ith|R
+War Barge|R
+Water Wurm|C
+Whippoorwill|R
+Witch Hunter|R
+Word of Binding|C
+Worms of the Earth|R
+Wormwood Treefolk|R

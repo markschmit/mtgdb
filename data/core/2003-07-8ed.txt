@@ -1,0 +1,335 @@
+Abyssal Specter|U
+Air Elemental|U
+Aladdin's Ring|R
+Ambition's Cost|U
+Anaba Shaman|C
+Angel of Mercy|U
+Angelic Page|C
+Archivist|R
+Ardent Militia|U
+Avatar of Hope|R
+Aven Cloudchaser|C
+Aven Fisher|C
+Aven Flock|C
+Balance of Power|R
+Balduvian Barbarians|C
+Beast of Burden|R
+Birds of Paradise|R
+Blanchwood Armor|U
+Blaze|U
+Blessed Reversal|R
+Blinding Angel|R
+Blood Moon|R
+Bloodshot Cyclops|R
+Bog Imp|C
+Bog Wraith|U
+Boil|U
+Boomerang|C
+Brass Herald|R
+Bribery|R
+Call of the Wild|R
+Canopy Spider|C
+Canyon Wildcat|C
+Carrion Wall|U
+Catalog|C
+Chastise|U
+Choke|U
+Cinder Wall|C
+Circle of Protection: Black|U
+Circle of Protection: Blue|U
+Circle of Protection: Green|U
+Circle of Protection: Red|U
+Circle of Protection: White|U
+City of Brass|R
+Coastal Hornclaw|C
+Coastal Piracy|R
+Coastal Tower|U
+Coat of Arms|R
+Coercion|C
+Collective Unconscious|R
+Concentrate|U
+Confiscate|U
+Coral Eel|C
+Cowardice|R
+Craw Wurm|C
+Creeping Mold|U
+Crossbow Infantry|C
+Crystal Rod|U
+Curiosity|U
+Daring Apprentice|R
+Dark Banishing|C
+Death Pit Offering|R
+Death Pits of Rath|R
+Deathgazer|U
+Deepwood Ghoul|C
+Defense Grid|R
+Deflection|R
+Dehydration|C
+Demolish|U
+Demystify|C
+Diabolic Tutor|U
+Dingus Egg|R
+Disrupting Scepter|R
+Distorting Lens|R
+Diving Griffin|C
+Drudge Skeletons|C
+Dusk Imp|C
+Dwarven Demolition Team|U
+Eastern Paladin|R
+Elfhame Palace|U
+Elite Archers|R
+Elite Javelineer|U
+Elvish Champion|R
+Elvish Lyrist|U
+Elvish Pioneer|C
+Elvish Piper|R
+Elvish Scrapper|U
+Emperor Crocodile|R
+Enrage|U
+Ensnaring Bridge|R
+Evacuation|R
+Execute|U
+Fallen Angel|R
+Fear|C
+Fecundity|U
+Fertile Ground|C
+Fighting Drake|U
+Flash Counter|C
+Flashfires|U
+Fleeting Image|R
+Flight|C
+Flying Carpet|R
+Fodder Cannon|U
+Foratog|U
+Forest|L
+Fugitive Wizard|C
+Fungusaur|R
+Furnace of Rath|R
+Fyndhorn Elder|U
+Gaea's Herald|R
+Giant Badger|C
+Giant Cockroach|C
+Giant Growth|C
+Giant Spider|C
+Glorious Anthem|R
+Glory Seeker|C
+Gluttonous Zombie|U
+Goblin Chariot|C
+Goblin Glider|U
+Goblin King|R
+Goblin Raider|C
+Grave Pact|R
+Gravedigger|C
+Grizzly Bears|C
+Guerrilla Tactics|U
+Hammer of Bogardan|R
+Healing Salve|C
+Hibernation|U
+Hill Giant|C
+Holy Day|C
+Holy Strength|C
+Honor Guard|C
+Horned Troll|C
+Horned Turtle|C
+Howling Mine|R
+Hulking Cyclops|U
+Hunted Wumpus|U
+Index|C
+Inferno|R
+Inspiration|C
+Intrepid Hero|R
+Intruder Alarm|R
+Invisibility|U
+Iron Star|U
+Island|L
+Ivory Cup|U
+Ivory Mask|R
+Jayemdae Tome|R
+Karma|U
+Larceny|R
+Lava Axe|C
+Lava Hounds|R
+Lesser Gargadon|U
+Lhurgoyf|R
+Lightning Blast|U
+Lightning Elemental|C
+Living Terrain|U
+Llanowar Behemoth|U
+Lone Wolf|C
+Looming Shade|C
+Lord of the Undead|R
+Lure|U
+Maggot Carrier|C
+Mahamoti Djinn|R
+Mana Clash|R
+Mana Leak|C
+Maro|R
+Master Decoy|C
+Master Healer|R
+Megrim|U
+Merchant of Secrets|C
+Merchant Scroll|U
+Might of Oaks|R
+Millstone|R
+Mind Bend|R
+Mind Rot|C
+Mind Slash|U
+Mind Sludge|U
+Mogg Sentry|R
+Monstrous Growth|C
+Moss Monster|C
+Mountain|L
+Murderous Betrayal|R
+Nantuko Disciple|C
+Natural Affinity|R
+Naturalize|C
+Nausea|C
+Nekrataal|U
+Nightmare|R
+Noble Purpose|R
+Norwood Ranger|C
+Obliterate|R
+Ogre Taskmaster|U
+Okk|R
+Oracle's Attendants|R
+Orcish Artillery|U
+Orcish Spy|C
+Pacifism|C
+Panic Attack|C
+Patagia Golem|U
+Peach Garden Oath|U
+Persecute|R
+Phantom Warrior|U
+Phyrexian Arena|R
+Phyrexian Colossus|R
+Phyrexian Hulk|U
+Phyrexian Plaguelord|R
+Plague Beetle|C
+Plague Wind|R
+Plains|L
+Planar Portal|R
+Plow Under|R
+Primeval Force|R
+Primeval Shambler|U
+Puppeteer|U
+Pyroclasm|U
+Pyrotechnics|U
+Raging Goblin|C
+Rain of Blades|U
+Raise Dead|C
+Rampant Growth|C
+Ravenous Rats|C
+Razorfoot Griffin|C
+Redeem|C
+Reflexes|C
+Regeneration|C
+Relentless Assault|R
+Remove Soul|C
+Revive|U
+Rewind|U
+Rhox|R
+Ridgeline Rager|C
+Rod of Ruin|U
+Rolling Stones|R
+Royal Assassin|R
+Rukh Egg|R
+Rushwood Dryad|C
+Sabretooth Tiger|C
+Sacred Ground|R
+Sacred Nectar|C
+Sage of Lat-Nam|R
+Sage Owl|C
+Salt Marsh|U
+Samite Healer|C
+Sanctimony|U
+Savannah Lions|R
+Scathe Zombies|C
+Sea Monster|C
+Searing Wind|R
+Seasoned Marshal|U
+Seismic Assault|R
+Serpent Warrior|C
+Serra Angel|R
+Sever Soul|U
+Severed Legion|C
+Shatter|C
+Shifting Sky|R
+Shivan Dragon|R
+Shivan Oasis|U
+Shock|C
+Shock Troops|C
+Sizzle|C
+Skull of Orm|R
+Slay|U
+Sneaky Homunculus|C
+Solidarity|C
+Soul Feast|U
+Spellbook|U
+Spiketail Hatchling|U
+Spined Wurm|C
+Spineless Thug|C
+Spirit Link|U
+Spitting Spider|U
+Spreading Algae|U
+Standing Troops|C
+Star Compass|U
+Staunch Defenders|U
+Steal Artifact|U
+Stone Rain|C
+Storm Crow|C
+Story Circle|R
+Stream of Life|U
+Sudden Impact|U
+Suntail Hawk|C
+Sunweb|R
+Swamp|L
+Swarm of Rats|U
+Sword Dancer|U
+Teferi's Puzzle Box|R
+Telepathy|U
+Temporal Adept|R
+Thieves' Auction|R
+Thieving Magpie|U
+Thorn Elemental|R
+Throne of Bone|U
+Tidal Kraken|R
+Trade Routes|R
+Trained Armodon|C
+Treasure Trove|U
+Tremor|C
+Tundra Wolves|C
+Twiddle|C
+Two-Headed Dragon|R
+Underworld Dreams|R
+Unholy Strength|C
+Unsummon|C
+Urborg Volcano|U
+Urza's Armor|R
+Urza's Mine|U
+Urza's Power Plant|U
+Urza's Tower|U
+Vampiric Spirit|R
+Venerable Monk|C
+Verduran Enchantress|R
+Vernal Bloom|R
+Vexing Arcanix|R
+Viashino Sandstalker|U
+Vicious Hunger|C
+Vine Trellis|C
+Volcanic Hammer|C
+Wall of Air|U
+Wall of Spears|U
+Wall of Stone|U
+Wall of Swords|U
+Warped Devotion|R
+Western Paladin|R
+Wind Drake|C
+Wing Snare|U
+Wood Elves|C
+Wooden Sphere|U
+Worship|R
+Wrath of God|R
+Wrath of Marit Lage|U
+Yavimaya Enchantress|U
+Zombify|U
+Zur's Weirding|R

@@ -1,0 +1,327 @@
+Acidic Slime|U
+Act of Aggression|U
+Aetherize|U
+Aethersnatch|R
+Ajani's Chosen|R
+Altar's Reap|C
+Ambition's Cost|U
+Ancient Amphitheater|R
+Ancient Craving|R
+Angel of Serenity|M
+Anya, Merciless Angel|M
+Arachnogenesis|R
+Arbiter of Knollridge|R
+Arbor Colossus|R
+Arjun, the Shifting Flame|M
+Aura of Silence|U
+Awaken the Sky Tyrant|R
+Bane of Progress|R
+Banishing Light|U
+Banshee of the Dread Choir|U
+Barren Moor|C
+Barter in Blood|U
+Basalt Monolith|U
+Bastion Protector|R
+Beastmaster Ascension|R
+Bident of Thassa|R
+Biomantic Mastery|R
+Black Market|R
+Blade of Selves|R
+Blasted Landscape|U
+Blatant Thievery|R
+Blood Bairn|C
+Bloodspore Thrinax|R
+Blue Sun's Zenith|R
+Blustersquall|U
+Bonehoard|R
+Borderland Behemoth|R
+Boros Cluestone|C
+Boros Garrison|C
+Boros Guildgate|C
+Boros Signet|C
+Brainstorm|C
+Breath of Darigaaz|U
+Broodbirth Viper|U
+Burnished Hart|U
+Butcher of Malakir|R
+Cage of Hands|C
+Call the Skybreaker|R
+Caller of the Claw|R
+Caller of the Pack|U
+Celestial Ancient|R
+Celestial Archon|R
+Centaur Vinecrasher|R
+Chain Reaction|R
+Chameleon Colossus|R
+Champion of Stray Souls|M
+Charmbreaker Devils|R
+Cloudthresher|R
+Cobra Trap|U
+Coiling Oracle|C
+Cold-Eyed Selkie|R
+Coldsteel Heart|U
+Comet Storm|M
+Command Beacon|R
+Command Tower|C
+Corpse Augur|U
+Counterflux|R
+Crib Swap|U
+Crystal Chimes|U
+Curse of the Nightly Hunt|U
+Darksteel Ingot|U
+Dawn to Dusk|U
+Dawnbreak Reclaimer|R
+Dawnglare Invoker|C
+Daxos the Returned|M
+Daxos's Torment|R
+Day of the Dragons|R
+Deadly Tempest|R
+Death Grasp|R
+Desert Twister|U
+Desolation Giant|R
+Desperate Ravings|U
+Diabolic Servitude|U
+Dictate of Heliod|R
+Disaster Radius|R
+Dominate|U
+Doomwake Giant|R
+Dragon Mage|R
+Dread Summons|R
+Dreadbringer Lampads|C
+Dream Pillager|R
+Dreamstone Hedron|U
+Drifting Meadow|C
+Earthquake|R
+Eater of Hope|R
+Echoing Truth|C
+Eldrazi Monument|M
+Elvish Visionary|C
+Epic Experiment|M
+Eternal Witness|U
+Etherium-Horn Sorcerer|R
+Evolving Wilds|C
+Experiment One|U
+Extractor Demon|R
+Ezuri's Predation|R
+Ezuri, Claw of Progress|M
+Fact or Fiction|U
+Faith's Fetters|C
+Faithless Looting|C
+Fall of the Hammer|C
+Fallen Ideal|U
+Fate Unraveler|R
+Fellwar Stone|U
+Fiery Confluence|R
+Firemind's Foresight|R
+Forest|L
+Forgotten Ancient|R
+Forgotten Cave|C
+Fumiko the Lowblood|R
+Ghost Quarter|U
+Ghostblade Eidolon|U
+Gigantoplasm|R
+Gild|R
+Gisela, Blade of Goldnight|M
+Goblin Electromancer|C
+Golgari Charm|U
+Golgari Guildgate|C
+Golgari Rot Farm|C
+Golgari Signet|C
+Grasp of Fate|R
+Grave Peril|C
+Great Oak Guardian|U
+Grim Backwoods|R
+Grisly Salvage|C
+Hamletback Goliath|R
+Hammerfist Giant|R
+Herald of the Host|U
+High Market|R
+Hostility|R
+Hunted Dragon|R
+Illusory Ambusher|U
+Indrik Stomphowler|U
+Inferno Titan|M
+Island|L
+Izzet Boilerworks|C
+Izzet Guildgate|C
+Izzet Signet|C
+Jace's Archivist|R
+Jarad, Golgari Lich Lord|M
+Jareth, Leonine Titan|R
+Jungle Hollow|C
+Kalemne's Captain|R
+Kalemne, Disciple of Iroas|M
+Karlov of the Ghost Council|M
+Karmic Justice|R
+Kaseto, Orochi Archmage|M
+Kessig Cagebreakers|R
+Kodama's Reach|C
+Kor Sanctifiers|C
+Korozda Guildmage|U
+Krosan Grip|U
+Lightning Greaves|U
+Llanowar Reborn|U
+Loaming Shaman|R
+Lone Revenant|R
+Lorescale Coatl|U
+Lotleth Troll|R
+Loxodon Warhammer|R
+Magma Giant|R
+Magmaquake|R
+Magus of the Wheel|R
+Marshal's Anthem|R
+Mazirek, Kraul Death Priest|M
+Melek, Izzet Paragon|R
+Meren of Clan Nel Toth|M
+Mesa Enchantress|R
+Meteor Blast|U
+Mind Stone|U
+Mirror Match|U
+Mizzium Mortars|R
+Mizzix of the Izmagnus|M
+Mizzix's Mastery|R
+Monk Idealist|U
+Mosswort Bridge|R
+Mountain|L
+Mulch|C
+Mulldrifter|U
+Mycoloth|R
+Mystic Confluence|R
+Mystic Retrieval|U
+Mystic Snake|R
+Necromancer's Covenant|R
+New Benalia|U
+Nighthowler|R
+Ninja of the Deep Hours|C
+Noble Quarry|U
+Novijen, Heart of Progress|U
+Ohran Viper|R
+Open the Vaults|R
+Oran-Rief, the Vastwood|R
+Oreskos Explorer|U
+Orim's Thunder|C
+Orochi Hatchery|R
+Orzhov Basilica|C
+Orzhov Cluestone|C
+Orzhov Guildgate|C
+Orzhov Signet|C
+Overrun|U
+Overwhelming Stampede|R
+Patagia Viper|U
+Pathbreaker Ibex|R
+Phyrexian Arena|R
+Phyrexian Plaguelord|R
+Phyrexian Rager|C
+Phyrexian Reclamation|U
+Plains|L
+Plaxmanta|U
+Polluted Mire|C
+Preordain|C
+Primal Growth|C
+Prime Speaker Zegana|M
+Prophetic Bolt|R
+Psychosis Crawler|R
+Putrefy|U
+Rampant Growth|C
+Rapid Hybridization|U
+Reins of Power|R
+Reliquary Tower|U
+Repeal|C
+Righteous Confluence|R
+Rise from the Grave|U
+Rite of Replication|R
+Rite of the Raging Storm|U
+Rogue's Passage|U
+Sakura-Tribe Elder|C
+Sandstone Oracle|U
+Satyr Wayfinder|C
+Scoured Barrens|C
+Scourge of Nel Toth|R
+Scytheclaw|R
+Seal of Cleansing|C
+Seal of Doom|C
+Seal of the Guildpact|R
+Secluded Steppe|C
+Seer's Sundial|R
+Sever the Bloodline|R
+Shielded by Faith|R
+Shriekmaw|U
+Sigil of the Empty Throne|R
+Silent Sentinel|R
+Simic Growth Chamber|C
+Simic Guildgate|C
+Simic Keyrune|U
+Simic Signet|C
+Skullclamp|U
+Skullwinder|U
+Sleep|U
+Slippery Karst|C
+Smoldering Crater|C
+Snakeform|C
+Sol Ring|U
+Solemn Simulacrum|R
+Spider Spawning|U
+Spinerock Knoll|R
+Staff of Nin|R
+Steam Augury|R
+Stingerfling Spider|U
+Stinkdrinker Daredevil|C
+Stolen Goods|R
+Stoneshock Giant|U
+Stroke of Genius|R
+Sun Titan|M
+Sunrise Sovereign|R
+Swamp|L
+Swiftfoot Boots|U
+Swiftwater Cliffs|C
+Sword of Vengeance|R
+Synthetic Destiny|R
+Tainted Field|U
+Tainted Wood|U
+Talrand, Sky Summoner|R
+Taurean Mauler|R
+Temple of the False God|U
+Terastodon|R
+Terramorphic Expanse|C
+Teysa, Envoy of Ghosts|R
+Thelonite Hermit|R
+Thief of Blood|U
+Thornwood Falls|C
+Thought Reflection|R
+Thought Vessel|C
+Thundercloud Shaman|U
+Treasury Thrull|R
+Tribute to the Wild|U
+Trygon Predator|U
+Underworld Coinsmith|U
+Underworld Connections|R
+Urza's Incubator|R
+Urza's Rage|R
+Vandalblast|U
+Verdant Confluence|R
+Verdant Force|R
+Victimize|U
+Victory's Herald|R
+Viridian Emissary|C
+Viridian Shaman|U
+Viridian Zealot|R
+Vivid Crag|U
+Vivid Creek|U
+Vivid Grove|U
+Vivid Marsh|U
+Vivid Meadow|U
+Vow of Duty|U
+Vow of Malice|U
+Vulturous Zombie|R
+Wall of Blossoms|U
+Warchief Giant|U
+Warstorm Surge|R
+Wayfarer's Bauble|C
+Wind-Scarred Crag|C
+Windfall|U
+Wistful Selkie|U
+Wood Elves|C
+Word of Seizing|R
+Worn Powerstone|U
+Wretched Confluence|R
+Zoetic Cavern|U

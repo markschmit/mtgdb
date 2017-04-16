@@ -1,0 +1,143 @@
+Academy Rector|R
+Aether Sting|U
+Ancient Silverback|R
+Apprentice Necromancer|R
+Archery Training|U
+Attrition|R
+Aura Thief|R
+Blizzard Elemental|R
+Bloodshot Cyclops|R
+Body Snatcher|R
+Braidwood Cup|U
+Braidwood Sextant|U
+Brass Secretary|U
+Brine Seer|U
+Bubbling Beebles|C
+Bubbling Muck|C
+Caltrops|U
+Capashen Knight|C
+Capashen Standard|C
+Capashen Templar|C
+Carnival of Souls|R
+Chime of Night|C
+Cinder Seer|U
+Colos Yearling|C
+Compost|U
+Covetous Dragon|R
+Disappear|U
+Disease Carriers|C
+Donate|R
+Dying Wail|C
+Elvish Lookout|C
+Elvish Piper|R
+Emperor Crocodile|R
+Encroach|U
+Eradicate|U
+Extruder|U
+False Prophet|R
+Fatigue|C
+Fend Off|C
+Festering Wound|U
+Field Surgeon|C
+Flame Jet|C
+Fledgling Osprey|C
+Flicker|R
+Fodder Cannon|U
+Gamekeeper|U
+Goblin Berserker|U
+Goblin Festival|R
+Goblin Gardener|C
+Goblin Marshal|R
+Goblin Masons|C
+Goliath Beetle|C
+Heart Warden|C
+Hulking Ogre|C
+Hunting Moa|U
+Illuminated Wings|C
+Impatience|R
+Incendiary|U
+Iridescent Drake|U
+Ivy Seer|U
+Jasmine Seer|U
+Junk Diver|R
+Keldon Champion|U
+Keldon Vandals|C
+Kingfisher|C
+Landslide|U
+Lurking Jackals|U
+Magnify|C
+Mantis Engine|U
+Mark of Fury|C
+Marker Beetles|C
+Mask of Law and Grace|C
+Master Healer|R
+Masticore|R
+Mental Discipline|C
+Metalworker|R
+Metathran Elite|U
+Metathran Soldier|C
+Momentum|U
+Multani's Decree|C
+Nightshade Seer|U
+Opalescence|R
+Opposition|R
+Pattern of Rebirth|R
+Phyrexian Monitor|C
+Phyrexian Negator|R
+Plague Dogs|U
+Plated Spider|C
+Plow Under|R
+Powder Keg|R
+Private Research|U
+Quash|U
+Rapid Decay|R
+Ravenous Rats|C
+Rayne, Academy Chancellor|R
+Reckless Abandon|C
+Reliquary Monk|C
+Repercussion|R
+Replenish|R
+Rescue|C
+Rofellos's Gift|C
+Rofellos, Llanowar Emissary|R
+Sanctimony|U
+Scent of Brine|C
+Scent of Cinder|C
+Scent of Ivy|C
+Scent of Jasmine|C
+Scent of Nightshade|C
+Scour|U
+Scrying Glass|R
+Serra Advocate|U
+Sigil of Sleep|C
+Skittering Horror|C
+Slinking Skirge|C
+Solidarity|C
+Soul Feast|U
+Sowing Salt|U
+Splinter|U
+Squirming Mass|C
+Storage Matrix|R
+Taunting Elf|C
+Telepathic Spies|C
+Temporal Adept|R
+Tethered Griffin|R
+Thieving Magpie|U
+Thorn Elemental|R
+Thran Dynamo|U
+Thran Foundry|U
+Thran Golem|R
+Tormented Angel|C
+Treachery|R
+Trumpet Blast|C
+Twisted Experiment|C
+Urza's Incubator|R
+Voice of Duty|U
+Voice of Reason|U
+Wake of Destruction|R
+Wall of Glare|C
+Wild Colos|C
+Yavimaya Elder|C
+Yavimaya Enchantress|U
+Yavimaya Hollow|R
+Yawgmoth's Bargain|R

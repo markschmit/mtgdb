@@ -1,0 +1,291 @@
+Aether Spellbomb|C
+Alpha Myr|C
+Altar of Shadows|R
+Altar's Light|U
+Ancient Den|C
+Annul|C
+Arc-Slogger|R
+Arrest|C
+Assert Authority|U
+Atog|U
+Auriok Bladewarden|U
+Auriok Steelshaper|R
+Auriok Transfixer|C
+Awe Strike|C
+Banshee's Blade|U
+Barter in Blood|U
+Battlegrowth|C
+Betrayal of Flesh|U
+Blinding Beam|C
+Blinkmoth Urn|R
+Blinkmoth Well|U
+Bloodscent|U
+Bonesplitter|C
+Bosh, Iron Golem|R
+Bottle Gnomes|U
+Broodstar|R
+Brown Ouphe|U
+Cathodion|U
+Chalice of the Void|R
+Chimney Imp|C
+Chromatic Sphere|C
+Chrome Mox|R
+Clockwork Beetle|C
+Clockwork Condor|C
+Clockwork Dragon|R
+Clockwork Vorrac|U
+Cloudpost|C
+Cobalt Golem|C
+Confusion in the Ranks|R
+Consume Spirit|C
+Contaminated Bond|C
+Copper Myr|C
+Copperhoof Vorrac|R
+Creeping Mold|U
+Crystal Shard|U
+Culling Scales|R
+Damping Matrix|R
+Dead-Iron Sledge|U
+Deconstruct|C
+Detonate|U
+Disarm|C
+Disciple of the Vault|C
+Domineer|U
+Dragon Blood|U
+Dream's Grip|C
+Dross Harvester|R
+Dross Prowler|C
+Dross Scorpion|C
+Duplicant|R
+Duskworker|U
+Electrostatic Bolt|C
+Elf Replica|C
+Empyrial Plate|R
+Extraplanar Lens|R
+Fabricate|U
+Fangren Hunter|C
+Farsight Mask|U
+Fatespinner|R
+Fiery Gambit|R
+Fireshrieker|U
+Fists of the Anvil|C
+Flayed Nim|U
+Forest|L
+Forge Armor|U
+Fractured Loyalty|U
+Frogmite|C
+Galvanic Key|C
+Gate to the Aether|R
+Gilded Lotus|R
+Glimmervoid|R
+Glissa Sunseeker|R
+Goblin Charbelcher|R
+Goblin Dirigible|U
+Goblin Replica|C
+Goblin Striker|C
+Goblin War Wagon|C
+Gold Myr|C
+Golem-Skin Gauntlets|U
+Grab the Reins|U
+Granite Shard|U
+Great Furnace|C
+Grid Monitor|R
+Grim Reminder|R
+Groffskithur|C
+Heartwood Shard|U
+Hematite Golem|C
+Hum of the Radix|R
+Icy Manipulator|U
+Incite War|C
+Inertia Bubble|C
+Iron Myr|C
+Irradiate|C
+Island|L
+Isochron Scepter|U
+Jinxed Choker|R
+Journey of Discovery|C
+Krark's Thumb|R
+Krark-Clan Grunt|C
+Krark-Clan Shaman|C
+Leaden Myr|C
+Leonin Abunas|R
+Leonin Bladetrap|U
+Leonin Den-Guard|C
+Leonin Elder|C
+Leonin Scimitar|C
+Leonin Skyhunter|U
+Leonin Sun Standard|R
+Leveler|R
+Liar's Pendulum|R
+Lifespark Spellbomb|C
+Lightning Coils|R
+Lightning Greaves|U
+Living Hive|R
+Lodestone Myr|R
+Looming Hoverguard|U
+Loxodon Mender|C
+Loxodon Peacekeeper|R
+Loxodon Punisher|R
+Loxodon Warhammer|U
+Lumengrid Augur|R
+Lumengrid Sentinel|U
+Lumengrid Warden|C
+Luminous Angel|R
+Malachite Golem|C
+March of the Machines|R
+Mask of Memory|U
+Mass Hysteria|R
+Megatog|R
+Mesmeric Orb|R
+Mind's Eye|R
+Mindslaver|R
+Mindstorm Crown|U
+Mirror Golem|U
+Molder Slug|R
+Molten Rain|C
+Moriok Scavenger|C
+Mountain|L
+Mourner's Shield|U
+Myr Adapter|C
+Myr Enforcer|C
+Myr Incubator|R
+Myr Mindservant|U
+Myr Prototype|U
+Myr Retriever|U
+Necrogen Mists|R
+Necrogen Spellbomb|C
+Needlebug|U
+Neurok Familiar|C
+Neurok Hoversail|C
+Neurok Spy|C
+Nightmare Lash|R
+Nim Devourer|R
+Nim Lasher|C
+Nim Replica|C
+Nim Shambler|U
+Nim Shrieker|C
+Nuisance Engine|U
+Oblivion Stone|R
+Ogre Leadfoot|C
+Omega Myr|C
+One Dozen Eyes|U
+Ornithopter|U
+Override|C
+Pearl Shard|U
+Pentavus|R
+Pewter Golem|C
+Plains|L
+Plated Slagwurm|R
+Platinum Angel|R
+Power Conduit|U
+Predator's Strike|C
+Promise of Power|R
+Proteus Staff|R
+Psychic Membrane|U
+Psychogenic Probe|R
+Pyrite Spellbomb|C
+Quicksilver Elemental|R
+Quicksilver Fountain|R
+Raise the Alarm|C
+Razor Barrier|C
+Regress|C
+Reiver Demon|R
+Relic Bane|U
+Roar of the Kha|U
+Rule of Law|R
+Rust Elemental|U
+Rustmouth Ogre|U
+Rustspore Ram|U
+Scale of Chiss-Goria|C
+Scrabbling Claws|U
+Sculpting Steel|R
+Scythe of the Wretched|R
+Seat of the Synod|C
+Second Sunrise|R
+Seething Song|C
+Serum Tank|U
+Shared Fate|R
+Shatter|C
+Shrapnel Blast|U
+Silver Myr|C
+Skeleton Shard|U
+Skyhunter Cub|C
+Skyhunter Patrol|C
+Slagwurm Armor|C
+Slith Ascendant|U
+Slith Bloodletter|U
+Slith Firewalker|U
+Slith Predator|U
+Slith Strider|U
+Solar Tide|R
+Soldier Replica|C
+Solemn Simulacrum|R
+Somber Hoverguard|C
+Soul Foundry|R
+Soul Nova|U
+Spellweaver Helix|R
+Sphere of Purity|C
+Spikeshot Goblin|C
+Spoils of the Vault|R
+Stalking Stones|U
+Steel Wall|C
+Sun Droplet|U
+Sunbeam Spellbomb|C
+Swamp|L
+Sword of Kaldra|R
+Sylvan Scrying|U
+Synod Sanctum|U
+Taj-Nar Swordsmith|U
+Talisman of Dominance|U
+Talisman of Impulse|U
+Talisman of Indulgence|U
+Talisman of Progress|U
+Talisman of Unity|U
+Tanglebloom|C
+Tangleroot|R
+Tel-Jilad Archers|C
+Tel-Jilad Chosen|C
+Tel-Jilad Exile|C
+Tel-Jilad Stylus|U
+Tempest of Light|U
+Temporal Cascade|R
+Terror|C
+Thirst for Knowledge|U
+Thought Prison|U
+Thoughtcast|C
+Timesifter|R
+Titanium Golem|C
+Tooth and Nail|R
+Tooth of Chiss-Goria|C
+Tower of Champions|R
+Tower of Eons|R
+Tower of Fortunes|R
+Tower of Murmurs|R
+Trash for Treasure|R
+Tree of Tales|C
+Triskelion|R
+Troll Ascetic|R
+Trolls of Tel-Jilad|U
+Turn to Dust|C
+Vault of Whispers|C
+Vedalken Archmage|R
+Vermiculos|R
+Viridian Joiner|C
+Viridian Longbow|C
+Viridian Shaman|U
+Vorrac Battlehorns|C
+Vulshok Battlegear|U
+Vulshok Battlemaster|R
+Vulshok Berserker|C
+Vulshok Gauntlets|C
+Wail of the Nim|C
+Wall of Blood|U
+Wanderguard Sentry|C
+War Elemental|R
+Welding Jar|C
+Wizard Replica|C
+Woebearer|U
+Worldslayer|R
+Wrench Mind|C
+Wurmskin Forger|C
+Yotian Soldier|C

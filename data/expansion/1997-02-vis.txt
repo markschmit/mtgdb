@@ -1,0 +1,167 @@
+Aku Djinn|R
+Anvil of Bogardan|R
+Archangel|R
+Army Ants|U
+Betrayal|C
+Blanket of Night|U
+Bogardan Phoenix|R
+Brass-Talon Chimera|U
+Breathstealer's Crypt|R
+Breezekeeper|C
+Brood of Cockroaches|U
+Bull Elephant|C
+Chronatog|R
+City of Solitude|R
+Cloud Elemental|C
+Coercion|C
+Coral Atoll|U
+Corrosion|R
+Creeping Mold|U
+Crypt Rats|C
+Daraja Griffin|U
+Dark Privilege|C
+Death Watch|C
+Desertion|R
+Desolation|U
+Diamond Kaleidoscope|R
+Dormant Volcano|U
+Dragon Mask|U
+Dream Tides|U
+Dwarven Vigilantes|C
+Elephant Grass|U
+Elkin Lair|R
+Elven Cache|C
+Emerald Charm|C
+Equipoise|R
+Everglades|U
+Eye of Singularity|R
+Fallen Askari|C
+Femeref Enchantress|R
+Feral Instinct|C
+Fireblast|C
+Firestorm Hellkite|R
+Flooded Shoreline|R
+Forbidden Ritual|R
+Foreshadow|U
+Freewind Falcon|C
+Funeral Charm|C
+Giant Caterpillar|C
+Goblin Recruiter|U
+Goblin Swine-Rider|C
+Gossamer Chains|C
+Griffin Canyon|R
+Guiding Spirit|R
+Hearth Charm|C
+Heat Wave|U
+Helm of Awakening|U
+Honorable Passage|U
+Hope Charm|C
+Hulking Cyclops|U
+Impulse|C
+Infantry Veteran|C
+Infernal Harvest|C
+Inspiration|C
+Iron-Heart Chimera|U
+Jamuraan Lion|C
+Juju Bubble|U
+Jungle Basin|U
+Kaervek's Spite|R
+Karoo|U
+Katabatic Winds|R
+Keeper of Kookus|C
+King Cheetah|C
+Knight of the Mists|C
+Knight of Valor|C
+Kookus|R
+Kyscu Drake|U
+Lead-Belly Chimera|U
+Lichenthrope|R
+Lightning Cloud|R
+Longbow Archer|U
+Magma Mine|U
+Man-o'-War|C
+Matopi Golem|U
+Miraculous Recovery|U
+Mob Mentality|U
+Mortal Wound|C
+Mundungu|U
+Mystic Veil|C
+Natural Order|R
+Necromancy|U
+Necrosavant|R
+Nekrataal|U
+Ogre Enforcer|R
+Ovinomancer|U
+Panther Warriors|C
+Parapet|C
+Peace Talks|U
+Phyrexian Marauder|R
+Phyrexian Walker|C
+Pillar Tombs of Aku|R
+Prosperity|U
+Pygmy Hippo|R
+Python|C
+Quicksand|U
+Quirion Druid|R
+Quirion Ranger|C
+Raging Gorilla|C
+Rainbow Efreet|R
+Relentless Assault|R
+Relic Ward|U
+Remedy|C
+Resistance Fighter|C
+Retribution of the Meek|R
+Righteous Aura|C
+Righteous War|R
+River Boa|C
+Rock Slide|C
+Rowen|R
+Sands of Time|R
+Scalebane's Elite|U
+Shimmering Efreet|U
+Shrieking Drake|C
+Simoon|U
+Sisay's Ring|C
+Snake Basket|R
+Solfatara|C
+Song of Blood|C
+Spider Climb|C
+Spitting Drake|U
+Squandered Resources|R
+Stampeding Wildebeests|U
+Suleiman's Legacy|R
+Summer Bloom|U
+Sun Clasp|C
+Suq'Ata Assassin|U
+Suq'Ata Lancer|C
+Talruum Champion|C
+Talruum Piper|U
+Tar Pit Warrior|C
+Teferi's Honor Guard|U
+Teferi's Puzzle Box|R
+Teferi's Realm|R
+Tempest Drake|U
+Three Wishes|R
+Time and Tide|U
+Tin-Wing Chimera|U
+Tithe|R
+Tremor|C
+Triangle of War|R
+Uktabi Orangutan|U
+Undiscovered Paradise|R
+Undo|C
+Urborg Mindsucker|C
+Vampiric Tutor|R
+Vampirism|U
+Vanishing|C
+Viashino Sandstalker|U
+Viashivan Dragon|R
+Vision Charm|C
+Wake of Vultures|C
+Wand of Denial|R
+Warrior's Honor|C
+Warthog|C
+Waterspout Djinn|U
+Wicked Reward|C
+Wind Shear|U
+Zhalfirin Crusader|R

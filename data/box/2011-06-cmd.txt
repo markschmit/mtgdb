@@ -1,0 +1,305 @@
+Acidic Slime|U
+Acorn Catapult|R
+Aethersnipe|C
+Afterlife|U
+Akoum Refuge|U
+Akroma's Vengeance|R
+Akroma, Angel of Fury|R
+Alliance of Arms|R
+Angel of Despair|R
+Angelic Arbiter|R
+Anger|U
+Animar, Soul of Elements|M
+Aquastrand Spider|C
+Arbiter of Knollridge|R
+Archangel of Strife|R
+Armillary Sphere|C
+Artisan of Kozilek|U
+Attrition|R
+Aura Shards|U
+Austere Command|R
+Avatar of Fury|R
+Avatar of Slaughter|R
+Avatar of Woe|R
+Awakening Zone|R
+Azorius Chancery|C
+Azorius Guildmage|U
+Baloth Woodcrasher|U
+Barren Moor|C
+Basandra, Battle Seraph|R
+Bathe in Light|U
+Bestial Menace|U
+Bladewing the Risen|R
+Bojuka Bog|C
+Boros Garrison|C
+Boros Guildmage|U
+Boros Signet|C
+Brainstorm|C
+Brawn|U
+Breath of Darigaaz|U
+Brion Stoutarm|R
+Buried Alive|U
+Butcher of Malakir|R
+Call the Skybreaker|R
+Celestial Force|R
+Chain Reaction|R
+Champion's Helm|R
+Chaos Warp|R
+Chartooth Cougar|C
+Chorus of the Conclave|R
+Chromeshell Crab|R
+Cleansing Beam|U
+Cobra Trap|U
+Collective Voyage|R
+Colossal Might|C
+Comet Storm|M
+Command Tower|C
+Congregate|C
+Conundrum Sphinx|R
+Court Hussar|U
+Crescendo of War|R
+Cultivate|C
+Damia, Sage of Stone|M
+Dark Hatchling|R
+Darksteel Ingot|C
+Deadly Recluse|C
+Deadwood Treefolk|U
+Death by Dragons|U
+Death Mutation|U
+Desecrator Hag|C
+Diabolic Tutor|U
+Dimir Aqueduct|C
+Dimir Signet|C
+Disaster Radius|R
+Dominus of Fealty|R
+Doom Blade|C
+Dragon Whelp|U
+Dread Cacodemon|R
+Dreadship Reef|U
+Dreamborn Muse|R
+Dreamstone Hedron|U
+Duergar Hedge-Mage|U
+Earthquake|R
+Edric, Spymaster of Trest|R
+Electrolyze|U
+Elvish Aberration|U
+Eternal Witness|U
+Evincar's Justice|C
+Evolving Wilds|C
+Explosive Vegetation|U
+Extractor Demon|R
+Fact or Fiction|U
+Fallen Angel|R
+False Prophet|R
+Faultgrinder|C
+Fellwar Stone|U
+Fertilid|C
+Fierce Empath|C
+Fire (Fire/Ice)|U
+Firespout|U
+Fists of Ironwood|C
+Flametongue Kavu|U
+Fleshbag Marauder|U
+Flusterstorm|R
+Fog Bank|U
+Footbottom Feast|C
+Forest|L
+Forgotten Cave|C
+Fungal Reaches|U
+Furnace Whelp|U
+Garruk Wildspeaker|M
+Ghave, Guru of Spores|M
+Ghostly Prison|U
+Goblin Cadets|U
+Golgari Guildmage|U
+Golgari Rot Farm|C
+Golgari Signet|C
+Gomazoa|U
+Grave Pact|R
+Gravedigger|C
+Gruul Signet|C
+Gruul Turf|C
+Guard Gomazoa|U
+Gwyllion Hedge-Mage|U
+Harmonize|U
+Hex|R
+Homeward Path|R
+Hornet Queen|R
+Hour of Reckoning|R
+Howling Mine|R
+Hull Breach|C
+Hunting Pack|U
+Hydra Omnivore|R
+Ice (Fire/Ice)|U
+Insurrection|R
+Intet, the Dreamer|R
+Invigorate|C
+Island|L
+Izzet Boilerworks|C
+Izzet Chronarch|C
+Izzet Signet|C
+Jötun Grunt|U
+Journey to Nowhere|C
+Jwar Isle Refuge|U
+Kaalia of the Vast|M
+Karador, Ghost Chieftain|M
+Kazandu Refuge|U
+Kodama's Reach|C
+Krosan Tusker|C
+Lash Out|C
+Lhurgoyf|R
+Lightkeeper of Emeria|U
+Lightning Greaves|U
+Living Death|R
+Lonely Sandbar|C
+Magmatic Force|R
+Magus of the Vineyard|R
+Malfegor|M
+Mana-Charged Dragon|R
+Martyr's Bond|R
+Master Warcraft|R
+Memory Erosion|R
+Minds Aglow|R
+Molten Slagheap|U
+Monk Realist|C
+Mortify|U
+Mortivore|R
+Mother of Runes|U
+Mountain|L
+Mulldrifter|C
+Murmurs from Beyond|C
+Nantuko Husk|U
+Necrogenesis|U
+Nemesis Trap|U
+Nezumi Graverobber|U
+Nighteyes the Desecrator|U
+Nin, the Pain Artist|R
+Nucklavee|U
+Numot, the Devastator|R
+Oblation|R
+Oblivion Ring|C
+Oblivion Stone|R
+Oni of Wild Places|U
+Orim's Thunder|C
+Oros, the Avenger|R
+Orzhov Basilica|C
+Orzhov Guildmage|U
+Orzhov Signet|C
+Path to Exile|U
+Patron of the Nezumi|R
+Penumbra Spider|C
+Perilous Research|U
+Plains|L
+Plumeveil|U
+Pollen Lullaby|U
+Prison Term|U
+Propaganda|U
+Prophetic Bolt|R
+Prophetic Prism|C
+Punishing Fire|U
+Pyrohemia|U
+Rakdos Carnarium|C
+Rakdos Signet|C
+Rapacious One|U
+Ray of Command|C
+Razorjaw Oni|U
+Reins of Power|R
+Reiver Demon|R
+Relic Crush|C
+Repulse|C
+Return to Dust|U
+Riddlekeeper|R
+Righteous Cause|U
+Riku of Two Reflections|M
+Rise from the Grave|U
+Ruhan of the Fomori|M
+Ruination|R
+Rupture Spire|C
+Sakura-Tribe Elder|C
+Savage Twister|U
+Scattering Stroke|U
+Scavenging Ooze|R
+Scythe Specter|R
+Secluded Steppe|C
+Selesnya Evangel|C
+Selesnya Guildmage|U
+Selesnya Sanctuary|C
+Selesnya Signet|C
+Serra Angel|U
+Sewer Nemesis|R
+Shared Trauma|R
+Shattered Angel|U
+Shriekmaw|U
+Sigil Captain|U
+Sign in Blood|C
+Simic Growth Chamber|C
+Simic Signet|C
+Simic Sky Swallower|R
+Skullbriar, the Walking Grave|R
+Skullclamp|U
+Skyscribing|U
+Slipstream Eel|C
+Sol Ring|U
+Solemn Simulacrum|R
+Soul Snare|U
+Spawnwrithe|R
+Spell Crumple|U
+Spike Feeder|U
+Spitebellows|U
+Spurnmage Advocate|U
+Squallmonger|U
+Stitch Together|U
+Storm Herd|R
+Stranglehold|R
+Sulfurous Blast|U
+Svogthos, the Restless Tomb|U
+Swamp|L
+Symbiotic Wurm|R
+Syphon Flesh|U
+Syphon Mind|C
+Szadek, Lord of Secrets|R
+Tariel, Reckoner of Souls|M
+Temple of the False God|U
+Teneb, the Harvester|R
+Terminate|C
+Terramorphic Expanse|C
+The Mimeoplasm|M
+Trade Secrets|R
+Tranquil Thicket|C
+Trench Gorger|R
+Tribute to the Wild|U
+Triskelavus|R
+Troll Ascetic|R
+Unnerve|C
+Valley Rannet|C
+Vampire Nighthawk|U
+Vedalken Plotter|U
+Vengeful Rebirth|U
+Veteran Explorer|U
+Vish Kal, Blood Arbiter|R
+Vision Skeins|C
+Vivid Crag|U
+Vivid Creek|U
+Vivid Grove|U
+Vivid Marsh|U
+Vivid Meadow|U
+Voice of All|R
+Vorosh, the Hunter|R
+Vow of Duty|U
+Vow of Flight|U
+Vow of Lightning|U
+Vow of Malice|U
+Vow of Wildness|U
+Vulturous Zombie|R
+Wall of Denial|U
+Wall of Omens|U
+Whirlpool Whelm|C
+Wild Ricochet|R
+Windborn Muse|R
+Windfall|U
+Wonder|U
+Wrecking Ball|C
+Wrexial, the Risen Deep|M
+Yavimaya Elder|C
+Zedruu the Greathearted|M
+Zoetic Cavern|U

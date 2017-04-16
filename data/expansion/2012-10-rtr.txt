@@ -1,0 +1,254 @@
+Abrupt Decay|R
+Aerial Predation|C
+Angel of Serenity|M
+Annihilating Fire|C
+Aquus Steed|U
+Archon of the Triumvirate|R
+Archweaver|U
+Armada Wurm|M
+Armory Guard|C
+Arrest|U
+Ash Zealot|R
+Assassin's Strike|U
+Auger Spree|C
+Avenging Arrow|C
+Axebane Guardian|C
+Axebane Stag|C
+Azor's Elocutors|R
+Azorius Arrester|C
+Azorius Charm|U
+Azorius Guildgate|C
+Azorius Justiciar|U
+Azorius Keyrune|U
+Batterhorn|C
+Bazaar Krovod|U
+Bellows Lizard|C
+Blistercoil Weird|U
+Blood Crypt|R
+Bloodfray Giant|U
+Blustersquall|U
+Brushstrider|U
+Call of the Conclave|U
+Cancel|C
+Carnival Hellsteed|R
+Catacomb Slug|C
+Centaur Healer|C
+Centaur's Herald|C
+Chaos Imps|R
+Chemister's Trick|C
+Chorus of Might|C
+Chromatic Lantern|R
+Chronic Flooding|C
+Civic Saber|U
+Cobblebrute|C
+Codex Shredder|U
+Collective Blessing|R
+Common Bond|C
+Concordia Pegasus|C
+Conjured Currency|R
+Corpsejack Menace|R
+Counterflux|R
+Coursers' Accord|C
+Cremate|C
+Crosstown Courier|C
+Cryptborn Horror|R
+Cyclonic Rift|R
+Daggerdrome Imp|C
+Dark Revenant|U
+Dead Reveler|C
+Deadbridge Goliath|R
+Death's Presence|R
+Deathrite Shaman|R
+Desecration Demon|R
+Destroy the Evidence|C
+Detention Sphere|R
+Deviant Glee|C
+Dispel|C
+Doorkeeper|C
+Downsize|C
+Drainpipe Vermin|C
+Dramatic Rescue|C
+Dreadbore|R
+Dreg Mangler|U
+Drudge Beetle|C
+Druid's Deliverance|C
+Dryad Militant|U
+Dynacharge|C
+Electrickery|C
+Epic Experiment|M
+Essence Backlash|C
+Ethereal Armor|C
+Explosive Impact|C
+Eyes in the Skies|C
+Faerie Impostor|U
+Fall of the Gavel|U
+Fencing Ace|U
+Firemind's Foresight|R
+Forest|L
+Frostburn Weird|C
+Gatecreeper Vine|C
+Giant Growth|C
+Gobbling Ooze|U
+Goblin Electromancer|C
+Goblin Rally|U
+Golgari Charm|U
+Golgari Decoy|U
+Golgari Guildgate|C
+Golgari Keyrune|U
+Golgari Longlegs|C
+Gore-House Chainwalker|C
+Grave Betrayal|R
+Grim Roustabout|C
+Grisly Salvage|C
+Grove of the Guardian|R
+Growing Ranks|R
+Guild Feud|R
+Guttersnipe|U
+Hallowed Fountain|R
+Havoc Festival|R
+Hellhole Flailer|U
+Heroes' Reunion|U
+Horncaller's Chant|C
+Hover Barrier|U
+Hussar Patrol|C
+Hypersonic Dragon|R
+Inaction Injunction|C
+Inspiration|C
+Island|L
+Isperia's Skywatch|C
+Isperia, Supreme Judge|M
+Izzet Charm|U
+Izzet Guildgate|C
+Izzet Keyrune|U
+Izzet Staticaster|U
+Jace, Architect of Thought|M
+Jarad's Orders|R
+Jarad, Golgari Lich Lord|M
+Judge's Familiar|U
+Keening Apparition|C
+Knightly Valor|C
+Korozda Guildmage|U
+Korozda Monitor|C
+Launch Party|C
+Lobber Crew|C
+Lotleth Troll|R
+Loxodon Smiter|R
+Lyev Skyknight|U
+Mana Bloom|R
+Martial Law|R
+Mercurial Chemister|R
+Mind Rot|C
+Minotaur Aggressor|U
+Mizzium Mortars|R
+Mizzium Skin|C
+Mountain|L
+Necropolis Regent|M
+New Prahv Guildmage|U
+Niv-Mizzet, Dracogenius|M
+Nivix Guildmage|U
+Nivmagus Elemental|R
+Oak Street Innkeeper|U
+Ogre Jailbreaker|C
+Overgrown Tomb|R
+Pack Rat|R
+Palisade Giant|R
+Paralyzing Grasp|C
+Perilous Shadow|C
+Phantom General|U
+Pithing Needle|R
+Plains|L
+Precinct Captain|R
+Psychic Spiral|U
+Pursuit of Flight|C
+Pyroconvergence|U
+Racecourse Fury|U
+Rakdos Cackler|U
+Rakdos Charm|U
+Rakdos Guildgate|C
+Rakdos Keyrune|U
+Rakdos Ragemutt|U
+Rakdos Ringleader|U
+Rakdos Shred-Freak|C
+Rakdos's Return|M
+Rakdos, Lord of Riots|M
+Rest in Peace|R
+Righteous Authority|R
+Risen Sanctuary|U
+Rites of Reaping|U
+Rix Maadi Guildmage|U
+Rogue's Passage|U
+Rootborn Defenses|C
+Rubbleback Rhino|C
+Runewing|C
+Savage Surge|U
+Search the City|R
+Search Warrant|C
+Security Blockade|U
+Seek the Horizon|U
+Selesnya Charm|U
+Selesnya Guildgate|C
+Selesnya Keyrune|U
+Selesnya Sentry|C
+Seller of Songbirds|C
+Sewer Shambler|C
+Shrieking Affliction|U
+Skull Rend|C
+Skyline Predator|U
+Skymark Roc|U
+Slaughter Games|R
+Slime Molding|U
+Slitherhead|U
+Sluiceway Scorpion|C
+Slum Reaper|U
+Soul Tithe|U
+Soulsworn Spirit|U
+Spawn of Rix Maadi|C
+Sphere of Safety|U
+Sphinx of the Chimes|R
+Sphinx's Revelation|M
+Splatter Thug|C
+Stab Wound|C
+Stealer of Secrets|C
+Steam Vents|R
+Stonefare Crocodile|C
+Street Spasm|U
+Street Sweeper|U
+Sundering Growth|C
+Sunspire Griffin|C
+Supreme Verdict|R
+Survey the Wreckage|C
+Swamp|L
+Swift Justice|C
+Syncopate|U
+Tablet of the Guilds|U
+Tavern Swindler|U
+Teleportal|U
+Temple Garden|R
+Tenement Crasher|C
+Terrus Wurm|C
+Thoughtflare|U
+Thrill-Kill Assassin|U
+Tower Drake|C
+Towering Indrik|C
+Trained Caracal|C
+Traitorous Instinct|C
+Transguild Promenade|C
+Treasured Find|U
+Trestle Troll|C
+Trostani's Judgment|C
+Trostani, Selesnya's Voice|M
+Ultimate Price|U
+Underworld Connections|R
+Urban Burgeoning|C
+Utvara Hellkite|M
+Vandalblast|U
+Vassal Soul|C
+Viashino Racketeer|C
+Vitu-Ghazi Guildmage|U
+Voidwielder|C
+Volatile Rig|R
+Vraska the Unseen|M
+Wayfaring Temple|R
+Wild Beastmaster|R
+Worldspine Wurm|M
+Zanikev Locust|U

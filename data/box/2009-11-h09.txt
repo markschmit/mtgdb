@@ -1,0 +1,41 @@
+Acidic Sliver|U
+Amoeboid Changeling|C
+Ancient Ziggurat|U
+Aphetto Dredging|C
+Armor Sliver|U
+Barbed Sliver|U
+Brood Sliver|R
+Clot Sliver|C
+Coat of Arms|R
+Crystalline Sliver|U
+Distant Melody|C
+Forest|L
+Frenzy Sliver|C
+Fungus Sliver|R
+Fury Sliver|U
+Gemhide Sliver|C
+Heart Sliver|C
+Heartstone|U
+Hibernation Sliver|U
+Homing Sliver|C
+Island|L
+Metallic Sliver|C
+Might Sliver|U
+Mountain|L
+Muscle Sliver|C
+Necrotic Sliver|U
+Plains|L
+Quick Sliver|C
+Rootbound Crag|R
+Rupture Spire|C
+Sliver Overlord|M
+Spectral Sliver|U
+Spined Sliver|U
+Swamp|L
+Terramorphic Expanse|C
+Victual Sliver|U
+Virulent Sliver|C
+Vivid Creek|U
+Vivid Grove|U
+Wild Pair|R
+Winged Sliver|C

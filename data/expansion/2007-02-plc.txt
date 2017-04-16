@@ -1,0 +1,168 @@
+Aeon Chronicler|R
+Aether Membrane|U
+Akroma, Angel of Fury|R
+Ana Battlemage|U
+Aquamorph Entity|C
+Auramancer's Guise|U
+Aven Riftwatcher|C
+Battering Sliver|C
+Benalish Commander|R
+Big Game Hunter|U
+Blightspeaker|C
+Blood Knight|U
+Body Double|R
+Bog Serpent|C
+Boom (Boom/Bust)|R
+Braids, Conjurer Adept|R
+Brain Gorgers|C
+Brute Force|C
+Bust (Boom/Bust)|R
+Calciderm|U
+Cautery Sliver|U
+Chronozoa|R
+Circle of Affliction|U
+Citanul Woodreaders|C
+Cradle to Grave|C
+Crovax, Ascendant Hero|R
+Damnation|R
+Darkheart Sliver|U
+Dash Hopes|C
+Dawn Charm|C
+Dead (Dead/Gone)|C
+Deadly Grub|C
+Deadwood Treefolk|U
+Detritivore|R
+Dichotomancy|R
+Dismal Failure|U
+Dormant Sliver|U
+Dreamscape Artist|C
+Dunerider Outlaw|U
+Dust Corona|C
+Dust Elemental|R
+Enslave|U
+Erratic Mutation|C
+Essence Warden|C
+Evolution Charm|C
+Extirpate|R
+Fa'adiyah Seer|C
+Fatal Frenzy|R
+Firefright Mage|C
+Frenetic Sliver|U
+Frozen Aether|U
+Fungal Behemoth|R
+Fury Charm|C
+Gaea's Anthem|R
+Ghost Tactician|C
+Giant Dustwasp|C
+Gone (Dead/Gone)|C
+Gossamer Phantasm|C
+Groundbreaker|R
+Hammerheim Deadeye|U
+Harmonize|U
+Healing Leaves|C
+Hedge Troll|U
+Heroes Remembered|R
+Hunting Wilds|U
+Imp's Mischief|R
+Intet, the Dreamer|R
+Jedit Ojanen of Efrava|R
+Jodah's Avenger|U
+Kavu Predator|U
+Keen Sense|U
+Keldon Marauders|C
+Kor Dirge|U
+Lavacore Elemental|U
+Life and Limb|R
+Magus of the Arena|R
+Magus of the Bazaar|R
+Magus of the Coffers|R
+Magus of the Library|R
+Magus of the Tabernacle|R
+Malach of the Dawn|U
+Mana Tithe|C
+Mantle of Leadership|U
+Melancholy|C
+Merfolk Thaumaturgist|C
+Mesa Enchantress|R
+Midnight Charm|C
+Mire Boa|C
+Mirri the Cursed|R
+Molten Firebird|R
+Muck Drubb|U
+Mycologist|U
+Necrotic Sliver|U
+Needlepeak Spider|C
+Null Profusion|R
+Numot, the Devastator|R
+Oros, the Avenger|R
+Ovinize|U
+Pallid Mycoderm|C
+Phantasmagorian|U
+Piracy Charm|C
+Pongify|U
+Porphyry Nodes|R
+Poultice Sliver|C
+Pouncing Wurm|U
+Primal Plasma|C
+Prodigal Pyromancer|C
+Psychotrope Thallid|U
+Pyrohemia|U
+Radha, Heir to Keld|R
+Rathi Trapper|C
+Reality Acid|C
+Rebuff the Wicked|U
+Reckless Wurm|U
+Reflex Sliver|C
+Retether|R
+Revered Dead|C
+Ridged Kusite|C
+Riftmarked Knight|U
+Riptide Pilferer|U
+Roiling Horror|R
+Rough (Rough/Tumble)|U
+Saltblast|U
+Saltfield Recluse|C
+Seal of Primordium|C
+Serendib Sorcerer|R
+Serra Sphinx|R
+Serra's Boon|U
+Shade of Trokair|C
+Shaper Parasite|C
+Shivan Meteor|U
+Shivan Wumpus|R
+Shrouded Lore|U
+Simian Spirit Guide|C
+Sinew Sliver|C
+Skirk Shaman|C
+Sophic Centaur|U
+Spellshift|R
+Spitting Sliver|C
+Stingscourger|C
+Stonecloaker|U
+Stormfront Riders|U
+Sulfur Elemental|U
+Sunlance|C
+Synchronous Sliver|C
+Temporal Extortion|R
+Teneb, the Harvester|R
+Tidewalker|U
+Timbermare|R
+Timebender|U
+Timecrafting|U
+Torchling|R
+Treacherous Urge|U
+Tumble (Rough/Tumble)|U
+Uktabi Drake|C
+Urborg, Tomb of Yawgmoth|R
+Utopia Vow|C
+Vampiric Link|C
+Veiling Oddity|C
+Venarian Glimmer|U
+Vitaspore Thallid|C
+Voidstone Gargoyle|R
+Volcano Hellion|R
+Vorosh, the Hunter|R
+Waning Wurm|U
+Whitemane Lion|C
+Wild Pair|R
+Wistful Thinking|C

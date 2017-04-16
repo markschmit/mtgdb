@@ -1,0 +1,249 @@
+Act of Treason|C
+Adaptive Snapjaw|C
+Aerial Maneuver|C
+Aetherize|U
+Agoraphobia|U
+Alms Beast|R
+Alpha Authority|U
+Angelic Edict|C
+Angelic Skirmisher|R
+Armored Transport|C
+Arrows of Justice|U
+Assault Griffin|C
+Assemble the Legion|R
+Aurelia's Fury|M
+Aurelia, the Warleader|M
+Balustrade Spy|C
+Bane Alley Broker|U
+Basilica Guards|C
+Basilica Screecher|C
+Beckon Apparition|C
+Biomass Mutation|R
+Bioshift|C
+Biovisionary|R
+Blind Obedience|R
+Bomber Corps|C
+Borborygmos Enraged|M
+Boros Charm|U
+Boros Elite|U
+Boros Guildgate|C
+Boros Keyrune|U
+Boros Reckoner|R
+Breeding Pool|R
+Burning-Tree Emissary|U
+Burst of Strength|C
+Call of the Nightwing|U
+Cartel Aristocrat|U
+Cinder Elemental|U
+Clan Defiance|R
+Clinging Anemones|C
+Cloudfin Raptor|C
+Coerced Confession|U
+Consuming Aberration|R
+Contaminated Ground|C
+Corpse Blockade|C
+Court Street Denizen|C
+Crackling Perimeter|U
+Crocanura|C
+Crowned Ceratok|U
+Crypt Ghast|R
+Daring Skyjek|C
+Death's Approach|C
+Deathcult Rogue|C
+Deathpact Angel|M
+Debtor's Pulpit|U
+Devour Flesh|C
+Diluvian Primordial|R
+Dimir Charm|U
+Dimir Guildgate|C
+Dimir Keyrune|U
+Dinrova Horror|U
+Disciple of the Old Ways|C
+Domri Rade|M
+Drakewing Krasis|C
+Duskmantle Guildmage|U
+Duskmantle Seer|M
+Dutiful Thrull|C
+Dying Wish|U
+Elusive Krasis|U
+Ember Beast|C
+Enter the Infinite|M
+Executioner's Swing|C
+Experiment One|U
+Fathom Mage|R
+Firefist Striker|U
+Firemane Avenger|R
+Five-Alarm Fire|R
+Forced Adaptation|C
+Fortress Cyclops|U
+Foundry Champion|R
+Foundry Street Denizen|C
+Frenzied Tilling|U
+Frilled Oculus|C
+Frontline Medic|R
+Furious Resistance|C
+Gateway Shade|U
+Ghor-Clan Rampager|U
+Giant Adephage|M
+Gideon, Champion of Justice|M
+Gift of Orzhova|U
+Glaring Spotlight|R
+Godless Shrine|R
+Greenside Watcher|C
+Gridlock|U
+Grisly Spectacle|C
+Ground Assault|U
+Gruul Charm|U
+Gruul Guildgate|C
+Gruul Keyrune|U
+Gruul Ragebeast|R
+Guardian of the Gateless|U
+Guildscorn Ward|C
+Gutter Skulk|C
+Gyre Sage|R
+Hands of Binding|C
+Hellkite Tyrant|M
+Hellraiser Goblin|U
+High Priest of Penance|R
+Hindervines|U
+Hold the Gates|U
+Holy Mantle|U
+Homing Lightning|U
+Horror of the Dim|C
+Hydroform|C
+Illness in the Ranks|U
+Illusionist's Bracers|R
+Immortal Servitude|R
+Incursion Specialist|U
+Ivy Lane Denizen|C
+Keymaster Rogue|C
+Killing Glare|U
+Kingpin's Pet|C
+Knight of Obligation|U
+Knight Watch|C
+Last Thoughts|C
+Lazav, Dimir Mastermind|M
+Legion Loyalist|R
+Leyline Phantom|C
+Lord of the Void|M
+Luminate Primordial|R
+Madcap Skills|C
+Mark for Death|U
+Martial Glory|C
+Massive Raid|C
+Master Biomancer|M
+Mental Vapors|U
+Merciless Eviction|R
+Merfolk of the Depths|U
+Metropolis Sprite|C
+Midnight Recovery|C
+Millennial Gargoyle|C
+Miming Slime|U
+Mind Grind|R
+Mindeye Drake|U
+Molten Primordial|R
+Mortus Strider|C
+Mugging|C
+Murder Investigation|U
+Mystic Genesis|R
+Naturalize|C
+Nav Squad Commandos|C
+Nightveil Specter|R
+Nimbus Swimmer|U
+Obzedat, Ghost Council|M
+Ogre Slumlord|R
+One Thousand Lashes|U
+Ooze Flux|R
+Ordruun Veteran|U
+Orzhov Charm|U
+Orzhov Guildgate|C
+Orzhov Keyrune|U
+Paranoid Delusions|C
+Pit Fight|C
+Predator's Rapport|C
+Primal Visitation|C
+Prime Speaker Zegana|M
+Prophetic Prism|C
+Psychic Strike|C
+Purge the Profane|C
+Rapid Hybridization|U
+Razortip Whip|C
+Realmwright|R
+Righteous Charge|U
+Riot Gear|C
+Ripscale Predator|U
+Rubblebelt Raiders|R
+Rubblehulk|R
+Ruination Wurm|C
+Rust Scarab|U
+Sacred Foundry|R
+Sage's Row Denizen|C
+Sapphire Drake|U
+Scab-Clan Charger|C
+Scatter Arc|C
+Scorchwalker|C
+Sepulchral Primordial|R
+Serene Remembrance|U
+Shadow Alley Denizen|C
+Shadow Slice|C
+Shambleshark|C
+Shattering Blow|C
+Shielded Passage|C
+Signal the Clans|R
+Simic Charm|U
+Simic Fluxmage|U
+Simic Guildgate|C
+Simic Keyrune|U
+Simic Manipulator|R
+Skarrg Goliath|R
+Skarrg Guildmage|U
+Skinbrand Goblin|C
+Skullcrack|U
+Skyblinder Staff|C
+Skygames|C
+Skyknight Legionnaire|C
+Slate Street Ruffian|C
+Slaughterhorn|C
+Smite|C
+Smog Elemental|U
+Soul Ransom|R
+Spark Trooper|R
+Spell Rupture|C
+Spire Tracer|C
+Stolen Identity|R
+Stomping Ground|R
+Structural Collapse|C
+Sunhome Guildmage|U
+Sylvan Primordial|R
+Syndic of Tithes|C
+Syndicate Enforcer|C
+Thespian's Stage|R
+Thrull Parasite|U
+Tin Street Market|C
+Totally Lost|C
+Tower Defense|U
+Towering Thunderfist|C
+Treasury Thrull|R
+Truefire Paladin|U
+Undercity Informer|U
+Undercity Plague|R
+Unexpected Results|R
+Urban Evolution|U
+Urbis Protector|U
+Verdant Haven|C
+Viashino Shanktail|U
+Vizkopa Confessor|U
+Vizkopa Guildmage|U
+Voidwalk|U
+Warmind Infantry|C
+Wasteland Viper|U
+Watery Grave|R
+Way of the Thief|C
+Whispering Madness|R
+Wight of Precinct Six|U
+Wildwood Rebirth|C
+Wojek Halberdiers|C
+Wrecking Ogre|R
+Zameck Guildmage|U
+Zarichi Tiger|C
+Zhur-Taa Swine|C

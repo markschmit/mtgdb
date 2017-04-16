@@ -1,0 +1,8 @@
+2017:
+- Remove oracle nonsense, make it parse all sets out of text files
+
+
+2004:
+
+-Export inventory of only currently visible cards (i.e. can generate a block inventory from full)
+-Add support for merging of inventories, as well as delta-inventories for trades

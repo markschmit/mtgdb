@@ -1,0 +1,71 @@
+Absorb Vis|C
+Akoum Refuge|U
+Ancient Craving|R
+Ashmouth Hound|C
+Blazing Salvo|C
+Blightning|C
+Bloodrage Vampire|C
+Breaking Point|R
+Browbeat|U
+Bump in the Night|C
+Butcher of Malakir|R
+Child of Night|C
+Coal Stoker|C
+Corpse Connoisseur|U
+Death Grasp|R
+Decompose|U
+Devil's Play|R
+Doomed Traveler|C
+Duskhunter Bat|C
+Evolving Wilds|C
+Faithless Looting|C
+Field of Souls|R
+Fiend Hunter|U
+Flame Javelin|U
+Flame Slash|C
+Gang of Devils|U
+Gatekeeper of Malakir|U
+Geistflame|C
+Goblin Arsonist|C
+Hellrider|R
+Hellspark Elemental|U
+Lavaborn Muse|R
+Lingering Souls|U
+Mad Prophet|C
+Mark of the Vampire|C
+Mausoleum Guard|U
+Mesmeric Fiend|C
+Mortify|U
+Mountain|L
+Phantom General|U
+Plains|L
+Pyroclasm|U
+Rakdos Carnarium|C
+Reassembling Skeleton|U
+Recoup|U
+Revenant Patriarch|U
+Scorched Rusalka|U
+Scourge Devil|U
+Sengir Vampire|U
+Shambling Remains|U
+Skirsdag Cultist|U
+Sorin's Thirst|C
+Sorin, Lord of Innistrad|M
+Spectral Procession|U
+Strangling Soot|C
+Sulfuric Vortex|R
+Swamp|L
+Tainted Field|U
+Terminate|C
+Tibalt, the Fiend-Blooded|M
+Torrent of Souls|U
+Twilight Drover|R
+Unmake|C
+Urge to Feed|U
+Vampire Lacerator|C
+Vampire Nighthawk|U
+Vampire Outcasts|U
+Vampire's Bite|C
+Vithian Stinger|C
+Wall of Omens|U
+Zealous Persecution|U

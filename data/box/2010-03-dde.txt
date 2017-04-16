@@ -1,0 +1,67 @@
+Allied Strategies|U
+Armadillo Cloak|C
+Bone Shredder|U
+Carrion Feeder|C
+Charging Troll|U
+Coalition Relic|R
+Darigaaz's Charm|U
+Darigaaz, the Igniter|R
+Dark Ritual|C
+Elfhame Palace|U
+Evasive Action|U
+Exotic Curse|C
+Fertile Ground|C
+Forest|L
+Gerrard Capashen|R
+Gerrard's Command|C
+Harrow|C
+Hideous End|C
+Hornet Cannon|U
+Island|L
+Lightning Greaves|U
+Living Death|R
+Mountain|L
+Narrow Escape|C
+Nomadic Elf|C
+Order of Yawgmoth|U
+Phyrexian Arena|R
+Phyrexian Battleflies|C
+Phyrexian Broodlings|C
+Phyrexian Colossus|R
+Phyrexian Debaser|C
+Phyrexian Defiler|U
+Phyrexian Denouncer|C
+Phyrexian Gargantua|U
+Phyrexian Ghoul|C
+Phyrexian Hulk|U
+Phyrexian Negator|M
+Phyrexian Plaguelord|R
+Phyrexian Processor|R
+Phyrexian Totem|U
+Phyrexian Vault|U
+Plains|L
+Power Armor|U
+Priest of Gix|U
+Puppet Strings|U
+Quirion Elves|C
+Rith's Charm|U
+Rith, the Awakener|R
+Sanguine Guard|U
+Shivan Oasis|U
+Slay|U
+Sunscape Battlemage|U
+Swamp|L
+Tendrils of Corruption|C
+Terramorphic Expanse|C
+Thornscape Apprentice|C
+Thornscape Battlemage|U
+Thunderscape Battlemage|U
+Treva's Charm|U
+Treva, the Renewer|R
+Tribal Flames|C
+Urza's Rage|M
+Verduran Emissary|U
+Voltaic Key|U
+Whispersilk Cloak|U
+Worn Powerstone|U
+Yavimaya Elder|C

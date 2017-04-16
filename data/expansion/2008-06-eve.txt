@@ -1,0 +1,180 @@
+Aerie Ouphes|C
+Altar Golem|R
+Antler Skulkin|C
+Archon of Justice|R
+Ashling, the Extinguisher|R
+Balefire Liege|R
+Ballynock Trapper|C
+Banishing Knack|C
+Battlegate Mimic|C
+Batwing Brume|U
+Beckon Apparition|C
+Belligerent Hatchling|U
+Bloodied Ghost|U
+Bloom Tender|R
+Cache Raiders|U
+Call the Skybreaker|R
+Canker Abomination|U
+Cankerous Thirst|U
+Cascade Bluffs|R
+Cauldron Haze|U
+Cenn's Enlistment|C
+Chaotic Backlash|U
+Cinder Pyromancer|C
+Clout of the Dominus|C
+Cold-Eyed Selkie|R
+Crackleburr|R
+Crag Puca|U
+Creakwood Ghoul|U
+Creakwood Liege|R
+Crumbling Ashes|U
+Deathbringer Liege|R
+Deity of Scars|R
+Desecrator Hag|C
+Divinity of Pride|R
+Dominus of Fealty|R
+Doomgape|R
+Double Cleave|C
+Drain the Well|C
+Dream Fracture|U
+Dream Thief|C
+Duergar Assailant|C
+Duergar Cave-Guard|U
+Duergar Hedge-Mage|U
+Duergar Mine-Captain|U
+Duskdale Wurm|U
+Edge of the Divinity|C
+Endless Horizons|R
+Endure|U
+Evershrike|R
+Fable of Wolf and Owl|R
+Fang Skulkin|C
+Favor of the Overbeing|C
+Fetid Heath|R
+Fiery Bombardment|R
+Figure of Destiny|R
+Fire at Will|C
+Flame Jab|C
+Flickerwisp|U
+Flooded Grove|R
+Gift of the Deity|C
+Gilder Bairn|U
+Glamerdye|R
+Glen Elendra Archmage|R
+Grazing Kelpie|C
+Groundling Pouncer|U
+Gwyllion Hedge-Mage|U
+Hag Hedge-Mage|U
+Hallowed Burial|R
+Harvest Gwyllion|C
+Hatchet Bully|U
+Hateflayer|R
+Hearthfire Hobgoblin|U
+Heartlash Cinder|C
+Helix Pinnacle|R
+Hobgoblin Dragoon|C
+Hoof Skulkin|C
+Hotheaded Giant|C
+Idle Thoughts|U
+Impelled Giant|U
+Indigo Faerie|U
+Inside Out|C
+Inundate|R
+Invert the Skies|U
+Jawbone Skulkin|C
+Kithkin Spellduster|C
+Kithkin Zealot|C
+Leering Emblem|R
+Light from Within|R
+Lingering Tormentor|U
+Loyal Gyrfalcon|U
+Marshdrinker Giant|U
+Merrow Bonegnawer|C
+Merrow Levitator|C
+Mindwrack Liege|R
+Mirror Sheen|R
+Monstrify|C
+Moonhold|U
+Murkfiend Liege|R
+Necroskitter|R
+Needle Specter|R
+Nettle Sentinel|C
+Nightmare Incursion|R
+Nightsky Mimic|C
+Nip Gwyllion|C
+Nobilis of War|R
+Noggle Bandit|C
+Noggle Bridgebreaker|C
+Noggle Hedge-Mage|U
+Noggle Ransacker|U
+Noxious Hatchling|U
+Nucklavee|U
+Odious Trow|C
+Oona's Grace|C
+Outrage Shaman|U
+Overbeing of Myth|R
+Patrol Signaler|U
+Phosphorescent Feast|U
+Primalcrux|R
+Puncture Blast|C
+Pyrrhic Revival|R
+Quillspike|U
+Raven's Crime|C
+Razorfin Abolisher|U
+Recumbent Bliss|C
+Regal Force|R
+Rekindled Flame|R
+Rendclaw Trow|C
+Restless Apparition|U
+Rise of the Hobgoblins|R
+Riverfall Mimic|C
+Rugged Prairie|R
+Sanity Grinding|R
+Sapling of Colfenor|R
+Savage Conception|U
+Scarecrone|R
+Scourge of the Nobilis|C
+Selkie Hedge-Mage|U
+Shell Skulkin|C
+Shorecrasher Mimic|C
+Shrewd Hatchling|U
+Slippery Bogle|C
+Smoldering Butcher|C
+Snakeform|C
+Soot Imp|U
+Soul Reap|C
+Soul Snuffers|U
+Spirit of the Hearth|R
+Spitemare|U
+Spitting Image|R
+Springjack Pasture|R
+Springjack Shepherd|U
+Stalker Hag|U
+Stigma Lasher|R
+Stillmoon Cavalier|R
+Stream Hopper|C
+Sturdy Hatchling|U
+Suture Spirit|U
+Swirling Spriggan|U
+Syphon Life|U
+Talara's Bane|C
+Talara's Battalion|R
+Talonrend|U
+Thunderblust|R
+Tilling Treefolk|C
+Trapjaw Kelpie|C
+Twilight Mire|R
+Twinblade Slasher|U
+Umbra Stalker|R
+Unmake|C
+Unnerving Assault|U
+Unwilling Recruit|U
+Voracious Hatchling|U
+Wake Thrasher|R
+Ward of Bones|R
+Waves of Aggression|R
+Wickerbough Elder|C
+Wilderness Hypnotist|C
+Wistful Selkie|U
+Woodlurker Mimic|C
+Worm Harvest|R

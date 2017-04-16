@@ -1,0 +1,234 @@
+Academy Raider|C
+Accorder's Shield|U
+Accursed Spirit|C
+Act of Treason|C
+Advocate of the Beast|C
+Air Servant|U
+Ajani's Chosen|R
+Ajani, Caller of the Pride|M
+Altar's Reap|C
+Angelic Accord|U
+Angelic Wall|C
+Archaeomancer|C
+Archangel of Thune|M
+Armored Cancrix|C
+Artificer's Hex|U
+Auramancer|C
+Awaken the Ancient|R
+Banisher Priest|U
+Barrage of Expendables|U
+Battle Sliver|U
+Blessing|U
+Blightcaster|U
+Blood Bairn|C
+Blur Sliver|C
+Bogbrew Witch|R
+Bonescythe Sliver|R
+Bramblecrush|U
+Brave the Elements|U
+Briarpack Alpha|U
+Brindle Boar|C
+Bubbling Cauldron|U
+Burning Earth|R
+Cancel|C
+Canyon Minotaur|C
+Capashen Knight|C
+Celestial Flare|C
+Chandra's Outrage|C
+Chandra's Phoenix|R
+Chandra, Pyromaster|M
+Charging Griffin|C
+Child of Night|C
+Claustrophobia|C
+Clone|R
+Colossal Whale|R
+Congregate|U
+Coral Merfolk|C
+Corpse Hauler|C
+Corrupt|U
+Cyclops Tyrant|C
+Dark Favor|C
+Dark Prophecy|R
+Darksteel Forge|M
+Darksteel Ingot|U
+Dawnstrike Paladin|C
+Deadly Recluse|C
+Deathgaze Cockatrice|C
+Demolish|C
+Devout Invocation|M
+Diabolic Tutor|U
+Dismiss into Dream|R
+Disperse|C
+Divination|C
+Divine Favor|C
+Domestication|R
+Doom Blade|U
+Door of Destinies|R
+Dragon Egg|U
+Dragon Hatchling|C
+Duress|C
+Elite Arcanist|R
+Elixir of Immortality|U
+Elvish Mystic|C
+Encroaching Wastes|U
+Enlarge|U
+Essence Scatter|C
+Festering Newt|C
+Fiendslayer Paladin|R
+Fireshrieker|U
+Flames of the Firebrand|U
+Fleshpulper Giant|U
+Fog|C
+Forest|L
+Fortify|C
+Frost Breath|C
+Galerider Sliver|R
+Garruk's Horde|R
+Garruk, Caller of Beasts|M
+Giant Growth|C
+Giant Spider|C
+Gladecover Scout|C
+Glimpse the Future|U
+Gnawing Zombie|U
+Goblin Diplomats|R
+Goblin Shortcutter|C
+Griffin Sentinel|C
+Grim Return|R
+Groundshaker Sliver|C
+Guardian of the Ages|R
+Haunted Plate Mail|R
+Hive Stirrings|C
+Howl of the Night Pack|U
+Hunt the Weak|C
+Illusionary Armor|U
+Imposing Sovereign|R
+Indestructibility|R
+Into the Wilds|R
+Island|L
+Jace's Mindseeker|R
+Jace, Memory Adept|M
+Kalonian Hydra|M
+Kalonian Tusker|U
+Lava Axe|C
+Lay of the Land|C
+Lifebane Zombie|R
+Lightning Talons|C
+Liliana of the Dark Realms|M
+Liliana's Reaver|R
+Liturgy of Blood|C
+Manaweft Sliver|U
+Marauding Maulhorn|C
+Mark of the Vampire|C
+Master of Diversion|C
+Megantic Sliver|R
+Merfolk Spy|C
+Messenger Drake|C
+Millstone|U
+Mind Rot|C
+Mindsparker|R
+Minotaur Abomination|C
+Molten Birth|U
+Mountain|L
+Mutavault|R
+Naturalize|C
+Negate|C
+Nephalia Seakite|C
+Nightmare|R
+Nightwing Shade|C
+Oath of the Ancient Wood|R
+Ogre Battledriver|R
+Opportunity|U
+Pacifism|C
+Path of Bravery|R
+Pay No Heed|C
+Phantom Warrior|U
+Pillarfield Ox|C
+Pitchburn Devils|C
+Plains|L
+Planar Cleansing|R
+Plummet|C
+Predatory Sliver|C
+Primeval Bounty|M
+Pyromancer's Gauntlet|R
+Quag Sickness|C
+Quicken|R
+Ranger's Guile|C
+Ratchet Bomb|R
+Regathan Firecat|C
+Ring of Three Wishes|M
+Rise of the Dark Realms|M
+Rod of Ruin|U
+Rootwalla|C
+Rumbling Baloth|C
+Sanguine Bond|R
+Savage Summoning|R
+Scavenging Ooze|R
+Scourge of Valkas|M
+Scroll Thief|C
+Seacoast Drake|C
+Seismic Stomp|C
+Sengir Vampire|U
+Sensory Deprivation|C
+Sentinel Sliver|C
+Seraph of the Sword|R
+Serra Angel|U
+Shadowborn Apostle|C
+Shadowborn Demon|M
+Shimmering Grotto|U
+Shiv's Embrace|U
+Shivan Dragon|R
+Shock|C
+Show of Valor|C
+Shrivel|C
+Siege Mastodon|C
+Silence|R
+Sliver Construct|C
+Smelt|C
+Solemn Offering|C
+Soulmender|C
+Spell Blast|U
+Sporemound|C
+Staff of the Death Magus|U
+Staff of the Flame Magus|U
+Staff of the Mind Magus|U
+Staff of the Sun Magus|U
+Staff of the Wild Magus|U
+Steelform Sliver|U
+Stonehorn Chanter|U
+Striking Sliver|C
+Strionic Resonator|R
+Suntail Hawk|C
+Swamp|L
+Syphon Sliver|R
+Tenacious Dead|U
+Thorncaster Sliver|R
+Thunder Strike|C
+Tidebinder Mage|R
+Time Ebb|C
+Tome Scour|C
+Trading Post|R
+Trained Condor|C
+Traumatize|R
+Trollhide|C
+Undead Minotaur|C
+Vampire Warlord|U
+Vastwood Hydra|R
+Verdant Haven|C
+Vial of Poison|U
+Vile Rebirth|C
+Volcanic Geyser|U
+Voracious Wurm|U
+Wall of Frost|U
+Wall of Swords|U
+Warden of Evos Isle|U
+Water Servant|U
+Wild Guess|C
+Wild Ricochet|R
+Windreader Sphinx|M
+Windstorm|U
+Witchstalker|R
+Woodborn Behemoth|U
+Wring Flesh|C
+Xathrid Necromancer|R
+Young Pyromancer|U
+Zephyr Charge|C

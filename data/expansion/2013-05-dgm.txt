@@ -1,0 +1,171 @@
+Advent of the Wurm|R
+Aetherling|R
+Alive (Alive/Well)|U
+Armed (Armed/Dangerous)|U
+Armored Wolf-Rider|C
+Ascended Lawmage|U
+Away (Far/Away)|U
+Awe for the Guilds|C
+Azorius Cluestone|C
+Azorius Guildgate|C
+Bane Alley Blackguard|C
+Battering Krasis|C
+Beck (Beck/Call)|R
+Beetleform Mage|C
+Blast of Genius|U
+Blaze Commando|U
+Blood (Flesh/Blood)|R
+Blood Baron of Vizkopa|M
+Blood Scrivener|R
+Boros Battleshaper|R
+Boros Cluestone|C
+Boros Guildgate|C
+Boros Mastiff|C
+Breaking (Breaking/Entering)|R
+Bred for the Hunt|U
+Bronzebeak Moa|U
+Burn (Turn/Burn)|U
+Call (Beck/Call)|R
+Carnage Gladiator|U
+Catch (Catch/Release)|R
+Clear a Path|C
+Council of the Absolute|M
+Crypt Incursion|C
+Dangerous (Armed/Dangerous)|U
+Deadbridge Chant|M
+Debt to the Deathless|U
+Deputy of Acquittals|C
+Dimir Cluestone|C
+Dimir Guildgate|C
+Dirty (Down/Dirty)|U
+Down (Down/Dirty)|U
+Dragonshift|R
+Drown in Filth|C
+Emmara Tandris|R
+Entering (Breaking/Entering)|R
+Exava, Rakdos Blood Witch|R
+Far (Far/Away)|U
+Fatal Fumes|C
+Feral Animist|U
+Flesh (Flesh/Blood)|R
+Fluxcharger|U
+Gaze of Granite|R
+Give (Give/Take)|U
+Gleam of Battle|U
+Goblin Test Pilot|U
+Golgari Cluestone|C
+Golgari Guildgate|C
+Gruul Cluestone|C
+Gruul Guildgate|C
+Gruul War Chant|U
+Haazda Snare Squad|C
+Haunter of Nightveil|U
+Hidden Strings|C
+Hired Torturer|C
+Izzet Cluestone|C
+Izzet Guildgate|C
+Jelenn Sphinx|U
+Korozda Gorgon|U
+Krasis Incubation|U
+Kraul Warrior|C
+Lavinia of the Tenth|R
+Legion's Initiative|M
+Loss (Profit/Loss)|U
+Lyev Decree|C
+Master of Cruelties|M
+Maw of the Obzedat|U
+Maze Abomination|C
+Maze Behemoth|C
+Maze Glider|C
+Maze Rusher|C
+Maze Sentinel|C
+Maze's End|M
+Melek, Izzet Paragon|R
+Mending Touch|C
+Mindstatic|C
+Mirko Vosk, Mind Drinker|R
+Morgue Burst|C
+Murmuring Phantasm|C
+Mutant's Prey|C
+Nivix Cyclops|C
+Notion Thief|R
+Obzedat's Aid|R
+Opal Lake Gatekeepers|C
+Orzhov Cluestone|C
+Orzhov Guildgate|C
+Phytoburst|C
+Pilfered Plans|C
+Plasm Capture|R
+Pontiff of Blight|R
+Possibility Storm|R
+Profit (Profit/Loss)|U
+Progenitor Mimic|M
+Protect (Protect/Serve)|U
+Punish the Enemy|C
+Putrefy|U
+Pyrewild Shaman|R
+Rakdos Cluestone|C
+Rakdos Drake|C
+Rakdos Guildgate|C
+Ral Zarek|M
+Ready (Ready/Willing)|R
+Reap Intellect|M
+Release (Catch/Release)|R
+Render Silent|R
+Renegade Krasis|R
+Renounce the Guilds|R
+Restore the Peace|U
+Riot Control|C
+Riot Piker|C
+Rot Farm Skeleton|U
+Rubblebelt Maaka|C
+Runner's Bane|C
+Ruric Thar, the Unbowed|R
+Saruli Gatekeepers|C
+Savageborn Hydra|M
+Scab-Clan Giant|U
+Scion of Vitu-Ghazi|R
+Selesnya Cluestone|C
+Selesnya Guildgate|C
+Serve (Protect/Serve)|U
+Showstopper|U
+Simic Cluestone|C
+Simic Guildgate|C
+Sin Collector|U
+Sinister Possession|C
+Sire of Insanity|R
+Skylasher|R
+Smelt-Ward Gatekeepers|C
+Species Gorger|U
+Spike Jester|U
+Steeple Roc|C
+Sunspire Gatekeepers|C
+Tajic, Blade of the Legion|R
+Take (Give/Take)|U
+Tear (Wear/Tear)|U
+Teysa, Envoy of Ghosts|R
+Thrashing Mossdog|C
+Tithe Drinker|C
+Toil (Toil/Trouble)|U
+Trait Doctoring|R
+Trostani's Summoner|U
+Trouble (Toil/Trouble)|U
+Turn (Turn/Burn)|U
+Ubul Sar Gatekeepers|C
+Uncovered Clues|C
+Unflinching Courage|U
+Varolz, the Scar-Striped|R
+Viashino Firstblade|C
+Voice of Resurgence|M
+Vorel of the Hull Clade|R
+Wake the Reflections|C
+Warleader's Helix|U
+Warped Physique|U
+Weapon Surge|C
+Wear (Wear/Tear)|U
+Well (Alive/Well)|U
+Willing (Ready/Willing)|R
+Wind Drake|C
+Woodlot Crawler|U
+Zhur-Taa Ancient|R
+Zhur-Taa Druid|C

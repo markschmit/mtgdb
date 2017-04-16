@@ -1,0 +1,167 @@
+Abduction|U
+Abeyance|R
+Abjure|C
+Aboroth|R
+Abyssal Gatekeeper|C
+Aether Flash|U
+Agonizing Memories|U
+Alabaster Dragon|R
+Alms|C
+Ancestral Knowledge|R
+Angelic Renewal|C
+Apathy|C
+Arctic Wolves|U
+Ardent Militia|C
+Argivian Find|U
+Argivian Restoration|U
+Aura of Silence|U
+Avizoa|R
+Barishi|U
+Barrow Ghoul|C
+Benalish Infantry|C
+Benalish Knight|C
+Benalish Missionary|C
+Betrothed of Fire|C
+Bloodrock Cyclops|C
+Blossoming Wreath|C
+Bogardan Firefiend|C
+Boiling Blood|C
+Bone Dancer|R
+Bösium Strip|R
+Briar Shield|C
+Bubble Matrix|R
+Buried Alive|U
+Call of the Wild|R
+Chimeric Sphere|U
+Choking Vines|C
+Cinder Giant|U
+Cinder Wall|C
+Circling Vultures|U
+Cloud Djinn|U
+Coils of the Medusa|C
+Cone of Flame|U
+Debt of Loyalty|R
+Dense Foliage|R
+Desperate Gambit|U
+Dingus Staff|U
+Disrupt|C
+Doomsday|R
+Downdraft|U
+Duskrider Falcon|C
+Dwarven Berserker|C
+Dwarven Thaumaturgist|R
+Empyrial Armor|C
+Ertai's Familiar|R
+Fallow Wurm|U
+Familiar Ground|U
+Fatal Blow|C
+Fervor|R
+Festering Evil|U
+Fire Whip|C
+Firestorm|R
+Fit of Rage|C
+Fledgling Djinn|C
+Flux|C
+Fog Elemental|C
+Foriysian Brigade|U
+Fungus Elemental|R
+Gaea's Blessing|U
+Gallowbraid|R
+Gemstone Mine|U
+Gerrard's Wisdom|U
+Goblin Bomb|R
+Goblin Grenadiers|U
+Goblin Vandal|C
+Guided Strike|C
+Harvest Wurm|C
+Haunting Misery|C
+Heart of Bogardan|R
+Heat Stroke|R
+Heavy Ballista|C
+Hidden Horror|U
+Hurloon Shaman|U
+Infernal Tribute|R
+Inner Sanctum|R
+Jabari's Banner|U
+Jangling Automaton|C
+Kithkin Armor|C
+Lava Hounds|U
+Lava Storm|C
+Liege of the Hollows|R
+Llanowar Behemoth|U
+Llanowar Druid|C
+Llanowar Sentinel|C
+Lotus Vale|R
+Mana Chains|C
+Mana Web|R
+Manta Ray|C
+Maraxus of Keld|R
+Master of Arms|U
+Merfolk Traders|C
+Mind Stone|C
+Mischievous Poltergeist|U
+Mistmoon Griffin|U
+Morinfen|R
+Mwonvuli Ooze|R
+Nature's Kiss|C
+Nature's Resurgence|R
+Necratog|U
+Noble Benefactor|U
+Null Rod|R
+Odylic Wraith|U
+Ophidian|C
+Orcish Settlers|U
+Paradigm Shift|R
+Peacekeeper|R
+Pendrell Mists|R
+Phantom Warrior|U
+Phantom Wings|C
+Phyrexian Furnace|U
+Psychic Vortex|R
+Razortooth Rats|C
+Redwood Treefolk|C
+Relearn|U
+Revered Unicorn|U
+Roc Hatchling|U
+Rogue Elephant|C
+Sage Owl|C
+Sawtooth Ogre|C
+Scorched Ruins|R
+Serenity|R
+Serra's Blessing|U
+Serrated Biskelion|U
+Shadow Rider|C
+Shattered Crypt|C
+Soul Shepherd|C
+Southern Paladin|R
+Spinning Darkness|C
+Steel Golem|U
+Strands of Night|U
+Straw Golem|U
+Striped Bears|C
+Sylvan Hierophant|U
+Tariff|R
+Teferi's Veil|U
+Tendrils of Despair|C
+Thran Forge|U
+Thran Tome|R
+Thunderbolt|C
+Thundermare|R
+Timid Drake|U
+Tolarian Drake|C
+Tolarian Entrancer|R
+Tolarian Serpent|R
+Touchstone|U
+Tranquil Grove|R
+Uktabi Efreet|C
+Urborg Justice|R
+Urborg Stalker|R
+Veteran Explorer|U
+Vitalize|C
+Vodalian Illusionist|U
+Volunteer Reserves|U
+Wave of Terror|R
+Well of Knowledge|R
+Winding Canyons|R
+Xanthic Statue|R
+Zombie Scavengers|C

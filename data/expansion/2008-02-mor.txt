@@ -1,0 +1,150 @@
+Ambassador Oak|C
+Auntie's Snitch|R
+Ballyrush Banneret|C
+Battletide Alchemist|R
+Bitterblossom|R
+Blightsoil Druid|C
+Boldwyr Heavyweights|R
+Boldwyr Intimidator|U
+Borderland Behemoth|R
+Bosk Banneret|C
+Bramblewood Paragon|U
+Brighthearth Banneret|C
+Burrenton Bombardier|C
+Burrenton Shield-Bearers|C
+Cenn's Tactician|U
+Chameleon Colossus|R
+Changeling Sentinel|C
+Cloak and Dagger|U
+Coordinated Barrage|C
+Countryside Crusher|R
+Cream of the Crop|R
+Daily Regimen|U
+Declaration of Naught|R
+Deglamer|C
+Dewdrop Spy|C
+Disperse|C
+Distant Melody|C
+Diviner's Wand|U
+Door of Destinies|R
+Earthbrawn|C
+Earwig Squad|R
+Elvish Warrior|C
+Everbark Shaman|C
+Fencer Clique|C
+Fendeep Summoner|R
+Fertilid|C
+Festercreep|C
+Feudkiller's Verdict|R
+Final-Sting Faerie|C
+Fire Juggler|C
+Floodchaser|C
+Forfend|C
+Frogtosser Banneret|C
+Game-Trail Changeling|C
+Gilt-Leaf Archdruid|R
+Graceful Reprieve|U
+Greatbow Doyen|R
+Grimoire Thief|R
+Heritage Druid|U
+Hostile Realm|C
+Hunting Triad|U
+Idyllic Tutor|R
+Indomitable Ancients|R
+Ink Dissolver|C
+Inspired Sprite|U
+Kindled Fury|C
+Kinsbaile Borderguard|R
+Kinsbaile Cavalier|R
+Kithkin Zephyrnaut|C
+Knowledge Exploitation|R
+Latchkey Faerie|C
+Leaf-Crowned Elder|R
+Lightning Crafter|R
+Luminescent Rain|C
+Lunk Errant|C
+Lys Alana Bowmaster|C
+Maralen of the Mornsong|R
+Meadowboon|U
+Merrow Witsniper|C
+Mind Shatter|R
+Mind Spring|R
+Moonglove Changeling|C
+Morsel Theft|C
+Mosquito Guard|C
+Mothdust Changeling|C
+Mudbutton Clanger|C
+Murmuring Bosk|R
+Mutavault|R
+Negate|C
+Nevermaker|U
+Nightshade Schemers|U
+Noggin Whack|U
+Notorious Throng|R
+Obsidian Battle-Axe|U
+Offalsnout|U
+Oona's Blackguard|U
+Orchard Warden|U
+Order of the Golden Cricket|C
+Pack's Disdain|C
+Preeminent Captain|R
+Prickly Boggart|C
+Primal Beyond|R
+Pulling Teeth|C
+Pyroclast Consul|U
+Rage Forger|U
+Reach of Branches|R
+Recross the Paths|U
+Redeem the Lost|U
+Reins of the Vinesteed|C
+Release the Ants|U
+Research the Deep|U
+Reveillark|R
+Revive the Fallen|U
+Rhys the Exiled|R
+Rivals' Duel|U
+Roar of the Crowd|C
+Rustic Clachan|R
+Sage of Fables|U
+Sage's Dousing|U
+Scapeshift|R
+Scarblade Elite|R
+Seething Pathblazer|C
+Sensation Gorger|R
+Shard Volley|C
+Shared Animosity|R
+Shinewend|C
+Sigil Tracer|R
+Slithermuse|R
+Spitebellows|U
+Squeaking Pie Grubfellows|C
+Stenchskipper|R
+Stingmoggie|C
+Stinkdrinker Bandit|U
+Stomping Slabs|U
+Stonehewer Giant|R
+Stonybrook Banneret|C
+Stonybrook Schoolmaster|C
+Stream of Unconsciousness|C
+Sunflare Shaman|C
+Supreme Exemplar|R
+Swell of Courage|U
+Taurean Mauler|R
+Thieves' Fortune|U
+Thornbite Staff|U
+Titan's Revenge|R
+Unstoppable Ash|R
+Vendilion Clique|R
+Vengeful Firebrand|R
+Veteran's Armaments|U
+Violet Pall|C
+Walker of the Grove|U
+Wandering Graybeard|U
+War-Spike Changeling|C
+Warren Weirding|U
+Waterspout Weavers|U
+Weed-Pruner Poplar|C
+Weight of Conscience|C
+Weirding Shaman|R
+Winnower Patrol|C
+Wolf-Skull Shaman|U

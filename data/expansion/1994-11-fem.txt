@@ -1,0 +1,102 @@
+Aeolipile|R
+Armor Thrull|C
+Balm of Restoration|R
+Basal Thrull|C
+Bottomless Vault|R
+Brassclaw Orcs|C
+Breeding Pit|U
+Combat Medic|C
+Conch Horn|R
+Deep Spawn|U
+Delif's Cone|U
+Delif's Cube|R
+Derelor|R
+Draconian Cylix|R
+Dwarven Armorer|R
+Dwarven Catapult|U
+Dwarven Hold|R
+Dwarven Lieutenant|U
+Dwarven Ruins|U
+Dwarven Soldier|C
+Ebon Praetor|R
+Ebon Stronghold|U
+Elven Fortress|C
+Elven Lyre|R
+Elvish Farmer|R
+Elvish Hunter|C
+Elvish Scout|C
+Farrel's Mantle|U
+Farrel's Zealot|C
+Farrelite Priest|U
+Feral Thallid|U
+Fungal Bloom|R
+Goblin Chirurgeon|C
+Goblin Flotilla|R
+Goblin Grenade|C
+Goblin Kites|U
+Goblin War Drums|C
+Goblin Warrens|R
+Hand of Justice|R
+Havenwood Battleground|U
+Heroism|U
+High Tide|C
+Hollow Trees|R
+Homarid|C
+Homarid Shaman|R
+Homarid Spawning Bed|U
+Homarid Warrior|C
+Hymn to Tourach|C
+Icatian Infantry|C
+Icatian Javelineers|C
+Icatian Lieutenant|R
+Icatian Moneychanger|C
+Icatian Phalanx|U
+Icatian Priest|U
+Icatian Scout|C
+Icatian Skirmishers|R
+Icatian Store|R
+Icatian Town|R
+Implements of Sacrifice|R
+Initiates of the Ebon Hand|C
+Merseine|C
+Mindstab Thrull|C
+Necrite|C
+Night Soil|C
+Orcish Captain|U
+Orcish Spy|C
+Orcish Veteran|C
+Order of Leitbur|C
+Order of the Ebon Hand|C
+Orgg|R
+Raiding Party|U
+Rainbow Vale|R
+Ring of Renewal|R
+River Merfolk|R
+Ruins of Trokair|U
+Sand Silos|R
+Seasinger|U
+Soul Exchange|U
+Spirit Shield|R
+Spore Cloud|C
+Spore Flower|U
+Svyelunite Priest|U
+Svyelunite Temple|U
+Thallid|C
+Thallid Devourer|U
+Thelon's Chant|U
+Thelon's Curse|R
+Thelonite Druid|U
+Thelonite Monk|R
+Thorn Thallid|C
+Thrull Champion|R
+Thrull Retainer|U
+Thrull Wizard|U
+Tidal Flats|C
+Tidal Influence|U
+Tourach's Chant|U
+Tourach's Gate|R
+Vodalian Knights|R
+Vodalian Mage|C
+Vodalian Soldiers|C
+Vodalian War Machine|R
+Zelyon Sword|R

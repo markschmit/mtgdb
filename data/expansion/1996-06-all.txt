@@ -1,0 +1,144 @@
+Aesthir Glider|C
+Agent of Stromgald|C
+Arcane Denial|C
+Ashnod's Cylix|R
+Astrolabe|C
+Awesome Presence|C
+Balduvian Dead|U
+Balduvian Horde|R
+Balduvian Trading Post|R
+Balduvian War-Makers|C
+Benthic Explorers|C
+Bestial Fury|C
+Bounty of the Hunt|U
+Browse|U
+Burnout|U
+Carrier Pigeons|C
+Casting of Bones|C
+Chaos Harlequin|R
+Contagion|U
+Deadly Insect|C
+Death Spark|U
+Diminishing Returns|R
+Diseased Vermin|U
+Dystopia|R
+Elvish Bard|U
+Elvish Ranger|C
+Elvish Spirit Guide|U
+Energy Arc|U
+Enslaved Scout|C
+Errand of Duty|C
+Exile|R
+False Demise|C
+Fatal Lore|R
+Feast or Famine|C
+Fevered Strength|C
+Floodwater Dam|R
+Force of Will|U
+Foresight|C
+Fyndhorn Druid|C
+Gargantuan Gorilla|R
+Gift of the Woods|C
+Gorilla Berserkers|C
+Gorilla Chieftain|C
+Gorilla Shaman|C
+Gorilla War Cry|C
+Guerrilla Tactics|C
+Gustha's Scepter|R
+Hail Storm|U
+Heart of Yavimaya|R
+Helm of Obedience|R
+Inheritance|U
+Insidious Bookworms|C
+Ivory Gargoyle|R
+Juniper Order Advocate|U
+Kaysa|R
+Keeper of Tresserhorn|R
+Kjeldoran Escort|C
+Kjeldoran Home Guard|U
+Kjeldoran Outpost|R
+Kjeldoran Pride|C
+Krovikan Horror|R
+Krovikan Plague|U
+Lake of the Dead|R
+Lat-Nam's Legacy|C
+Library of Lat-Nam|R
+Lim-Dûl's High Guard|C
+Lim-Dûl's Paladin|U
+Lim-Dûl's Vault|U
+Lodestone Bauble|R
+Lord of Tresserhorn|R
+Martyrdom|C
+Misfortune|R
+Mishra's Groundbreaker|U
+Misinformation|U
+Mystic Compass|U
+Nature's Blessing|U
+Nature's Chosen|U
+Nature's Wrath|R
+Noble Steeds|C
+Omen of Fire|R
+Phantasmal Fiend|C
+Phantasmal Sphere|R
+Phelddagrif|R
+Phyrexian Boon|C
+Phyrexian Devourer|R
+Phyrexian Portal|R
+Phyrexian War Beast|C
+Pillage|U
+Primitive Justice|U
+Pyrokinesis|U
+Reinforcements|C
+Reprisal|C
+Ritual of the Machine|R
+Rogue Skycaptain|R
+Royal Decree|R
+Royal Herbalist|C
+Scarab of the Unseen|U
+Scars of the Veteran|U
+School of the Unseen|U
+Seasoned Tactician|U
+Sheltered Valley|R
+Shield Sphere|U
+Sol Grail|U
+Soldevi Adnate|C
+Soldevi Digger|R
+Soldevi Excavations|R
+Soldevi Heretic|C
+Soldevi Sage|C
+Soldevi Sentry|C
+Soldevi Steam Beast|C
+Soldier of Fortune|U
+Spiny Starfish|U
+Splintering Wind|R
+Stench of Decay|C
+Storm Cauldron|R
+Storm Crow|C
+Storm Elemental|U
+Storm Shaman|C
+Stromgald Spy|U
+Suffocation|U
+Surge of Strength|U
+Sustaining Spirit|R
+Swamp Mosquito|C
+Sworn Defender|R
+Taste of Paradise|C
+Thawing Glaciers|R
+Thought Lash|R
+Tidal Control|R
+Tornado|R
+Undergrowth|C
+Unlikely Alliance|U
+Urza's Engine|U
+Varchild's Crusader|C
+Varchild's War-Riders|R
+Veteran's Voice|C
+Viscerid Armor|C
+Viscerid Drone|U
+Wandering Mage|R
+Whip Vine|C
+Whirling Catapult|U
+Wild Aesthir|C
+Winter's Night|R
+Yavimaya Ancients|C
+Yavimaya Ants|U

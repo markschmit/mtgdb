@@ -1,0 +1,57 @@
+Albino Troll|U
+Bad Moon|R
+Basking Rootwalla|C
+Beast Attack|U
+Blastoderm|C
+Corrupt|U
+Deathgreeter|C
+Drudge Skeletons|C
+Elephant Guide|U
+Enslave|U
+Faerie Macabre|C
+Fleshbag Marauder|U
+Forest|L
+Garruk Wildspeaker|M
+Genju of the Cedars|U
+Genju of the Fens|U
+Ghost-Lit Stalker|U
+Giant Growth|C
+Harmonize|U
+Hideous End|C
+Howling Banshee|U
+Ichor Slick|C
+Indrik Stomphowler|U
+Invigorate|C
+Keening Banshee|U
+Krosan Tusker|C
+Lignify|C
+Liliana Vess|M
+Mutilate|R
+Nature's Lore|C
+Overrun|U
+Phyrexian Rager|C
+Plated Slagwurm|R
+Polluted Mire|C
+Rancor|C
+Ravenous Baloth|R
+Ravenous Rats|C
+Rise from the Grave|U
+Rude Awakening|R
+Serrated Arrows|C
+Sign in Blood|C
+Skeletal Vampire|R
+Slippery Karst|C
+Snuff Out|C
+Stampeding Wildebeests|U
+Swamp|L
+Tendrils of Corruption|C
+Treetop Village|U
+Twisted Abomination|C
+Urborg Syphon-Mage|C
+Vampire Bats|C
+Vicious Hunger|C
+Vine Trellis|C
+Wall of Bone|U
+Wild Mongrel|C
+Windstorm|U
+Wirewood Savage|C

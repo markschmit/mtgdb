@@ -1,0 +1,209 @@
+Absorb Vis|C
+Adriana, Captain of the Guard|R
+Affa Guard Hound|U
+Akroan Hoplite|U
+Altar's Reap|C
+Animus of Predation|U
+Arcane Savant|R
+Archdemon of Paliano|R
+Ascended Lawmage|U
+Avatar of Woe|M
+Ballot Broker|C
+Beast Within|U
+Berserk|M
+Besmirch|U
+Birds of Paradise|R
+Blood-Toll Harpy|C
+Bonds of Quicksilver|C
+Borderland Explorer|C
+Bronze Sable|C
+Brushstrider|U
+Burgeoning|R
+Burn Away|U
+Burning Wish|R
+Caller of Gales|C
+Caller of the Untamed|R
+Canal Courier|C
+Capital Punishment|R
+Carnage Gladiator|U
+Charmbreaker Devils|R
+Child of Night|C
+Cloaked Siren|C
+Coiling Oracle|U
+Coordinated Assault|U
+Copperhorn Scout|C
+Covenant of Minds|R
+Coveted Peacock|U
+Crown-Hunter Hireling|C
+Custodi Lich|R
+Custodi Peacekeeper|C
+Custodi Soulcaller|U
+Daretti, Ingenious Iconoclast|M
+Deadly Designs|U
+Death Wind|C
+Deceiver Exarch|U
+Deputized Protester|C
+Desertion|R
+Diabolic Tutor|U
+Disenchant|C
+Dismiss|U
+Divination|C
+Domesticated Hydra|U
+Doomed Traveler|C
+Dragonlair Spider|R
+Dread Statuary|U
+Driver of the Dead|C
+Duskmantle Seer|R
+Ember Beast|C
+Entourage of Trest|C
+Evolving Wilds|C
+Exotic Orchard|R
+Explosive Vegetation|U
+Expropriate|M
+Fade into Antiquity|C
+Faith's Reward|R
+Fang of the Pack|U
+Farbog Boneflinger|U
+Festergloom|C
+Fiery Fall|C
+Flame Slash|C
+Fleeting Distraction|C
+Fleshbag Marauder|U
+Followed Footsteps|R
+Forgotten Ancient|R
+Gang of Devils|U
+Garbage Fire|C
+Garrulous Sycophant|C
+Ghostly Possession|C
+Ghostly Prison|U
+Gleam of Resistance|C
+Goblin Balloon Brigade|C
+Goblin Racketeer|C
+Goblin Tunneler|C
+Gods Willing|C
+Gratuitous Violence|R
+Grenzo's Ruffians|U
+Grenzo, Havoc Raiser|R
+Gruul War Chant|U
+Guardian of the Gateless|U
+Guttersnipe|U
+Guul Draz Specter|R
+Hail of Arrows|U
+Hallowed Burial|R
+Hamletback Goliath|R
+Harvester of Souls|R
+Havengul Vampire|U
+Hedron Matrix|R
+Hexplate Golem|C
+Hollowhenge Spirit|U
+Horn of Greed|R
+Hundred-Handed One|R
+Hurly-Burly|C
+Ill-Tempered Cyclops|C
+Illusion of Choice|U
+Illusionary Informant|C
+Infest|U
+Inquisition of Kozilek|R
+Into the Void|U
+Irresistible Prey|U
+Jeering Homunculus|C
+Juniper Order Ranger|U
+Kami of the Crescent Moon|R
+Kaya, Ghost Assassin|M
+Keeper of Keys|R
+Keepsake Gorgon|U
+Kill Shot|C
+Kiln Fiend|C
+Kitesail|C
+Knights of the Black Rose|U
+Lace with Moonglove|C
+Lay of the Land|C
+Leovold's Operative|C
+Leovold, Emissary of Trest|M
+Lieutenants of the Guard|C
+Manaplasm|U
+Marchesa's Decree|U
+Mausoleum Turnkey|U
+Menagerie Liberator|C
+Merfolk Looter|U
+Merfolk Skyscout|U
+Messenger Jays|C
+Mnemonic Wall|C
+Murder|C
+Negate|C
+Nessian Asp|U
+Netcaster Spider|C
+Noble Banneret|U
+Ogre Sentry|C
+Omenspeaker|C
+Opaline Unicorn|C
+Orchard Elemental|C
+Overrun|U
+Palace Jailer|U
+Palace Sentinels|C
+Paliano Vanguard|R
+Pariah|R
+Pharika's Mender|U
+Phyrexian Arena|R
+Platinum Angel|M
+Plummet|C
+Prey Upon|C
+Protector of the Crown|R
+Psychosis Crawler|R
+Public Execution|U
+Pyretic Hunter|U
+Queen Marchesa|M
+Raise Dead|C
+Raise the Alarm|C
+Ravenous Leucrocota|C
+Recruiter of the Guard|R
+Regal Behemoth|R
+Regicide|C
+Repulse|C
+Reviving Dose|C
+Rogue's Passage|U
+Runed Servitor|U
+Sanctum Prelate|M
+Sangromancer|R
+Selvala's Stampede|R
+Selvala, Heart of the Wilds|M
+Serum Visions|U
+Shambling Goblin|C
+Shimmering Grotto|U
+Shipwreck Singer|U
+Show and Tell|M
+Sinuous Vermin|C
+Skittering Crustacean|C
+Skyline Despot|R
+Smuggler Captain|U
+Spectral Grasp|U
+Sphinx of Magosi|R
+Spire Phantasm|U
+Spirit of the Hearth|R
+Splitting Slime|R
+Spy Kit|U
+Stoneshock Giant|U
+Stormchaser Chimera|U
+Strength in Numbers|C
+Stromkirk Patrol|C
+Stunt Double|R
+Subterranean Tremors|M
+Sulfurous Blast|U
+Sylvan Bounty|C
+Thorn of the Black Rose|C
+Throne of the High City|R
+Throne Warden|C
+Tormenting Voice|C
+Traumatic Visions|C
+Trumpet Blast|C
+Twin Bolt|C
+Unnerve|C
+Vaporkin|C
+Vertigo Spawn|U
+Volatile Chimera|R
+Voyaging Satyr|C
+Wild Griffin|C
+Wild Pair|R
+Windborne Charge|U
+Wings of the Guard|C
+Zealous Strike|C

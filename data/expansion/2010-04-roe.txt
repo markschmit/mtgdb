@@ -1,0 +1,233 @@
+Affa Guard Hound|U
+Akoum Boulderfoot|U
+All Is Dust|M
+Ancient Stirrings|C
+Angelheart Vial|R
+Arrogant Bloodlord|U
+Artisan of Kozilek|U
+Aura Finesse|C
+Aura Gnarlid|C
+Awakening Zone|R
+Bala Ged Scorpion|C
+Baneful Omen|R
+Battle Rampart|C
+Battle-Rattle Shaman|C
+Bear Umbra|R
+Beastbreaker of Bala Ged|U
+Bloodrite Invoker|C
+Bloodthrone Vampire|C
+Boar Umbra|U
+Bramblesnap|U
+Brimstone Mage|U
+Brood Birthing|C
+Broodwarden|U
+Cadaver Imp|C
+Caravan Escort|C
+Cast Through Time|M
+Champion's Drake|C
+Conquering Manticore|R
+Consume the Meek|R
+Consuming Vapors|R
+Contaminated Ground|C
+Coralhelm Commander|R
+Corpsehatch|U
+Crab Umbra|U
+Curse of Wizardry|U
+Daggerback Basilisk|C
+Dawnglare Invoker|C
+Death Cultist|C
+Deathless Angel|R
+Demonic Appetite|C
+Demystify|C
+Deprive|C
+Devastating Summons|R
+Disaster Radius|R
+Distortion Strike|C
+Domestication|U
+Dormant Gomazoa|R
+Drake Umbra|U
+Drana, Kalastria Bloodchief|R
+Dread Drone|C
+Dreamstone Hedron|U
+Echo Mage|R
+Eel Umbra|C
+Eland Umbra|C
+Eldrazi Conscription|R
+Eldrazi Temple|R
+Emerge Unscathed|U
+Emrakul's Hatcher|C
+Emrakul, the Aeons Torn|M
+Enatu Golem|U
+Enclave Cryptologist|U
+Escaped Null|U
+Essence Feed|C
+Evolving Wilds|C
+Explosive Revelation|U
+Fissure Vent|C
+Flame Slash|C
+Fleeting Distraction|C
+Forest|L
+Forked Bolt|U
+Frostwind Invoker|C
+Gelatinous Genesis|R
+Gideon Jura|M
+Gigantomancer|R
+Gloomhunter|C
+Glory Seeker|C
+Goblin Arsonist|C
+Goblin Tunneler|C
+Gravitational Shift|R
+Gravity Well|U
+Grotag Siege-Runner|C
+Growth Spasm|C
+Guard Duty|C
+Guard Gomazoa|U
+Guul Draz Assassin|R
+Hada Spy Patrol|U
+Halimar Wavewatch|C
+Hand of Emrakul|C
+Harmless Assault|C
+Haze Frog|C
+Heat Ray|C
+Hedron Matrix|R
+Hedron-Field Purists|R
+Hellcarver Demon|M
+Hellion Eruption|R
+Hyena Umbra|C
+Ikiral Outrider|C
+Induce Despair|C
+Inquisition of Kozilek|U
+Irresistible Prey|U
+Island|L
+It That Betrays|R
+Jaddi Lifestrider|U
+Joraga Treespeaker|U
+Jwari Scuttler|C
+Kabira Vindicator|U
+Kargan Dragonlord|M
+Kazandu Tuskcaller|R
+Keening Stone|R
+Khalni Hydra|M
+Kiln Fiend|C
+Knight of Cliffhaven|C
+Kor Line-Slinger|C
+Kor Spiritdancer|R
+Kozilek's Predator|C
+Kozilek, Butcher of Truth|M
+Lagac Lizard|C
+Last Kiss|C
+Lavafume Invoker|C
+Lay Bare|C
+Leaf Arrow|C
+Lighthouse Chronologist|M
+Lightmine Field|R
+Linvala, Keeper of Silence|M
+Living Destiny|C
+Lone Missionary|C
+Lord of Shatterskull Pass|R
+Luminous Wake|U
+Lust for War|U
+Magmaw|R
+Makindi Griffin|C
+Mammoth Umbra|U
+Merfolk Observer|C
+Merfolk Skyscout|U
+Might of the Masses|C
+Mnemonic Wall|C
+Momentous Fall|R
+Mortician Beetle|R
+Mountain|L
+Mul Daya Channelers|R
+Narcolepsy|C
+Naturalize|C
+Near-Death Experience|R
+Nema Siltlurker|C
+Nest Invader|C
+Nighthaze|C
+Nirkana Cutthroat|U
+Nirkana Revenant|M
+Nomads' Assembly|R
+Not of This World|U
+Null Champion|C
+Ogre Sentry|C
+Ogre's Cleaver|U
+Ondu Giant|C
+Oust|U
+Overgrown Battlement|C
+Pathrazer of Ulamog|U
+Pawn of Ulamog|U
+Pelakka Wurm|U
+Pennon Blade|U
+Perish the Thought|C
+Pestilence Demon|R
+Phantasmal Abomination|U
+Plains|L
+Prey's Vengeance|U
+Prophetic Prism|C
+Puncturing Light|C
+Rage Nimbus|R
+Raid Bombardment|C
+Rapacious One|U
+Reality Spasm|U
+Realms Uncharted|R
+Recurring Insight|R
+Regress|C
+Reinforced Bulwark|C
+Renegade Doppelganger|R
+Repay in Kind|R
+Repel the Darkness|C
+Runed Servitor|U
+Sarkhan the Mad|M
+Sea Gate Oracle|C
+See Beyond|C
+Shared Discovery|C
+Shrivel|C
+Skeletal Wurm|U
+Skittering Invasion|U
+Skywatcher Adept|C
+Smite|C
+Snake Umbra|C
+Soul's Attendant|C
+Soulbound Guardians|U
+Soulsurge Elemental|U
+Spawning Breath|C
+Spawnsire of Ulamog|R
+Sphinx of Magosi|R
+Sphinx-Bone Wand|R
+Spider Umbra|C
+Splinter Twin|R
+Sporecap Spider|C
+Staggershock|C
+Stalwart Shield-Bearers|C
+Stomper Cub|C
+Student of Warfare|R
+Suffer the Past|U
+Surrakar Spellblade|R
+Surreal Memoir|U
+Survival Cache|U
+Swamp|L
+Tajuru Preserver|R
+Thought Gorger|R
+Time of Heroes|U
+Totem-Guide Hartebeest|C
+Training Grounds|R
+Traitorous Instinct|U
+Transcendent Master|M
+Tuktuk the Explorer|R
+Ulamog's Crusher|C
+Ulamog, the Infinite Gyre|M
+Umbra Mystic|R
+Unified Will|U
+Valakut Fireboar|U
+Vendetta|C
+Venerated Teacher|C
+Vengevine|M
+Vent Sentinel|C
+Virulent Swipe|U
+Wall of Omens|U
+Warmonger's Chariot|U
+Wildheart Invoker|C
+World at War|R
+Wrap in Flames|C
+Zof Shade|C
+Zulaport Enforcer|C

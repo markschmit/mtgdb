@@ -1,0 +1,82 @@
+Air Elemental|S
+Balduvian Horde|S
+Ball Lightning|S
+Blizzard Elemental|S
+Bloodrock Cyclops|S
+Bone Harvest|S
+Brainstorm|S
+Clockwork Avian|S
+Clockwork Beast|S
+Cloud Djinn|S
+Cloud Elemental|S
+Coercion|S
+Counterspell|S
+Crash of Rhinos|S
+Crashing Boars|S
+Dark Ritual|S
+Deadly Insect|S
+Death Stroke|S
+Diabolic Edict|S
+Diabolic Vision|S
+Drain Life|S
+Dwarven Ruins|S
+Ebon Stronghold|S
+Erhnam Djinn|S
+Fallen Angel|S
+Feral Shadow|S
+Fireball|S
+Fog|S
+Fog Elemental|S
+Force of Nature|S
+Forest|L
+Gaseous Form|S
+Giant Crab|S
+Giant Growth|S
+Gravedigger|S
+Havenwood Battleground|S
+Hollow Dogs|S
+Hulking Cyclops|S
+Impulse|S
+Island|L
+Killer Whale|S
+Kird Ape|S
+Lava Axe|S
+Leviathan|S
+Lightning Bolt|S
+Llanowar Elves|S
+Lowland Giant|S
+Mahamoti Djinn|S
+Mountain|L
+Plated Spider|S
+Polluted Mire|S
+Power Sink|S
+Quirion Elves|S
+Raging Goblin|S
+Rampant Growth|S
+Remote Isle|S
+Scaled Wurm|S
+Segmented Wurm|S
+Sengir Vampire|S
+Shambling Strider|S
+Shivan Dragon|S
+Shock|S
+Skittering Horror|S
+Skittering Skirge|S
+Slippery Karst|S
+Smoldering Crater|S
+Snapping Drake|S
+Sonic Burst|S
+Svyelunite Temple|S
+Swamp|L
+Talruum Minotaur|S
+Tar Pit Warrior|S
+Terror|S
+Thunderbolt|S
+Thundering Giant|S
+Tolarian Winds|S
+Viashino Warrior|S
+Vigilant Drake|S
+Wayward Soul|S
+Wild Growth|S
+Woolly Spider|S
+Yavimaya Wurm|S

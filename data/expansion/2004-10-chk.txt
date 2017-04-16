@@ -1,0 +1,301 @@
+Akki Avalanchers|C
+Akki Coalflinger|U
+Akki Lavarunner|R
+Akki Rockspeaker|C
+Akki Underminer|U
+Ashen-Skin Zubera|C
+Aura of Dominion|U
+Autumn-Tail, Kitsune Sage|R
+Azami, Lady of Scrolls|R
+Azusa, Lost but Seeking|R
+Battle-Mad Ronin|C
+Befoul|C
+Ben-Ben, Akki Hermit|R
+Blessed Breath|C
+Blind with Anger|U
+Blood Rites|U
+Blood Speaker|U
+Bloodthirsty Ogre|U
+Boseiju, Who Shelters All|R
+Brothers Yamazaki|U
+Brutal Deceiver|C
+Budoka Gardener|R
+Burr Grafter|C
+Bushi Tenderfoot|U
+Cage of Hands|C
+Call to Glory|C
+Callous Deceiver|C
+Candles' Glow|U
+Cleanfall|U
+Cloudcrest Lake|U
+Commune with Nature|C
+Consuming Vortex|C
+Counsel of the Soratami|C
+Cranial Extraction|R
+Cruel Deceiver|C
+Crushing Pain|C
+Cursed Ronin|C
+Cut the Tethers|U
+Dampen Thought|U
+Dance of Shadows|U
+Deathcurse Ogre|C
+Desperate Ritual|C
+Devoted Retainer|C
+Devouring Greed|C
+Devouring Rage|C
+Distress|C
+Dokai, Weaver of Life|R
+Dosan the Falling Leaf|R
+Dripping-Tongue Zubera|C
+Earthshaker|U
+Eerie Procession|U
+Eiganjo Castle|R
+Eight-and-a-Half-Tails|R
+Ember-Fist Zubera|C
+Ethereal Haze|C
+Eye of Nowhere|C
+Feast of Worms|U
+Feral Deceiver|C
+Field of Reality|C
+Floating-Dream Zubera|C
+Forbidden Orchard|R
+Forest|L
+Frostwielder|C
+Gale Force|U
+General's Kabuto|R
+Ghostly Prison|U
+Gibbering Kami|C
+Gifts Ungiven|R
+Glacial Ray|C
+Glimpse of Nature|R
+Godo, Bandit Warlord|R
+Goka the Unjust|U
+Graceful Adept|U
+Guardian of Solitude|U
+Gutwrencher Oni|U
+Hair-Strung Koto|R
+Hall of the Bandit Lord|R
+Hana Kami|U
+Hanabi Blast|U
+Hankyu|U
+Harsh Deceiver|C
+He Who Hungers|R
+Heartbeat of Spring|R
+Hearth Kami|C
+Hideous Laughter|U
+Hikari, Twilight Guardian|R
+Hinder|U
+Hisoka's Defiance|C
+Hisoka's Guard|C
+Hisoka, Minamo Sensei|R
+Hold the Line|R
+Honden of Cleansing Fire|U
+Honden of Infinite Rage|U
+Honden of Life's Web|U
+Honden of Night's Reach|U
+Honden of Seeing Winds|U
+Honor-Worn Shaku|U
+Horizon Seed|U
+Horobi, Death's Wail|R
+Humble Budoka|C
+Hundred-Talon Kami|C
+Imi Statue|R
+Iname, Death Aspect|R
+Iname, Life Aspect|R
+Indomitable Will|C
+Initiate of Blood|U
+Innocence Kami|U
+Isamaru, Hound of Konda|R
+Island|L
+Jade Idol|U
+Journeyer's Kite|R
+Joyous Respite|C
+Jugan, the Rising Star|R
+Jukai Messenger|C
+Junkyo Bell|R
+Jushi Apprentice|R
+Kabuto Moth|C
+Kami of Ancient Law|C
+Kami of Fire's Roar|C
+Kami of Lunacy|U
+Kami of Old Stone|U
+Kami of the Hunt|C
+Kami of the Painted Road|C
+Kami of the Palace Fields|U
+Kami of the Waning Moon|C
+Kami of Twisted Reflection|C
+Kashi-Tribe Reaver|U
+Kashi-Tribe Warriors|C
+Keiga, the Tide Star|R
+Kenzo the Hardhearted|U
+Kiki-Jiki, Mirror Breaker|R
+Kiku, Night's Flower|R
+Kitsune Blademaster|C
+Kitsune Diviner|C
+Kitsune Healer|C
+Kitsune Mystic|R
+Kitsune Riftwalker|C
+Kodama of the North Tree|R
+Kodama of the South Tree|R
+Kodama's Might|C
+Kodama's Reach|C
+Kokusho, the Evening Star|R
+Konda's Banner|R
+Konda's Hatamoto|U
+Konda, Lord of Eiganjo|R
+Kumano's Pupils|U
+Kumano, Master Yamabushi|R
+Kuro, Pitlord|R
+Kusari-Gama|R
+Lantern Kami|C
+Lantern-Lit Graveyard|U
+Lava Spike|C
+Lifted by Clouds|C
+Long-Forgotten Gohei|R
+Lure|U
+Mana Seism|U
+Marrow-Gnawer|R
+Masako the Humorless|R
+Matsu-Tribe Decoy|C
+Meloku the Clouded Mirror|R
+Midnight Covenant|C
+Minamo, School at Water's Edge|R
+Mindblaze|R
+Moonring Mirror|R
+Moss Kami|C
+Mothrider Samurai|C
+Mountain|L
+Myojin of Cleansing Fire|R
+Myojin of Infinite Rage|R
+Myojin of Life's Web|R
+Myojin of Night's Reach|R
+Myojin of Seeing Winds|R
+Mystic Restraints|C
+Nagao, Bound by Honor|U
+Nature's Will|R
+Nezumi Bone-Reader|U
+Nezumi Cutthroat|C
+Nezumi Graverobber|U
+Nezumi Ronin|C
+Nezumi Shortfang|R
+Night Dealings|R
+Night of Souls' Betrayal|R
+Nighteyes the Desecrator|U
+Nine-Ringed Bo|U
+No-Dachi|U
+Numai Outcast|U
+Oathkeeper, Takeno's Daisho|R
+Okina, Temple to the Grandfathers|R
+Oni Possession|U
+Orbweaver Kumo|U
+Order of the Sacred Bell|C
+Ore Gorger|U
+Orochi Eggwatcher|U
+Orochi Hatchery|R
+Orochi Leafcaller|C
+Orochi Ranger|C
+Orochi Sustainer|C
+Otherworldly Journey|U
+Pain Kami|U
+Painwracker Oni|U
+Part the Veil|R
+Peer Through Depths|C
+Petals of Insight|U
+Pinecrest Ridge|U
+Pious Kitsune|C
+Plains|L
+Psychic Puppetry|C
+Pull Under|C
+Quiet Purity|C
+Rag Dealer|C
+Ragged Veins|C
+Reach Through Mists|C
+Reciprocate|U
+Reito Lantern|U
+Rend Flesh|C
+Rend Spirit|C
+Reverse the Sands|R
+Reweave|R
+River Kaijin|C
+Ronin Houndmaster|C
+Rootrunner|U
+Ryusei, the Falling Star|R
+Sachi, Daughter of Seshiro|U
+Sakura-Tribe Elder|C
+Samurai Enforcers|U
+Samurai of the Pale Curtain|U
+Scuttling Death|C
+Seizan, Perverter of Truth|R
+Sensei Golden-Tail|R
+Sensei's Divining Top|U
+Serpent Skin|C
+Seshiro the Anointed|R
+Shell of the Last Kappa|R
+Shidako, Broodmistress|U
+Shimatsu the Bloodcloaked|R
+Shinka, the Bloodsoaked Keep|R
+Shisato, Whispering Hunter|R
+Shizo, Death's Storehouse|R
+Sideswipe|U
+Sift Through Sands|C
+Silent-Chant Zubera|C
+Sire of the Storm|U
+Soilshaper|U
+Sokenzan Bruiser|C
+Soratami Cloudskater|C
+Soratami Mirror-Guard|C
+Soratami Mirror-Mage|U
+Soratami Rainshaper|C
+Soratami Savant|U
+Soratami Seer|U
+Sosuke, Son of Seshiro|U
+Soul of Magma|C
+Soulblast|R
+Soulless Revival|C
+Squelch|U
+Stabwhisker the Odious|R
+Stone Rain|C
+Strange Inversion|U
+Strength of Cedars|U
+Struggle for Sanity|U
+Student of Elements|U
+Swallowing Plague|U
+Swamp|L
+Swirl the Mists|R
+Takeno, Samurai General|R
+Tatsumasa, the Dragon's Fang|R
+Teller of Tales|C
+Tenza, Godo's Maul|U
+Terashi's Cry|C
+The Unspeakable|R
+Thief of Hope|U
+Thoughtbind|C
+Thousand-legged Kami|U
+Through the Breach|R
+Tide of War|R
+Time of Need|U
+Time Stop|R
+Tobita, Master of Winds|U
+Tok-Tok, Volcano Born|R
+Tomoya the Revealer|R
+Tranquil Garden|U
+Uba Mask|R
+Uncontrollable Anger|C
+Unearthly Blizzard|C
+Unnatural Speed|C
+Untaidake, the Cloud Keeper|R
+Uyo, Silent Prophet|R
+Vassal's Duty|R
+Venerable Kumo|C
+Vigilance|C
+Villainous Ogre|C
+Vine Kami|C
+Waking Nightmare|C
+Wandering Ones|C
+Waterveil Cavern|U
+Wear Away|C
+Wicked Akuba|C
+Yamabushi's Flame|C
+Yamabushi's Storm|C
+Yosei, the Morning Star|R
+Zo-Zu the Punisher|R

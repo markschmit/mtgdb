@@ -1,0 +1,335 @@
+Abyssal Hunter|R
+Acidic Dagger|R
+Afiya Grove|R
+Afterlife|U
+Agility|C
+Alarum|C
+Aleatory|U
+Amber Prison|R
+Amulet of Unmaking|R
+Ancestral Memories|R
+Armor of Thorns|C
+Armorer Guildmage|C
+Ashen Powder|R
+Asmira, Holy Avenger|R
+Auspicious Ancestor|R
+Azimaet Drake|C
+Bad River|U
+Barbed Foliage|U
+Barbed-Back Wurm|U
+Barreling Attack|R
+Basalt Golem|U
+Bay Falcon|C
+Bazaar of Wonders|R
+Benevolent Unicorn|C
+Benthic Djinn|R
+Binding Agony|C
+Blighted Shaman|U
+Blind Fury|U
+Blinding Light|U
+Blistering Barrier|C
+Bone Harvest|C
+Bone Mask|R
+Boomerang|C
+Breathstealer|C
+Brushwagg|R
+Builder's Bane|C
+Burning Palm Efreet|U
+Burning Shield Askari|C
+Cadaverous Bloom|R
+Cadaverous Knight|C
+Canopy Dragon|R
+Carrion|R
+Catacomb Dragon|R
+Celestial Dawn|R
+Cerulean Wyvern|U
+Chaos Charm|C
+Chaosphere|R
+Charcoal Diamond|U
+Chariot of the Sun|U
+Choking Sands|C
+Cinder Cloud|U
+Circle of Despair|R
+Civic Guildmage|C
+Cloak of Invisibility|C
+Consuming Ferocity|U
+Coral Fighters|U
+Crash of Rhinos|C
+Crimson Hellkite|R
+Crimson Roc|U
+Crypt Cobra|U
+Crystal Golem|U
+Crystal Vein|U
+Cursed Totem|R
+Cycle of Life|R
+Daring Apprentice|R
+Dark Banishing|C
+Dark Ritual|C
+Dazzling Beauty|C
+Decomposition|U
+Delirium|U
+Dirtwater Wraith|C
+Discordant Spirit|R
+Disempower|C
+Disenchant|C
+Dissipate|U
+Divine Offering|C
+Divine Retribution|R
+Drain Life|C
+Dread Specter|U
+Dream Cache|C
+Dream Fighter|C
+Dwarven Miner|U
+Dwarven Nomad|C
+Early Harvest|R
+Ebony Charm|C
+Ekundu Cyclops|C
+Ekundu Griffin|C
+Elixir of Vitality|U
+Emberwilde Caliph|R
+Emberwilde Djinn|R
+Energy Bolt|R
+Energy Vortex|R
+Enfeeblement|C
+Enlightened Tutor|U
+Ersatz Gnomes|U
+Ether Well|U
+Ethereal Champion|R
+Fallow Earth|U
+Favorable Destiny|U
+Femeref Archers|U
+Femeref Healer|C
+Femeref Knight|C
+Femeref Scouts|C
+Feral Shadow|C
+Fetid Horror|C
+Final Fortune|R
+Fire Diamond|U
+Firebreathing|C
+Flame Elemental|U
+Flare|C
+Flash|R
+Flood Plain|U
+Floodgate|U
+Fog|C
+Foratog|U
+Forbidden Crypt|R
+Forest|L
+Forsaken Wastes|R
+Frenetic Efreet|R
+Giant Mantis|C
+Gibbering Hyenas|C
+Goblin Elite Infantry|C
+Goblin Scouts|U
+Goblin Soothsayer|U
+Goblin Tinkerer|C
+Granger Guildmage|C
+Grasslands|U
+Grave Servitude|C
+Gravebane Zombie|C
+Grim Feast|R
+Grinning Totem|R
+Hakim, Loreweaver|R
+Hall of Gemstone|R
+Hammer of Bogardan|R
+Harbinger of Night|R
+Harbor Guardian|U
+Harmattan Efreet|U
+Haunting Apparition|U
+Hazerider Drake|U
+Healing Salve|C
+Hivis of the Scale|R
+Horrible Hordes|U
+Igneous Golem|U
+Illicit Auction|R
+Illumination|U
+Incinerate|C
+Infernal Contract|R
+Iron Tusk Elephant|U
+Island|L
+Ivory Charm|C
+Jabari's Influence|R
+Jolrael's Centaur|C
+Jolt|C
+Jungle Patrol|R
+Jungle Troll|U
+Jungle Wurm|C
+Kaervek's Hex|U
+Kaervek's Purge|U
+Kaervek's Torch|C
+Karoo Meerkat|U
+Kukemssa Pirates|R
+Kukemssa Serpent|C
+Lead Golem|U
+Leering Gargoyle|R
+Lightning Reflexes|C
+Lion's Eye Diamond|R
+Locust Swarm|U
+Lure of Prey|R
+Malignant Growth|R
+Mana Prism|U
+Mangara's Blessing|U
+Mangara's Equity|U
+Mangara's Tome|R
+Marble Diamond|U
+Maro|R
+Meddle|U
+Melesse Spirit|U
+Memory Lapse|C
+Merfolk Raiders|C
+Merfolk Seer|C
+Mind Bend|U
+Mind Harness|U
+Mindbender Spores|R
+Mire Shade|U
+Misers' Cage|R
+Mist Dragon|R
+Moss Diamond|U
+Mountain|L
+Mountain Valley|U
+Mtenda Griffin|U
+Mtenda Herder|C
+Mtenda Lion|C
+Mystical Tutor|U
+Natural Balance|R
+Nettletooth Djinn|U
+Noble Elephant|C
+Nocturnal Raid|U
+Null Chamber|R
+Pacifism|C
+Painful Memories|U
+Patagia Golem|U
+Paupers' Cage|R
+Pearl Dragon|R
+Phyrexian Dreadnought|R
+Phyrexian Purge|R
+Phyrexian Tribute|R
+Phyrexian Vault|U
+Plains|L
+Political Trickery|R
+Polymorph|R
+Power Sink|C
+Preferred Selection|R
+Prismatic Boon|U
+Prismatic Circle|C
+Prismatic Lace|R
+Psychic Transfer|R
+Purgatory|R
+Purraj of Urborg|R
+Pyric Salamander|C
+Quirion Elves|C
+Radiant Essence|U
+Raging Spirit|C
+Rampant Growth|C
+Rashida Scalebane|R
+Ravenous Vampire|U
+Ray of Command|C
+Razor Pendulum|R
+Reality Ripple|C
+Reckless Embermage|R
+Reflect Damage|R
+Regeneration|C
+Reign of Chaos|U
+Reign of Terror|U
+Reparations|R
+Restless Dead|C
+Ritual of Steel|C
+Rock Basilisk|R
+Rocky Tar Pit|U
+Roots of Life|U
+Sabertooth Cobra|C
+Sacred Mesa|R
+Sand Golem|U
+Sandbar Crocodile|C
+Sandstorm|C
+Sapphire Charm|C
+Savage Twister|U
+Sawback Manticore|R
+Sea Scryer|C
+Sealed Fate|U
+Searing Spear Askari|C
+Seedling Charm|C
+Seeds of Innocence|R
+Serene Heart|C
+Sewer Rats|C
+Shadow Guildmage|C
+Shadowbane|U
+Shallow Grave|R
+Shaper Guildmage|C
+Shauku's Minion|U
+Shauku, Endbringer|R
+Shimmer|R
+Sidar Jabari|R
+Sirocco|U
+Skulking Ghost|C
+Sky Diamond|U
+Soar|C
+Soul Echo|R
+Soul Rend|U
+Soulshriek|C
+Spatial Binding|U
+Spectral Guardian|R
+Spirit of the Night|R
+Spitting Earth|C
+Stalking Tiger|C
+Stone Rain|C
+Stupor|U
+Subterranean Spirit|R
+Sunweb|R
+Superior Numbers|U
+Suq'Ata Firewalker|U
+Swamp|L
+Tainted Specter|R
+Talruum Minotaur|C
+Taniwha|R
+Teeka's Dragon|R
+Teferi's Curse|C
+Teferi's Drake|C
+Teferi's Imp|R
+Teferi's Isle|R
+Telim'Tor|R
+Telim'Tor's Darts|U
+Telim'Tor's Edict|R
+Teremko Griffin|C
+Thirst|C
+Tidal Wave|U
+Tombstone Stairwell|R
+Torrent of Lava|R
+Tranquil Domain|C
+Tropical Storm|U
+Uktabi Faerie|C
+Uktabi Wildcats|R
+Unerring Sling|U
+Unfulfilled Desires|R
+Unseen Walker|U
+Unyaro Bee Sting|U
+Unyaro Griffin|U
+Urborg Panther|C
+Vaporous Djinn|U
+Ventifact Bottle|R
+Viashino Warrior|C
+Vigilant Martyr|U
+Village Elder|C
+Vitalizing Cascade|U
+Volcanic Dragon|R
+Volcanic Geyser|U
+Waiting in the Weeds|R
+Wall of Corpses|C
+Wall of Resistance|C
+Wall of Roots|C
+Ward of Lights|C
+Warping Wurm|R
+Wave Elemental|U
+Wellspring|R
+Wild Elephant|C
+Wildfire Emissary|U
+Windreaper Falcon|U
+Withering Boon|U
+Worldly Tutor|U
+Yare|R
+Zebra Unicorn|U
+Zhalfirin Commander|U
+Zhalfirin Knight|C
+Zirilan of the Claw|R
+Zombie Mob|U
+Zuberi, Golden Feather|R

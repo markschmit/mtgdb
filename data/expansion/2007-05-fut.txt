@@ -1,0 +1,180 @@
+Akroma's Memorial|R
+Angel of Salvation|R
+Arc Blade|U
+Arcanum Wings|U
+Augur il-Vec|C
+Augur of Skulls|C
+Aven Augur|C
+Aven Mindcensor|U
+Barren Glory|R
+Baru, Fist of Krosa|R
+Bitter Ordeal|R
+Blade of the Sixth Pride|C
+Blind Phantasm|C
+Bloodshot Trainee|U
+Bogardan Lancer|C
+Boldwyr Intimidator|U
+Bonded Fetch|U
+Bound in Silence|U
+Bridge from Below|R
+Centaur Omenreader|U
+Char-Rumbler|U
+Chronomantic Escape|U
+Cloud Key|R
+Cloudseeder|U
+Coalition Relic|R
+Cryptic Annelid|U
+Cutthroat il-Dal|C
+Cyclical Evolution|U
+Dakmor Salvage|U
+Darksteel Garrison|R
+Daybreak Coronet|R
+Death Rattle|C
+Deepcavern Imp|C
+Delay|U
+Dryad Arbor|U
+Dust of Moments|U
+Edge of Autumn|C
+Emberwilde Augur|C
+Emblem of the Warmind|U
+Epochrasite|R
+Even the Odds|U
+Fatal Attraction|C
+Festering March|U
+Fleshwrither|U
+Flowstone Embrace|C
+Fomori Nomad|C
+Force of Savagery|R
+Foresee|C
+Frenzy Sliver|C
+Gathan Raiders|C
+Ghostfire|C
+Gibbering Descent|R
+Gift of Granite|C
+Glittering Wish|R
+Goldmeadow Lookout|U
+Grave Peril|C
+Grave Scrabbler|C
+Graven Cairns|R
+Grinning Ignus|C
+Grove of the Burnwillows|R
+Haze of Rage|U
+Heartwood Storyteller|R
+Henchfiend of Ukor|C
+Homing Sliver|C
+Horizon Canopy|R
+Ichor Slick|C
+Imperial Mask|R
+Imperiosaur|U
+Infiltrator il-Kor|C
+Intervention Pact|R
+Jhoira of the Ghitu|R
+Judge Unworthy|C
+Kavu Primarch|C
+Keldon Megaliths|U
+Knight of Sursi|C
+Korlash, Heir to Blackblade|R
+Leaden Fists|C
+Linessa, Zephyr Mage|R
+Llanowar Augur|C
+Llanowar Empath|C
+Llanowar Mentor|U
+Llanowar Reborn|U
+Logic Knot|C
+Lost Auramancers|U
+Lost Hours|C
+Lucent Liminid|C
+Lumithread Field|C
+Lymph Sliver|C
+Maelstrom Djinn|R
+Magus of the Abyss|R
+Magus of the Future|R
+Magus of the Moat|R
+Magus of the Moon|R
+Magus of the Vineyard|R
+Marshaling Cry|C
+Mass of Ghouls|C
+Mesmeric Sliver|C
+Minions' Murmurs|U
+Mistmeadow Skulk|U
+Molten Disaster|R
+Muraganda Petroglyphs|R
+Mystic Speculation|U
+Nacatl War-Pride|U
+Narcomoeba|U
+Nessian Courser|C
+New Benalia|U
+Nihilith|R
+Nimbus Maze|R
+Nix|R
+Oblivion Crown|C
+Oriss, Samite Guardian|R
+Pact of Negation|R
+Pact of the Titan|R
+Patrician's Scorn|C
+Petrified Plating|C
+Phosphorescent Feast|U
+Pooling Venom|U
+Putrid Cyclops|C
+Pyromancer's Swath|R
+Quagnoth|R
+Quiet Disrepair|C
+Ramosian Revivalist|U
+Ravaging Riftwurm|U
+Reality Strobe|U
+Riddle of Lightning|C
+Rift Elemental|C
+Riftsweeper|U
+Rites of Flourishing|R
+River of Tears|R
+Saltskitter|C
+Samite Censer-Bearer|C
+Sarcomite Myr|C
+Scourge of Kher Ridges|R
+Scout's Warning|R
+Second Wind|U
+Seht's Tiger|R
+Shah of Naar Isle|R
+Shapeshifter's Marrow|R
+Shimian Specter|R
+Shivan Sand-Mage|U
+Skirk Ridge Exhumer|U
+Skizzik Surger|U
+Slaughter Pact|R
+Sliver Legion|R
+Sliversmith|U
+Snake Cult Initiation|U
+Soultether Golem|U
+Sparkspitter|U
+Spellweaver Volute|R
+Spellwild Ouphe|U
+Spin into Myth|U
+Spirit en-Dal|U
+Sporoloth Ancient|C
+Sprout Swarm|C
+Steamflogger Boss|R
+Storm Entity|U
+Street Wraith|U
+Stronghold Rats|U
+Summoner's Pact|R
+Sword of the Meek|U
+Take Possession|R
+Tarmogoyf|R
+Tarox Bladewing|R
+Thornweald Archer|C
+Thunderblade Charge|R
+Tolaria West|U
+Tombstalker|R
+Unblinking Bleb|C
+Utopia Mycon|U
+Vedalken Aethermage|C
+Veilstone Amulet|R
+Venser's Diffusion|C
+Venser, Shaper Savant|R
+Virulent Sliver|C
+Whetwheel|R
+Whip-Spine Drake|C
+Witch's Mist|U
+Wrap in Vigor|C
+Yixlid Jailer|U
+Zoetic Cavern|U

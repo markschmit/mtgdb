@@ -1,0 +1,190 @@
+Aethermage's Touch|R
+Anthem of Rakdos|R
+Aquastrand Spider|C
+Assault Zeppelid|C
+Aurora Eidolon|C
+Avatar of Discord|R
+Azorius Aethermage|U
+Azorius Chancery|C
+Azorius First-Wing|C
+Azorius Guildmage|U
+Azorius Herald|U
+Azorius Ploy|U
+Azorius Signet|C
+Beacon Hawk|C
+Biomantic Mastery|R
+Blessing of the Nephilim|U
+Blood Crypt|R
+Bond of Agony|U
+Bound (Bound/Determined)|R
+Brace for Impact|U
+Brain Pry|U
+Breeding Pool|R
+Bronze Bombshell|R
+Cackling Flames|C
+Carom|C
+Celestial Ancient|R
+Coiling Oracle|C
+Condemn|U
+Court Hussar|U
+Crime (Crime/Punishment)|R
+Crypt Champion|U
+Cytoplast Manipulator|R
+Cytoplast Root-Kin|R
+Cytoshape|R
+Cytospawn Shambler|C
+Delirium Skeins|C
+Demand (Supply/Demand)|U
+Demon's Jester|C
+Demonfire|R
+Determined (Bound/Determined)|R
+Development (Research/Development)|R
+Dovescape|R
+Dread Slag|R
+Drekavac|U
+Elemental Resonance|R
+Ends (Odds/Ends)|R
+Enemy of the Guildpact|C
+Enigma Eidolon|C
+Entropic Eidolon|C
+Error (Trial/Error)|U
+Evolution Vat|R
+Experiment Kraj|R
+Fall (Rise/Fall)|U
+Fertile Imagination|U
+Flame-Kin War Scout|U
+Flaring Flame-Kin|U
+Flash Foliage|U
+Freewind Equenaut|C
+Ghost Quarter|U
+Gnat Alley Creeper|U
+Gobhobbler Rats|C
+Govern the Guildless|R
+Grand Arbiter Augustin IV|R
+Guardian of the Guildpact|C
+Haazda Exonerator|C
+Haazda Shield Mate|R
+Hallowed Fountain|R
+Helium Squirter|C
+Hellhole Rats|U
+Hide (Hide/Seek)|R
+Hit (Hit/Run)|U
+Ignorant Bliss|U
+Indrik Stomphowler|U
+Infernal Tutor|R
+Isperia the Inscrutable|R
+Jagged Poppet|U
+Kill-Suit Cultist|C
+Kindle the Carnage|U
+Leafdrake Roost|U
+Loaming Shaman|R
+Lyzolda, the Blood Witch|R
+Macabre Waltz|C
+Magewright's Stone|U
+Might of the Nephilim|U
+Minister of Impediments|C
+Mistral Charger|U
+Momir Vig, Simic Visionary|R
+Muse Vessel|R
+Nettling Curse|C
+Nightcreep|U
+Nihilistic Glee|R
+Novijen Sages|R
+Novijen, Heart of Progress|U
+Ocular Halo|C
+Odds (Odds/Ends)|R
+Ogre Gatecrasher|C
+Omnibian|R
+Overrule|C
+Pain Magnification|U
+Paladin of Prahv|U
+Palliation Accord|U
+Patagia Viper|U
+Pillar of the Paruns|R
+Plaxcaster Frogling|U
+Plaxmanta|U
+Plumes of Peace|C
+Prahv, Spires of Order|U
+Pride of the Clouds|R
+Proclamation of Rebirth|R
+Proper Burial|R
+Protean Hulk|R
+Psychic Possession|R
+Psychotic Fury|C
+Punishment (Crime/Punishment)|R
+Pure (Pure/Simple)|U
+Ragamuffyn|U
+Rain of Gore|R
+Rakdos Augermage|R
+Rakdos Carnarium|C
+Rakdos Guildmage|U
+Rakdos Ickspitter|C
+Rakdos Pit Dragon|R
+Rakdos Riteknife|R
+Rakdos Signet|C
+Rakdos the Defiler|R
+Ratcatcher|R
+Research (Research/Development)|R
+Riot Spikes|C
+Rise (Rise/Fall)|U
+Rix Maadi, Dungeon Palace|U
+Run (Hit/Run)|U
+Sandstorm Eidolon|C
+Seal of Doom|C
+Seal of Fire|C
+Seek (Hide/Seek)|R
+Shielding Plax|C
+Silkwing Scout|C
+Simic Basilisk|U
+Simic Growth Chamber|C
+Simic Guildmage|U
+Simic Initiate|C
+Simic Ragworm|C
+Simic Signet|C
+Simic Sky Swallower|R
+Simple (Pure/Simple)|U
+Skullmead Cauldron|U
+Sky Hussar|U
+Skyscribing|U
+Slaughterhouse Bouncer|C
+Slithering Shade|U
+Soulsworn Jury|C
+Spell Snare|U
+Sporeback Troll|C
+Sprouting Phytohydra|R
+Squealing Devil|U
+Stalking Vengeance|R
+Steeling Stance|C
+Stoic Ephemera|U
+Stomp and Howl|U
+Stormscale Anarch|R
+Street Savvy|C
+Supply (Supply/Demand)|U
+Swift Silence|R
+Taste for Mayhem|C
+Thrive|C
+Tidespout Tyrant|R
+Transguild Courier|U
+Trial (Trial/Error)|U
+Trygon Predator|U
+Twinstrike|U
+Unliving Psychopath|R
+Utopia Sprawl|C
+Utvara Scalper|C
+Valor Made Real|C
+Verdant Eidolon|C
+Vesper Ghoul|C
+Vigean Graftmage|U
+Vigean Hydropon|C
+Vigean Intuition|U
+Vision Skeins|C
+Voidslime|R
+Wakestone Gargoyle|R
+Walking Archive|R
+War's Toll|R
+Weight of Spires|U
+Whiptail Moloch|C
+Windreaver|R
+Wit's End|R
+Wrecking Ball|C
+Writ of Passage|C

@@ -1,0 +1,373 @@
+Abyssal Specter|U
+Adarkar Sentinel|U
+Adarkar Unicorn|C
+Adarkar Wastes|R
+Aegis of the Meek|R
+Aggression|U
+Altar of Bone|R
+Amulet of Quoz|R
+Anarchy|U
+Arctic Foxes|C
+Arcum's Sleigh|U
+Arcum's Weathervane|U
+Arcum's Whistle|U
+Arenson's Aura|C
+Armor of Faith|C
+Arnjlot's Ascent|C
+Ashen Ghoul|U
+Aurochs|C
+Avalanche|U
+Balduvian Barbarians|C
+Balduvian Bears|C
+Balduvian Conjurer|U
+Balduvian Hydra|R
+Balduvian Shaman|C
+Barbarian Guides|C
+Barbed Sextant|C
+Baton of Morale|U
+Battle Cry|U
+Battle Frenzy|C
+Binding Grasp|U
+Black Scarab|U
+Blessed Wine|C
+Blinking Spirit|R
+Blizzard|R
+Blue Scarab|U
+Bone Shaman|C
+Brainstorm|C
+Brand of Ill Omen|R
+Breath of Dreams|U
+Brine Shaman|C
+Brown Ouphe|C
+Brushland|R
+Burnt Offering|C
+Call to Arms|R
+Caribou Range|R
+Celestial Sword|R
+Centaur Archer|U
+Chaos Lord|R
+Chaos Moon|R
+Chromatic Armor|R
+Chub Toad|C
+Circle of Protection: Black|C
+Circle of Protection: Blue|C
+Circle of Protection: Green|C
+Circle of Protection: Red|C
+Circle of Protection: White|C
+Clairvoyance|C
+Cloak of Confusion|C
+Cold Snap|U
+Conquer|U
+Cooperation|C
+Counterspell|C
+Crown of the Ages|R
+Curse of Marit Lage|R
+Dance of the Dead|U
+Dark Banishing|C
+Dark Ritual|C
+Death Ward|C
+Deflection|R
+Demonic Consultation|U
+Despotic Scepter|R
+Diabolic Vision|U
+Dire Wolves|C
+Disenchant|C
+Dread Wight|R
+Dreams of the Dead|U
+Drift of the Dead|U
+Drought|U
+Dwarven Armory|R
+Earthlink|R
+Earthlore|C
+Elder Druid|R
+Elemental Augury|R
+Elkin Bottle|R
+Elvish Healer|C
+Enduring Renewal|R
+Energy Storm|R
+Enervate|C
+Errant Minion|C
+Errantry|C
+Essence Filter|C
+Essence Flare|C
+Essence Vortex|U
+Fanatical Fever|U
+Fear|C
+Fiery Justice|R
+Fire Covenant|U
+Flame Spirit|U
+Flare|C
+Flooded Woodlands|R
+Flow of Maggots|R
+Folk of the Pines|C
+Forbidden Lore|R
+Force Void|U
+Forest|L
+Forgotten Lore|U
+Formation|R
+Foul Familiar|C
+Foxfire|C
+Freyalise Supplicant|U
+Freyalise's Charm|U
+Freyalise's Winds|R
+Fumarole|U
+Fylgja|C
+Fyndhorn Bow|U
+Fyndhorn Brownie|C
+Fyndhorn Elder|U
+Fyndhorn Elves|C
+Fyndhorn Pollen|R
+Game of Chaos|R
+Gangrenous Zombies|C
+Gaze of Pain|C
+General Jarkeld|R
+Ghostly Flame|R
+Giant Growth|C
+Giant Trap Door Spider|U
+Glacial Chasm|U
+Glacial Crevasses|R
+Glacial Wall|U
+Glaciers|R
+Goblin Lyre|R
+Goblin Mutant|U
+Goblin Sappers|C
+Goblin Ski Patrol|C
+Goblin Snowman|U
+Gorilla Pack|C
+Gravebind|R
+Green Scarab|U
+Grizzled Wolverine|C
+Hallowed Ground|U
+Halls of Mist|R
+Heal|C
+Hecatomb|R
+Hematite Talisman|U
+Hipparion|U
+Hoar Shade|C
+Hot Springs|R
+Howl from Beyond|C
+Hurricane|U
+Hyalopterous Lemure|U
+Hydroblast|C
+Hymn of Rebirth|U
+Ice Cauldron|R
+Ice Floe|U
+Iceberg|U
+Icequake|U
+Icy Manipulator|U
+Icy Prison|R
+Illusionary Forces|C
+Illusionary Presence|R
+Illusionary Terrain|U
+Illusionary Wall|C
+Illusions of Grandeur|R
+Imposing Visage|C
+Incinerate|C
+Infernal Darkness|R
+Infernal Denizen|R
+Infinite Hourglass|R
+Infuse|C
+Island|L
+Jester's Cap|R
+Jester's Mask|R
+Jeweled Amulet|U
+Johtull Wurm|U
+Jokulhaups|R
+Juniper Order Druid|C
+Justice|U
+Karplusan Forest|R
+Karplusan Giant|U
+Karplusan Yeti|R
+Kelsinko Ranger|C
+Kjeldoran Dead|C
+Kjeldoran Elite Guard|U
+Kjeldoran Frostbeast|U
+Kjeldoran Guard|C
+Kjeldoran Knight|R
+Kjeldoran Phalanx|R
+Kjeldoran Royal Guard|R
+Kjeldoran Skycaptain|U
+Kjeldoran Skyknight|C
+Kjeldoran Warrior|C
+Knight of Stromgald|U
+Krovikan Elementalist|U
+Krovikan Fetish|C
+Krovikan Sorcerer|C
+Krovikan Vampire|U
+Land Cap|R
+Lapis Lazuli Talisman|U
+Lava Burst|C
+Lava Tubes|R
+Legions of Lim-Dûl|C
+Leshrac's Rite|U
+Leshrac's Sigil|U
+Lhurgoyf|R
+Lightning Blow|R
+Lim-Dûl's Cohort|C
+Lim-Dûl's Hex|U
+Lost Order of Jarkeld|R
+Lure|U
+Maddening Wind|U
+Magus of the Unseen|R
+Malachite Talisman|U
+Márton Stromgald|R
+Melee|U
+Melting|U
+Mercenaries|R
+Merieke Ri Berit|R
+Mesmeric Trance|R
+Meteor Shower|C
+Mind Ravel|C
+Mind Warp|U
+Mind Whip|R
+Minion of Leshrac|R
+Minion of Tevesh Szat|R
+Mistfolk|C
+Mole Worms|U
+Monsoon|R
+Moor Fiend|C
+Mountain|L
+Mountain Goat|C
+Mountain Titan|R
+Mudslide|R
+Musician|R
+Mystic Might|R
+Mystic Remora|C
+Nacre Talisman|U
+Naked Singularity|R
+Nature's Lore|U
+Necropotence|R
+Norritt|C
+Oath of Lim-Dûl|R
+Onyx Talisman|U
+Orcish Cannoneers|U
+Orcish Conscripts|C
+Orcish Farmer|C
+Orcish Healer|U
+Orcish Librarian|R
+Orcish Lumberjack|C
+Orcish Squatters|R
+Order of the Sacred Torch|R
+Order of the White Shield|U
+Pale Bears|R
+Panic|C
+Pentagram of the Ages|R
+Pestilence Rats|C
+Phantasmal Mount|U
+Pit Trap|U
+Plains|L
+Polar Kraken|R
+Portent|C
+Power Sink|C
+Pox|R
+Prismatic Ward|C
+Pygmy Allosaurus|R
+Pyknite|C
+Pyroblast|C
+Pyroclasm|U
+Rally|C
+Ray of Command|C
+Ray of Erasure|C
+Reality Twist|R
+Reclamation|R
+Red Scarab|U
+Regeneration|C
+Rime Dryad|C
+Ritual of Subdual|R
+River Delta|R
+Runed Arch|R
+Sabretooth Tiger|C
+Sacred Boon|U
+Scaled Wurm|C
+Sea Spirit|U
+Seizures|C
+Seraph|R
+Shambling Strider|C
+Shatter|C
+Shield Bearer|C
+Shield of the Ages|U
+Shyft|R
+Sibilant Spirit|R
+Silver Erne|U
+Skeleton Ship|R
+Skull Catapult|U
+Sleight of Mind|U
+Snow Devil|C
+Snow Fortress|R
+Snow Hound|U
+Snow-Covered Forest|L
+Snow-Covered Island|L
+Snow-Covered Mountain|L
+Snow-Covered Plains|L
+Snow-Covered Swamp|L
+Snowblind|R
+Snowfall|C
+Soldevi Golem|R
+Soldevi Machinist|U
+Soldevi Simulacrum|U
+Songs of the Damned|C
+Soul Barrier|U
+Soul Burn|C
+Soul Kiss|C
+Spectral Shield|U
+Spoils of Evil|R
+Spoils of War|R
+Staff of the Ages|R
+Stampede|R
+Stench of Evil|U
+Stone Rain|C
+Stone Spirit|U
+Stonehands|C
+Storm Spirit|R
+Stormbind|R
+Stromgald Cabal|R
+Stunted Growth|R
+Sulfurous Springs|R
+Sunstone|U
+Swamp|L
+Swords to Plowshares|U
+Tarpan|C
+Thermokarst|U
+Thoughtleech|U
+Thunder Wall|U
+Timberline Ridge|R
+Time Bomb|R
+Tinder Wall|C
+Tor Giant|C
+Total War|R
+Touch of Death|C
+Touch of Vitae|U
+Trailblazer|R
+Underground River|R
+Updraft|U
+Urza's Bauble|U
+Veldt|R
+Venomous Breath|U
+Vertigo|U
+Vexing Arcanix|R
+Vibrating Sphere|R
+Walking Wall|U
+Wall of Lava|U
+Wall of Pine Needles|U
+Wall of Shields|U
+War Chariot|U
+Warning|C
+Whalebone Glider|U
+White Scarab|U
+Whiteout|U
+Wiitigo|R
+Wild Growth|C
+Wind Spirit|U
+Wings of Aesthir|U
+Winter's Chill|R
+Withering Wisps|U
+Woolly Mammoths|C
+Woolly Spider|C
+Word of Blasting|U
+Word of Undoing|C
+Wrath of Marit Lage|R
+Yavimaya Gnats|U
+Zur's Weirding|R
+Zuran Enchanter|C
+Zuran Orb|U
+Zuran Spellcaster|C

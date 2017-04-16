@@ -1,0 +1,278 @@
+Abbot of Keral Keep|R
+Acolyte of the Inferno|U
+Act of Treason|C
+Aegis Angel|R
+Aerial Volley|C
+Akroan Jailer|C
+Akroan Sergeant|C
+Alchemist's Vial|C
+Alhammarret's Archive|M
+Alhammarret, High Arbiter|R
+Ampryn Tactician|C
+Anchor to the Aether|U
+Angel's Tomb|U
+Animist's Awakening|R
+Anointer of Champions|U
+Archangel of Tithes|M
+Artificer's Epiphany|C
+Aspiring Aeronaut|C
+Auramancer|C
+Avaricious Dragon|M
+Aven Battle Priest|C
+Battlefield Forge|R
+Bellows Lizard|C
+Blazing Hellhound|U
+Blessed Spirits|U
+Blightcaster|U
+Blood-Cursed Knight|U
+Boggart Brute|C
+Bonded Construct|C
+Bone to Ash|C
+Bounding Krasis|U
+Brawler's Plate|U
+Calculated Dismissal|C
+Call of the Full Moon|U
+Catacomb Slug|C
+Caustic Caterpillar|C
+Caves of Koilos|R
+Celestial Flare|C
+Chandra's Fury|C
+Chandra's Ignition|R
+Chandra, Fire of Kaladesh|M
+Chandra, Roaring Flame|M
+Charging Griffin|C
+Chief of the Foundry|U
+Citadel Castellan|U
+Clash of Wills|U
+Claustrophobia|C
+Cleric of the Forward Order|C
+Cobblebrute|C
+Conclave Naturalists|U
+Consecrated by Blood|U
+Consul's Lieutenant|U
+Cruel Revival|U
+Dark Dabbling|C
+Dark Petition|R
+Day's Undoing|M
+Deadbridge Shaman|C
+Deep-Sea Terror|C
+Demolish|C
+Demonic Pact|M
+Despoiler of Souls|R
+Disciple of the Ring|M
+Disperse|C
+Displacement Wave|R
+Divine Verdict|C
+Dragon Fodder|C
+Dreadwaters|C
+Dwynen's Elite|U
+Dwynen, Gilt-Leaf Daen|R
+Eagle of the Watch|C
+Elemental Bond|U
+Elvish Visionary|C
+Embermaw Hellion|R
+Enlightened Ascetic|C
+Enshrouding Mist|C
+Enthralling Victor|U
+Erebos's Titan|M
+Evolutionary Leap|R
+Evolving Wilds|C
+Exquisite Firecraft|R
+Eyeblight Assassin|C
+Eyeblight Massacre|U
+Faerie Miscreant|C
+Fetid Imp|C
+Fiery Conclusion|U
+Fiery Hellhound|C
+Fiery Impulse|C
+Firefiend Elemental|C
+Flameshadow Conjuring|R
+Flesh to Dust|C
+Fleshbag Marauder|U
+Forest|L
+Foundry of the Consuls|U
+Gaea's Revenge|R
+Gather the Pack|U
+Ghirapur Aether Grid|U
+Ghirapur Gearcrafter|C
+Gideon's Phalanx|R
+Gideon, Battle-Forged|M
+Gilt-Leaf Winnower|R
+Gnarlroot Trapper|U
+Goblin Glory Chaser|U
+Goblin Piledriver|R
+Gold-Forged Sentinel|U
+Grasp of the Hieromancer|C
+Graveblade Marauder|R
+Guardian Automaton|C
+Guardians of Meletis|C
+Hallowed Moonlight|R
+Hangarback Walker|R
+Harbinger of the Tides|R
+Healing Hands|C
+Heavy Infantry|C
+Helm of the Gods|R
+Herald of the Pantheon|R
+Hitchclaw Recluse|C
+Hixus, Prison Warden|R
+Honored Hierarch|R
+Hydrolash|U
+Infectious Bloodlust|C
+Infernal Scarring|C
+Infinite Obliteration|R
+Into the Void|U
+Iroas's Champion|U
+Island|L
+Jace's Sanctum|R
+Jace, Telepath Unbound|M
+Jace, Vryn's Prodigy|M
+Jayemdae Tome|U
+Jhessian Thief|U
+Joraga Invocation|U
+Knight of the Pilgrim's Road|C
+Knight of the White Orchid|R
+Knightly Valor|U
+Kothophed, Soul Hoarder|R
+Kytheon's Irregulars|R
+Kytheon's Tactics|C
+Kytheon, Hero of Akros|M
+Languish|R
+Leaf Gilder|C
+Lightning Javelin|C
+Liliana, Defiant Necromancer|M
+Liliana, Heretical Healer|M
+Llanowar Empath|C
+Llanowar Wastes|R
+Macabre Waltz|C
+Mage-Ring Bully|C
+Mage-Ring Network|U
+Mage-Ring Responder|R
+Magmatic Insight|U
+Mahamoti Djinn|R
+Malakir Cullblade|U
+Managorger Hydra|R
+Mantle of Webs|C
+Maritime Guard|C
+Meteorite|U
+Might of the Masses|C
+Mighty Leap|C
+Mind Rot|C
+Mizzium Meddler|R
+Molten Vortex|R
+Mountain|L
+Murder Investigation|U
+Nantuko Husk|C
+Necromantic Summons|U
+Negate|C
+Nightmare|R
+Nightsnare|C
+Nissa's Pilgrimage|C
+Nissa's Revelation|R
+Nissa, Sage Animist|M
+Nissa, Vastwood Seer|M
+Nivix Barrier|C
+Orbs of Warding|R
+Orchard Spirit|C
+Outland Colossus|R
+Patron of the Valiant|U
+Pharika's Disciple|C
+Pia and Kiran Nalaar|R
+Plains|L
+Plummet|C
+Possessed Skaab|U
+Prickleboar|C
+Priest of the Blood Rite|R
+Prism Ring|U
+Prized Unicorn|U
+Psychic Rebuttal|U
+Pyromancer's Goggles|M
+Rabid Bloodsucker|C
+Ramroller|U
+Ravaging Blaze|U
+Read the Bones|C
+Reave Soul|C
+Reclaim|C
+Reclusive Artificer|U
+Relic Seeker|R
+Returned Centaur|C
+Revenant|U
+Rhox Maulers|C
+Ringwarden Owl|C
+Rogue's Passage|U
+Runed Servitor|U
+Scab-Clan Berserker|R
+Scrapskin Drake|C
+Screeching Skaab|C
+Seismic Elemental|U
+Send to Sleep|C
+Sengir Vampire|U
+Sentinel of the Eternal Watch|U
+Separatist Voidmage|C
+Serra Angel|U
+Shadows of the Past|U
+Shaman of the Pack|U
+Shambling Ghoul|C
+Shivan Dragon|R
+Shivan Reef|R
+Sigil of the Empty Throne|R
+Sigil of Valor|U
+Sigiled Starfish|U
+Skaab Goliath|U
+Skyraker Giant|U
+Skysnare Spider|U
+Smash to Smithereens|C
+Somberwald Alpha|U
+Soulblade Djinn|R
+Sphinx's Tutelage|U
+Stalwart Aven|C
+Starfield of Nyx|M
+Stratus Walk|C
+Subterranean Scout|C
+Suppression Bonds|C
+Swamp|L
+Swift Reckoning|U
+Sword of the Animist|R
+Sylvan Messenger|U
+Tainted Remedy|R
+Talent of the Telepath|R
+Terra Stomper|R
+The Great Aurora|M
+Thopter Engineer|U
+Thopter Spy Network|R
+Thornbow Archer|C
+Throwing Knife|U
+Thunderclap Wyvern|U
+Timberpack Wolf|C
+Titan's Strength|C
+Titanic Growth|C
+Topan Freeblade|C
+Tormented Thoughts|U
+Totem-Guide Hartebeest|U
+Touch of Moonglove|C
+Tower Geist|U
+Tragic Arrogance|R
+Turn to Frog|U
+Undead Servant|C
+Undercity Troll|U
+Unholy Hunger|C
+Valeron Wardens|U
+Valor in Akros|U
+Vastwood Gorger|C
+Veteran's Sidearm|C
+Vine Snare|C
+Volcanic Rambler|C
+Vryn Wingmare|R
+War Horn|U
+War Oracle|U
+Watercourser|C
+Weave Fate|C
+Weight of the Underworld|C
+Whirler Rogue|U
+Wild Instincts|C
+Willbreaker|R
+Woodland Bellower|M
+Yavimaya Coast|R
+Yeva's Forcemage|C
+Yoked Ox|C
+Zendikar Incarnate|U
+Zendikar's Roil|U

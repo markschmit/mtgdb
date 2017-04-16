@@ -1,0 +1,150 @@
+Accorder Paladin|U
+Ardent Recruit|C
+Banishment Decree|C
+Black Sun's Zenith|R
+Bladed Sentinel|C
+Blightsteel Colossus|M
+Blightwidow|C
+Blisterstick Shaman|C
+Blue Sun's Zenith|R
+Bonehoard|R
+Brass Squire|U
+Burn the Impure|C
+Caustic Hound|C
+Choking Fumes|U
+Concussive Bolt|C
+Consecrated Sphinx|M
+Contested War Zone|R
+Copper Carapace|C
+Core Prowler|U
+Corrupted Conscience|U
+Creeping Corrosion|R
+Crush|C
+Cryptoplasm|R
+Darksteel Plate|R
+Decimator Web|R
+Distant Memories|R
+Divine Offering|C
+Dross Ripper|C
+Fangren Marauder|C
+Flayer Husk|C
+Flensermite|C
+Flesh-Eater Imp|U
+Forest|L
+Frantic Salvage|C
+Fuel for the Cause|C
+Galvanoth|R
+Glissa's Courier|C
+Glissa, the Traitor|M
+Gnathosaur|C
+Go for the Throat|U
+Goblin Wardriver|U
+Gore Vassal|U
+Green Sun's Zenith|R
+Gruesome Encore|U
+Gust-Skimmer|C
+Hellkite Igniter|R
+Hero of Bladehold|M
+Hero of Oxid Ridge|M
+Hexplate Golem|C
+Horrifying Revelation|C
+Ichor Wellspring|C
+Inkmoth Nexus|R
+Into the Core|U
+Island|L
+Kemba's Legion|U
+Knowledge Pool|R
+Koth's Courier|C
+Kuldotha Flamefiend|U
+Kuldotha Ringleader|C
+Lead the Stampede|U
+Leonin Relic-Warder|U
+Leonin Skyhunter|C
+Loxodon Partisan|C
+Lumengrid Gargoyle|U
+Magnetic Mine|R
+Massacre Wurm|M
+Master's Call|C
+Melira's Keepers|U
+Metallic Mastery|U
+Mirran Crusader|R
+Mirran Mettle|C
+Mirran Spy|C
+Mirrorworks|R
+Mitotic Manipulation|R
+Morbid Plunder|C
+Mortarpod|U
+Mountain|L
+Myr Sire|C
+Myr Turbine|R
+Myr Welder|R
+Nested Ghoul|U
+Neurok Commando|U
+Oculus|C
+Ogre Resister|C
+Peace Strider|U
+Phyresis|C
+Phyrexian Crusader|R
+Phyrexian Digester|C
+Phyrexian Hydra|R
+Phyrexian Juggernaut|U
+Phyrexian Rager|C
+Phyrexian Rebirth|R
+Phyrexian Revoker|R
+Phyrexian Vatmother|R
+Pierce Strider|U
+Piston Sledge|U
+Pistus Strike|C
+Plague Myr|U
+Plaguemaw Beast|U
+Plains|L
+Praetor's Counsel|M
+Priests of Norn|C
+Psychosis Crawler|R
+Quicksilver Geyser|C
+Quilled Slagwurm|U
+Rally the Forces|C
+Razorfield Rhino|C
+Red Sun's Zenith|R
+Rot Wolf|C
+Rusted Slasher|C
+Sangromancer|R
+Scourge Servant|C
+Septic Rats|U
+Serum Raker|C
+Shimmer Myr|R
+Shriekhorn|C
+Signal Pest|U
+Silverskin Armor|U
+Skinwing|U
+Slagstorm|R
+Sphere of the Suns|U
+Spin Engine|C
+Spine of Ish Sah|R
+Spiraling Duelist|U
+Spire Serpent|C
+Spread the Sickness|C
+Steel Sabotage|C
+Strandwalker|U
+Swamp|L
+Sword of Feast and Famine|M
+Tangle Hulk|C
+Tangle Mantis|C
+Tezzeret, Agent of Bolas|M
+Thopter Assembly|R
+Thrun, the Last Troll|M
+Tine Shrike|C
+Titan Forge|R
+Training Drone|C
+Treasure Mage|U
+Turn the Tide|C
+Unnatural Predation|C
+Vedalken Anatomist|U
+Vedalken Infuser|U
+Victory's Herald|R
+Viridian Claw|U
+Viridian Corrupter|U
+Viridian Emissary|C
+Virulent Wound|C
+Vivisection|C
+White Sun's Zenith|R

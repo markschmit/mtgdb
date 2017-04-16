@@ -1,0 +1,67 @@
+Abundance|R
+Altar's Reap|C
+Ambition's Cost|U
+Bala Ged Scorpion|C
+Blistergrub|C
+Briarhorn|U
+Cadaver Imp|C
+Carrier Thrall|U
+Citanul Woodreaders|C
+Civic Wayfinder|C
+Cloudthresher|R
+Crop Rotation|C
+Demon|C
+Demon's Grasp|C
+Desecration Demon|R
+Despoiler of Souls|R
+Disfigure|C
+Doom Blade|U
+Eldrazi Scion|C
+Elemental|C
+Elvish Visionary|C
+Fertile Thicket|C
+Fertilid|C
+Fetid Imp|C
+Forest|L
+Foul Imp|C
+Gaea's Blessing|U
+Giant Scorpion|C
+Gilt-Leaf Seer|C
+Grim Discovery|C
+Hideous End|C
+Indulgent Tormentor|R
+Innocent Blood|C
+Jaddi Lifestrider|U
+Khalni Garden|C
+Leechridden Swamp|U
+Mire's Toll|C
+Mosswort Bridge|R
+Natural Connection|C
+Nissa's Chosen|C
+Nissa, Voice of Zendikar|M
+Oakgnarl Warrior|C
+Ob Nixilis Reignited|M
+Oran-Rief Hydra|R
+Oran-Rief Invoker|C
+Pestilence Demon|R
+Plant|C
+Priest of the Blood Rite|R
+Quest for the Gravelord|U
+Renegade Demon|C
+Saddleback Lagac|C
+Scythe Leopard|U
+Seek the Horizon|U
+Shadows of the Past|U
+Smallpox|U
+Squelching Leeches|U
+Swamp|L
+Tendrils of Corruption|C
+Thicket Elemental|R
+Thornweald Archer|C
+Treetop Village|U
+Unhallowed Pact|C
+Vines of the Recluse|C
+Walker of the Grove|U
+Wood Elves|C
+Woodborn Behemoth|U
+Zombie Giant|C

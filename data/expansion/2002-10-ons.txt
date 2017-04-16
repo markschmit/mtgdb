@@ -1,0 +1,335 @@
+Accursed Centaur|C
+Aether Charge|U
+Aggravated Assault|R
+Airborne Aid|C
+Airdrop Condor|U
+Akroma's Blessing|U
+Akroma's Vengeance|R
+Ancestor's Prophet|R
+Animal Magnetism|R
+Annex|U
+Anurid Murkdiver|C
+Aphetto Alchemist|U
+Aphetto Dredging|C
+Aphetto Grifter|U
+Aphetto Vulture|U
+Arcanis the Omnipotent|R
+Artificial Evolution|R
+Ascending Aven|C
+Astral Slide|U
+Aura Extraction|U
+Aurification|R
+Avarax|U
+Aven Brigadier|R
+Aven Fateshaper|U
+Aven Soulgazer|U
+Backslide|C
+Barkhide Mauler|C
+Barren Moor|C
+Battering Craghorn|C
+Battlefield Medic|C
+Biorhythm|R
+Birchlore Rangers|C
+Blackmail|U
+Blatant Thievery|R
+Blistering Firecat|R
+Bloodline Shaman|U
+Bloodstained Mire|R
+Boneknitter|U
+Break Open|C
+Brightstone Ritual|C
+Broodhatch Nantuko|U
+Butcher Orgg|R
+Cabal Archon|U
+Cabal Executioner|U
+Cabal Slaver|U
+Callous Oppressor|R
+Catapult Master|R
+Catapult Squad|U
+Centaur Glade|U
+Chain of Acid|U
+Chain of Plasma|U
+Chain of Silence|U
+Chain of Smog|U
+Chain of Vapor|U
+Charging Slateback|C
+Choking Tethers|C
+Circle of Solace|R
+Clone|R
+Commando Raid|U
+Complicate|U
+Contested Cliffs|R
+Convalescent Care|R
+Cover of Darkness|R
+Crafty Pathmage|C
+Crowd Favorites|U
+Crown of Ascension|C
+Crown of Awe|C
+Crown of Fury|C
+Crown of Suspicion|C
+Crown of Vigor|C
+Crude Rampart|U
+Cruel Revival|C
+Cryptic Gateway|R
+Custody Battle|U
+Daru Cavalier|C
+Daru Encampment|U
+Daru Healer|C
+Daru Lancer|C
+Daunting Defender|C
+Dawning Purist|U
+Death Match|R
+Death Pulse|U
+Defensive Maneuvers|C
+Demystify|C
+Dirge of Dread|C
+Disciple of Grace|C
+Disciple of Malice|C
+Discombobulate|U
+Dispersing Orb|U
+Disruptive Pitmage|C
+Dive Bomber|C
+Doom Cannon|R
+Doomed Necromancer|R
+Doubtless One|U
+Dragon Roost|R
+Dream Chisel|R
+Dwarven Blastminer|U
+Ebonblade Reaper|R
+Elven Riders|U
+Elvish Guidance|C
+Elvish Pathcutter|C
+Elvish Pioneer|C
+Elvish Scrapper|U
+Elvish Vanguard|R
+Elvish Warrior|C
+Embermage Goblin|U
+Enchantress's Presence|R
+Endemic Plague|R
+Entrails Feaster|R
+Erratic Explosion|C
+Essence Fracture|U
+Everglove Courier|U
+Exalted Angel|R
+Explosive Vegetation|U
+Fade from Memory|U
+Fallen Cleric|C
+False Cure|R
+Feeding Frenzy|U
+Festering Goblin|C
+Fever Charm|C
+Flamestick Courier|U
+Fleeting Aven|U
+Flooded Strand|R
+Foothill Guide|C
+Forest|L
+Forgotten Cave|C
+Frightshroud Courier|U
+Future Sight|R
+Gangrenous Goliath|R
+Ghosthelm Courier|U
+Gigapede|R
+Glarecaster|R
+Glory Seeker|C
+Gluttonous Zombie|U
+Goblin Burrows|U
+Goblin Machinist|U
+Goblin Piledriver|R
+Goblin Pyromancer|R
+Goblin Sharpshooter|R
+Goblin Sky Raider|C
+Goblin Sledder|C
+Goblin Taskmaster|C
+Grand Coliseum|R
+Grand Melee|R
+Grassland Crusader|C
+Gratuitous Violence|R
+Gravel Slinger|C
+Gravespawn Sovereign|R
+Graxiplon|U
+Grinning Demon|R
+Gustcloak Harrier|C
+Gustcloak Runner|C
+Gustcloak Savior|R
+Gustcloak Sentinel|U
+Gustcloak Skirmisher|U
+Harsh Mercy|R
+Haunted Cadaver|C
+Head Games|R
+Headhunter|U
+Heedless One|U
+Hystrodon|R
+Imagecrafter|C
+Improvised Armor|U
+Infest|U
+Information Dealer|C
+Inspirit|U
+Insurrection|R
+Invigorating Boon|U
+Ironfist Crusher|U
+Island|L
+Ixidor's Will|C
+Ixidor, Reality Sculptor|R
+Jareth, Leonine Titan|R
+Kaboom!|R
+Kamahl's Summons|U
+Kamahl, Fist of Krosa|R
+Krosan Colossus|R
+Krosan Groundshaker|U
+Krosan Tusker|C
+Lavamancer's Skill|C
+Lay Waste|C
+Leery Fogbeast|C
+Lightning Rift|U
+Lonely Sandbar|C
+Mage's Guile|C
+Mana Echoes|R
+Meddle|U
+Menacing Ogre|R
+Misery Charm|C
+Mistform Dreamer|C
+Mistform Mask|C
+Mistform Mutant|U
+Mistform Shrieker|U
+Mistform Skyreaver|R
+Mistform Stalker|U
+Mistform Wall|C
+Mobilization|R
+Mountain|L
+Mythic Proportions|R
+Nameless One|U
+Nantuko Husk|C
+Naturalize|C
+Nosy Goblin|C
+Nova Cleric|U
+Oblation|R
+Oversold Cemetery|R
+Overwhelming Instinct|U
+Pacifism|C
+Patriarch's Bidding|R
+Pearlspear Courier|U
+Peer Pressure|R
+Piety Charm|C
+Pinpoint Avalanche|C
+Plains|L
+Polluted Delta|R
+Primal Boost|U
+Profane Prayers|C
+Prowling Pangolin|U
+Psychic Trance|R
+Quicksilver Dragon|R
+Ravenous Baloth|R
+Read the Runes|R
+Reckless One|U
+Reminisce|U
+Renewed Faith|C
+Righteous Cause|U
+Riptide Biologist|C
+Riptide Chronologist|U
+Riptide Entrancer|R
+Riptide Laboratory|R
+Riptide Replicator|R
+Riptide Shapeshifter|U
+Risky Move|R
+Rorix Bladewing|R
+Rotlung Reanimator|R
+Rummaging Wizard|U
+Run Wild|U
+Sage Aven|C
+Sandskin|C
+Screaming Seahawk|C
+Screeching Buzzard|C
+Sea's Claim|C
+Searing Flesh|U
+Seaside Haven|U
+Secluded Steppe|C
+Serpentine Basilisk|U
+Severed Legion|C
+Shade's Breath|U
+Shaleskin Bruiser|U
+Shared Triumph|R
+Shepherd of Rot|C
+Shieldmage Elder|U
+Shock|C
+Sigil of the New Dawn|R
+Silent Specter|R
+Silklash Spider|R
+Silvos, Rogue Elemental|R
+Skirk Commando|C
+Skirk Fire Marshal|R
+Skirk Prospector|C
+Skittish Valesk|U
+Slate of Ancestry|R
+Slice and Dice|U
+Slipstream Eel|C
+Smother|U
+Snapping Thragg|U
+Snarling Undorak|C
+Solar Blast|C
+Soulless One|U
+Sparksmith|C
+Spined Basher|C
+Spitfire Handler|U
+Spitting Gourna|C
+Spurred Wolverine|C
+Spy Network|C
+Stag Beetle|R
+Standardize|R
+Starlit Sanctum|U
+Starstorm|R
+Steely Resolve|R
+Strongarm Tactics|R
+Sunfire Balm|U
+Supreme Inquisitor|R
+Swamp|L
+Swat|C
+Symbiotic Beast|U
+Symbiotic Elf|C
+Symbiotic Wurm|R
+Syphon Mind|C
+Syphon Soul|C
+Taunting Elf|C
+Tempting Wurm|R
+Tephraderm|R
+Thoughtbound Primoc|U
+Thrashing Mudspawn|U
+Threaten|U
+Thunder of Hooves|U
+Towering Baloth|U
+Trade Secrets|R
+Tranquil Thicket|C
+Treespring Lorian|C
+Tribal Golem|R
+Tribal Unity|U
+Trickery Charm|C
+True Believer|R
+Undead Gladiator|R
+Unholy Grotto|R
+Unified Strike|C
+Venomspout Brackus|U
+Visara the Dreadful|R
+Vitality Charm|C
+Voice of the Woods|R
+Voidmage Prodigy|R
+Walking Desecration|U
+Wall of Mulch|U
+Wave of Indifference|C
+Weathered Wayfarer|R
+Weird Harvest|R
+Wellwisher|C
+Wheel and Deal|R
+Whipcorder|U
+Windswept Heath|R
+Wirewood Elf|C
+Wirewood Herald|C
+Wirewood Lodge|U
+Wirewood Pride|C
+Wirewood Savage|C
+Withering Hex|U
+Wooded Foothills|R
+Words of War|R
+Words of Waste|R
+Words of Wilding|R
+Words of Wind|R
+Words of Worship|R
+Wretched Anurid|C

@@ -1,0 +1,310 @@
+Abomination|U
+Acid Rain|R
+Active Volcano|C
+Adun Oakenshield|R
+Adventurers' Guildhouse|U
+Aerathi Berserker|U
+Aisling Leprechaun|C
+Akron Legionnaire|R
+Al-abara's Carpet|R
+Alabaster Potion|C
+Alchor's Tomb|R
+All Hallow's Eve|R
+Amrou Kithkin|C
+Angelic Voices|R
+Angus Mackenzie|R
+Anti-Magic Aura|C
+Arboria|U
+Arcades Sabboth|R
+Arena of the Ancients|R
+Avoid Fate|C
+Axelrod Gunnarson|R
+Ayesha Tanaka|R
+Azure Drake|U
+Backdraft|U
+Backfire|U
+Barbary Apes|C
+Barktooth Warbeard|U
+Bartel Runeaxe|R
+Beasts of Bogardan|U
+Black Mana Battery|U
+Blazing Effigy|C
+Blight|U
+Blood Lust|U
+Blue Mana Battery|U
+Boomerang|C
+Boris Devilboon|R
+Brine Hag|U
+Bronze Horse|R
+Carrion Ants|R
+Cat Warriors|C
+Cathedral of Serra|U
+Caverns of Despair|R
+Chain Lightning|C
+Chains of Mephistopheles|R
+Chromium|R
+Cleanse|R
+Clergy of the Holy Nimbus|C
+Cocoon|U
+Concordant Crossroads|R
+Cosmic Horror|R
+Craw Giant|U
+Crevasse|U
+Crimson Kobolds|C
+Crimson Manticore|R
+Crookshank Kobolds|C
+Cyclopean Mummy|C
+D'Avenant Archer|C
+Dakkon Blackblade|R
+Darkness|C
+Deadfall|U
+Demonic Torment|U
+Devouring Deep|C
+Disharmony|R
+Divine Intervention|R
+Divine Offering|C
+Divine Transformation|R
+Dream Coat|U
+Durkwood Boars|C
+Dwarven Song|U
+Elder Land Wurm|R
+Elder Spawn|R
+Elven Riders|R
+Emerald Dragonfly|C
+Enchanted Being|C
+Enchantment Alteration|C
+Energy Tap|C
+Equinox|C
+Eternal Warrior|U
+Eureka|R
+Evil Eye of Orms-by-Gore|U
+Fallen Angel|U
+Falling Star|R
+Feint|C
+Field of Dreams|R
+Fire Sprites|C
+Firestorm Phoenix|R
+Flash Counter|C
+Flash Flood|C
+Floral Spuzzem|U
+Force Spike|C
+Forethought Amulet|R
+Fortified Area|U
+Frost Giant|U
+Gabriel Angelfire|R
+Gaseous Form|C
+Gauntlets of Chaos|R
+Ghosts of the Damned|C
+Giant Slug|C
+Giant Strength|C
+Giant Turtle|C
+Glyph of Delusion|C
+Glyph of Destruction|C
+Glyph of Doom|C
+Glyph of Life|C
+Glyph of Reincarnation|C
+Gosta Dirk|R
+Gravity Sphere|R
+Great Defender|U
+Great Wall|U
+Greater Realm of Preservation|U
+Greed|R
+Green Mana Battery|U
+Gwendlyn Di Corci|R
+Halfdane|R
+Hammerheim|U
+Hazezon Tamar|R
+Headless Horseman|C
+Heaven's Gate|U
+Hell Swarm|C
+Hell's Caretaker|R
+Hellfire|R
+Holy Day|C
+Horn of Deafening|R
+Hornet Cobra|C
+Horror of Horrors|U
+Hunding Gjornersen|U
+Hyperion Blacksmith|U
+Ichneumon Druid|U
+Immolation|C
+Imprison|R
+In the Eye of Chaos|R
+Indestructible Aura|C
+Infernal Medusa|U
+Infinite Authority|R
+Invoke Prejudice|R
+Ivory Guardians|U
+Jacques le Vert|R
+Jasmine Boreal|U
+Jedit Ojanen|U
+Jerrard of the Closed Fist|U
+Johan|R
+Jovial Evil|R
+Juxtapose|R
+Karakas|U
+Kasimir the Lone Wolf|U
+Keepers of the Faith|C
+Kei Takahashi|R
+Killer Bees|R
+Kismet|U
+Knowledge Vault|R
+Kobold Drill Sergeant|U
+Kobold Overlord|R
+Kobold Taskmaster|U
+Kobolds of Kher Keep|C
+Kry Shield|U
+Lady Caleria|R
+Lady Evangela|R
+Lady Orca|U
+Land Equilibrium|R
+Land Tax|U
+Land's Edge|R
+Lesser Werewolf|U
+Life Chisel|U
+Life Matrix|R
+Lifeblood|R
+Living Plane|R
+Livonya Silone|R
+Lord Magnus|U
+Lost Soul|C
+Mana Drain|U
+Mana Matrix|R
+Marble Priest|U
+Marhault Elsdragon|U
+Master of the Hunt|R
+Mirror Universe|R
+Moat|R
+Mold Demon|R
+Moss Monster|C
+Mountain Stronghold|U
+Mountain Yeti|U
+Nebuchadnezzar|R
+Nether Void|R
+Nicol Bolas|R
+North Star|R
+Nova Pentacle|R
+Osai Vultures|C
+Palladia-Mors|R
+Part Water|U
+Pavel Maliki|U
+Pendelhaven|U
+Petra Sphinx|R
+Pit Scorpion|C
+Pixie Queen|R
+Planar Gate|R
+Pradesh Gypsies|U
+Presence of the Master|U
+Primordial Ooze|U
+Princess Lucrezia|U
+Psionic Entity|R
+Psychic Purge|C
+Puppet Master|U
+Pyrotechnics|C
+Quagmire|U
+Quarum Trench Gnomes|R
+Rabid Wombat|U
+Radjan Spirit|U
+Raging Bull|C
+Ragnar|R
+Ramirez DePietro|U
+Ramses Overdark|R
+Rapid Fire|R
+Rasputin Dreamweaver|R
+Rebirth|R
+Recall|R
+Red Mana Battery|U
+Reincarnation|U
+Relic Barrier|U
+Relic Bind|U
+Remove Enchantments|C
+Remove Soul|C
+Reset|U
+Revelation|R
+Reverberation|R
+Righteous Avengers|U
+Ring of Immortals|R
+Riven Turnbull|U
+Rohgahh of Kher Keep|R
+Rubinia Soulsinger|R
+Rust|C
+Sea Kings' Blessing|U
+Seafarer's Quay|U
+Seeker|U
+Segovian Leviathan|U
+Sentinel|R
+Serpent Generator|R
+Shelkin Brownie|C
+Shield Wall|U
+Shimian Night Stalker|U
+Silhouette|U
+Sir Shandlar of Eberyn|U
+Sivitri Scarzam|U
+Sol'kanar the Swamp King|R
+Spectral Cloak|U
+Spinal Villain|R
+Spirit Link|U
+Spirit Shackle|C
+Spiritual Sanctuary|R
+Stangg|R
+Storm Seeker|U
+Storm World|R
+Subdue|C
+Sunastian Falconer|U
+Sword of the Ages|R
+Sylvan Library|U
+Sylvan Paradise|U
+Syphon Soul|C
+Takklemaggot|U
+Telekinesis|R
+Teleport|R
+Tempest Efreet|R
+Tetsuo Umezawa|R
+The Abyss|R
+The Brute|C
+The Lady of the Mountain|U
+The Tabernacle at Pendrell Vale|R
+The Wretched|R
+Thunder Spirit|R
+Time Elemental|R
+Tobias Andrion|U
+Tolaria|U
+Tor Wauki|U
+Torsten Von Ursus|U
+Touch of Darkness|U
+Transmutation|C
+Triassic Egg|R
+Tuknir Deathlock|R
+Tundra Wolves|C
+Typhoon|R
+Undertow|U
+Underworld Dreams|U
+Unholy Citadel|U
+Untamed Wilds|U
+Ur-Drago|R
+Urborg|U
+Vaevictis Asmadi|R
+Vampire Bats|C
+Venarian Gold|C
+Visions|U
+Voodoo Doll|R
+Walking Dead|C
+Wall of Caltrops|C
+Wall of Dust|U
+Wall of Earth|C
+Wall of Heat|C
+Wall of Light|U
+Wall of Opposition|R
+Wall of Putrid Flesh|U
+Wall of Shadows|C
+Wall of Tombstones|U
+Wall of Vapor|C
+Wall of Wonder|U
+Whirling Dervish|U
+White Mana Battery|U
+Willow Satyr|R
+Winds of Change|U
+Winter Blast|R
+Wolverine Pack|C
+Wood Elemental|R
+Xira Arien|R
+Zephyr Falcon|C

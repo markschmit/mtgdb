@@ -1,0 +1,56 @@
+Abyssal Gatekeeper|C
+Abyssal Specter|U
+Akroma, Angel of Wrath|M
+Angel of Mercy|U
+Angel's Feather|U
+Angelic Benediction|U
+Angelic Page|C
+Angelic Protector|U
+Angelsong|C
+Barren Moor|C
+Barter in Blood|U
+Breeding Pit|U
+Cackling Imp|C
+Charging Paladin|C
+Consume Spirit|U
+Corrupt|U
+Cruel Edict|U
+Daggerclaw Imp|U
+Dark Banishing|C
+Dark Ritual|C
+Demon's Horn|U
+Demon's Jester|C
+Demonic Tutor|U
+Duress|C
+Dusk Imp|C
+Faith's Fetters|C
+Fallen Angel|R
+Foul Imp|C
+Healing Salve|C
+Icatian Priest|U
+Kuro, Pitlord|R
+Lord of the Pit|M
+Luminous Angel|R
+Marble Diamond|U
+Oni Possession|U
+Otherworldly Journey|U
+Overeager Apprentice|C
+Pacifism|C
+Plains|L
+Promise of Power|R
+Reiver Demon|R
+Reya Dawnbringer|R
+Righteous Cause|U
+Secluded Steppe|C
+Serra Advocate|U
+Serra Angel|R
+Serra's Boon|U
+Serra's Embrace|U
+Soot Imp|U
+Souldrinker|U
+Stinkweed Imp|C
+Sustainer of the Realm|U
+Swamp|L
+Twilight Shepherd|R
+Unholy Strength|C
+Venerable Monk|C

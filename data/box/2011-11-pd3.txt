@@ -1,0 +1,27 @@
+Animate Dead|U
+Avatar of Woe|R
+Blazing Archon|R
+Buried Alive|U
+Cabal Therapy|U
+Crosis, the Purger|R
+Crystal Vein|U
+Diabolic Servitude|U
+Dread Return|U
+Duress|C
+Ebon Stronghold|U
+Entomb|R
+Exhume|C
+Faceless Butcher|C
+Hidden Horror|U
+Inkwell Leviathan|R
+Last Rites|C
+Polluted Mire|C
+Putrid Imp|C
+Reanimate|U
+Sickening Dreams|U
+Sphinx of the Steel Wind|M
+Swamp|L
+Terastodon|R
+Twisted Abomination|C
+Verdant Force|R
+Zombie Infestation|U

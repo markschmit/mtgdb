@@ -1,0 +1,101 @@
+Abyssal Specter|U
+Act of Treason|U
+Air Elemental|U
+Ascendant Evincar|R
+Banefire|R
+Blanchwood Armor|U
+Blaze|U
+Bloodmark Mentor|U
+Boomerang|C
+Cancel|C
+Cinder Pyromancer|C
+Civic Wayfinder|C
+Cloud Sprite|C
+Coat of Arms|R
+Consume Spirit|U
+Counterbore|R
+Crowd of Cinders|U
+Deluge|U
+Demon's Horn|U
+Denizen of the Deep|R
+Dragon's Claw|U
+Drove of Elves|U
+Drudge Skeletons|C
+Dusk Imp|C
+Duskdale Wurm|U
+Earth Elemental|U
+Elven Riders|U
+Elvish Champion|R
+Elvish Eulogist|C
+Elvish Promenade|U
+Elvish Visionary|C
+Elvish Warrior|C
+Enrage|U
+Essence Drain|C
+Essence Scatter|C
+Evacuation|R
+Eyeblight's Ending|C
+Forest|L
+Furnace of Rath|R
+Gaea's Herald|R
+Giant Growth|C
+Giant Spider|C
+Goblin Piker|C
+Goblin Sky Raider|C
+Greenweaver Druid|U
+Hill Giant|C
+Howl of the Night Pack|U
+Immaculate Magistrate|R
+Imperious Perfect|U
+Incinerate|C
+Island|L
+Jagged-Scar Archers|U
+Kamahl, Pit Fighter|R
+Kraken's Eye|U
+Lightning Elemental|C
+Loxodon Warhammer|R
+Lys Alana Huntmaster|C
+Mahamoti Djinn|R
+Megrim|U
+Mind Control|U
+Mind Rot|C
+Mind Shatter|R
+Mind Spring|R
+Molimo, Maro-Sorcerer|R
+Moonglove Winnower|C
+Mortivore|R
+Mountain|L
+Natural Spring|C
+Naturalize|C
+Nature's Spiral|U
+Negate|C
+Overrun|U
+Phantom Warrior|U
+Prodigal Pyromancer|U
+Rage Reflection|R
+Rampant Growth|C
+Ravenous Rats|C
+River Boa|U
+Roughshod Mentor|U
+Runeclaw Bear|C
+Sengir Vampire|R
+Severed Legion|C
+Shivan Dragon|R
+Shock|C
+Snapping Drake|C
+Spined Wurm|C
+Swamp|L
+Talara's Battalion|R
+Terror|C
+The Rack|U
+Thieving Magpie|U
+Trained Armodon|C
+Troll Ascetic|R
+Underworld Dreams|R
+Unholy Strength|C
+Unsummon|C
+Verdant Force|R
+Vigor|R
+Wall of Spears|C
+Wall of Wood|C
+Wurm's Tooth|U

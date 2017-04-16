@@ -1,0 +1,223 @@
+Abandon Reason|U
+Abolisher of Bloodlines|R
+Abundant Maw|U
+Advanced Stitchwing|U
+Alchemist's Greeting|C
+Assembled Alphas|R
+Aurora of Emrakul|U
+Backwoods Survivalists|C
+Bedlam Reveler|R
+Blessed Alliance|U
+Blood Mist|U
+Bloodbriar|C
+Bloodhall Priest|R
+Bold Impaler|C
+Boon of Emrakul|C
+Borrowed Grace|C
+Borrowed Hostility|C
+Borrowed Malevolence|C
+Brazen Wolves|C
+Brisela, Voice of Nightmares|M
+Bruna, the Fading Light|R
+Campaign of Vengeance|U
+Cathar's Shield|C
+Cemetery Recruitment|C
+Certain Death|C
+Chilling Grasp|U
+Chittering Host|C
+Choking Restraints|C
+Clear Shot|U
+Coax from the Blind Eternities|R
+Collective Brutality|R
+Collective Defiance|R
+Collective Effort|R
+Conduit of Emrakul|U
+Conduit of Storms|U
+Contingency Plan|C
+Convolute|C
+Courageous Outrider|U
+Crop Sigil|U
+Crossroads Consecrator|C
+Cryptbreaker|R
+Cryptolith Fragment|U
+Cultist's Staff|C
+Curious Homunculus|U
+Dark Salvation|R
+Dawn Gryff|C
+Decimator of the Provinces|M
+Deploy the Gatewatch|M
+Deranged Whelp|U
+Desperate Sentry|C
+Displace|C
+Distemper of the Blood|C
+Distended Mindbender|R
+Docent of Perfection|R
+Drag Under|C
+Drogskol Shieldmate|U
+Dronepack Kindred|C
+Drownyard Behemoth|U
+Dusk Feaster|U
+Elder Deep-Fiend|R
+Eldritch Evolution|R
+Emrakul's Evangel|R
+Emrakul's Influence|U
+Emrakul, the Promised End|M
+Enlightened Maniac|C
+Erupting Dreadwolf|U
+Eternal Scourge|R
+Extricator of Flesh|U
+Extricator of Sin|U
+Exultant Cultist|C
+Faith Unbroken|U
+Faithbearer Paladin|C
+Falkenrath Reaver|C
+Fibrous Entangler|U
+Field Creeper|C
+Fiend Binder|C
+Final Iteration|R
+Fogwalker|C
+Fortune's Favor|U
+Foul Emissary|U
+Furyblade Vampire|U
+Galvanic Bombardment|C
+Gavony Unhallowed|C
+Geier Reach Sanitarium|R
+Geist of the Archives|U
+Geist of the Lonely Vigil|U
+Geist-Fueled Scarecrow|U
+Gisa and Geralf|M
+Gisela, the Broken Blade|M
+Give No Ground|U
+Gnarlwood Dryad|U
+Graf Harvest|U
+Graf Rats|C
+Grapple with the Past|C
+Grim Flayer|M
+Grisly Anglerfish|U
+Grizzled Angler|U
+Guardian of Pilgrims|C
+Hamlet Captain|U
+Hanweir Battlements|R
+Hanweir Garrison|R
+Hanweir, the Writhing Township|R
+Harmless Offering|R
+Haunted Dead|U
+Heron's Grace Champion|R
+Howling Chorus|U
+Identity Thief|R
+Impetuous Devils|R
+Imprisoned in the Moon|R
+Incendiary Flow|U
+Ingenious Skaab|C
+Insatiable Gorgers|U
+Ironclad Slayer|C
+Ironwright's Cleansing|C
+Ishkanah, Grafwidow|M
+It of the Horrid Swarm|C
+It That Rides as One|U
+Kessig Prowler|U
+Laboratory Brute|C
+Lashweed Lurker|U
+Liliana's Elite|U
+Liliana, the Last Hope|M
+Lone Rider|U
+Long Road Home|U
+Lunar Force|U
+Lunarch Mantle|C
+Lupine Prototype|R
+Make Mischief|C
+Markov Crusader|U
+Mausoleum Wanderer|R
+Mercurial Geists|U
+Midnight Scavengers|C
+Mind's Dilation|M
+Mirrorwing Dragon|M
+Mockery of Nature|U
+Mournwillow|U
+Murder|U
+Nahiri's Wrath|M
+Nebelgast Herald|U
+Nephalia Academy|U
+Niblis of Frost|R
+Noose Constrictor|U
+Noosegraf Mob|R
+Oath of Liliana|R
+Olivia's Dragoon|C
+Otherworldly Outburst|C
+Peace of Mind|U
+Permeating Mass|R
+Prey Upon|C
+Primal Druid|C
+Prophetic Ravings|C
+Providence|R
+Prying Questions|U
+Repel the Abominable|U
+Ride Down|U
+Rise from the Grave|U
+Ruthless Disposal|U
+Sanctifier of Souls|R
+Savage Alliance|U
+Scour the Laboratory|U
+Selfless Spirit|R
+Shreds of Sanity|U
+Shrill Howler|U
+Sigarda's Aid|R
+Sigardian Priest|C
+Sinuous Predator|U
+Skirsdag Supplicant|C
+Slayer's Cleaver|U
+Smoldering Werewolf|U
+Somberwald Stag|U
+Soul Separator|R
+Spectral Reserves|C
+Spell Queller|R
+Spirit of the Hunt|R
+Splendid Reclamation|R
+Spontaneous Mutation|C
+Spreading Flames|U
+Springsage Ritual|C
+Steadfast Cathar|C
+Stensia Banquet|C
+Stensia Innkeeper|C
+Stitcher's Graft|R
+Strange Augmentation|C
+Stromkirk Condemned|R
+Stromkirk Occultist|R
+Subjugator Angel|U
+Succumb to Temptation|C
+Summary Dismissal|R
+Swift Spinner|C
+Take Inventory|C
+Tamiyo, Field Researcher|M
+Tangleclaw Werewolf|U
+Tattered Haunter|C
+Terrarion|C
+Thalia's Lancers|R
+Thalia, Heretic Cathar|R
+Thermo-Alchemist|C
+Thirsting Axe|U
+Thraben Foulbloods|C
+Thraben Standard Bearer|C
+Tree of Perdition|M
+Turn Aside|C
+Ulrich of the Krallenhorde|M
+Ulrich, Uncontested Alpha|M
+Ulvenwald Abomination|C
+Ulvenwald Captive|C
+Ulvenwald Observer|R
+Unsubstantiate|U
+Vampire Cutthroat|U
+Vexing Scuttler|U
+Vildin-Pack Outcast|C
+Voldaren Pariah|R
+Voracious Reader|U
+Wailing Ghoul|C
+Waxing Moon|C
+Weaver of Lightning|U
+Weirded Vampire|C
+Wharf Infiltrator|R
+Whispers of Emrakul|U
+Wolfkin Bond|C
+Woodcutter's Grit|C
+Woodland Patrol|C
+Wretched Gryff|C

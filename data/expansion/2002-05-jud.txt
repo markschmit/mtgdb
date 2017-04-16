@@ -1,0 +1,143 @@
+Ancestor's Chosen|U
+Anger|U
+Anurid Barkripper|C
+Anurid Brushhopper|R
+Anurid Swarmsnapper|U
+Arcane Teachings|C
+Aven Fogbringer|C
+Aven Warcraft|U
+Balthor the Defiled|R
+Barbarian Bully|C
+Battle Screech|U
+Battlefield Scrounger|C
+Battlewise Aven|C
+Benevolent Bodyguard|C
+Book Burning|C
+Border Patrol|C
+Brawn|U
+Breaking Point|R
+Browbeat|U
+Burning Wish|R
+Cabal Therapy|U
+Cabal Trainee|C
+Cagemail|C
+Canopy Claws|C
+Centaur Rootcaster|C
+Cephalid Constable|R
+Cephalid Inkshrouder|U
+Chastise|U
+Commander Eesha|R
+Crush of Wurms|R
+Cunning Wish|R
+Death Wish|R
+Defy Gravity|C
+Dwarven Bloodboiler|R
+Dwarven Driller|U
+Dwarven Scorcher|C
+Earsplitting Rats|C
+Elephant Guide|U
+Ember Shot|C
+Envelop|C
+Epic Struggle|R
+Erhnam Djinn|R
+Exoskeletal Armor|U
+Filth|U
+Firecat Blitz|U
+Flaring Pain|C
+Flash of Insight|U
+Fledgling Dragon|R
+Folk Medicine|C
+Forcemage Advocate|U
+Funeral Pyre|C
+Genesis|R
+Giant Warthog|C
+Glory|R
+Golden Wish|R
+Goretusk Firebeast|C
+Grave Consequences|U
+Grip of Amnesia|C
+Grizzly Fate|U
+Guided Strike|C
+Guiltfeeder|R
+Hapless Researcher|C
+Harvester Druid|C
+Hunting Grounds|R
+Infectious Rage|U
+Ironshell Beetle|C
+Jeska, Warrior Adept|R
+Keep Watch|C
+Krosan Reclamation|U
+Krosan Verge|U
+Krosan Wayfarer|C
+Laquatus's Disdain|U
+Lava Dart|C
+Lead Astray|C
+Liberated Dwarf|C
+Lightning Surge|R
+Living Wish|R
+Lost in Thought|C
+Masked Gorgon|R
+Mental Note|C
+Mirari's Wake|R
+Mirror Wall|C
+Mist of Stagnation|R
+Morality Shift|R
+Nantuko Monastery|U
+Nantuko Tracer|C
+Nomad Mythmaker|R
+Nullmage Advocate|C
+Phantom Centaur|U
+Phantom Flock|U
+Phantom Nantuko|R
+Phantom Nishoba|R
+Phantom Nomad|C
+Phantom Tiger|C
+Planar Chaos|U
+Prismatic Strands|C
+Pulsemage Advocate|R
+Quiet Speculation|U
+Rats' Feast|C
+Ray of Revelation|C
+Riftstone Portal|U
+Scalpelexis|R
+Seedtime|R
+Selfless Exorcist|R
+Serene Sunset|U
+Shaman's Trance|R
+Shieldmage Advocate|C
+Silver Seraph|R
+Solitary Confinement|R
+Soulcatchers' Aerie|U
+Soulgorger Orgg|U
+Spellgorger Barbarian|C
+Spelljack|R
+Spirit Cairn|U
+Spurnmage Advocate|U
+Stitch Together|U
+Sudden Strength|C
+Suntail Hawk|C
+Sutured Ghoul|R
+Swelter|U
+Swirling Sandstorm|C
+Sylvan Safekeeper|R
+Telekinetic Bonds|R
+Test of Endurance|R
+Thriss, Nantuko Primus|R
+Toxic Stench|C
+Trained Pronghorn|C
+Treacherous Vampire|U
+Treacherous Werewolf|C
+Tunneler Wurm|U
+Unquestioned Authority|U
+Valor|U
+Venomous Vines|C
+Vigilant Sentry|C
+Web of Inertia|U
+Wonder|U
+Worldgorger Dragon|R
+Wormfang Behemoth|R
+Wormfang Crab|U
+Wormfang Drake|C
+Wormfang Manta|R
+Wormfang Newt|C
+Wormfang Turtle|U

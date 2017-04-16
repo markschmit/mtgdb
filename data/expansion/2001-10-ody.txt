@@ -1,0 +1,335 @@
+Abandoned Outpost|C
+Aboshan's Desire|C
+Aboshan, Cephalid Emperor|R
+Acceptable Losses|C
+Aegis of Honor|R
+Aether Burst|C
+Afflict|C
+Amugaba|R
+Anarchist|C
+Ancestral Tribute|R
+Angelic Wall|C
+Animal Boneyard|U
+Ashen Firebeast|R
+Atogatog|R
+Aura Graft|U
+Auramancer|C
+Aven Archer|U
+Aven Cloudchaser|C
+Aven Fisher|C
+Aven Flock|C
+Aven Shrine|R
+Aven Smokeweaver|U
+Aven Windreader|C
+Balancing Act|R
+Balshan Beguiler|U
+Balshan Griffin|U
+Bamboozle|U
+Barbarian Lunatic|C
+Barbarian Ring|U
+Bash to Bits|U
+Battle of Wits|R
+Battle Strain|U
+Bearscape|R
+Beast Attack|U
+Beloved Chaplain|U
+Blazing Salvo|C
+Blessed Orator|U
+Bloodcurdler|R
+Bog Wreckage|C
+Bomb Squad|R
+Braids, Cabal Minion|R
+Buried Alive|U
+Burning Sands|R
+Cabal Inquisitor|C
+Cabal Patriarch|R
+Cabal Pit|U
+Cabal Shrine|R
+Call of the Herd|R
+Cantivore|R
+Careful Study|C
+Cartographer|C
+Catalyst Stone|R
+Caustic Tar|U
+Cease-Fire|C
+Centaur Garden|U
+Cephalid Broker|U
+Cephalid Coliseum|U
+Cephalid Looter|C
+Cephalid Retainer|R
+Cephalid Scout|C
+Cephalid Shrine|R
+Chainflinger|C
+Chamber of Manipulation|U
+Chance Encounter|R
+Charmed Pendant|R
+Chatter of the Squirrel|C
+Childhood Horror|U
+Chlorophant|R
+Coffin Purge|C
+Cognivore|R
+Concentrate|U
+Confessor|C
+Crashing Centaur|U
+Crypt Creeper|C
+Crystal Quarry|R
+Cultural Exchange|R
+Cursed Monstrosity|R
+Darkwater Catacombs|R
+Darkwater Egg|U
+Decaying Soil|R
+Decimate|R
+Decompose|U
+Dedicated Martyr|C
+Deep Reconnaissance|U
+Delaying Shield|R
+Deluge|U
+Dematerialize|C
+Demolish|U
+Demoralize|C
+Deserted Temple|R
+Devoted Caretaker|R
+Diabolic Tutor|U
+Diligent Farmhand|C
+Dirty Wererat|C
+Divert|R
+Divine Sacrament|R
+Dogged Hunter|R
+Dreamwinder|C
+Druid Lyrist|C
+Druid's Call|U
+Dusk Imp|C
+Dwarven Grunt|C
+Dwarven Recruiter|U
+Dwarven Shrine|R
+Dwarven Strike Force|U
+Earnest Fellowship|R
+Earth Rift|C
+Elephant Ambush|C
+Ember Beast|C
+Embolden|C
+Engulfing Flames|U
+Entomb|R
+Epicenter|R
+Escape Artist|C
+Execute|U
+Extract|R
+Face of Fear|U
+Famished Ghoul|U
+Fervent Denial|U
+Filthy Cur|C
+Firebolt|C
+Flame Burst|C
+Fledgling Imp|C
+Forest|L
+Frenetic Ogre|U
+Frightcrawler|C
+Gallantry|U
+Ghastly Demise|C
+Gorilla Titan|U
+Graceful Antelope|R
+Gravedigger|C
+Gravestorm|R
+Ground Seal|R
+Halberdier|C
+Hallowed Healer|C
+Haunting Echoes|R
+Hint of Insanity|R
+Holistic Wisdom|R
+Howling Gale|U
+Immobilizing Ink|C
+Impulsive Maneuvers|R
+Infected Vermin|U
+Innocent Blood|C
+Iridescent Angel|R
+Island|L
+Ivy Elemental|R
+Junk Golem|R
+Kamahl's Desire|C
+Kamahl, Pit Fighter|R
+Karmic Justice|R
+Kirtar's Desire|C
+Kirtar's Wrath|R
+Krosan Archer|C
+Krosan Avenger|C
+Krosan Beast|R
+Laquatus's Creativity|U
+Last Rites|C
+Lava Blister|U
+Leaf Dancer|C
+Lieutenant Kirtar|R
+Life Burst|C
+Limestone Golem|U
+Liquid Fire|U
+Lithatog|U
+Luminous Guardian|U
+Mad Dog|C
+Magma Vein|U
+Magnivore|R
+Malevolent Awakening|U
+Master Apothecary|R
+Metamorphic Wurm|U
+Millikin|U
+Mind Burst|C
+Mindslicer|R
+Mine Layer|R
+Minotaur Explorer|U
+Mirari|R
+Molten Influence|R
+Moment's Peace|C
+Morbid Hunger|C
+Morgue Theft|C
+Mortivore|R
+Mossfire Egg|U
+Mossfire Valley|R
+Mountain|L
+Mudhole|R
+Muscle Burst|C
+Mystic Crusader|R
+Mystic Enforcer|R
+Mystic Penitent|U
+Mystic Visionary|C
+Mystic Zealot|C
+Nantuko Disciple|C
+Nantuko Elder|U
+Nantuko Mentor|R
+Nantuko Shrine|R
+Need for Speed|R
+Nefarious Lich|R
+New Frontiers|R
+Nimble Mongoose|U
+Nomad Decoy|U
+Nomad Stadium|U
+Nut Collector|R
+Obstinate Familiar|R
+Otarian Juggernaut|R
+Overeager Apprentice|C
+Overrun|U
+Painbringer|U
+Pardic Firecat|C
+Pardic Miner|R
+Pardic Swordsmith|C
+Patchwork Gnomes|U
+Patriarch's Desire|C
+Patrol Hound|C
+Patron Wizard|R
+Pedantic Learning|R
+Peek|C
+Persuasion|R
+Petrified Field|R
+Phantatog|U
+Phantom Whelp|C
+Pianna, Nomad Captain|R
+Pilgrim of Justice|C
+Pilgrim of Virtue|C
+Piper's Melody|U
+Plains|L
+Predict|U
+Price of Glory|U
+Primal Frenzy|C
+Psionic Gift|C
+Psychatog|U
+Pulsating Illusion|U
+Puppeteer|U
+Rabid Elephant|C
+Ravaged Highlands|C
+Ray of Distortion|C
+Reckless Charge|C
+Recoup|U
+Refresh|C
+Repel|C
+Repentant Vampire|R
+Resilient Wanderer|U
+Rites of Initiation|C
+Rites of Refusal|C
+Rites of Spring|C
+Roar of the Wurm|U
+Rotting Giant|U
+Sacred Rites|C
+Sadistic Hypnotist|U
+Sandstone Deadfall|U
+Sarcatog|U
+Savage Firecat|R
+Scorching Missile|C
+Screams of the Damned|U
+Scrivener|C
+Seafloor Debris|C
+Second Thoughts|C
+Seize the Day|R
+Seton's Desire|C
+Seton, Krosan Protector|R
+Shadowblood Egg|U
+Shadowblood Ridge|R
+Shadowmage Infiltrator|R
+Shelter|C
+Shifty Doppelganger|R
+Shower of Coals|U
+Simplify|C
+Skeletal Scrying|U
+Skull Fracture|U
+Skycloud Egg|U
+Skycloud Expanse|R
+Skyshooter|U
+Soulcatcher|U
+Spark Mage|U
+Spellbane Centaur|R
+Sphere of Duty|U
+Sphere of Grace|U
+Sphere of Law|U
+Sphere of Reason|U
+Sphere of Truth|U
+Spiritualize|U
+Springing Tiger|C
+Squirrel Mob|R
+Squirrel Nest|U
+Stalking Bloodsucker|R
+Standstill|U
+Steam Vines|U
+Steamclaw|U
+Still Life|U
+Stone-Tongue Basilisk|R
+Sungrass Egg|U
+Sungrass Prairie|R
+Swamp|L
+Sylvan Might|U
+Syncopate|C
+Tainted Pact|R
+Tarnished Citadel|R
+Tattoo Ward|U
+Terravore|R
+Testament of Faith|U
+Thaumatog|U
+Thermal Blast|C
+Think Tank|U
+Thought Devourer|R
+Thought Eater|U
+Thought Nibbler|C
+Timberland Ruins|C
+Time Stretch|R
+Tireless Tribe|C
+Tombfire|R
+Touch of Invisibility|C
+Traumatize|R
+Traveling Plague|R
+Treetop Sentinel|U
+Tremble|C
+Twigwalker|U
+Unifying Theory|R
+Upheaval|R
+Vampiric Dragon|R
+Verdant Succession|R
+Vivify|U
+Volcanic Spray|U
+Volley of Boulders|R
+Wayward Angel|R
+Werebear|C
+Whipkeeper|U
+Whispering Shade|C
+Wild Mongrel|C
+Woodland Druid|C
+Words of Wisdom|C
+Zombie Assassin|C
+Zombie Cannibal|C
+Zombie Infestation|U
+Zombify|U
+Zoologist|R

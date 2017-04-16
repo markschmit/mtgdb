@@ -1,0 +1,234 @@
+Ad Nauseam|R
+Agony Warp|C
+Ajani Vengeant|M
+Akrasan Squire|C
+Algae Gharial|U
+Angel's Herald|U
+Angelic Benediction|U
+Angelsong|C
+Arcane Sanctum|U
+Archdemon of Unx|R
+Banewasp Affliction|C
+Bant Battlemage|U
+Bant Charm|U
+Bant Panorama|C
+Battlegrace Angel|R
+Behemoth's Herald|U
+Blightning|C
+Blister Beetle|C
+Blood Cultist|U
+Bloodpyre Elemental|C
+Bloodthorn Taunter|C
+Bone Splinters|C
+Branching Bolt|C
+Brilliant Ultimatum|R
+Broodmate Dragon|R
+Bull Cerodon|U
+Caldera Hellion|R
+Call to Heel|C
+Cancel|C
+Carrion Thrash|C
+Cathartic Adept|C
+Cavern Thoctar|C
+Clarion Ultimatum|R
+Cloudheath Drake|C
+Coma Veil|C
+Corpse Connoisseur|U
+Courier's Capsule|C
+Court Archers|C
+Covenant of Minds|R
+Cradle of Vitality|R
+Crucible of Fire|R
+Cruel Ultimatum|R
+Crumbling Necropolis|U
+Cunning Lethemancer|R
+Cylian Elf|C
+Dawnray Archer|U
+Death Baron|R
+Deathgreeter|C
+Deft Duelist|C
+Demon's Herald|U
+Dispeller's Capsule|C
+Dragon Fodder|C
+Dragon's Herald|U
+Dreg Reaver|C
+Dregscape Zombie|C
+Druid of the Anima|C
+Drumhunter|U
+Elspeth, Knight-Errant|M
+Elvish Visionary|C
+Empyrial Archangel|M
+Esper Battlemage|U
+Esper Charm|U
+Esper Panorama|C
+Etherium Astrolabe|U
+Etherium Sculptor|C
+Ethersworn Canonist|R
+Excommunicate|C
+Executioner's Capsule|C
+Exuberant Firestoker|U
+Fatestitcher|U
+Feral Hydra|R
+Filigree Sages|U
+Fire-Field Ogre|U
+Flameblast Dragon|R
+Fleshbag Marauder|U
+Forest|L
+Gather Specimens|R
+Gift of the Gargantuan|C
+Glaze Fiend|C
+Goblin Assault|R
+Goblin Deathraiders|C
+Goblin Mountaineer|C
+Godsire|M
+Godtoucher|C
+Grixis Battlemage|U
+Grixis Charm|U
+Grixis Panorama|C
+Guardians of Akrasa|C
+Gustrider Exuberant|C
+Hell's Thunder|R
+Hellkite Overlord|M
+Hindering Light|C
+Hissing Iguanar|C
+Immortal Coil|R
+Incurable Ogre|C
+Infest|U
+Invincible Hymn|R
+Island|L
+Jhessian Infiltrator|U
+Jhessian Lookout|C
+Jund Battlemage|U
+Jund Charm|U
+Jund Panorama|C
+Jungle Shrine|U
+Jungle Weaver|C
+Kathari Screecher|C
+Kederekt Creeper|C
+Kederekt Leviathan|R
+Keeper of Progenitus|R
+Kiss of the Amesha|U
+Knight of the Skyward Eye|C
+Knight of the White Orchid|R
+Knight-Captain of Eos|R
+Kresh the Bloodbraided|M
+Lich's Mirror|M
+Lightning Talons|C
+Lush Growth|C
+Magma Spray|C
+Manaplasm|R
+Marble Chalice|C
+Master of Etherium|R
+Mayael the Anima|M
+Memory Erosion|R
+Metallurgeon|U
+Mighty Emergence|U
+Mindlock Orb|R
+Minion Reflector|R
+Mosstodon|C
+Mountain|L
+Mycoloth|R
+Naturalize|C
+Naya Battlemage|U
+Naya Charm|U
+Naya Panorama|C
+Necrogenesis|U
+Obelisk of Bant|C
+Obelisk of Esper|C
+Obelisk of Grixis|C
+Obelisk of Jund|C
+Obelisk of Naya|C
+Oblivion Ring|C
+Onyx Goblet|C
+Ooze Garden|R
+Outrider of Jhess|C
+Plains|L
+Predator Dragon|R
+Prince of Thralls|M
+Protomatter Powder|U
+Punish Ignorance|R
+Puppet Conjurer|U
+Qasali Ambusher|U
+Quietus Spike|R
+Rafiq of the Many|M
+Rakeclaw Gargantuan|C
+Ranger of Eos|R
+Realm Razer|R
+Relic of Progenitus|C
+Resounding Roar|C
+Resounding Scream|C
+Resounding Silence|C
+Resounding Thunder|C
+Resounding Wave|C
+Rhox Charger|U
+Rhox War Monk|U
+Ridge Rannet|C
+Rip-Clan Crasher|C
+Rockcaster Platoon|U
+Rockslide Elemental|U
+Sacellum Godspeaker|R
+Salvage Titan|R
+Sanctum Gargoyle|C
+Sangrite Surge|U
+Sarkhan Vol|M
+Savage Hunger|C
+Savage Lands|U
+Scavenger Drake|U
+Scourge Devil|U
+Scourglass|R
+Seaside Citadel|U
+Sedraxis Specter|R
+Sedris, the Traitor King|M
+Shadowfeed|C
+Sharding Sphinx|R
+Sharuum the Hegemon|M
+Shore Snapper|C
+Sighted-Caste Sorcerer|C
+Sigil Blessing|C
+Sigil of Distinction|R
+Sigiled Paladin|U
+Skeletal Kathari|C
+Skeletonize|U
+Skill Borrower|R
+Skullmulcher|R
+Soul's Fire|C
+Soul's Grace|C
+Soul's Might|C
+Spearbreaker Behemoth|R
+Spell Snip|C
+Sphinx Sovereign|M
+Sphinx's Herald|U
+Sprouting Thrinax|U
+Steelclad Serpent|C
+Steward of Valeron|C
+Stoic Angel|R
+Sunseed Nurturer|U
+Swamp|L
+Swerve|U
+Tar Fiend|R
+Tezzeret the Seeker|M
+Thorn-Thrash Viashino|C
+Thoughtcutter Agent|U
+Thunder-Thrash Elder|U
+Tidehollow Sculler|U
+Tidehollow Strix|C
+Titanic Ultimatum|R
+Topan Ascetic|U
+Tortoise Formation|C
+Tower Gargoyle|U
+Undead Leotau|C
+Vectis Silencers|C
+Vein Drinker|R
+Viashino Skeleton|C
+Vicious Shadows|R
+Violent Ultimatum|R
+Viscera Dragger|C
+Vithian Stinger|C
+Volcanic Submersion|C
+Waveskimmer Aven|C
+Welkin Guide|C
+Where Ancients Tread|R
+Wild Nacatl|C
+Windwright Mage|C
+Woolly Thoctar|U
+Yoked Plowbeast|C

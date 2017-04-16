@@ -1,0 +1,105 @@
+Abyssal Specter|S
+Advance Scout|S
+Air Elemental|S
+Angelic Page|S
+Arc Lightning|S
+Argothian Elder|S
+Armored Pegasus|S
+Azure Drake|S
+Blinking Spirit|S
+Broken Fall|S
+Cackling Fiend|S
+Catastrophe|S
+Cinder Marsh|S
+Control Magic|S
+Counterspell|S
+Crazed Skirge|S
+Curfew|S
+Dark Ritual|S
+Dirtcowl Wurm|S
+Disenchant|S
+Disruptive Student|S
+Drifting Meadow|S
+Elvish Lyrist|S
+Exhume|S
+Fecundity|S
+Fertile Ground|S
+Fire Ants|S
+Flood|S
+Forest|S
+Giant Growth|S
+Gorilla Warrior|S
+Healing Salve|S
+Heat Ray|S
+Hurricane|S
+Infantry Veteran|S
+Island|S
+Land Tax|S
+Lhurgoyf|S
+Lightning Elemental|S
+Living Death|S
+Llanowar Elves|S
+Man-o'-War|S
+Mana Leak|S
+Maniacal Rage|S
+Manta Riders|S
+Master Decoy|S
+Mogg Hollows|S
+Mountain|S
+Nekrataal|S
+Opportunity|S
+Pacifism|S
+Pestilence|S
+Phyrexian Ghoul|S
+Pincher Beetles|S
+Plains|S
+Plated Rootwalla|S
+Polluted Mire|S
+Prodigal Sorcerer|S
+Raging Goblin|S
+Ray of Command|S
+Reanimate|S
+Remote Isle|S
+River Boa|S
+Rolling Thunder|S
+Sadistic Glee|S
+Sanctum Custodian|S
+Sanctum Guardian|S
+Sandstorm|S
+Scaled Wurm|S
+Scryb Sprites|S
+Seasoned Marshal|S
+Seeker of Skybreak|S
+Sengir Vampire|S
+Sewer Rats|S
+Shower of Sparks|S
+Skyshroud Elite|S
+Slippery Karst|S
+Soltari Foot Soldier|S
+Songstitcher|S
+Soul Warden|S
+Spike Colony|S
+Spike Feeder|S
+Spike Weaver|S
+Spike Worker|S
+Steam Blast|S
+Subversion|S
+Sun Clasp|S
+Swamp|S
+Swords to Plowshares|S
+Symbiosis|S
+Syphon Soul|S
+Terror|S
+Thalakos Lowlands|S
+Tranquility|S
+Trumpeting Armodon|S
+Unnerve|S
+Uthden Troll|S
+Vec Townships|S
+Village Elder|S
+Wall of Heat|S
+Weakness|S
+Wildfire Emissary|S
+Wind Drake|S
+Windfall|S
+Wrath of God|S

@@ -1,0 +1,143 @@
+Aether Tide|C
+Allay|C
+Anarchist|C
+Angelic Blessing|C
+Avenging Druid|C
+Bequeathal|C
+Carnophage|C
+Cartographer|U
+Cat Burglar|C
+Cataclysm|R
+Charging Paladin|C
+Cinder Crawler|C
+City of Traitors|R
+Coat of Arms|R
+Convalescence|R
+Crashing Boars|U
+Culling the Weak|C
+Cunning|C
+Curiosity|U
+Cursed Flesh|C
+Dauthi Cutthroat|U
+Dauthi Jackal|C
+Dauthi Warlord|U
+Death's Duet|C
+Dizzying Gaze|C
+Dominating Licid|R
+Elven Palisade|U
+Elvish Berserker|C
+Entropic Specter|R
+Ephemeron|R
+Equilibrium|R
+Erratic Portal|R
+Ertai, Wizard Adept|R
+Exalted Dragon|R
+Fade Away|C
+Fighting Chance|R
+Flowstone Flood|U
+Forbid|U
+Fugue|U
+Furnace Brood|C
+Grollub|C
+Hatred|R
+High Ground|U
+Jackalope Herd|C
+Keeper of the Beasts|U
+Keeper of the Dead|U
+Keeper of the Flame|U
+Keeper of the Light|U
+Keeper of the Mind|U
+Killer Whale|U
+Kor Chant|C
+Limited Resources|R
+Mage il-Vec|C
+Mana Breach|U
+Manabond|R
+Maniacal Rage|C
+Medicine Bag|U
+Memory Crystal|R
+Merfolk Looter|C
+Mind Maggots|U
+Mind Over Matter|R
+Mindless Automaton|R
+Mirozel|U
+Mirri, Cat Warrior|R
+Mogg Assassin|U
+Monstrous Hound|R
+Nausea|C
+Necrologia|U
+Null Brooch|R
+Oath of Druids|R
+Oath of Ghouls|R
+Oath of Lieges|R
+Oath of Mages|R
+Oath of Scholars|R
+Ogre Shaman|R
+Onslaught|C
+Paladin en-Vec|R
+Pandemonium|R
+Paroxysm|U
+Peace of Mind|U
+Pegasus Stampede|U
+Penance|U
+Pit Spawn|R
+Plaguebearer|R
+Plated Rootwalla|C
+Predatory Hunger|C
+Price of Progress|U
+Pygmy Troll|C
+Rabid Wolverines|C
+Raging Goblin|C
+Ravenous Baboons|R
+Reaping the Rewards|C
+Reckless Ogre|C
+Reclaim|C
+Reconnaissance|U
+Recurring Nightmare|R
+Resuscitate|U
+Robe of Mirrors|C
+Rootwater Alligator|C
+Rootwater Mystic|C
+Sabertooth Wyvern|U
+Scalding Salamander|U
+Scare Tactics|C
+School of Piranha|C
+Scrivener|U
+Seismic Assault|R
+Shackles|C
+Shattering Pulse|C
+Shield Mate|C
+Skyshaper|U
+Skyshroud Elite|U
+Skyshroud War Beast|R
+Slaughter|U
+Soltari Visionary|C
+Song of Serenity|U
+Sonic Burst|C
+Soul Warden|C
+Spellbook|U
+Spellshock|U
+Sphere of Resistance|R
+Spike Cannibal|U
+Spike Hatcher|R
+Spike Rogue|U
+Spike Weaver|R
+Standing Troops|C
+Survival of the Fittest|R
+Thalakos Drifters|R
+Thalakos Scout|C
+Theft of Dreams|C
+Thopter Squadron|R
+Thrull Surgeon|C
+Transmogrifying Licid|U
+Treasure Hunter|U
+Treasure Trove|U
+Vampire Hounds|C
+Volrath's Dungeon|R
+Wall of Nets|R
+Wayward Soul|C
+Welkin Hawk|C
+Whiptongue Frog|C
+Wood Elves|C
+Workhorse|R
+Zealots en-Dal|U

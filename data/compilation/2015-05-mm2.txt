@@ -1,0 +1,249 @@
+Aethersnipe|C
+Agony Warp|U
+Air Servant|U
+Algae Gharial|U
+All Is Dust|R
+All Suns' Dawn|R
+Alloy Myr|C
+Ant Queen|R
+Apocalypse Hydra|R
+Apostle's Blessing|C
+Aquastrand Spider|C
+Argent Sphinx|R
+Arrest|C
+Artisan of Kozilek|U
+Ashenmoor Gouger|U
+Azorius Chancery|U
+Banefire|R
+Battlegrace Angel|R
+Bestial Menace|U
+Bitterblossom|M
+Blades of Velis Vel|C
+Blinding Souleater|C
+Blinkmoth Nexus|R
+Blood Ogre|C
+Bloodshot Trainee|U
+Bloodthrone Vampire|C
+Bone Splinters|C
+Boros Garrison|U
+Boros Swiftblade|U
+Brute Force|C
+Burst Lightning|C
+Cathodion|C
+Celestial Purge|U
+Chimeric Mass|R
+Cloud Elemental|C
+Combust|U
+Comet Storm|M
+Commune with Nature|C
+Conclave Phalanx|C
+Copper Carapace|C
+Court Homunculus|C
+Cranial Plating|U
+Creakwood Liege|R
+Cryptic Command|R
+Culling Dais|U
+Cytoplast Root-Kin|U
+Daggerclaw Imp|U
+Dark Confidant|M
+Darksteel Axe|U
+Darksteel Citadel|C
+Daybreak Coronet|R
+Death Denied|C
+Deathmark|U
+Devouring Greed|U
+Dimir Aqueduct|U
+Dimir Guildmage|U
+Dismember|U
+Dispatch|U
+Dragonsoul Knight|C
+Dread Drone|C
+Drooling Groodion|U
+Duskhunter Bat|C
+Eldrazi Temple|U
+Electrolyze|U
+Elesh Norn, Grand Cenobite|M
+Emrakul, the Aeons Torn|M
+Endrek Sahr, Master Breeder|R
+Etched Champion|R
+Etched Monstrosity|R
+Etched Oracle|U
+Ethercaste Knight|U
+Everflowing Chalice|U
+Evolving Wilds|C
+Expedition Map|U
+Eye of Ugin|R
+Faerie Mechanist|C
+Fiery Fall|C
+Flashfreeze|U
+Flayer Husk|C
+Fortify|C
+Frogmite|C
+Fulminator Mage|R
+Ghost Council of Orzhova|R
+Ghostly Changeling|C
+Glassdust Hulk|U
+Glint Hawk Idol|C
+Gnarlid Pack|C
+Goblin Fireslinger|C
+Goblin War Paint|C
+Golgari Rot Farm|U
+Gorehorn Minotaurs|C
+Grim Affliction|C
+Gruul Turf|U
+Guile|R
+Gust-Skimmer|C
+Gut Shot|C
+Hearthfire Hobgoblin|U
+Helium Squirter|C
+Hellkite Charger|R
+Hikari, Twilight Guardian|U
+Horde of Notions|R
+Hurkyl's Recall|R
+Incandescent Soulstoke|U
+Indomitable Archangel|R
+Inexorable Tide|R
+Inner-Flame Igniter|C
+Instill Infection|C
+Iona, Shield of Emeria|M
+Izzet Boilerworks|U
+Kami of Ancient Law|C
+Karn Liberated|M
+Karplusan Strider|U
+Kavu Primarch|C
+Kiki-Jiki, Mirror Breaker|M
+Kitesail|C
+Kor Duelist|U
+Kozilek's Predator|C
+Kozilek, Butcher of Truth|M
+Leyline of Sanctity|R
+Lightning Bolt|U
+Lodestone Golem|R
+Lodestone Myr|R
+Long-Forgotten Gohei|R
+Lorescale Coatl|U
+Mana Leak|C
+Matca Rioters|C
+Midnight Banshee|R
+Mighty Leap|C
+Mirran Crusader|R
+Mirror Entity|R
+Moonlit Strider|C
+Mortarpod|U
+Mox Opal|M
+Mulldrifter|U
+Mutagenic Growth|U
+Myr Enforcer|C
+Myrsmith|U
+Mystic Snake|R
+Nameless Inversion|C
+Narcolepsy|C
+Necrogenesis|U
+Necroskitter|R
+Nest Invader|C
+Niv-Mizzet, the Firemind|R
+Nobilis of War|R
+Noble Hierarch|R
+Novijen Sages|U
+Oblivion Ring|U
+Orzhov Basilica|U
+Otherworldly Journey|C
+Overwhelm|U
+Overwhelming Stampede|R
+Pelakka Wurm|U
+Pillory of the Sleepless|U
+Plagued Rusalka|C
+Plaxcaster Frogling|U
+Plummet|C
+Precursor Golem|R
+Primeval Titan|M
+Profane Command|R
+Puppeteer Clique|R
+Qumulox|U
+Raise the Alarm|C
+Rakdos Carnarium|U
+Rampant Growth|C
+Reassembling Skeleton|U
+Remand|U
+Repeal|C
+Restless Apparition|U
+Root-Kin Ally|U
+Runed Servitor|C
+Rusted Relic|C
+Savage Twister|U
+Scatter the Seeds|C
+Scavenger Drake|U
+Scion of the Wild|C
+Scute Mob|R
+Scuttling Death|C
+Selesnya Guildmage|U
+Selesnya Sanctuary|U
+Shadowmage Infiltrator|R
+Shrewd Hatchling|U
+Shrivel|C
+Sickle Ripper|C
+Sickleslicer|C
+Sigil Blessing|U
+Sign in Blood|C
+Simic Growth Chamber|U
+Simic Initiate|C
+Skarrgan Firebird|U
+Skyhunter Skirmisher|C
+Skyreach Manta|C
+Smash to Smithereens|C
+Smokebraider|C
+Somber Hoverguard|C
+Soulbright Flamekin|C
+Spectral Procession|U
+Spellskite|R
+Sphere of the Suns|C
+Spikeshot Elder|R
+Spitebellows|U
+Splinter Twin|R
+Spread the Sickness|U
+Steady Progress|C
+Stoic Rebuttal|C
+Stormblood Berserker|U
+Sundering Vitae|C
+Sunforger|R
+Sunlance|C
+Sunspear Shikari|C
+Surgical Extraction|R
+Surrakar Spellblade|R
+Swans of Bryn Argoll|R
+Sylvan Bounty|C
+Taj-Nar Swordsmith|U
+Tarmogoyf|M
+Telling Time|C
+Terashi's Grasp|C
+Tezzeret the Seeker|M
+Tezzeret's Gambit|U
+Thief of Hope|C
+Thoughtcast|C
+Thrive|C
+Thrummingbird|C
+Thunderblust|R
+Tribal Flames|C
+Tukatongue Thallid|C
+Tumble Magnet|U
+Ulamog's Crusher|C
+Ulamog, the Infinite Gyre|M
+Vampire Lacerator|C
+Vampire Outcasts|U
+Vapor Snag|C
+Vendilion Clique|M
+Vengeful Rebirth|U
+Viashino Slaughtermaster|C
+Vigean Graftmage|C
+Vines of Vastwood|C
+Waking Nightmare|C
+Water Servant|U
+Waxmane Baku|C
+Wayfarer's Bauble|C
+Wildfire|R
+Wilt-Leaf Liege|R
+Wings of Velis Vel|C
+Wolfbriar Elemental|R
+Worldheart Phoenix|U
+Wrap in Flames|C
+Wrecking Ball|U

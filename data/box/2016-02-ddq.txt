@@ -1,0 +1,71 @@
+Abattoir Ghoul|U
+Angel|C
+Appetite for Brains|U
+Barter in Blood|U
+Bonds of Faith|C
+Butcher Ghoul|C
+Butcher's Cleaver|U
+Captain of the Mists|R
+Cathedral Sanctifier|C
+Champion of the Parish|R
+Chapel Geist|C
+Cobbled Wings|C
+Compelling Deterrence|U
+Dearly Departed|R
+Diregraf Captain|U
+Diregraf Ghoul|U
+Dismal Backwater|C
+Doomed Traveler|C
+Dread Return|U
+Driver of the Dead|C
+Eerie Interlude|R
+Elder Cathar|C
+Emancipation Angel|U
+Falkenrath Noble|U
+Fiend Hunter|U
+Forbidden Alchemy|C
+Gather the Townsfolk|C
+Geist of Saint Traft|M
+Ghoulraiser|C
+Goldnight Redeemer|U
+Gravecrawler|R
+Gryff Vanguard|C
+Harvester of Souls|R
+Havengul Runebinder|R
+Human|C
+Human Frailty|U
+Increasing Devotion|R
+Island|L
+Makeshift Mauler|C
+Mindwrack Demon|M
+Mist Raven|C
+Moan of the Unhallowed|U
+Momentary Blink|C
+Moorland Inquisitor|C
+Nephalia Smuggler|U
+Plains|L
+Pore Over the Pages|U
+Rebuke|C
+Relentless Skaabs|U
+Scrapskin Drake|C
+Screeching Skaab|C
+Seraph Sanctuary|C
+Sever the Bloodline|R
+Sharpened Pitchfork|U
+Slayer of the Wicked|U
+Spectral Gateguards|C
+Spirit|C
+Stitched Drake|C
+Swamp|L
+Tandem Lookout|U
+Thraben Heretic|U
+Tooth Collector|U
+Topplegeist|U
+Tower Geist|U
+Tranquil Cove|C
+Tribute to Hunger|U
+Unbreathing Horde|R
+Victim of Night|C
+Village Bell-Ringer|C
+Voice of the Provinces|C
+Zombie|C

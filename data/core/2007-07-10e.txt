@@ -1,0 +1,368 @@
+Abundance|R
+Academy Researchers|U
+Adarkar Wastes|R
+Afflict|C
+Aggressive Urge|C
+Agonizing Memories|U
+Air Elemental|U
+Ambassador Laquatus|R
+Anaba Bodyguard|C
+Ancestor's Chosen|U
+Angel of Mercy|U
+Angel's Feather|U
+Angelic Blessing|C
+Angelic Chorus|R
+Angelic Wall|C
+Arcane Teachings|U
+Arcanis the Omnipotent|R
+Ascendant Evincar|R
+Assassinate|C
+Aura Graft|U
+Aura of Silence|U
+Avatar of Might|R
+Aven Cloudchaser|C
+Aven Fisher|C
+Aven Windreader|C
+Ballista Squad|U
+Bandage|C
+Battlefield Forge|R
+Beacon of Destruction|R
+Beacon of Immortality|R
+Beacon of Unrest|R
+Benalish Knight|C
+Birds of Paradise|R
+Blanchwood Armor|U
+Blaze|U
+Bloodfire Colossus|R
+Bloodrock Cyclops|C
+Bog Wraith|U
+Bogardan Firefiend|C
+Boomerang|C
+Bottle Gnomes|U
+Brushland|R
+Cancel|C
+Canopy Spider|C
+Caves of Koilos|R
+Cephalid Constable|R
+Chimeric Staff|R
+Cho-Manno, Revolutionary|R
+Chromatic Star|U
+Citanul Flute|R
+Civic Wayfinder|C
+Clone|R
+Cloud Elemental|C
+Cloud Sprite|C
+Coat of Arms|R
+Colossus of Sardia|R
+Commune with Nature|C
+Composite Golem|U
+Condemn|U
+Cone of Flame|U
+Consume Spirit|U
+Contaminated Bond|C
+Counsel of the Soratami|C
+Crafty Pathmage|C
+Craw Wurm|C
+Creeping Mold|U
+Crucible of Worlds|R
+Cruel Edict|U
+Cryoclasm|U
+Deathmark|U
+Dehydration|C
+Deluge|U
+Demolish|C
+Demon's Horn|U
+Demystify|C
+Denizen of the Deep|R
+Diabolic Tutor|U
+Discombobulate|U
+Distress|C
+Doomed Necromancer|R
+Doubling Cube|R
+Dragon Roost|R
+Dragon's Claw|U
+Dreamborn Muse|R
+Dross Crocodile|C
+Drudge Skeletons|U
+Duct Crawler|C
+Dusk Imp|C
+Earth Elemental|U
+Elven Riders|U
+Elvish Berserker|C
+Elvish Champion|R
+Elvish Piper|R
+Enormous Baloth|U
+Essence Drain|C
+Evacuation|R
+Faerie Conclave|U
+Fear|C
+Femeref Archers|U
+Festering Goblin|C
+Field Marshal|R
+Firebreathing|C
+Fists of the Anvil|C
+Flamewave Invoker|U
+Flashfreeze|U
+Flowstone Slide|R
+Fog Elemental|U
+Forbidding Watchtower|U
+Forest|L
+Fountain of Youth|U
+Fugitive Wizard|C
+Furnace of Rath|R
+Furnace Whelp|U
+Gaea's Herald|R
+Ghitu Encampment|U
+Ghost Warden|C
+Giant Growth|C
+Giant Spider|C
+Glorious Anthem|R
+Goblin Elite Infantry|C
+Goblin King|R
+Goblin Lore|U
+Goblin Piker|C
+Goblin Sky Raider|C
+Grave Pact|R
+Graveborn Muse|R
+Gravedigger|C
+Grizzly Bears|C
+Guerrilla Tactics|U
+Hail of Arrows|U
+Hate Weaver|U
+Head Games|R
+Heart of Light|C
+Hidden Horror|U
+High Ground|U
+Highway Robber|C
+Hill Giant|C
+Holy Day|C
+Holy Strength|C
+Honor Guard|C
+Horseshoe Crab|C
+Howling Mine|R
+Hunted Wumpus|U
+Hurkyl's Recall|R
+Hurricane|R
+Hypnotic Specter|R
+Icatian Priest|U
+Icy Manipulator|U
+Incinerate|C
+Island|L
+Jayemdae Tome|R
+Joiner Adept|R
+Juggernaut|U
+Kamahl, Pit Fighter|R
+Karplusan Forest|R
+Karplusan Strider|U
+Kavu Climber|C
+Kjeldoran Royal Guard|R
+Knight of Dusk|U
+Kraken's Eye|U
+Lava Axe|C
+Lavaborn Muse|R
+Legacy Weapon|R
+Leonin Scimitar|U
+Lightning Elemental|C
+Llanowar Elves|C
+Llanowar Sentinel|C
+Llanowar Wastes|R
+Looming Shade|C
+Lord of the Pit|R
+Lord of the Undead|R
+Loxodon Mystic|C
+Loxodon Warhammer|R
+Loyal Sentry|R
+Lumengrid Warden|C
+Luminesce|U
+Lure|U
+Mahamoti Djinn|R
+Manabarbs|R
+Mantis Engine|U
+March of the Machines|R
+Mass of Ghouls|C
+Megrim|U
+Merfolk Looter|C
+Midnight Ritual|R
+Might of Oaks|R
+Might Weaver|U
+Millstone|R
+Mind Bend|R
+Mind Rot|C
+Mind Stone|U
+Mirri, Cat Warrior|R
+Mobilization|R
+Mogg Fanatic|U
+Molimo, Maro-Sorcerer|R
+Mortal Combat|R
+Mortivore|R
+Mountain|L
+Nantuko Husk|U
+Natural Spring|C
+Naturalize|C
+Nekrataal|U
+Nightmare|R
+No Rest for the Wicked|U
+Nomad Mythmaker|R
+Orcish Artillery|U
+Ornithopter|U
+Overgrowth|C
+Overrun|U
+Pacifism|C
+Paladin en-Vec|R
+Pariah|R
+Peek|C
+Persuasion|U
+Phage the Untouchable|R
+Phantom Warrior|U
+Phyrexian Rager|C
+Phyrexian Vault|U
+Pincher Beetles|C
+Pithing Needle|R
+Plagiarize|R
+Plague Beetle|C
+Plague Wind|R
+Plains|L
+Platinum Angel|R
+Primal Rage|U
+Prodigal Pyromancer|C
+Puppeteer|U
+Pyroclasm|U
+Quicksand|U
+Quirion Dryad|R
+Rage Weaver|U
+Raging Goblin|C
+Rain of Tears|U
+Rampant Growth|C
+Ravenous Rats|C
+Razormane Masticore|R
+Recollect|U
+Recover|C
+Regeneration|U
+Relentless Assault|R
+Relentless Rats|U
+Reminisce|U
+Remove Soul|C
+Reviving Dose|C
+Reya Dawnbringer|R
+Rhox|R
+Righteousness|R
+Robe of Mirrors|C
+Rock Badger|C
+Rod of Ruin|U
+Root Maze|R
+Rootwalla|C
+Rootwater Commando|C
+Rootwater Matriarch|R
+Royal Assassin|R
+Rule of Law|U
+Rushwood Dryad|C
+Sage Owl|C
+Samite Healer|C
+Scalpelexis|R
+Scathe Zombies|C
+Scion of the Wild|R
+Scoria Wurm|R
+Sculpting Steel|R
+Sea Monster|C
+Seedborn Muse|R
+Seismic Assault|R
+Sengir Vampire|R
+Serra Angel|R
+Serra's Embrace|U
+Severed Legion|C
+Shatterstorm|U
+Shimmering Wings|C
+Shivan Dragon|R
+Shivan Hellkite|R
+Shivan Reef|R
+Shock|C
+Shunt|R
+Siege-Gang Commander|R
+Sift|C
+Sky Weaver|U
+Skyhunter Patrol|C
+Skyhunter Prowler|C
+Skyhunter Skirmisher|U
+Skyshroud Ranger|C
+Sleeper Agent|R
+Smash|C
+Snapping Drake|C
+Soul Feast|U
+Soul Warden|U
+Soulblast|R
+Spark Elemental|U
+Spawning Pool|U
+Spellbook|U
+Spiketail Hatchling|U
+Spined Wurm|C
+Spineless Thug|C
+Spirit Link|U
+Spirit Weaver|U
+Spitting Earth|C
+Squee, Goblin Nabob|R
+Stalking Tiger|C
+Stampeding Wildebeests|U
+Starlight Invoker|U
+Steadfast Guard|C
+Steel Golem|U
+Story Circle|R
+Stronghold Discipline|U
+Stun|C
+Sudden Impact|U
+Sulfurous Springs|R
+Sunken Hope|R
+Suntail Hawk|C
+Swamp|L
+Sylvan Basilisk|U
+Sylvan Scrying|U
+Tangle Spider|U
+Telepathy|U
+Telling Time|U
+Tempest of Light|U
+Terramorphic Expanse|C
+Terror|C
+The Hive|R
+Thieving Magpie|U
+Threaten|U
+Thrull Surgeon|U
+Thundering Giant|U
+Tidings|U
+Time Stop|R
+Time Stretch|R
+Traumatize|R
+Treasure Hunter|U
+Treetop Bracers|C
+Treetop Village|U
+Troll Ascetic|R
+True Believer|R
+Tundra Wolves|C
+Twincast|R
+Twitch|C
+Uncontrollable Anger|C
+Underground River|R
+Underworld Dreams|R
+Unholy Strength|C
+Unsummon|C
+Upwelling|R
+Vampire Bats|C
+Vedalken Mastermind|U
+Venerable Monk|C
+Verdant Force|R
+Viashino Runner|C
+Viashino Sandscout|C
+Viridian Shaman|U
+Voice of All|R
+Wall of Air|U
+Wall of Fire|U
+Wall of Swords|U
+Wall of Wood|C
+Warp World|R
+Warrior's Honor|C
+Whispersilk Cloak|U
+Wild Griffin|C
+Windborn Muse|R
+Wrath of God|R
+Wurm's Tooth|U
+Yavimaya Coast|R
+Yavimaya Enchantress|U
+Youthful Knight|C

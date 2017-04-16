@@ -1,0 +1,80 @@
+Ageless Entity|R
+Agonizing Demise|C
+Ajani Vengeant|M
+Ajani's Mantra|C
+Ajani's Pridemate|U
+Behemoth Sledge|U
+Blazing Specter|R
+Brackwater Elemental|C
+Briarhorn|U
+Canyon Wildcat|C
+Countersquall|U
+Cruel Ultimatum|R
+Crumbling Necropolis|U
+Deep Analysis|U
+Dimir Cutpurse|R
+Elder Mastery|U
+Essence Warden|C
+Evolving Wilds|C
+Fall (Rise/Fall)|U
+Fire-Field Ogre|U
+Firemane Angel|R
+Fleetfoot Panther|U
+Forest|L
+Graypelt Refuge|U
+Grazing Gladehart|C
+Griffin Guide|U
+Grixis Charm|U
+Hellfire Mongrel|U
+Icy Manipulator|U
+Igneous Pouncer|C
+Island|L
+Jade Mage|U
+Jhessian Zombies|C
+Jungle Shrine|U
+Kazandu Refuge|U
+Kird Ape|U
+Lead the Stampede|U
+Lightning Helix|U
+Loam Lion|U
+Loxodon Hierarch|R
+Malice (Spite/Malice)|U
+Marisi's Twinclaws|U
+Morgue Toad|C
+Moroii|U
+Mountain|L
+Nacatl Hunt-Pride|U
+Naya Charm|U
+Nicol Bolas, Planeswalker|M
+Nightscape Familiar|C
+Obelisk of Grixis|C
+Ogre Savant|C
+Pain (Pain/Suffering)|U
+Plains|L
+Pride of Lions|U
+Profane Command|R
+Qasali Pridemage|C
+Recoil|C
+Recumbent Bliss|C
+Rise (Rise/Fall)|U
+Rupture Spire|C
+Sapseep Forest|U
+Searing Meditation|R
+Shriekmaw|U
+Slave of Bolas|U
+Slavering Nulls|U
+Spite (Spite/Malice)|U
+Spitemare|U
+Steamcore Weird|C
+Suffering (Pain/Suffering)|U
+Surveilling Sprite|C
+Swamp|L
+Sylvan Bounty|C
+Sylvan Ranger|C
+Terramorphic Expanse|C
+Titanic Ultimatum|R
+Undermine|R
+Vapor Snag|C
+Vitu-Ghazi, the City-Tree|U
+Wild Nacatl|C
+Woolly Thoctar|U

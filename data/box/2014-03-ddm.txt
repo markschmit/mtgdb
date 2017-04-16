@@ -1,0 +1,76 @@
+Acidic Slime|U
+Aeon Chronicler|R
+Aether Adept|C
+Aether Figment|U
+Agoraphobia|U
+Archaeomancer|C
+Body Double|R
+Chronomaton|U
+Claustrophobia|C
+Consume Strength|C
+Control Magic|U
+Corpse Traders|U
+Crosstown Courier|C
+Death-Hood Cobra|C
+Dread Statuary|U
+Dream Stalker|C
+Drooling Groodion|U
+Errant Ephemeron|C
+Festerhide Boar|C
+Forest|L
+Future Sight|R
+Gatecreeper Vine|C
+Golgari Guildgate|C
+Griptide|C
+Grisly Spectacle|C
+Halimar Depths|C
+Highway Robber|C
+Hypnotic Cloud|C
+Into the Roil|C
+Island|L
+Jace's Ingenuity|U
+Jace's Mindseeker|R
+Jace's Phantasm|U
+Jace, Architect of Thought|M
+Krovikan Mist|C
+Last Kiss|C
+Leyline Phantom|C
+Marsh Casualties|U
+Memory Lapse|C
+Merfolk Wayfinder|U
+Mold Shambler|C
+Nekrataal|U
+Night's Whisper|U
+Ohran Viper|R
+Oran-Rief Recluse|C
+Phantasmal Bear|C
+Phantasmal Dragon|U
+Prohibit|C
+Pulse Tracker|C
+Putrid Leech|C
+Ray of Command|C
+Reaper of the Wilds|R
+Remand|U
+Riftwing Cloudskate|U
+River Boa|U
+Rogue's Passage|U
+Sadistic Augermage|C
+Sea Gate Oracle|C
+Shadow Alley Denizen|C
+Slate Street Ruffian|C
+Spawnwrithe|R
+Spelltwine|R
+Stab Wound|C
+Stealer of Secrets|C
+Stonefare Crocodile|C
+Summoner's Bane|U
+Swamp|L
+Tainted Wood|U
+Tavern Swindler|U
+Thought Scour|C
+Tragic Slip|C
+Treasured Find|U
+Underworld Connections|R
+Vinelasher Kudzu|R
+Vraska the Unseen|M
+Wight of Precinct Six|U

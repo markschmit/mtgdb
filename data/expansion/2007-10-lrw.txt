@@ -1,0 +1,286 @@
+Adder-Staff Boggart|C
+Aethersnipe|C
+Ajani Goldmane|R
+Amoeboid Changeling|C
+Ancient Amphitheater|R
+Aquitect's Will|C
+Arbiter of Knollridge|R
+Ashling the Pilgrim|R
+Ashling's Prerogative|R
+Auntie's Hovel|R
+Austere Command|R
+Avian Changeling|C
+Axegrinder Giant|C
+Battle Mastery|U
+Battlewand Oak|C
+Benthicore|U
+Black Poplar Shaman|C
+Blades of Velis Vel|C
+Blind-Spot Giant|C
+Bog Hoodlums|C
+Bog-Strider Ash|C
+Boggart Birth Rite|C
+Boggart Forager|C
+Boggart Harbinger|U
+Boggart Loggers|C
+Boggart Mob|R
+Boggart Shenanigans|U
+Boggart Sprite-Chaser|C
+Briarhorn|U
+Brigid, Hero of Kinsbaile|R
+Brion Stoutarm|R
+Broken Ambitions|C
+Burrenton Forge-Tender|U
+Cairn Wanderer|R
+Captivating Glance|U
+Caterwauling Boggart|C
+Ceaseless Searblades|U
+Cenn's Heir|C
+Chandra Nalaar|R
+Changeling Berserker|U
+Changeling Hero|U
+Changeling Titan|U
+Cloudcrown Oak|C
+Cloudgoat Ranger|U
+Cloudthresher|R
+Colfenor's Plans|R
+Colfenor's Urn|R
+Consuming Bonfire|C
+Crib Swap|U
+Crush Underfoot|U
+Cryptic Command|R
+Dauntless Dourbark|R
+Dawnfluke|C
+Deathrender|R
+Deeptread Merrow|C
+Dolmen Gate|R
+Doran, the Siege Tower|R
+Dread|R
+Dreamspoiler Witches|C
+Drowner of Secrets|U
+Ego Erasure|U
+Elvish Branchbender|C
+Elvish Eulogist|C
+Elvish Handservant|C
+Elvish Harbinger|U
+Elvish Promenade|U
+Entangling Trap|U
+Epic Proportions|R
+Ethereal Whiskergill|U
+Exiled Boggart|C
+Eyeblight's Ending|C
+Eyes of the Wisent|R
+Facevaulter|C
+Faerie Harbinger|U
+Faerie Tauntings|U
+Faerie Trickery|C
+Fallowsage|U
+Familiar's Ruse|U
+Fathom Trawl|R
+Faultgrinder|C
+Favor of the Mighty|R
+Fertile Ground|C
+Final Revels|U
+Fire-Belly Changeling|C
+Fistful of Force|C
+Flamekin Bladewhirl|U
+Flamekin Brawler|C
+Flamekin Harbinger|U
+Flamekin Spitfire|U
+Fodder Launch|U
+Footbottom Feast|C
+Forced Fruition|R
+Forest|L
+Gaddock Teeg|R
+Galepowder Mage|R
+Garruk Wildspeaker|R
+Ghostly Changeling|U
+Giant Harbinger|U
+Giant's Ire|C
+Gilt-Leaf Ambush|C
+Gilt-Leaf Palace|R
+Gilt-Leaf Seer|C
+Glarewielder|U
+Glen Elendra Pranksters|U
+Glimmerdust Nap|C
+Goatnapper|U
+Goldmeadow Dodger|C
+Goldmeadow Harrier|C
+Goldmeadow Stalwart|U
+Guardian of Cloverdell|U
+Guile|R
+Hamletback Goliath|R
+Harpoon Sniper|U
+Heal the Scars|C
+Hearthcage Giant|U
+Heat Shimmer|R
+Herbal Poultice|C
+Hillcomber Giant|C
+Hoarder's Greed|U
+Hoofprints of the Stag|R
+Horde of Notions|R
+Hornet Harasser|C
+Hostility|R
+Howltooth Hollow|R
+Hunt Down|C
+Hunter of Eyeblights|U
+Hurly-Burly|C
+Immaculate Magistrate|R
+Imperious Perfect|U
+Incandescent Soulstoke|R
+Incendiary Command|R
+Incremental Growth|U
+Ingot Chewer|C
+Inkfathom Divers|C
+Inner-Flame Acolyte|C
+Inner-Flame Igniter|U
+Island|L
+Jace Beleren|R
+Jagged-Scar Archers|U
+Judge of Currents|C
+Kinsbaile Balloonist|C
+Kinsbaile Skirmisher|C
+Kithkin Daggerdare|C
+Kithkin Greatheart|C
+Kithkin Harbinger|U
+Kithkin Healer|C
+Kithkin Mourncaller|U
+Knight of Meadowgrain|U
+Knucklebone Witch|R
+Lace with Moonglove|C
+Lairwatch Giant|C
+Lammastide Weave|U
+Lash Out|C
+Leaf Gilder|C
+Lignify|C
+Liliana Vess|R
+Lowland Oaf|C
+Lys Alana Huntmaster|C
+Lys Alana Scarblade|U
+Mad Auntie|R
+Makeshift Mannequin|U
+Marsh Flitter|U
+Masked Admirers|R
+Merrow Commerce|U
+Merrow Harbinger|U
+Merrow Reejerey|U
+Militia's Pride|R
+Mirror Entity|R
+Mistbind Clique|R
+Moonglove Extract|C
+Moonglove Winnower|C
+Mosswort Bridge|R
+Mountain|L
+Mournwhelk|C
+Mudbutton Torchrunner|C
+Mulldrifter|C
+Nameless Inversion|C
+Nath of the Gilt-Leaf|R
+Nath's Buffoon|C
+Nath's Elite|C
+Neck Snap|C
+Nectar Faerie|U
+Needle Drop|C
+Nettlevine Blight|R
+Nightshade Stinger|C
+Nova Chaser|R
+Oaken Brawler|C
+Oakgnarl Warrior|C
+Oblivion Ring|C
+Oona's Prowler|R
+Paperfin Rascal|C
+Peppersmoke|C
+Pestermite|C
+Plains|L
+Plover Knights|C
+Pollen Lullaby|U
+Ponder|C
+Primal Command|R
+Profane Command|R
+Protective Bubble|C
+Prowess of the Fair|U
+Purity|R
+Quill-Slinger Boggart|C
+Rebellion of the Flamekin|U
+Rings of Brighthearth|R
+Ringskipper|C
+Rootgrapple|C
+Runed Stalactite|C
+Scarred Vinebreeder|C
+Scattering Stroke|U
+Scion of Oona|R
+Secluded Glen|R
+Seedguide Ash|U
+Sentinels of Glen Elendra|C
+Sentry Oak|U
+Shapesharer|R
+Shelldock Isle|R
+Shields of Velis Vel|C
+Shimmering Grotto|C
+Shriekmaw|U
+Silvergill Adept|U
+Silvergill Douser|C
+Skeletal Changeling|C
+Smokebraider|C
+Soaring Hope|C
+Soulbright Flamekin|C
+Sower of Temptation|R
+Spellstutter Sprite|C
+Spiderwig Boggart|C
+Spinerock Knoll|R
+Spring Cleaning|C
+Springjack Knight|C
+Springleaf Drum|C
+Squeaking Pie Sneak|U
+Stinkdrinker Daredevil|C
+Stonybrook Angler|C
+Streambed Aquitects|C
+Summon the School|U
+Sunrise Sovereign|R
+Surge of Thoughtweft|C
+Surgespanner|R
+Swamp|L
+Sygg, River Guide|R
+Sylvan Echoes|U
+Tar Pitcher|U
+Tarfire|C
+Thieving Sprite|C
+Thorn of Amethyst|R
+Thorntooth Witch|U
+Thoughtseize|R
+Thoughtweft Trio|R
+Thousand-Year Elixir|R
+Thundercloud Shaman|U
+Tideshaper Mystic|C
+Timber Protector|R
+Treefolk Harbinger|U
+Triclopean Sight|C
+Turtleshell Changeling|U
+Twinning Glass|R
+Veteran of the Depths|U
+Vigor|R
+Vivid Crag|U
+Vivid Creek|U
+Vivid Grove|U
+Vivid Marsh|U
+Vivid Meadow|U
+Wanderer's Twig|C
+Wanderwine Hub|R
+Wanderwine Prophets|R
+Warren Pilferers|C
+Warren-Scourge Elf|C
+Weed Strangle|C
+Wellgabber Apothecary|C
+Whirlpool Whelm|C
+Wild Ricochet|R
+Windbrisk Heights|R
+Wings of Velis Vel|C
+Wispmare|C
+Wizened Cenn|U
+Woodland Changeling|C
+Woodland Guidance|U
+Wort, Boggart Auntie|R
+Wren's Run Packmaster|R
+Wren's Run Vanquisher|U
+Wydwen, the Biting Gale|R
+Zephyr Net|C
