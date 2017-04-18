@@ -1,98 +1,98 @@
-Allied Strategies|U
+Cloud Cover|R
 Alpha Kavu|U
+Allied Strategies|U
 Amphibious Kavu|C
 Ancient Spider|R
 Arctic Merfolk|C
-Aura Blast|C
 Aurora Griffin|C
-Bog Down|C
+Aura Blast|C
 Caldera Kavu|C
+Bog Down|C
 Cavern Harpy|C
-Cloud Cover|R
-Confound|C
 Crosis's Catacombs|U
-Crosis's Charm|U
+Confound|C
 Darigaaz's Caldera|U
+Crosis's Charm|U
 Darigaaz's Charm|U
 Daring Leap|C
-Dark Suspicions|R
 Deadapult|R
-Death Bomb|C
+Dark Suspicions|R
 Destructive Flow|R
-Diabolic Intent|R
+Death Bomb|C
 Disciple of Kangee|C
-Dominaria's Judgment|R
+Diabolic Intent|R
 Doomsday Specter|R
+Dominaria's Judgment|R
 Draco|R
 Dralnu's Crusade|R
 Dralnu's Pet|R
 Dromar's Cavern|U
 Dromar's Charm|U
-Eladamri's Call|R
 Ertai's Trickery|U
+Eladamri's Call|R
 Ertai, the Corrupted|R
 Escape Routes|C
 Exotic Disease|U
-Falling Timber|C
 Flametongue Kavu|U
+Falling Timber|C
 Fleetfoot Panther|U
 Forsaken City|R
 Gaea's Herald|R
-Gaea's Might|C
 Gainsay|U
-Gerrard's Command|C
+Gaea's Might|C
 Goblin Game|R
-Guard Dogs|U
+Gerrard's Command|C
 Heroic Defiance|C
+Guard Dogs|U
 Hobble|C
 Honorable Scout|C
 Horned Kavu|C
-Hull Breach|C
 Hunting Drake|C
-Implode|U
-Insolence|C
+Hull Breach|C
 Kavu Recluse|C
+Insolence|C
+Implode|U
 Keldon Mantle|C
-Keldon Twilight|R
 Lashknife Barrier|U
+Keldon Twilight|R
 Lava Zombie|C
 Lord of the Undead|R
 Maggot Carrier|C
-Magma Burst|C
-Magnigoth Treefolk|R
-Malicious Advice|C
 Mana Cylix|U
+Magnigoth Treefolk|R
+Magma Burst|C
+Malicious Advice|C
 March of Souls|R
 Marsh Crocodile|U
 Meddling Mage|R
-Meteor Crater|R
 Mire Kavu|C
+Meteor Crater|R
 Mirrorwood Treefolk|U
-Mogg Jailer|U
 Mogg Sentry|R
+Mogg Jailer|U
 Morgue Toad|C
 Multani's Harmony|U
-Natural Emergence|R
 Nemata, Grove Guardian|R
+Natural Emergence|R
 Nightscape Battlemage|U
 Nightscape Familiar|C
 Noxious Vapors|U
-Orim's Chant|R
 Phyrexian Bloodstock|C
+Orim's Chant|R
 Phyrexian Scuta|R
 Phyrexian Tyranny|R
-Planar Overlay|R
 Planeswalker's Favor|R
+Planar Overlay|R
 Planeswalker's Fury|R
 Planeswalker's Mirth|R
 Planeswalker's Mischief|R
 Planeswalker's Scorn|R
+Pygmy Kavu|C
 Pollen Remedy|C
 Primal Growth|C
-Pygmy Kavu|C
+Quirion Explorer|C
 Questing Phelddagrif|R
 Quirion Dryad|R
-Quirion Explorer|C
 Radiant Kavu|R
 Razing Snidd|U
 Rith's Charm|U
@@ -102,42 +102,42 @@ Rushing River|C
 Samite Elder|R
 Samite Pilgrim|C
 Sawtooth Loon|U
+Shivan Wurm|R
 Sea Snidd|C
 Shifting Sky|U
-Shivan Wurm|R
 Shriek of Dread|C
 Silver Drake|C
-Singe|C
-Sinister Strength|C
 Sisay's Ingenuity|C
+Sinister Strength|C
 Skyship Weatherlight|R
-Skyshroud Blessing|U
+Singe|C
 Slay|U
+Skyshroud Blessing|U
 Sleeping Potion|C
 Slingshot Goblin|C
+Steel Leaf Paladin|C
 Sparkcaster|U
 Star Compass|U
-Steel Leaf Paladin|C
-Stone Kavu|C
 Stormscape Battlemage|U
+Stone Kavu|C
 Stormscape Familiar|C
-Strafe|U
-Stratadon|U
-Sunken Hope|R
-Sunscape Battlemage|U
 Sunscape Familiar|C
-Surprise Deployment|U
+Stratadon|U
+Strafe|U
+Sunscape Battlemage|U
+Sunken Hope|R
 Tahngarth, Talruum Hero|R
-Terminal Moraine|U
+Surprise Deployment|U
 Terminate|C
-Thornscape Battlemage|U
+Terminal Moraine|U
 Thornscape Familiar|C
+Thornscape Battlemage|U
 Thunderscape Battlemage|U
 Thunderscape Familiar|C
 Treva's Charm|U
 Treva's Ruins|U
 Urza's Guilt|R
 Voice of All|U
+Waterspout Elemental|R
 Volcano Imp|C
 Warped Devotion|U
-Waterspout Elemental|R

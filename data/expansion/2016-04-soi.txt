@@ -1,118 +1,233 @@
 Aberrant Researcher|U
 Accursed Witch|U
-Aim High|C
 Alms of the Vein|C
+Aim High|C
+Ancient of the Equinox|U
 Altered Ego|R
 Always Watching|R
-Ancient of the Equinox|U
 Angel of Deliverance|R
-Angelic Purge|C
 Anguished Unmaking|R
+Press for Answers|C
+Pious Evangel|U
+Plains|L
+Port Town|R
+Pore Over the Pages|U
+Prized Amalgam|R
+Puncturing Light|C
+Pyre Hound|C
+Quilled Wolf|C
+Rattlechains|R
+Rancid Rats|C
+Rabid Bite|C
+Ravenous Bloodseeker|U
+Reaper of Flight Moonsilver|U
+Reckless Scholar|U
+Reduce to Ashes|C
+Relentless Dead|M
+Root Out|C
+Runaway Carriage|U
+Rise from the Tides|U
+Rottenheart Ghoul|C
+Sage of Ancient Lore|R
+Rush of Adrenaline|C
+Sanguinary Mage|C
+Sanitarium Skeleton|C
+Scourge Wolf|R
+Scrounged Scythe|U
+Seagraf Skaab|C
+Seasons Past|M
+Second Harvest|R
+Senseless Rage|C
+Shard of Broken Glass|C
+Shamble Back|C
+Sigarda, Heron's Grace|M
+Silburlind Snapper|C
+Silent Observer|C
+Silverfur Partisan|R
+Sin Prodder|R
+Sinister Concoction|U
+Silverstrike|U
+Skeleton Key|U
+Skin Invasion|U
+Skin Shedder|U
+Slayer's Plate|R
+Sleep Paralysis|C
+Solitary Hunter|C
+Sorin, Grim Nemesis|M
+Soul Swallower|R
+Spectral Shepherd|U
+Spiteful Motives|U
+Stallion of Ashmouth|C
+Stensia Masquerade|U
+Startled Awake|M
+Stern Constable|C
+Stitched Mangler|C
+Stitchwing Skaab|U
+Stoic Builder|C
+Stonewing Antagonizer|U
+Stone Quarry|U
+Stormrider Spirit|C
+Stromkirk Mentor|C
+Strength of Arms|C
+Survive the Night|C
+Structural Distortion|C
+Swamp|L
+Tamiyo's Journal|R
+The Gitrog Monster|M
+Thalia's Lieutenant|R
+Tenacity|U
+Thing in the Ice|R
+Thornhide Wolves|C
+Thraben Inspector|C
+Thraben Gargoyle|U
+Timber Shredder|C
+Throttle|C
+Tireless Tracker|R
+To the Slaughter|R
+Tooth Collector|U
+Town Gossipmonger|U
+Topplegeist|U
+Tormenting Voice|C
+Traverse the Ulvenwald|R
+Trail of Evidence|U
+Triskaidekaphobia|R
+True-Faith Censer|C
+Twins of Maurer Estate|C
+Ulrich's Kindred|U
+Ulvenwald Hydra|M
+Ulvenwald Mysteries|U
+Unimpeded Trespasser|U
+Uncaged Fury|C
+Uninvited Geist|U
+Unruly Mob|C
+Vampire Noble|C
+Vessel of Ephemera|C
+Vessel of Malignity|C
+Vessel of Paramnesia|C
+Vessel of Nascency|C
+Watcher in the Web|C
+Vildin-Pack Alpha|R
+Vessel of Volatility|C
+Veteran Cathar|U
+Village Messenger|U
+Voldaren Duelist|C
+Warped Landscape|C
+Weirding Wood|U
+Wayward Disciple|U
+Werewolf of Ancient Hunger|R
+Welcome to the Fold|R
+Westvale Cult Leader|R
+Westvale Abbey|R
+Wicker Witch|C
+Wild-Field Scarecrow|U
+Wolf of Devil's Breach|M
+Woodland Stream|U
+Angelic Purge|C
 Apothecary Geist|C
 Archangel Avacyn|M
-Arlinn Kord|M
 Arlinn, Embraced by the Moon|M
+Arlinn Kord|M
 Ashmouth Blade|U
 Asylum Visitor|R
-Autumnal Gloom|U
 Avacyn's Judgment|R
+Autumnal Gloom|U
 Avacyn, the Purifier|M
 Avacynian Missionaries|U
 Awoken Horror|R
 Bearer of Overwhelming Truths|U
-Behind the Scenes|U
 Behold the Beyond|M
+Behind the Scenes|U
 Biting Rain|U
-Bloodmad Vampire|C
 Bound by Moonsilver|U
+Bloodmad Vampire|C
 Brain in a Jar|R
 Branded Howler|C
 Breakneck Rider|U
 Briarbridge Patrol|U
-Broken Concentration|U
 Burn from Within|R
+Broken Concentration|U
 Bygone Bishop|R
 Byway Courier|C
-Call the Bloodline|U
 Catalog|C
+Call the Bloodline|U
 Cathar's Companion|C
 Chaplain's Blessing|C
-Choked Estuary|R
 Clip Wings|C
-Compelling Deterrence|U
+Choked Estuary|R
 Confirm Suspicions|R
+Compelling Deterrence|U
 Confront the Unknown|C
 Convicted Killer|C
-Corrupted Grafstone|R
 Crawling Sensation|U
-Creeping Dread|U
+Corrupted Grafstone|R
 Crow of Dark Tidings|C
-Cryptolith Rite|R
+Creeping Dread|U
 Cult of the Waxing Moon|U
+Cryptolith Rite|R
 Dance with Devils|U
 Daring Sleuth|U
 Dauntless Cathar|C
-Dead Weight|C
 Deathcap Cultivator|R
-Declaration in Stone|R
+Dead Weight|C
 Demon-Possessed Witch|U
-Deny Existence|C
+Declaration in Stone|R
 Descend upon the Sinful|M
+Deny Existence|C
 Devils' Playground|R
 Devilthorn Fox|C
 Diregraf Colossus|R
-Dissension in the Ranks|U
 Drogskol Cavalry|R
+Dissension in the Ranks|U
 Drownyard Explorers|C
-Drownyard Temple|R
 Drunau Corpse Trawler|U
-Dual Shot|C
-Duskwatch Recruiter|U
-Eerie Interlude|R
+Drownyard Temple|R
 Elusive Tormentor|R
+Duskwatch Recruiter|U
+Dual Shot|C
+Eerie Interlude|R
 Ember-Eye Wolf|C
 Emissary of the Sleepless|C
-Engulf the Shore|R
 Epiphany at the Drownyard|R
+Engulf the Shore|R
 Epitaph Golem|U
 Equestrian Skill|C
 Erdwal Illuminator|U
-Essence Flux|U
 Ethereal Guidance|C
+Essence Flux|U
 Ever After|R
-Explosive Apparatus|C
 Expose Evil|C
+Explosive Apparatus|C
 Falkenrath Gorger|R
 Farbog Revenant|C
 Fevered Visions|R
-Fiery Temper|C
 Flameblade Angel|R
+Fiery Temper|C
 Flameheart Werewolf|U
-Fleeting Memories|U
 Foreboding Ruins|R
+Fleeting Memories|U
 Forest|L
 Forgotten Creation|R
-Fork in the Road|C
 Forsaken Sanctuary|U
+Fork in the Road|C
 Fortified Village|R
-Foul Orchard|U
 From Under the Floorboards|R
+Foul Orchard|U
 Furtive Homunculus|C
-Game Trail|R
-Gatstaf Arsonists|C
 Gatstaf Ravagers|C
+Gatstaf Arsonists|C
+Game Trail|R
 Geier Reach Bandit|R
-Geistblast|U
 Geralf's Masterpiece|M
+Geistblast|U
 Ghostly Wings|C
 Ghoulcaller's Accomplice|C
 Ghoulsteed|U
 Gibbering Fiend|U
-Gisa's Bidding|U
 Gloomwidow|U
+Gisa's Bidding|U
 Goldnight Castigator|M
-Gone Missing|C
 Graf Mole|U
+Gone Missing|C
 Grotesque Mutation|C
 Groundskeeper|U
 Gryff's Boon|U
@@ -123,8 +238,8 @@ Haunted Cloak|U
 Heir of Falkenrath|U
 Heir to the Night|U
 Hermit of the Natterknolls|U
-Highland Lake|U
 Hinterland Logger|C
+Highland Lake|U
 Hope Against Hope|U
 Hound of the Farbogs|C
 Howlpack Resurgence|U
@@ -142,179 +257,64 @@ Insidious Mist|R
 Insolent Neonate|C
 Inspiring Captain|C
 Intrepid Provisioner|C
-Invasive Surgery|U
-Invocation of Saint Traft|R
 Island|L
-Jace's Scrutiny|C
+Invocation of Saint Traft|R
+Invasive Surgery|U
 Jace, Unraveler of Secrets|M
+Jace's Scrutiny|C
 Just the Wind|C
 Kessig Dire Swine|C
-Kessig Forgemaster|U
-Kindly Stranger|U
 Krallenhorde Howler|U
+Kessig Forgemaster|U
+Lamplighter of Selhoff|C
+Kindly Stranger|U
 Lambholt Butcher|U
 Lambholt Pacifist|U
-Lamplighter of Selhoff|C
-Lightning Axe|U
 Liliana's Indignation|U
 Loam Dryad|C
+Lightning Axe|U
 Lone Wolf of the Natterknolls|U
 Lunarch Inquisitors|U
-Macabre Waltz|C
 Mad Prophet|U
-Magmatic Chasm|C
 Magnifying Glass|U
-Malevolent Whispers|U
+Macabre Waltz|C
+Magmatic Chasm|C
 Manic Scribe|U
-Markov Dreadknight|R
+Malevolent Whispers|U
 Merciless Resolve|C
+Markov Dreadknight|R
 Might Beyond Reason|C
 Militant Inquisitor|C
 Mindwrack Demon|M
 Moldgraf Scavenger|C
-Moonlight Hunt|U
 Moonrise Intruder|U
+Moonlight Hunt|U
 Moorland Drifter|C
 Morkrut Necropod|U
 Mountain|L
 Murderer's Axe|U
-Murderous Compulsion|C
 Nagging Thoughts|C
 Nahiri's Machinations|U
+Murderous Compulsion|C
 Nahiri, the Harbinger|M
 Nearheath Chaplain|U
 Neck Breaker|U
 Neglected Heirloom|U
 Nephalia Moondrakes|R
 Niblis of Dusk|C
-Not Forgotten|U
 Obsessive Skinner|U
 Odric, Lunarch Marshal|R
+Not Forgotten|U
 Olivia's Bloodsworn|U
 Olivia, Mobilized for War|M
 One of the Pack|C
 Ongoing Investigation|U
-Open the Armory|U
 Ormendahl, Profane Prince|R
+Open the Armory|U
 Pack Guardian|U
 Pale Rider of Trostad|U
 Paranoid Parish-Blade|U
-Perfected Form|U
 Persistent Nightmare|M
-Pick the Brain|U
+Perfected Form|U
 Pieces of the Puzzle|C
-Pious Evangel|U
-Plains|L
-Pore Over the Pages|U
-Port Town|R
-Press for Answers|C
-Prized Amalgam|R
-Puncturing Light|C
-Pyre Hound|C
-Quilled Wolf|C
-Rabid Bite|C
-Rancid Rats|C
-Rattlechains|R
-Ravenous Bloodseeker|U
-Reaper of Flight Moonsilver|U
-Reckless Scholar|U
-Reduce to Ashes|C
-Relentless Dead|M
-Rise from the Tides|U
-Root Out|C
-Rottenheart Ghoul|C
-Runaway Carriage|U
-Rush of Adrenaline|C
-Sage of Ancient Lore|R
-Sanguinary Mage|C
-Sanitarium Skeleton|C
-Scourge Wolf|R
-Scrounged Scythe|U
-Seagraf Skaab|C
-Seasons Past|M
-Second Harvest|R
-Senseless Rage|C
-Shamble Back|C
-Shard of Broken Glass|C
-Sigarda, Heron's Grace|M
-Silburlind Snapper|C
-Silent Observer|C
-Silverfur Partisan|R
-Silverstrike|U
-Sin Prodder|R
-Sinister Concoction|U
-Skeleton Key|U
-Skin Invasion|U
-Skin Shedder|U
-Slayer's Plate|R
-Sleep Paralysis|C
-Solitary Hunter|C
-Sorin, Grim Nemesis|M
-Soul Swallower|R
-Spectral Shepherd|U
-Spiteful Motives|U
-Stallion of Ashmouth|C
-Startled Awake|M
-Stensia Masquerade|U
-Stern Constable|C
-Stitched Mangler|C
-Stitchwing Skaab|U
-Stoic Builder|C
-Stone Quarry|U
-Stonewing Antagonizer|U
-Stormrider Spirit|C
-Strength of Arms|C
-Stromkirk Mentor|C
-Structural Distortion|C
-Survive the Night|C
-Swamp|L
-Tamiyo's Journal|R
-Tenacity|U
-Thalia's Lieutenant|R
-The Gitrog Monster|M
-Thing in the Ice|R
-Thornhide Wolves|C
-Thraben Gargoyle|U
-Thraben Inspector|C
-Throttle|C
-Timber Shredder|C
-Tireless Tracker|R
-To the Slaughter|R
-Tooth Collector|U
-Topplegeist|U
-Tormenting Voice|C
-Town Gossipmonger|U
-Trail of Evidence|U
-Traverse the Ulvenwald|R
-Triskaidekaphobia|R
-True-Faith Censer|C
-Twins of Maurer Estate|C
-Ulrich's Kindred|U
-Ulvenwald Hydra|M
-Ulvenwald Mysteries|U
-Uncaged Fury|C
-Unimpeded Trespasser|U
-Uninvited Geist|U
-Unruly Mob|C
-Vampire Noble|C
-Vessel of Ephemera|C
-Vessel of Malignity|C
-Vessel of Nascency|C
-Vessel of Paramnesia|C
-Vessel of Volatility|C
-Veteran Cathar|U
-Vildin-Pack Alpha|R
-Village Messenger|U
-Voldaren Duelist|C
-Warped Landscape|C
-Watcher in the Web|C
-Wayward Disciple|U
-Weirding Wood|U
-Welcome to the Fold|R
-Werewolf of Ancient Hunger|R
-Westvale Abbey|R
-Westvale Cult Leader|R
-Wicker Witch|C
-Wild-Field Scarecrow|U
-Wolf of Devil's Breach|M
-Woodland Stream|U
+Pick the Brain|U

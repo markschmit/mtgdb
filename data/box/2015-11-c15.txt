@@ -1,159 +1,159 @@
 Acidic Slime|U
-Act of Aggression|U
 Aetherize|U
+Act of Aggression|U
 Aethersnatch|R
 Ajani's Chosen|R
 Altar's Reap|C
-Ambition's Cost|U
 Ancient Amphitheater|R
+Ambition's Cost|U
+Anya, Merciless Angel|M
 Ancient Craving|R
 Angel of Serenity|M
-Anya, Merciless Angel|M
-Arachnogenesis|R
 Arbiter of Knollridge|R
-Arbor Colossus|R
 Arjun, the Shifting Flame|M
-Aura of Silence|U
+Arachnogenesis|R
+Arbor Colossus|R
 Awaken the Sky Tyrant|R
+Banshee of the Dread Choir|U
+Aura of Silence|U
 Bane of Progress|R
 Banishing Light|U
-Banshee of the Dread Choir|U
 Barren Moor|C
-Barter in Blood|U
-Basalt Monolith|U
 Bastion Protector|R
-Beastmaster Ascension|R
+Barter in Blood|U
 Bident of Thassa|R
+Basalt Monolith|U
+Beastmaster Ascension|R
 Biomantic Mastery|R
 Black Market|R
 Blade of Selves|R
+Blood Bairn|C
 Blasted Landscape|U
 Blatant Thievery|R
-Blood Bairn|C
+Blustersquall|U
+Borderland Behemoth|R
 Bloodspore Thrinax|R
 Blue Sun's Zenith|R
-Blustersquall|U
 Bonehoard|R
-Borderland Behemoth|R
-Boros Cluestone|C
 Boros Garrison|C
+Boros Cluestone|C
+Brainstorm|C
 Boros Guildgate|C
 Boros Signet|C
-Brainstorm|C
+Butcher of Malakir|R
 Breath of Darigaaz|U
 Broodbirth Viper|U
 Burnished Hart|U
-Butcher of Malakir|R
 Cage of Hands|C
+Caller of the Pack|U
 Call the Skybreaker|R
 Caller of the Claw|R
-Caller of the Pack|U
-Celestial Ancient|R
 Celestial Archon|R
+Celestial Ancient|R
 Centaur Vinecrasher|R
-Chain Reaction|R
 Chameleon Colossus|R
-Champion of Stray Souls|M
+Chain Reaction|R
 Charmbreaker Devils|R
-Cloudthresher|R
+Champion of Stray Souls|M
 Cobra Trap|U
+Cloudthresher|R
 Coiling Oracle|C
-Cold-Eyed Selkie|R
-Coldsteel Heart|U
 Comet Storm|M
+Corpse Augur|U
 Command Beacon|R
 Command Tower|C
-Corpse Augur|U
-Counterflux|R
 Crib Swap|U
+Counterflux|R
 Crystal Chimes|U
 Curse of the Nightly Hunt|U
-Darksteel Ingot|U
-Dawn to Dusk|U
-Dawnbreak Reclaimer|R
 Dawnglare Invoker|C
+Darksteel Ingot|U
+Dawnbreak Reclaimer|R
+Dawn to Dusk|U
 Daxos the Returned|M
 Daxos's Torment|R
 Day of the Dragons|R
 Deadly Tempest|R
 Death Grasp|R
-Desert Twister|U
 Desolation Giant|R
-Desperate Ravings|U
+Desert Twister|U
 Diabolic Servitude|U
 Dictate of Heliod|R
-Disaster Radius|R
+Desperate Ravings|U
 Dominate|U
+Disaster Radius|R
+Dreadbringer Lampads|C
 Doomwake Giant|R
 Dragon Mage|R
 Dread Summons|R
-Dreadbringer Lampads|C
 Dream Pillager|R
 Dreamstone Hedron|U
-Drifting Meadow|C
-Earthquake|R
 Eater of Hope|R
-Echoing Truth|C
+Earthquake|R
+Drifting Meadow|C
 Eldrazi Monument|M
+Echoing Truth|C
+Eternal Witness|U
 Elvish Visionary|C
 Epic Experiment|M
-Eternal Witness|U
 Etherium-Horn Sorcerer|R
-Evolving Wilds|C
 Experiment One|U
-Extractor Demon|R
-Ezuri's Predation|R
 Ezuri, Claw of Progress|M
+Evolving Wilds|C
+Ezuri's Predation|R
+Extractor Demon|R
+Fate Unraveler|R
 Fact or Fiction|U
 Faith's Fetters|C
-Faithless Looting|C
 Fall of the Hammer|C
+Faithless Looting|C
 Fallen Ideal|U
-Fate Unraveler|R
-Fellwar Stone|U
-Fiery Confluence|R
-Firemind's Foresight|R
 Forest|L
+Fiery Confluence|R
+Fellwar Stone|U
+Firemind's Foresight|R
 Forgotten Ancient|R
-Forgotten Cave|C
 Fumiko the Lowblood|R
-Ghost Quarter|U
+Forgotten Cave|C
 Ghostblade Eidolon|U
-Gigantoplasm|R
-Gild|R
-Gisela, Blade of Goldnight|M
-Goblin Electromancer|C
-Golgari Charm|U
+Ghost Quarter|U
 Golgari Guildgate|C
+Gisela, Blade of Goldnight|M
+Gigantoplasm|R
+Goblin Electromancer|C
+Gild|R
+Golgari Charm|U
 Golgari Rot Farm|C
 Golgari Signet|C
-Grasp of Fate|R
 Grave Peril|C
+Grasp of Fate|R
 Great Oak Guardian|U
 Grim Backwoods|R
-Grisly Salvage|C
 Hamletback Goliath|R
 Hammerfist Giant|R
+Grisly Salvage|C
+Hostility|R
 Herald of the Host|U
 High Market|R
-Hostility|R
 Hunted Dragon|R
 Illusory Ambusher|U
 Indrik Stomphowler|U
 Inferno Titan|M
+Izzet Guildgate|C
 Island|L
 Izzet Boilerworks|C
-Izzet Guildgate|C
-Izzet Signet|C
+Coldsteel Heart|U
+Cold-Eyed Selkie|R
 Jace's Archivist|R
-Jarad, Golgari Lich Lord|M
+Izzet Signet|C
 Jareth, Leonine Titan|R
+Jarad, Golgari Lich Lord|M
 Jungle Hollow|C
 Kalemne's Captain|R
 Kalemne, Disciple of Iroas|M
 Karlov of the Ghost Council|M
-Karmic Justice|R
 Kaseto, Orochi Archmage|M
+Karmic Justice|R
 Kessig Cagebreakers|R
 Kodama's Reach|C
 Kor Sanctifiers|C
@@ -164,86 +164,86 @@ Llanowar Reborn|U
 Loaming Shaman|R
 Lone Revenant|R
 Lorescale Coatl|U
-Lotleth Troll|R
 Loxodon Warhammer|R
-Magma Giant|R
-Magmaquake|R
+Lotleth Troll|R
 Magus of the Wheel|R
-Marshal's Anthem|R
+Magma Giant|R
 Mazirek, Kraul Death Priest|M
+Magmaquake|R
+Marshal's Anthem|R
 Melek, Izzet Paragon|R
 Meren of Clan Nel Toth|M
 Mesa Enchantress|R
-Meteor Blast|U
-Mind Stone|U
 Mirror Match|U
-Mizzium Mortars|R
+Mind Stone|U
+Meteor Blast|U
 Mizzix of the Izmagnus|M
+Mizzium Mortars|R
 Mizzix's Mastery|R
 Monk Idealist|U
-Mosswort Bridge|R
 Mountain|L
-Mulch|C
+Mosswort Bridge|R
 Mulldrifter|U
+Mystic Retrieval|U
+Mulch|C
 Mycoloth|R
 Mystic Confluence|R
-Mystic Retrieval|U
-Mystic Snake|R
 Necromancer's Covenant|R
-New Benalia|U
-Nighthowler|R
+Mystic Snake|R
 Ninja of the Deep Hours|C
+New Benalia|U
+Ohran Viper|R
+Nighthowler|R
 Noble Quarry|U
 Novijen, Heart of Progress|U
-Ohran Viper|R
-Open the Vaults|R
 Oran-Rief, the Vastwood|R
+Open the Vaults|R
 Oreskos Explorer|U
 Orim's Thunder|C
 Orochi Hatchery|R
-Orzhov Basilica|C
 Orzhov Cluestone|C
+Orzhov Basilica|C
 Orzhov Guildgate|C
-Orzhov Signet|C
-Overrun|U
 Overwhelming Stampede|R
+Orzhov Signet|C
 Patagia Viper|U
+Overrun|U
+Phyrexian Plaguelord|R
 Pathbreaker Ibex|R
 Phyrexian Arena|R
-Phyrexian Plaguelord|R
 Phyrexian Rager|C
-Phyrexian Reclamation|U
 Plains|L
+Phyrexian Reclamation|U
 Plaxmanta|U
-Polluted Mire|C
 Preordain|C
+Polluted Mire|C
 Primal Growth|C
 Prime Speaker Zegana|M
-Prophetic Bolt|R
 Psychosis Crawler|R
+Prophetic Bolt|R
+Rapid Hybridization|U
 Putrefy|U
 Rampant Growth|C
-Rapid Hybridization|U
 Reins of Power|R
-Reliquary Tower|U
 Repeal|C
-Righteous Confluence|R
+Reliquary Tower|U
 Rise from the Grave|U
+Righteous Confluence|R
 Rite of Replication|R
 Rite of the Raging Storm|U
-Rogue's Passage|U
 Sakura-Tribe Elder|C
+Rogue's Passage|U
 Sandstone Oracle|U
 Satyr Wayfinder|C
-Scoured Barrens|C
 Scourge of Nel Toth|R
+Scoured Barrens|C
 Scytheclaw|R
 Seal of Cleansing|C
-Seal of Doom|C
 Seal of the Guildpact|R
+Seal of Doom|C
 Secluded Steppe|C
-Seer's Sundial|R
 Sever the Bloodline|R
+Seer's Sundial|R
 Shielded by Faith|R
 Shriekmaw|U
 Sigil of the Empty Throne|R
@@ -251,77 +251,77 @@ Silent Sentinel|R
 Simic Growth Chamber|C
 Simic Guildgate|C
 Simic Keyrune|U
-Simic Signet|C
 Skullclamp|U
+Simic Signet|C
 Skullwinder|U
+Smoldering Crater|C
 Sleep|U
 Slippery Karst|C
-Smoldering Crater|C
-Snakeform|C
 Sol Ring|U
 Solemn Simulacrum|R
+Snakeform|C
 Spider Spawning|U
 Spinerock Knoll|R
 Staff of Nin|R
-Steam Augury|R
 Stingerfling Spider|U
+Steam Augury|R
 Stinkdrinker Daredevil|C
-Stolen Goods|R
 Stoneshock Giant|U
-Stroke of Genius|R
+Stolen Goods|R
 Sun Titan|M
+Stroke of Genius|R
 Sunrise Sovereign|R
 Swamp|L
 Swiftfoot Boots|U
-Swiftwater Cliffs|C
 Sword of Vengeance|R
+Swiftwater Cliffs|C
 Synthetic Destiny|R
 Tainted Field|U
-Tainted Wood|U
 Talrand, Sky Summoner|R
+Tainted Wood|U
 Taurean Mauler|R
-Temple of the False God|U
 Terastodon|R
-Terramorphic Expanse|C
+Temple of the False God|U
 Teysa, Envoy of Ghosts|R
+Terramorphic Expanse|C
 Thelonite Hermit|R
 Thief of Blood|U
 Thornwood Falls|C
-Thought Reflection|R
 Thought Vessel|C
+Thought Reflection|R
 Thundercloud Shaman|U
 Treasury Thrull|R
 Tribute to the Wild|U
 Trygon Predator|U
 Underworld Coinsmith|U
 Underworld Connections|R
-Urza's Incubator|R
 Urza's Rage|R
-Vandalblast|U
+Urza's Incubator|R
 Verdant Confluence|R
-Verdant Force|R
+Vandalblast|U
 Victimize|U
+Verdant Force|R
 Victory's Herald|R
 Viridian Emissary|C
 Viridian Shaman|U
 Viridian Zealot|R
-Vivid Crag|U
-Vivid Creek|U
 Vivid Grove|U
+Vivid Creek|U
+Vivid Crag|U
 Vivid Marsh|U
-Vivid Meadow|U
 Vow of Duty|U
+Vivid Meadow|U
 Vow of Malice|U
 Vulturous Zombie|R
 Wall of Blossoms|U
 Warchief Giant|U
-Warstorm Surge|R
 Wayfarer's Bauble|C
+Warstorm Surge|R
 Wind-Scarred Crag|C
 Windfall|U
 Wistful Selkie|U
 Wood Elves|C
 Word of Seizing|R
-Worn Powerstone|U
 Wretched Confluence|R
+Worn Powerstone|U
 Zoetic Cavern|U

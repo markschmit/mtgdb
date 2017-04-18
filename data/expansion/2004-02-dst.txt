@@ -1,14 +1,15 @@
+Demon's Horn|U
 Aether Snap|R
-Aether Vial|U
 Ageless Entity|R
-Angel's Feather|U
-Arcane Spyglass|C
+Aether Vial|U
 Arcbound Bruiser|C
+Angel's Feather|U
 Arcbound Crusher|U
+Arcane Spyglass|C
 Arcbound Fiend|U
 Arcbound Hybrid|C
-Arcbound Lancer|U
 Arcbound Overseer|R
+Arcbound Lancer|U
 Arcbound Ravager|R
 Arcbound Reclaimer|R
 Arcbound Slith|U
@@ -18,148 +19,147 @@ Auriok Glaivemaster|C
 Auriok Siege Sled|U
 Barbed Lightning|C
 Blinkmoth Nexus|R
-Burden of Greed|C
 Carry Away|U
+Burden of Greed|C
 Chimeric Egg|U
-Chittering Rats|C
 Chromescale Drake|R
+Chittering Rats|C
 Coretapper|U
 Crazed Goblin|C
-Darksteel Brute|U
 Darksteel Citadel|C
 Darksteel Colossus|R
-Darksteel Forge|R
+Darksteel Brute|U
 Darksteel Gargoyle|U
-Darksteel Ingot|C
+Darksteel Forge|R
 Darksteel Pendant|C
+Darksteel Ingot|C
 Darksteel Reactor|R
-Death Cloud|R
 Death-Mask Duplicant|U
-Demon's Horn|U
 Dismantle|U
+Death Cloud|R
 Dragon's Claw|U
 Drill-Skimmer|C
 Drooling Ogre|C
-Dross Golem|C
 Eater of Days|R
+Dross Golem|C
 Echoing Calm|C
 Echoing Courage|C
 Echoing Decay|C
 Echoing Ruin|C
 Echoing Truth|C
 Emissary of Despair|U
+Fireball|U
 Emissary of Hope|U
 Essence Drain|C
 Fangren Firstborn|R
-Fireball|U
-Flamebreak|R
 Furnace Dragon|R
+Flamebreak|R
 Gemini Engine|R
 Genesis Chamber|U
 Geth's Grimoire|U
 Goblin Archaeologist|U
-Greater Harvester|R
 Grimclaw Bats|C
-Hallow|C
-Heartseeker|R
-Hoverguard Observer|U
-Hunger of the Nim|C
+Greater Harvester|R
 Infested Roothold|U
+Heartseeker|R
 Inflame|C
+Hallow|C
+Hunger of the Nim|C
+Hoverguard Observer|U
+Krark-Clan Stoker|C
 Juggernaut|U
 Karstoderm|U
 Kraken's Eye|U
-Krark-Clan Stoker|C
 Last Word|R
 Leonin Battlemage|U
-Leonin Bola|C
 Leonin Shikari|R
-Lich's Tomb|R
+Leonin Bola|C
 Loxodon Mystic|C
-Machinate|C
-Magnetic Flux|C
+Lich's Tomb|R
 Memnarch|R
 Mephitic Ooze|R
+Magnetic Flux|C
+Murderous Spoils|U
 Metal Fatigue|C
 Mirrodin's Core|U
-Murderous Spoils|U
 Mycosynth Lattice|R
 Myr Landshaper|C
-Myr Matrix|R
 Myr Moonvessel|C
+Myr Matrix|R
+Neurok Transmuter|U
 Nemesis Mask|U
 Neurok Prodigy|C
-Neurok Transmuter|U
 Nim Abomination|U
-Nourish|C
 Oxidda Golem|C
+Nourish|C
 Oxidize|U
-Panoptic Mirror|R
 Pristine Angel|R
+Panoptic Mirror|R
 Psychic Overload|U
 Pteron Ghost|C
-Pulse of the Dross|R
+Purge|U
 Pulse of the Fields|R
+Pulse of the Dross|R
 Pulse of the Forge|R
 Pulse of the Grid|R
 Pulse of the Tangle|R
-Purge|U
-Quicksilver Behemoth|C
 Razor Golem|C
-Reap and Sow|C
 Rebuking Ceremony|R
+Machinate|C
+Quicksilver Behemoth|C
 Reshape|R
-Retract|R
+Reap and Sow|C
 Ritual of Restoration|C
+Retract|R
+Scavenging Scarab|C
 Roaring Slagwurm|R
 Savage Beating|R
-Scavenging Scarab|C
 Screams from Within|U
 Scrounge|U
+Shield of Kaldra|R
 Second Sight|U
 Serum Powder|R
-Shield of Kaldra|R
 Shriveling Rot|R
 Shunt|R
 Skullclamp|U
-Slobad, Goblin Tinkerer|R
+Specter's Shroud|U
 Soulscour|R
 Spawning Pit|U
-Specter's Shroud|U
-Spellbinder|R
-Spincrusher|U
+Slobad, Goblin Tinkerer|R
 Spire Golem|C
-Stand Together|U
+Spincrusher|U
+Spellbinder|R
 Steelshaper Apprentice|R
+Stand Together|U
+Surestrike Trident|U
 Stir the Pride|U
 Sundering Titan|R
-Surestrike Trident|U
+Talon of Pain|U
 Sword of Fire and Ice|R
 Sword of Light and Shadow|R
 Synod Artificer|R
-Talon of Pain|U
 Tangle Golem|C
 Tangle Spider|C
 Tanglewalker|U
-Tears of Rage|U
 Tel-Jilad Outrider|C
-Tel-Jilad Wolf|C
-Test of Faith|U
+Tears of Rage|U
 Thought Dissector|R
-Thunderstaff|U
+Tel-Jilad Wolf|C
 Trinisphere|R
+Test of Faith|U
+Thunderstaff|U
 Turn the Tables|R
 Unforge|C
-Ur-Golem's Eye|C
 Vedalken Engineer|C
-Vex|C
+Ur-Golem's Eye|C
 Viridian Acolyte|C
+Vex|C
 Viridian Zealot|R
-Voltaic Construct|U
 Vulshok Morningstar|C
+Voltaic Construct|U
 Vulshok War Boar|U
 Wand of the Elements|R
 Well of Lost Dreams|R
 Whispersilk Cloak|C
-Wirefly Hive|U
 Wurm's Tooth|U
+Wirefly Hive|U

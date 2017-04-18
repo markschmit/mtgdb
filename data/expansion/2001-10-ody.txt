@@ -1,188 +1,252 @@
+Angelic Wall|C
 Abandoned Outpost|C
 Aboshan's Desire|C
-Aboshan, Cephalid Emperor|R
 Acceptable Losses|C
 Aegis of Honor|R
-Aether Burst|C
 Afflict|C
+Aether Burst|C
 Amugaba|R
 Anarchist|C
 Ancestral Tribute|R
-Angelic Wall|C
+Aboshan, Cephalid Emperor|R
+Auramancer|C
 Animal Boneyard|U
 Ashen Firebeast|R
-Atogatog|R
 Aura Graft|U
-Auramancer|C
-Aven Archer|U
 Aven Cloudchaser|C
-Aven Fisher|C
+Atogatog|R
+Aven Archer|U
 Aven Flock|C
-Aven Shrine|R
+Aven Fisher|C
 Aven Smokeweaver|U
+Aven Shrine|R
 Aven Windreader|C
-Balancing Act|R
 Balshan Beguiler|U
+Balancing Act|R
 Balshan Griffin|U
-Bamboozle|U
 Barbarian Lunatic|C
+Bamboozle|U
 Barbarian Ring|U
 Bash to Bits|U
 Battle of Wits|R
 Battle Strain|U
 Bearscape|R
-Beast Attack|U
 Beloved Chaplain|U
+Beast Attack|U
 Blazing Salvo|C
 Blessed Orator|U
 Bloodcurdler|R
-Bog Wreckage|C
 Bomb Squad|R
+Bog Wreckage|C
 Braids, Cabal Minion|R
+Cabal Inquisitor|C
 Buried Alive|U
 Burning Sands|R
-Cabal Inquisitor|C
-Cabal Patriarch|R
 Cabal Pit|U
-Cabal Shrine|R
+Cabal Patriarch|R
 Call of the Herd|R
-Cantivore|R
 Careful Study|C
+Cabal Shrine|R
+Cantivore|R
 Cartographer|C
 Catalyst Stone|R
 Caustic Tar|U
+Cephalid Broker|U
 Cease-Fire|C
 Centaur Garden|U
-Cephalid Broker|U
 Cephalid Coliseum|U
 Cephalid Looter|C
 Cephalid Retainer|R
 Cephalid Scout|C
 Cephalid Shrine|R
 Chainflinger|C
+Chatter of the Squirrel|C
 Chamber of Manipulation|U
 Chance Encounter|R
-Charmed Pendant|R
-Chatter of the Squirrel|C
 Childhood Horror|U
-Chlorophant|R
-Coffin Purge|C
+Charmed Pendant|R
 Cognivore|R
-Concentrate|U
+Chlorophant|R
 Confessor|C
-Crashing Centaur|U
+Concentrate|U
+Coffin Purge|C
 Crypt Creeper|C
-Crystal Quarry|R
+Crashing Centaur|U
 Cultural Exchange|R
+Crystal Quarry|R
 Cursed Monstrosity|R
-Darkwater Catacombs|R
 Darkwater Egg|U
-Decaying Soil|R
-Decimate|R
-Decompose|U
-Dedicated Martyr|C
-Deep Reconnaissance|U
-Delaying Shield|R
-Deluge|U
-Dematerialize|C
-Demolish|U
-Demoralize|C
-Deserted Temple|R
-Devoted Caretaker|R
-Diabolic Tutor|U
-Diligent Farmhand|C
-Dirty Wererat|C
+Darkwater Catacombs|R
 Divert|R
-Divine Sacrament|R
 Dogged Hunter|R
 Dreamwinder|C
 Druid Lyrist|C
-Druid's Call|U
 Dusk Imp|C
 Dwarven Grunt|C
-Dwarven Recruiter|U
-Dwarven Shrine|R
+Druid's Call|U
+Skycloud Expanse|R
+Skycloud Egg|U
+Skyshooter|U
+Soulcatcher|U
+Spark Mage|U
+Spellbane Centaur|R
+Sphere of Duty|U
+Sphere of Grace|U
+Sphere of Reason|U
+Sphere of Law|U
+Sphere of Truth|U
+Spiritualize|U
+Springing Tiger|C
+Squirrel Mob|R
+Squirrel Nest|U
+Stalking Bloodsucker|R
+Steam Vines|U
+Standstill|U
+Still Life|U
+Steamclaw|U
+Stone-Tongue Basilisk|R
+Sungrass Prairie|R
+Sungrass Egg|U
+Swamp|L
+Syncopate|C
+Sylvan Might|U
+Tarnished Citadel|R
+Tainted Pact|R
+Tattoo Ward|U
+Terravore|R
+Thaumatog|U
+Testament of Faith|U
+Think Tank|U
+Thermal Blast|C
+Thought Devourer|R
+Thought Eater|U
+Thought Nibbler|C
+Timberland Ruins|C
+Time Stretch|R
+Tireless Tribe|C
+Traumatize|R
+Touch of Invisibility|C
+Tombfire|R
+Treetop Sentinel|U
+Traveling Plague|R
+Twigwalker|U
+Tremble|C
+Upheaval|R
+Unifying Theory|R
+Vampiric Dragon|R
+Vivify|U
+Verdant Succession|R
+Volley of Boulders|R
+Volcanic Spray|U
+Wayward Angel|R
+Whipkeeper|U
+Werebear|C
+Whispering Shade|C
+Wild Mongrel|C
+Woodland Druid|C
+Words of Wisdom|C
+Zombie Assassin|C
+Zombie Cannibal|C
+Zombify|U
+Zombie Infestation|U
+Zoologist|R
+Decimate|R
+Decaying Soil|R
+Dedicated Martyr|C
+Decompose|U
+Deep Reconnaissance|U
+Deluge|U
+Demolish|U
+Delaying Shield|R
+Demoralize|C
+Dematerialize|C
+Devoted Caretaker|R
+Deserted Temple|R
+Diligent Farmhand|C
+Diabolic Tutor|U
+Dirty Wererat|C
+Divine Sacrament|R
 Dwarven Strike Force|U
 Earnest Fellowship|R
+Dwarven Shrine|R
 Earth Rift|C
-Elephant Ambush|C
 Ember Beast|C
-Embolden|C
+Elephant Ambush|C
 Engulfing Flames|U
+Embolden|C
 Entomb|R
 Epicenter|R
 Escape Artist|C
-Execute|U
 Extract|R
+Execute|U
 Face of Fear|U
 Famished Ghoul|U
-Fervent Denial|U
 Filthy Cur|C
 Firebolt|C
 Flame Burst|C
+Fervent Denial|U
+Frenetic Ogre|U
 Fledgling Imp|C
 Forest|L
-Frenetic Ogre|U
 Frightcrawler|C
 Gallantry|U
 Ghastly Demise|C
-Gorilla Titan|U
 Graceful Antelope|R
+Gorilla Titan|U
 Gravedigger|C
-Gravestorm|R
 Ground Seal|R
-Halberdier|C
 Hallowed Healer|C
-Haunting Echoes|R
+Halberdier|C
+Gravestorm|R
 Hint of Insanity|R
+Haunting Echoes|R
+Immobilizing Ink|C
 Holistic Wisdom|R
 Howling Gale|U
-Immobilizing Ink|C
-Impulsive Maneuvers|R
 Infected Vermin|U
-Innocent Blood|C
+Impulsive Maneuvers|R
 Iridescent Angel|R
-Island|L
+Innocent Blood|C
+Kamahl, Pit Fighter|R
 Ivy Elemental|R
+Island|L
 Junk Golem|R
 Kamahl's Desire|C
-Kamahl, Pit Fighter|R
 Karmic Justice|R
 Kirtar's Desire|C
 Kirtar's Wrath|R
 Krosan Archer|C
 Krosan Avenger|C
-Krosan Beast|R
+Dwarven Recruiter|U
 Laquatus's Creativity|U
-Last Rites|C
-Lava Blister|U
 Leaf Dancer|C
 Lieutenant Kirtar|R
-Life Burst|C
+Lava Blister|U
 Limestone Golem|U
-Liquid Fire|U
-Lithatog|U
-Luminous Guardian|U
-Mad Dog|C
-Magma Vein|U
 Magnivore|R
+Life Burst|C
+Lithatog|U
+Liquid Fire|U
+Luminous Guardian|U
+Magma Vein|U
+Mad Dog|C
 Malevolent Awakening|U
-Master Apothecary|R
 Metamorphic Wurm|U
-Millikin|U
-Mind Burst|C
+Master Apothecary|R
 Mindslicer|R
+Millikin|U
 Mine Layer|R
 Minotaur Explorer|U
 Mirari|R
+Mind Burst|C
 Molten Influence|R
 Moment's Peace|C
 Morbid Hunger|C
-Morgue Theft|C
 Mortivore|R
+Morgue Theft|C
 Mossfire Egg|U
-Mossfire Valley|R
 Mountain|L
+Mossfire Valley|R
 Mudhole|R
 Muscle Burst|C
 Mystic Crusader|R
@@ -195,28 +259,28 @@ Nantuko Elder|U
 Nantuko Mentor|R
 Nantuko Shrine|R
 Need for Speed|R
-Nefarious Lich|R
 New Frontiers|R
-Nimble Mongoose|U
+Nefarious Lich|R
 Nomad Decoy|U
+Nimble Mongoose|U
 Nomad Stadium|U
 Nut Collector|R
 Obstinate Familiar|R
 Otarian Juggernaut|R
 Overeager Apprentice|C
-Overrun|U
-Painbringer|U
 Pardic Firecat|C
-Pardic Miner|R
+Painbringer|U
+Overrun|U
 Pardic Swordsmith|C
+Pardic Miner|R
 Patchwork Gnomes|U
-Patriarch's Desire|C
 Patrol Hound|C
+Patriarch's Desire|C
 Patron Wizard|R
-Pedantic Learning|R
 Peek|C
-Persuasion|R
 Petrified Field|R
+Pedantic Learning|R
+Persuasion|R
 Phantatog|U
 Phantom Whelp|C
 Pianna, Nomad Captain|R
@@ -225,111 +289,47 @@ Pilgrim of Virtue|C
 Piper's Melody|U
 Plains|L
 Predict|U
+Last Rites|C
 Price of Glory|U
+Krosan Beast|R
 Primal Frenzy|C
 Psionic Gift|C
-Psychatog|U
 Pulsating Illusion|U
+Psychatog|U
+Ravaged Highlands|C
 Puppeteer|U
 Rabid Elephant|C
-Ravaged Highlands|C
 Ray of Distortion|C
 Reckless Charge|C
 Recoup|U
-Refresh|C
 Repel|C
+Refresh|C
 Repentant Vampire|R
 Resilient Wanderer|U
-Rites of Initiation|C
 Rites of Refusal|C
-Rites of Spring|C
+Rites of Initiation|C
 Roar of the Wurm|U
+Rites of Spring|C
 Rotting Giant|U
-Sacred Rites|C
 Sadistic Hypnotist|U
-Sandstone Deadfall|U
+Sacred Rites|C
 Sarcatog|U
+Sandstone Deadfall|U
 Savage Firecat|R
-Scorching Missile|C
 Screams of the Damned|U
+Scorching Missile|C
 Scrivener|C
 Seafloor Debris|C
 Second Thoughts|C
 Seize the Day|R
 Seton's Desire|C
 Seton, Krosan Protector|R
-Shadowblood Egg|U
 Shadowblood Ridge|R
+Shadowblood Egg|U
 Shadowmage Infiltrator|R
-Shelter|C
-Shifty Doppelganger|R
-Shower of Coals|U
 Simplify|C
+Shifty Doppelganger|R
+Shelter|C
+Shower of Coals|U
 Skeletal Scrying|U
 Skull Fracture|U
-Skycloud Egg|U
-Skycloud Expanse|R
-Skyshooter|U
-Soulcatcher|U
-Spark Mage|U
-Spellbane Centaur|R
-Sphere of Duty|U
-Sphere of Grace|U
-Sphere of Law|U
-Sphere of Reason|U
-Sphere of Truth|U
-Spiritualize|U
-Springing Tiger|C
-Squirrel Mob|R
-Squirrel Nest|U
-Stalking Bloodsucker|R
-Standstill|U
-Steam Vines|U
-Steamclaw|U
-Still Life|U
-Stone-Tongue Basilisk|R
-Sungrass Egg|U
-Sungrass Prairie|R
-Swamp|L
-Sylvan Might|U
-Syncopate|C
-Tainted Pact|R
-Tarnished Citadel|R
-Tattoo Ward|U
-Terravore|R
-Testament of Faith|U
-Thaumatog|U
-Thermal Blast|C
-Think Tank|U
-Thought Devourer|R
-Thought Eater|U
-Thought Nibbler|C
-Timberland Ruins|C
-Time Stretch|R
-Tireless Tribe|C
-Tombfire|R
-Touch of Invisibility|C
-Traumatize|R
-Traveling Plague|R
-Treetop Sentinel|U
-Tremble|C
-Twigwalker|U
-Unifying Theory|R
-Upheaval|R
-Vampiric Dragon|R
-Verdant Succession|R
-Vivify|U
-Volcanic Spray|U
-Volley of Boulders|R
-Wayward Angel|R
-Werebear|C
-Whipkeeper|U
-Whispering Shade|C
-Wild Mongrel|C
-Woodland Druid|C
-Words of Wisdom|C
-Zombie Assassin|C
-Zombie Cannibal|C
-Zombie Infestation|U
-Zombify|U
-Zoologist|R

@@ -1,9 +1,16 @@
+Burning Earth|R
+Cancel|C
+Armored Cancrix|C
+Artificer's Hex|U
+Auramancer|C
+Awaken the Ancient|R
+Banisher Priest|U
 Academy Raider|C
 Accorder's Shield|U
 Accursed Spirit|C
-Act of Treason|C
 Advocate of the Beast|C
 Air Servant|U
+Act of Treason|C
 Ajani's Chosen|R
 Ajani, Caller of the Pride|M
 Altar's Reap|C
@@ -11,78 +18,71 @@ Angelic Accord|U
 Angelic Wall|C
 Archaeomancer|C
 Archangel of Thune|M
-Armored Cancrix|C
-Artificer's Hex|U
-Auramancer|C
-Awaken the Ancient|R
-Banisher Priest|U
 Barrage of Expendables|U
 Battle Sliver|U
+Blood Bairn|C
 Blessing|U
 Blightcaster|U
-Blood Bairn|C
 Blur Sliver|C
 Bogbrew Witch|R
 Bonescythe Sliver|R
-Bramblecrush|U
 Brave the Elements|U
+Bramblecrush|U
 Briarpack Alpha|U
 Brindle Boar|C
 Bubbling Cauldron|U
-Burning Earth|R
-Cancel|C
 Canyon Minotaur|C
 Capashen Knight|C
-Celestial Flare|C
 Chandra's Outrage|C
+Celestial Flare|C
 Chandra's Phoenix|R
 Chandra, Pyromaster|M
 Charging Griffin|C
-Child of Night|C
 Claustrophobia|C
+Child of Night|C
 Clone|R
 Colossal Whale|R
-Congregate|U
 Coral Merfolk|C
+Congregate|U
 Corpse Hauler|C
-Corrupt|U
 Cyclops Tyrant|C
+Corrupt|U
 Dark Favor|C
 Dark Prophecy|R
 Darksteel Forge|M
-Darksteel Ingot|U
 Dawnstrike Paladin|C
+Darksteel Ingot|U
 Deadly Recluse|C
 Deathgaze Cockatrice|C
-Demolish|C
 Devout Invocation|M
-Diabolic Tutor|U
+Demolish|C
 Dismiss into Dream|R
+Diabolic Tutor|U
 Disperse|C
 Divination|C
 Divine Favor|C
 Domestication|R
-Doom Blade|U
-Door of Destinies|R
 Dragon Egg|U
+Door of Destinies|R
+Doom Blade|U
 Dragon Hatchling|C
-Duress|C
 Elite Arcanist|R
+Duress|C
 Elixir of Immortality|U
-Elvish Mystic|C
 Encroaching Wastes|U
+Elvish Mystic|C
 Enlarge|U
 Essence Scatter|C
 Festering Newt|C
 Fiendslayer Paladin|R
 Fireshrieker|U
-Flames of the Firebrand|U
 Fleshpulper Giant|U
-Fog|C
+Flames of the Firebrand|U
 Forest|L
+Fog|C
+Galerider Sliver|R
 Fortify|C
 Frost Breath|C
-Galerider Sliver|R
 Garruk's Horde|R
 Garruk, Caller of Beasts|M
 Giant Growth|C
@@ -93,18 +93,18 @@ Gnawing Zombie|U
 Goblin Diplomats|R
 Goblin Shortcutter|C
 Griffin Sentinel|C
-Grim Return|R
-Groundshaker Sliver|C
 Guardian of the Ages|R
+Groundshaker Sliver|C
+Grim Return|R
 Haunted Plate Mail|R
-Hive Stirrings|C
 Howl of the Night Pack|U
-Hunt the Weak|C
+Hive Stirrings|C
 Illusionary Armor|U
+Hunt the Weak|C
 Imposing Sovereign|R
+Island|L
 Indestructibility|R
 Into the Wilds|R
-Island|L
 Jace's Mindseeker|R
 Jace, Memory Adept|M
 Kalonian Hydra|M
@@ -123,45 +123,45 @@ Master of Diversion|C
 Megantic Sliver|R
 Merfolk Spy|C
 Messenger Drake|C
-Millstone|U
-Mind Rot|C
 Mindsparker|R
+Mind Rot|C
+Millstone|U
+Mountain|L
 Minotaur Abomination|C
 Molten Birth|U
-Mountain|L
-Mutavault|R
 Naturalize|C
 Negate|C
+Mutavault|R
 Nephalia Seakite|C
 Nightmare|R
 Nightwing Shade|C
-Oath of the Ancient Wood|R
 Ogre Battledriver|R
-Opportunity|U
+Oath of the Ancient Wood|R
 Pacifism|C
-Path of Bravery|R
+Opportunity|U
 Pay No Heed|C
+Path of Bravery|R
 Phantom Warrior|U
 Pillarfield Ox|C
 Pitchburn Devils|C
 Plains|L
-Planar Cleansing|R
 Plummet|C
+Planar Cleansing|R
+Pyromancer's Gauntlet|R
 Predatory Sliver|C
 Primeval Bounty|M
-Pyromancer's Gauntlet|R
 Quag Sickness|C
 Quicken|R
 Ranger's Guile|C
-Ratchet Bomb|R
 Regathan Firecat|C
-Ring of Three Wishes|M
+Ratchet Bomb|R
 Rise of the Dark Realms|M
+Ring of Three Wishes|M
 Rod of Ruin|U
-Rootwalla|C
 Rumbling Baloth|C
-Sanguine Bond|R
+Rootwalla|C
 Savage Summoning|R
+Sanguine Bond|R
 Scavenging Ooze|R
 Scourge of Valkas|M
 Scroll Thief|C
@@ -171,24 +171,24 @@ Sengir Vampire|U
 Sensory Deprivation|C
 Sentinel Sliver|C
 Seraph of the Sword|R
-Serra Angel|U
 Shadowborn Apostle|C
+Serra Angel|U
 Shadowborn Demon|M
 Shimmering Grotto|U
 Shiv's Embrace|U
 Shivan Dragon|R
+Shrivel|C
 Shock|C
 Show of Valor|C
-Shrivel|C
 Siege Mastodon|C
-Silence|R
+Soulmender|C
 Sliver Construct|C
+Silence|R
 Smelt|C
 Solemn Offering|C
-Soulmender|C
-Spell Blast|U
 Sporemound|C
 Staff of the Death Magus|U
+Spell Blast|U
 Staff of the Flame Magus|U
 Staff of the Mind Magus|U
 Staff of the Sun Magus|U
@@ -204,13 +204,13 @@ Tenacious Dead|U
 Thorncaster Sliver|R
 Thunder Strike|C
 Tidebinder Mage|R
-Time Ebb|C
 Tome Scour|C
+Time Ebb|C
 Trading Post|R
 Trained Condor|C
-Traumatize|R
-Trollhide|C
 Undead Minotaur|C
+Trollhide|C
+Traumatize|R
 Vampire Warlord|U
 Vastwood Hydra|R
 Verdant Haven|C
@@ -222,13 +222,13 @@ Wall of Frost|U
 Wall of Swords|U
 Warden of Evos Isle|U
 Water Servant|U
+Windreader Sphinx|M
 Wild Guess|C
 Wild Ricochet|R
-Windreader Sphinx|M
-Windstorm|U
 Witchstalker|R
+Windstorm|U
 Woodborn Behemoth|U
-Wring Flesh|C
-Xathrid Necromancer|R
 Young Pyromancer|U
+Xathrid Necromancer|R
+Wring Flesh|C
 Zephyr Charge|C

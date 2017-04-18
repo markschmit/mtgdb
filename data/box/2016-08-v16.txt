@@ -1,14 +1,14 @@
 Beseech the Queen|M
-Cabal Ritual|M
-Conflux|M
 Dark Depths|M
-Glissa, the Traitor|M
+Cabal Ritual|M
 Helvault|M
 Memnarch|M
-Mind's Desire|M
+Conflux|M
+Glissa, the Traitor|M
 Momir Vig, Simic Visionary|M
-Near-Death Experience|M
+Mind's Desire|M
 Obliterate|M
+Near-Death Experience|M
 Phyrexian Processor|M
 Tolaria West|M
 Umezawa's Jitte|M

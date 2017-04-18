@@ -1,61 +1,61 @@
-Acidic Slime|U
-Ajani's Sunstriker|C
-Ajani, Caller of the Pride|M
-Akroma's Memorial|M
-Angel's Mercy|C
-Angelic Benediction|U
+Bladetusk Boar|C
 Arbor Elf|C
 Archaeomancer|C
-Arctic Aven|U
 Arms Dealer|U
+Arctic Aven|U
+Angel's Mercy|C
 Attended Knight|C
 Augur of Bolas|U
 Aven Squire|C
-Battle of Wits|R
 Battleflight Eagle|C
-Bladetusk Boar|C
+Battle of Wits|R
+Acidic Slime|U
+Angelic Benediction|U
+Ajani's Sunstriker|C
+Ajani, Caller of the Pride|M
+Akroma's Memorial|M
 Blood Reckoning|U
 Bloodhunter Bat|C
+Bountiful Harvest|C
 Bloodthrone Vampire|C
 Bond Beetle|C
 Boundless Realms|R
-Bountiful Harvest|C
 Canyon Minotaur|C
 Captain of the Watch|R
-Captain's Call|C
 Cathedral of War|R
+Captain's Call|C
 Centaur Courser|C
-Chandra's Fury|C
 Chandra, the Firebrand|M
+Chandra's Fury|C
 Chronomaton|U
 Cleaver Riot|U
-Clock of Omens|U
-Clone|R
 Courtly Provocateur|U
-Cower in Fear|U
+Clone|R
+Clock of Omens|U
 Craterize|C
-Crimson Muckwader|U
+Cower in Fear|U
 Crippling Blight|C
+Crimson Muckwader|U
 Crusader of Odric|U
 Dark Favor|C
 Deadly Recluse|C
-Diabolic Revelation|R
 Disciple of Bolas|R
-Disentomb|C
+Diabolic Revelation|R
 Divination|C
+Disentomb|C
 Divine Favor|C
-Divine Verdict|C
 Door to Nothingness|R
+Divine Verdict|C
 Downpour|C
+Drowned Catacomb|R
 Dragon Hatchling|C
 Dragonskull Summit|R
-Drowned Catacomb|R
 Duress|C
 Duskdale Wurm|U
 Duskmantle Prowler|U
 Duty-Bound Dead|C
-Elderscale Wurm|M
 Elixir of Immortality|U
+Elderscale Wurm|M
 Elvish Archdruid|R
 Elvish Visionary|C
 Encrust|C
@@ -64,15 +64,15 @@ Essence Drain|C
 Essence Scatter|C
 Evolving Wilds|C
 Faerie Invaders|C
-Faith's Reward|R
 Farseek|C
+Faith's Reward|R
 Fervor|R
 Fire Elemental|C
 Firewing Phoenix|R
 Flames of the Firebrand|U
 Flinthoof Boar|U
-Fog|C
 Fog Bank|U
+Fog|C
 Forest|L
 Fungal Sprouting|U
 Furnace Whelp|U
@@ -80,134 +80,132 @@ Garruk's Packleader|U
 Garruk, Primal Hunter|M
 Gem of Becoming|U
 Giant Scorpion|C
-Gilded Lotus|R
 Glacial Fortress|R
+Gilded Lotus|R
 Glorious Charge|C
 Goblin Arsonist|C
 Goblin Battle Jester|C
 Griffin Protector|C
-Ground Seal|R
 Guardian Lions|C
+Ground Seal|R
 Guardians of Akrasa|C
 Hamletback Goliath|R
 Harbor Bandit|U
 Harbor Serpent|C
 Healer of the Pride|U
-Hellion Crucible|R
 Hydrosurge|C
+Hellion Crucible|R
 Index|C
 Intrepid Hero|R
 Island|L
 Jace's Phantasm|U
 Jace, Memory Adept|M
 Jayemdae Tome|U
-Kindled Fury|C
 Kitesail|U
+Kindled Fury|C
 Knight of Glory|U
 Knight of Infamy|U
 Kraken Hatchling|C
-Krenko's Command|C
 Krenko, Mob Boss|R
+Krenko's Command|C
 Liliana of the Dark Realms|M
 Liliana's Shade|C
+Mark of the Vampire|C
 Magmaquake|R
 Mark of Mutiny|U
-Mark of the Vampire|C
 Master of the Pearl Trident|R
 Merfolk of the Pearl Trident|C
-Mind Rot|C
 Mind Sculpt|C
+Mind Rot|C
 Mindclaw Shaman|U
 Mogg Flunkies|C
-Mountain|L
-Murder|C
 Mutilate|R
+Mountain|L
 Mwonvuli Beast Tracker|U
-Naturalize|C
-Nefarox, Overlord of Grixis|R
-Negate|C
+Murder|C
 Nicol Bolas, Planeswalker|M
-Oblivion Ring|U
+Nefarox, Overlord of Grixis|R
+Naturalize|C
+Negate|C
 Odric, Master Tactician|R
-Omniscience|M
-Pacifism|C
+Oblivion Ring|U
 Phylactery Lich|R
+Pacifism|C
+Omniscience|M
 Phyrexian Hulk|U
 Pillarfield Ox|C
-Plains|L
-Planar Cleansing|R
-Plummet|C
-Predatory Rampage|R
 Prey Upon|C
+Plains|L
+Plummet|C
+Planar Cleansing|R
+Primordial Hydra|M
+Predatory Rampage|R
 Primal Clay|U
 Primal Huntbeast|C
-Primordial Hydra|M
 Prized Elephant|U
 Public Execution|U
 Quirion Dryad|R
-Rain of Blades|U
 Rancor|U
+Rain of Blades|U
 Ranger's Path|C
 Ravenous Rats|C
 Reckless Brute|C
+Reverberate|R
 Redirect|R
 Reliquary Tower|U
-Reverberate|R
-Revive|U
 Rewind|U
+Revive|U
 Rhox Faithmender|R
 Ring of Evos Isle|U
 Ring of Kalonia|U
 Ring of Thune|U
 Ring of Valkas|U
 Ring of Xathrid|U
-Rise from the Grave|U
 Roaring Primadox|U
-Rootbound Crag|R
+Rise from the Grave|U
 Rummaging Goblin|C
-Safe Passage|C
+Rootbound Crag|R
 Sands of Delirium|R
-Scroll Thief|C
-Searing Spear|C
+Safe Passage|C
+Serra Angel|U
 Sentinel Spider|C
 Serpent's Gift|C
-Serra Angel|U
 Serra Avatar|M
 Serra Avenger|R
 Servant of Nefarox|C
 Shimian Specter|R
 Show of Valor|C
+Sphinx of Uthuun|R
 Sign in Blood|C
 Silklash Spider|R
 Silvercoat Lion|C
 Sleep|U
 Slumbering Dragon|R
-Smelt|C
 Spelltwine|R
-Sphinx of Uthuun|R
+Smelt|C
 Spiked Baloth|C
-Staff of Nin|R
 Stormtide Leviathan|R
 Stuffy Doll|R
+Staff of Nin|R
 Sublime Archangel|M
-Sunpetal Grove|R
 Swamp|L
-Switcheroo|U
+Sunpetal Grove|R
 Talrand's Invocation|U
-Talrand, Sky Summoner|R
-Thragtusk|R
 Thundermaw Hellkite|M
+Talrand, Sky Summoner|R
+Switcheroo|U
+Thragtusk|R
+Torch Fiend|U
 Timberpack Wolf|C
 Titanic Growth|C
-Torch Fiend|U
 Tormented Soul|C
-Tormod's Crypt|U
 Touch of the Eternal|R
 Trading Post|R
+Tormod's Crypt|U
 Tricks of the Trade|C
 Trumpet Blast|C
-Turn to Slag|C
 Unsummon|C
+Turn to Slag|C
 Vampire Nighthawk|U
 Vampire Nocturnus|M
 Vastwood Gorger|C
@@ -215,20 +213,22 @@ Vedalken Entrancer|C
 Veilborn Ghoul|U
 Vile Rebirth|C
 Void Stalker|R
-Volcanic Geyser|U
 Volcanic Strength|C
+Volcanic Geyser|U
 Walking Corpse|C
 Wall of Fire|C
-War Falcon|C
 War Priest of Thune|U
+War Falcon|C
 Warclamp Mastiff|C
 Watercourser|C
-Welkin Tern|C
-Wild Guess|C
 Wind Drake|C
-Wit's End|R
-Worldfire|M
+Welkin Tern|C
 Xathrid Gorgon|R
+Wild Guess|C
+Wit's End|R
 Yeva's Forcemage|C
+Worldfire|M
 Yeva, Nature's Herald|R
 Zombie Goliath|C
+Scroll Thief|C
+Searing Spear|C

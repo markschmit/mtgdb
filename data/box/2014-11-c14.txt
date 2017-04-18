@@ -1,78 +1,25 @@
+Blasphemous Act|R
 Abyssal Persecutor|M
+Aether Snap|R
 Adarkar Valkyrie|R
 Aether Gale|R
-Aether Snap|R
 Afterlife|U
 Angel of the Dire Hour|R
+Arcane Lighthouse|U
 Angelic Field Marshal|R
 Annihilate|U
-Arcane Lighthouse|U
 Argentum Armor|R
-Armistice|R
 Artisan of Kozilek|U
+Armistice|R
 Assault Suit|U
-Azure Mage|U
-Bad Moon|R
 Barren Moor|C
+Bad Moon|R
+Azure Mage|U
 Beastmaster Ascension|R
+Bitter Feud|R
 Beetleback Chief|U
 Benevolent Offering|R
-Bitter Feud|R
 Black Sun's Zenith|R
-Blasphemous Act|R
-Bloodgift Demon|R
-Bogardan Hellkite|M
-Bojuka Bog|C
-Bonehoard|R
-Bosh, Iron Golem|R
-Bottle Gnomes|U
-Brave the Elements|U
-Breaching Leviathan|R
-Brine Elemental|U
-Buried Ruin|U
-Burnished Hart|U
-Butcher of Malakir|R
-Cackling Counterpart|R
-Caged Sun|R
-Call to Mind|U
-Cathars' Crusade|R
-Cathodion|U
-Celestial Crusader|U
-Chaos Warp|R
-Charcoal Diamond|U
-Collective Unconscious|R
-Comeuppance|R
-Commander's Sphere|C
-Compulsive Research|C
-Concentrate|U
-Condemn|U
-Containment Priest|R
-Coral Atoll|U
-Creeperhulk|R
-Crown of Doom|R
-Crypt Ghast|R
-Crypt of Agadeem|R
-Crystal Vein|U
-Cyclonic Rift|R
-Daretti, Scrap Savant|M
-Darksteel Citadel|U
-Decree of Justice|R
-Deep-Sea Kraken|R
-Demon of Wailing Agonies|R
-Deploy to the Front|R
-Desert Twister|U
-Disciple of Bolas|R
-Dismiss|U
-Distorting Wake|R
-Domineering Will|R
-Dormant Volcano|U
-Drana, Kalastria Bloodchief|R
-Dread Return|U
-Dreamstone Hedron|U
-Dregs of Sorrow|R
-Drifting Meadow|C
-Drove of Elves|U
-Dualcaster Mage|R
 Dulcet Sirens|R
 Elvish Archdruid|R
 Elvish Mystic|C
@@ -81,150 +28,203 @@ Elvish Visionary|C
 Emerald Medallion|R
 Emeria, the Sky Ruin|R
 Epochrasite|R
+Everglades|U
 Essence Warden|C
 Everflowing Chalice|U
-Everglades|U
 Evernight Shade|U
-Evolving Wilds|C
 Exclude|C
+Evolving Wilds|C
 Ezuri, Renegade Leader|R
-Faithless Looting|C
 Farhaven Elf|C
-Fathom Seer|C
+Faithless Looting|C
 Feldon of the Third Path|M
-Fell the Mighty|R
-Fire Diamond|U
-Flamekin Village|R
+Fathom Seer|C
 Flametongue Kavu|U
-Flesh Carver|R
-Flickerwisp|U
+Flamekin Village|R
+Fell the Mighty|R
 Fog Bank|U
+Fire Diamond|U
+Flesh Carver|R
+Bloodgift Demon|R
+Bogardan Hellkite|M
+Bonehoard|R
+Bojuka Bog|C
+Brine Elemental|U
+Bosh, Iron Golem|R
+Brave the Elements|U
+Bottle Gnomes|U
+Breaching Leviathan|R
+Cackling Counterpart|R
+Burnished Hart|U
+Buried Ruin|U
+Butcher of Malakir|R
+Caged Sun|R
+Cathars' Crusade|R
+Call to Mind|U
+Celestial Crusader|U
+Cathodion|U
+Collective Unconscious|R
+Charcoal Diamond|U
+Comeuppance|R
+Chaos Warp|R
+Compulsive Research|C
+Commander's Sphere|C
+Concentrate|U
+Creeperhulk|R
+Condemn|U
+Containment Priest|R
+Crypt Ghast|R
+Coral Atoll|U
+Crown of Doom|R
+Crystal Vein|U
+Crypt of Agadeem|R
+Daretti, Scrap Savant|M
+Cyclonic Rift|R
+Darksteel Citadel|U
+Demon of Wailing Agonies|R
+Decree of Justice|R
+Deep-Sea Kraken|R
+Deploy to the Front|R
+Disciple of Bolas|R
+Desert Twister|U
+Drana, Kalastria Bloodchief|R
+Domineering Will|R
+Dismiss|U
+Dreamstone Hedron|U
+Distorting Wake|R
+Dormant Volcano|U
+Dread Return|U
+Dregs of Sorrow|R
+Drifting Meadow|C
+Drove of Elves|U
+Dualcaster Mage|R
 Fool's Demise|U
-Forest|L
-Forgotten Cave|C
 Fresh Meat|R
+Forest|L
+Geist-Honored Monk|R
+Forgotten Cave|C
 Freyalise, Llanowar's Fury|M
 Frost Titan|M
 Gargoyle Castle|R
-Geist-Honored Monk|R
-Ghost Quarter|U
 Ghoulcaller Gisa|M
+Ghost Quarter|U
 Gift of Estates|U
 Goblin Welder|R
 Grand Abolisher|R
 Grave Sifter|R
-Grave Titan|M
 Gray Merchant of Asphodel|C
+Grave Titan|M
 Great Furnace|C
-Grim Flowering|U
 Hallowed Spiritkeeper|R
-Harrow|C
-Haunted Fengraf|C
+Grim Flowering|U
 Havenwood Battleground|U
+Harrow|C
 Hoard-Smelter Dragon|R
+Haunted Fengraf|C
 Hoverguard Sweepers|R
 Hunting Triad|U
-Ichor Wellspring|C
 Immaculate Magistrate|R
-Impact Resonance|R
+Ichor Wellspring|C
 Imperious Perfect|U
-Incite Rebellion|R
 Infernal Offering|R
+Impact Resonance|R
+Incite Rebellion|R
 Infinite Reflection|R
 Ingot Chewer|C
 Intellectual Offering|R
-Into the Roil|C
 Island|L
+Into the Roil|C
 Ixidron|R
-Jalum Tome|R
-Jazal Goldmane|M
-Jet Medallion|R
 Joraga Warcaller|R
-Jungle Basin|U
+Jazal Goldmane|M
+Jalum Tome|R
+Jet Medallion|R
 Junk Diver|R
-Karoo|U
+Jungle Basin|U
 Kemba, Kha Regent|R
+Karoo|U
 Kor Sanctifiers|C
 Lashwrithe|R
-Lifeblood Hydra|R
 Liliana's Reaver|R
+Lifeblood Hydra|R
 Liquimetal Coating|U
 Llanowar Elves|C
 Lonely Sandbar|C
 Loreseeker's Stone|U
-Lorthos, the Tidemaker|M
+Magmaquake|R
+Marshal's Anthem|R
 Loxodon Warhammer|R
 Lys Alana Huntmaster|C
-Magmaquake|R
 Magus of the Coffers|R
+Lorthos, the Tidemaker|M
 Malicious Affliction|R
 Marble Diamond|U
-Marshal's Anthem|R
 Martial Coup|R
 Mask of Memory|U
 Masked Admirers|R
 Masterwork of Ingenuity|R
 Mentor of the Meek|R
-Midnight Haunting|U
 Mind Stone|U
-Mobilization|R
-Moonsilver Spear|R
 Morkrut Banshee|U
-Moss Diamond|U
+Midnight Haunting|U
+Moonsilver Spear|R
+Mobilization|R
 Mountain|L
+Flickerwisp|U
+Moss Diamond|U
 Mulldrifter|C
-Mutilate|R
 Mycosynth Wellspring|C
 Myr Battlesphere|R
+Mutilate|R
 Myr Retriever|U
+Nahiri, the Lithomancer|M
 Myr Sire|C
 Myriad Landscape|U
-Nahiri, the Lithomancer|M
 Nantuko Shade|R
-Necromantic Selection|R
-Nekrataal|U
 Nevinyrral's Disk|R
+Nekrataal|U
+Necromantic Selection|R
 Nomads' Assembly|R
 Ob Nixilis of the Black Oath|M
-Oblation|R
-Oran-Rief, the Vastwood|R
-Overrun|U
 Overseer of the Damned|R
+Oran-Rief, the Vastwood|R
+Oblation|R
 Overwhelming Stampede|R
+Overrun|U
 Palladium Myr|U
 Panic Spellbomb|C
-Pearl Medallion|R
 Pentavus|R
+Pearl Medallion|R
 Pestilence Demon|R
-Phyrexia's Core|U
 Phyrexian Gargantua|U
+Phyrexia's Core|U
 Phyrexian Ingester|R
 Pilgrim's Eye|C
+Pongify|U
 Plains|L
 Polluted Mire|C
-Pongify|U
-Pontiff of Blight|R
-Praetor's Counsel|M
-Predator, Flagship|R
 Priest of Titania|C
+Pontiff of Blight|R
+Predator, Flagship|R
+Praetor's Counsel|M
 Primordial Sage|R
 Pristine Talisman|C
-Profane Command|R
-Promise of Power|R
 Rampaging Baloths|M
+Profane Command|R
+Reclamation Sage|U
+Promise of Power|R
 Raving Dead|R
 Read the Bones|C
 Reaper from the Abyss|M
-Reclamation Sage|U
+Remote Isle|C
 Reef Worm|R
 Reliquary Tower|U
-Remote Isle|C
 Requiem Angel|R
-Return to Dust|U
 Riptide Survivor|U
+Return to Dust|U
 Rite of Replication|R
-Ruby Medallion|R
 Rush of Knowledge|C
+Ruby Medallion|R
 Sacred Mesa|R
 Sapphire Medallion|R
 Scrap Mastery|R
@@ -238,32 +238,32 @@ Siege Behemoth|R
 Sign in Blood|C
 Silklash Spider|R
 Silverblade Paladin|R
-Skeletal Scrying|U
 Skirsdag High Priest|R
-Skullclamp|U
-Sky Diamond|U
+Skeletal Scrying|U
 Skyhunter Skirmisher|U
-Slippery Karst|C
+Skullclamp|U
 Smoldering Crater|C
+Sky Diamond|U
+Slippery Karst|C
 Sol Ring|U
-Solemn Simulacrum|R
 Song of the Dryads|R
+Solemn Simulacrum|R
 Soul of the Harvest|R
-Spectral Procession|U
 Sphinx of Jwar Isle|R
-Sphinx of Magosi|R
+Spectral Procession|U
 Sphinx of Uthuun|R
+Sphinx of Magosi|R
 Spine of Ish Sah|R
 Spitebellows|U
-Spoils of Blood|R
 Starstorm|R
+Spoils of Blood|R
 Steel Hellkite|R
 Stitcher Geralf|M
 Stormsurge Kraken|R
 Strata Scythe|R
 Stroke of Genius|R
-Sudden Spoiling|R
 Sun Titan|M
+Sudden Spoiling|R
 Sunblast Angel|R
 Swamp|L
 Swiftfoot Boots|U
@@ -271,52 +271,52 @@ Sword of Vengeance|R
 Sylvan Offering|R
 Sylvan Ranger|C
 Sylvan Safekeeper|R
+Teferi, Temporal Archmage|M
 Syphon Mind|C
 Tectonic Edge|U
-Teferi, Temporal Archmage|M
-Temple of the False God|U
 Tendrils of Corruption|C
+Temple of the False God|U
 Terastodon|R
-Terramorphic Expanse|C
 Thornweald Archer|C
-Thran Dynamo|U
+Terramorphic Expanse|C
 Thunderfoot Baloth|R
+Thran Dynamo|U
 Timberwatch Elf|C
 Titania's Chosen|U
 Titania, Protector of Argoth|M
-Tormod's Crypt|U
 Tornado Elemental|R
-Trading Post|R
+Tormod's Crypt|U
 Tragic Slip|C
-Tranquil Thicket|C
-True Conviction|R
+Trading Post|R
 Tuktuk the Explorer|R
+Tranquil Thicket|C
+Tyrant's Familiar|R
+True Conviction|R
 Turn to Frog|U
 Twilight Shepherd|R
-Tyrant's Familiar|R
 Unstable Obelisk|U
 Ur-Golem's Eye|U
 Vampire Hexmage|U
-Victimize|U
 Volcanic Offering|R
-Wake the Dead|R
+Victimize|U
 Warmonger Hellkite|R
-Wave of Vitriol|R
+Wake the Dead|R
 Wayfarer's Bauble|C
-Well of Ideas|R
+Wave of Vitriol|R
 Wellwisher|C
-Whipflare|U
+Well of Ideas|R
 Whirlwind|R
-White Sun's Zenith|R
+Whipflare|U
 Whitemane Lion|C
-Willbender|U
-Wing Shards|U
+White Sun's Zenith|R
 Wolfbriar Elemental|R
-Wolfcaller's Howl|R
+Willbender|U
 Wood Elves|C
+Wing Shards|U
+Wolfcaller's Howl|R
 Word of Seizing|R
-Worn Powerstone|U
 Wren's Run Packmaster|R
+Worn Powerstone|U
 Wurmcoil Engine|M
 Xathrid Demon|M
 Zoetic Cavern|U

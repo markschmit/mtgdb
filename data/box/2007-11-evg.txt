@@ -1,56 +1,56 @@
-Akki Coalflinger|U
+Elvish Warrior|C
 Allosaurus Rider|R
 Ambush Commander|R
 Boggart Shenanigans|U
 Clickslither|R
-Elvish Eulogist|C
 Elvish Harbinger|U
+Elvish Eulogist|C
+Akki Coalflinger|U
 Elvish Promenade|U
-Elvish Warrior|C
-Emberwilde Augur|C
 Flamewave Invoker|U
+Emberwilde Augur|C
+Gempalm Incinerator|U
 Forest|L
 Forgotten Cave|C
-Gempalm Incinerator|U
+Goblin Burrows|U
 Gempalm Strider|U
 Giant Growth|C
-Goblin Burrows|U
 Goblin Cohort|C
 Goblin Matron|U
 Goblin Ringleader|U
 Goblin Sledder|C
+Heedless One|U
 Goblin Warchief|U
 Harmonize|U
-Heedless One|U
 Ib Halfheart, Goblin Tactician|R
-Imperious Perfect|U
 Llanowar Elves|C
+Imperious Perfect|U
 Lys Alana Huntmaster|C
-Mogg Fanatic|U
 Mogg War Marshal|C
+Mogg Fanatic|U
 Moonglove Extract|C
 Mountain|L
 Mudbutton Torchrunner|C
 Raging Goblin|C
 Reckless One|U
+Skirk Fire Marshal|R
 Siege-Gang Commander|R
 Skirk Drill Sergeant|U
-Skirk Fire Marshal|R
 Skirk Prospector|C
 Skirk Shaman|C
-Slate of Ancestry|R
-Spitting Earth|C
 Stonewood Invoker|C
 Sylvan Messenger|U
-Tar Pitcher|U
+Slate of Ancestry|R
+Spitting Earth|C
 Tarfire|C
+Tar Pitcher|U
 Timberwatch Elf|C
 Tranquil Thicket|C
 Voice of the Woods|R
+Wirewood Herald|C
 Wellwisher|C
 Wildsize|C
-Wirewood Herald|C
-Wirewood Lodge|U
 Wirewood Symbiote|U
-Wood Elves|C
+Wirewood Lodge|U
 Wren's Run Vanquisher|U
+Wood Elves|C

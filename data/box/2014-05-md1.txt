@@ -1,26 +1,26 @@
-Burrenton Forge-Tender|U
+Inquisition of Kozilek|U
 Caves of Koilos|R
-City of Brass|R
-Dismember|U
+Burrenton Forge-Tender|U
 Duress|C
+City of Brass|R
 Elspeth, Knight-Errant|M
 Ghost Quarter|U
 Honor of the Pure|R
-Inquisition of Kozilek|U
-Intangible Virtue|U
-Isolated Chapel|R
-Kataki, War's Wage|R
-Lingering Souls|U
-Path to Exile|U
+Dismember|U
 Plains|L
-Raise the Alarm|C
+Lingering Souls|U
+Kataki, War's Wage|R
+Isolated Chapel|R
+Intangible Virtue|U
+Path to Exile|U
 Relic of Progenitus|U
-Shrine of Loyal Legions|U
-Soul Warden|C
 Spectral Procession|U
+Soul Warden|C
+Raise the Alarm|C
+Shrine of Loyal Legions|U
 Swamp|L
 Sword of Feast and Famine|M
-Tidehollow Sculler|U
 Vault of the Archangel|R
+Tidehollow Sculler|U
 Windbrisk Heights|R
 Zealous Persecution|U

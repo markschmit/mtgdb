@@ -1,15 +1,15 @@
-Armageddon|M
-Burning of Xinye|M
 Cataclysm|M
-Child of Alara|M
+Burning of Xinye|M
+Armageddon|M
 Decree of Annihilation|M
+Child of Alara|M
 Firespout|M
 Fracturing Gust|M
 Living Death|M
-Martial Coup|M
 Rolling Earthquake|M
-Smokestack|M
 Terminus|M
+Martial Coup|M
+Smokestack|M
 Upheaval|M
 Virtue's Ruin|M
 Wrath of God|M

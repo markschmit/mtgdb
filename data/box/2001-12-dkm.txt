@@ -1,44 +1,44 @@
+Woolly Spider|S
 Abyssal Specter|S
 Balduvian Bears|S
 Balduvian Horde|S
-Barbed Sextant|S
 Bounty of the Hunt|S
+Barbed Sextant|S
 Contagion|S
-Dark Banishing|S
 Dark Ritual|S
+Dark Banishing|S
 Death Spark|S
-Elkin Bottle|S
 Elvish Bard|S
+Elkin Bottle|S
 Folk of the Pines|S
 Forest|S
 Foul Familiar|S
 Fyndhorn Elves|S
-Giant Growth|S
 Giant Trap Door Spider|S
+Giant Growth|S
 Goblin Mutant|S
-Guerrilla Tactics|S
 Hurricane|S
-Icy Manipulator|S
+Guerrilla Tactics|S
 Incinerate|S
-Jokulhaups|S
+Icy Manipulator|S
 Karplusan Forest|S
+Jokulhaups|S
 Lava Burst|S
+Orcish Cannoneers|S
 Lhurgoyf|S
 Lim-Dul's High Guard|S
 Mountain|S
 Necropotence|S
-Orcish Cannoneers|S
 Phantasmal Fiend|S
 Phyrexian War Beast|S
-Pillage|S
-Pyroclasm|S
 Shatter|S
+Pyroclasm|S
+Pillage|S
 Soul Burn|S
 Storm Shaman|S
-Sulfurous Springs|S
 Swamp|S
+Sulfurous Springs|S
 Underground River|S
 Walking Wall|S
-Woolly Spider|S
 Yavimaya Ancients|S
 Yavimaya Ants|S

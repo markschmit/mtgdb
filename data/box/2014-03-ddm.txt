@@ -1,76 +1,76 @@
-Acidic Slime|U
+Claustrophobia|C
 Aeon Chronicler|R
+Agoraphobia|U
 Aether Adept|C
 Aether Figment|U
-Agoraphobia|U
-Archaeomancer|C
-Body Double|R
-Chronomaton|U
-Claustrophobia|C
+Acidic Slime|U
 Consume Strength|C
 Control Magic|U
-Corpse Traders|U
+Chronomaton|U
+Archaeomancer|C
+Body Double|R
 Crosstown Courier|C
+Corpse Traders|U
 Death-Hood Cobra|C
+Errant Ephemeron|C
 Dread Statuary|U
 Dream Stalker|C
 Drooling Groodion|U
-Errant Ephemeron|C
+Golgari Guildgate|C
 Festerhide Boar|C
+Gatecreeper Vine|C
 Forest|L
 Future Sight|R
-Gatecreeper Vine|C
-Golgari Guildgate|C
-Griptide|C
 Grisly Spectacle|C
-Halimar Depths|C
+Griptide|C
 Highway Robber|C
-Hypnotic Cloud|C
-Into the Roil|C
+Halimar Depths|C
 Island|L
-Jace's Ingenuity|U
-Jace's Mindseeker|R
-Jace's Phantasm|U
-Jace, Architect of Thought|M
+Hypnotic Cloud|C
 Krovikan Mist|C
-Last Kiss|C
+Into the Roil|C
+Jace's Mindseeker|R
+Jace, Architect of Thought|M
+Jace's Ingenuity|U
+Jace's Phantasm|U
 Leyline Phantom|C
+Last Kiss|C
 Marsh Casualties|U
-Memory Lapse|C
 Merfolk Wayfinder|U
+Memory Lapse|C
 Mold Shambler|C
+Ohran Viper|R
 Nekrataal|U
 Night's Whisper|U
-Ohran Viper|R
 Oran-Rief Recluse|C
+Pulse Tracker|C
 Phantasmal Bear|C
 Phantasmal Dragon|U
+Reaper of the Wilds|R
 Prohibit|C
-Pulse Tracker|C
 Putrid Leech|C
 Ray of Command|C
-Reaper of the Wilds|R
-Remand|U
+Sadistic Augermage|C
 Riftwing Cloudskate|U
+Remand|U
 River Boa|U
 Rogue's Passage|U
-Sadistic Augermage|C
 Sea Gate Oracle|C
 Shadow Alley Denizen|C
 Slate Street Ruffian|C
-Spawnwrithe|R
-Spelltwine|R
 Stab Wound|C
+Spawnwrithe|R
 Stealer of Secrets|C
-Stonefare Crocodile|C
 Summoner's Bane|U
+Stonefare Crocodile|C
+Spelltwine|R
 Swamp|L
-Tainted Wood|U
 Tavern Swindler|U
-Thought Scour|C
+Tainted Wood|U
 Tragic Slip|C
-Treasured Find|U
+Thought Scour|C
 Underworld Connections|R
-Vinelasher Kudzu|R
+Treasured Find|U
 Vraska the Unseen|M
+Vinelasher Kudzu|R
 Wight of Precinct Six|U

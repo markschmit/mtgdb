@@ -1,67 +1,67 @@
+Bone Shredder|U
 Allied Strategies|U
 Armadillo Cloak|C
-Bone Shredder|U
-Carrion Feeder|C
-Charging Troll|U
-Coalition Relic|R
-Darigaaz's Charm|U
-Darigaaz, the Igniter|R
-Dark Ritual|C
-Elfhame Palace|U
-Evasive Action|U
-Exotic Curse|C
-Fertile Ground|C
-Forest|L
-Gerrard Capashen|R
-Gerrard's Command|C
-Harrow|C
-Hideous End|C
-Hornet Cannon|U
-Island|L
-Lightning Greaves|U
-Living Death|R
-Mountain|L
-Narrow Escape|C
-Nomadic Elf|C
-Order of Yawgmoth|U
-Phyrexian Arena|R
-Phyrexian Battleflies|C
-Phyrexian Broodlings|C
-Phyrexian Colossus|R
-Phyrexian Debaser|C
-Phyrexian Defiler|U
-Phyrexian Denouncer|C
-Phyrexian Gargantua|U
-Phyrexian Ghoul|C
-Phyrexian Hulk|U
-Phyrexian Negator|M
-Phyrexian Plaguelord|R
-Phyrexian Processor|R
-Phyrexian Totem|U
-Phyrexian Vault|U
-Plains|L
-Power Armor|U
-Priest of Gix|U
-Puppet Strings|U
-Quirion Elves|C
 Rith's Charm|U
 Rith, the Awakener|R
 Sanguine Guard|U
-Shivan Oasis|U
 Slay|U
+Shivan Oasis|U
+Terramorphic Expanse|C
 Sunscape Battlemage|U
 Swamp|L
 Tendrils of Corruption|C
-Terramorphic Expanse|C
 Thornscape Apprentice|C
 Thornscape Battlemage|U
 Thunderscape Battlemage|U
 Treva's Charm|U
 Treva, the Renewer|R
-Tribal Flames|C
 Urza's Rage|M
+Tribal Flames|C
 Verduran Emissary|U
-Voltaic Key|U
 Whispersilk Cloak|U
+Voltaic Key|U
 Worn Powerstone|U
 Yavimaya Elder|C
+Carrion Feeder|C
+Darigaaz's Charm|U
+Charging Troll|U
+Dark Ritual|C
+Darigaaz, the Igniter|R
+Elfhame Palace|U
+Coalition Relic|R
+Evasive Action|U
+Gerrard Capashen|R
+Exotic Curse|C
+Gerrard's Command|C
+Fertile Ground|C
+Forest|L
+Harrow|C
+Hideous End|C
+Island|L
+Hornet Cannon|U
+Lightning Greaves|U
+Mountain|L
+Nomadic Elf|C
+Living Death|R
+Order of Yawgmoth|U
+Phyrexian Battleflies|C
+Narrow Escape|C
+Phyrexian Gargantua|U
+Phyrexian Broodlings|C
+Phyrexian Arena|R
+Phyrexian Debaser|C
+Phyrexian Hulk|U
+Phyrexian Colossus|R
+Phyrexian Ghoul|C
+Phyrexian Defiler|U
+Phyrexian Denouncer|C
+Phyrexian Negator|M
+Phyrexian Plaguelord|R
+Phyrexian Processor|R
+Plains|L
+Phyrexian Totem|U
+Phyrexian Vault|U
+Power Armor|U
+Priest of Gix|U
+Quirion Elves|C
+Puppet Strings|U

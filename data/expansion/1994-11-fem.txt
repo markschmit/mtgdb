@@ -1,27 +1,27 @@
-Aeolipile|R
 Armor Thrull|C
+Aeolipile|R
 Balm of Restoration|R
 Basal Thrull|C
 Bottomless Vault|R
 Brassclaw Orcs|C
 Breeding Pit|U
 Combat Medic|C
-Conch Horn|R
 Deep Spawn|U
+Conch Horn|R
 Delif's Cone|U
-Delif's Cube|R
 Derelor|R
+Delif's Cube|R
 Draconian Cylix|R
 Dwarven Armorer|R
 Dwarven Catapult|U
-Dwarven Hold|R
 Dwarven Lieutenant|U
+Dwarven Hold|R
 Dwarven Ruins|U
 Dwarven Soldier|C
 Ebon Praetor|R
 Ebon Stronghold|U
-Elven Fortress|C
 Elven Lyre|R
+Elven Fortress|C
 Elvish Farmer|R
 Elvish Hunter|C
 Elvish Scout|C
@@ -29,24 +29,27 @@ Farrel's Mantle|U
 Farrel's Zealot|C
 Farrelite Priest|U
 Feral Thallid|U
-Fungal Bloom|R
 Goblin Chirurgeon|C
+Fungal Bloom|R
 Goblin Flotilla|R
 Goblin Grenade|C
-Goblin Kites|U
 Goblin War Drums|C
+Goblin Kites|U
+Vodalian Soldiers|C
+Vodalian War Machine|R
+Zelyon Sword|R
 Goblin Warrens|R
 Hand of Justice|R
-Havenwood Battleground|U
 Heroism|U
+Havenwood Battleground|U
 High Tide|C
-Hollow Trees|R
 Homarid|C
+Hollow Trees|R
 Homarid Shaman|R
 Homarid Spawning Bed|U
 Homarid Warrior|C
-Hymn to Tourach|C
 Icatian Infantry|C
+Hymn to Tourach|C
 Icatian Javelineers|C
 Icatian Lieutenant|R
 Icatian Moneychanger|C
@@ -55,14 +58,14 @@ Icatian Priest|U
 Icatian Scout|C
 Icatian Skirmishers|R
 Icatian Store|R
-Icatian Town|R
 Implements of Sacrifice|R
+Icatian Town|R
 Initiates of the Ebon Hand|C
 Merseine|C
 Mindstab Thrull|C
 Necrite|C
-Night Soil|C
 Orcish Captain|U
+Night Soil|C
 Orcish Spy|C
 Orcish Veteran|C
 Order of Leitbur|C
@@ -72,16 +75,16 @@ Raiding Party|U
 Rainbow Vale|R
 Ring of Renewal|R
 River Merfolk|R
-Ruins of Trokair|U
 Sand Silos|R
+Ruins of Trokair|U
 Seasinger|U
 Soul Exchange|U
-Spirit Shield|R
 Spore Cloud|C
+Spirit Shield|R
 Spore Flower|U
 Svyelunite Priest|U
-Svyelunite Temple|U
 Thallid|C
+Svyelunite Temple|U
 Thallid Devourer|U
 Thelon's Chant|U
 Thelon's Curse|R
@@ -97,6 +100,3 @@ Tourach's Chant|U
 Tourach's Gate|R
 Vodalian Knights|R
 Vodalian Mage|C
-Vodalian Soldiers|C
-Vodalian War Machine|R
-Zelyon Sword|R

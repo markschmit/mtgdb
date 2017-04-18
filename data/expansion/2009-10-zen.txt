@@ -1,192 +1,31 @@
-Adventuring Gear|C
-Aether Figment|U
-Akoum Refuge|U
-Archive Trap|R
-Archmage Ascension|R
-Arid Mesa|R
-Armament Master|R
-Arrow Volley Trap|U
-Bala Ged Thief|R
-Baloth Cage Trap|U
-Baloth Woodcrasher|U
-Beast Hunt|C
-Beastmaster Ascension|R
-Blade of the Bloodchief|R
-Bladetusk Boar|C
-Blazing Torch|U
-Blood Seeker|C
-Blood Tribute|R
-Bloodchief Ascension|R
-Bloodghast|R
-Bog Tatters|C
-Bold Defense|C
-Brave the Elements|U
-Burst Lightning|C
-Caller of Gales|C
-Cancel|C
-Caravan Hurda|C
-Carnage Altar|U
-Celestial Mantle|R
-Chandra Ablaze|M
-Cliff Threader|C
-Cobra Trap|U
-Conqueror's Pledge|R
-Cosi's Trickster|R
-Crypt of Agadeem|R
-Crypt Ripper|C
-Day of Judgment|R
-Demolish|C
-Desecrated Earth|C
-Devout Lightcaster|R
-Disfigure|C
-Eldrazi Monument|M
-Electropotence|R
-Elemental Appeal|R
-Emeria Angel|R
-Emeria, the Sky Ruin|R
-Eternity Vessel|M
-Expedition Map|C
-Explorer's Scope|C
-Feast of Blood|U
-Felidar Sovereign|M
-Forest|L
-Frontier Guide|U
-Gatekeeper of Malakir|U
-Geyser Glider|U
-Giant Scorpion|C
-Gigantiform|R
-Goblin Bushwhacker|C
-Goblin Guide|R
-Goblin Ruinblaster|U
-Goblin Shortcutter|C
-Goblin War Paint|C
-Gomazoa|U
-Grappling Hook|R
-Graypelt Refuge|U
-Grazing Gladehart|C
-Greenweaver Druid|U
-Grim Discovery|C
-Guul Draz Specter|R
-Guul Draz Vampire|C
-Hagra Crocodile|C
-Hagra Diabolist|U
-Halo Hunter|R
-Harrow|C
-Heartstabber Mosquito|C
-Hedron Crab|U
-Hedron Scrabbler|C
-Hellfire Mongrel|U
-Hellkite Charger|R
-Hideous End|C
-Highland Berserker|C
-Inferno Trap|U
-Into the Roil|C
-Iona, Shield of Emeria|M
-Ior Ruin Expedition|C
-Island|L
-Joraga Bard|C
-Journey to Nowhere|C
-Jwar Isle Refuge|U
-Kabira Crossroads|C
-Kabira Evangel|R
-Kalitas, Bloodchief of Ghet|M
-Kazandu Blademaster|U
-Kazandu Refuge|U
-Kazuul Warlord|R
-Khalni Gem|U
-Khalni Heart Expedition|C
-Kor Aeronaut|U
-Kor Cartographer|C
-Kor Duelist|U
-Kor Hookmaster|C
-Kor Outfitter|C
-Kor Sanctifiers|C
-Kor Skyfisher|C
-Kraken Hatchling|C
-Landbind Ritual|U
-Lavaball Trap|R
-Lethargy Trap|C
-Living Tsunami|U
-Lorthos, the Tidemaker|M
-Lotus Cobra|M
-Lullmage Mentor|R
-Luminarch Ascension|R
-Magma Rift|C
-Magosi, the Waterveil|R
-Makindi Shieldmate|C
-Malakir Bloodwitch|R
-Mark of Mutiny|U
-Marsh Casualties|U
-Marsh Flats|R
-Merfolk Seastalkers|U
-Merfolk Wayfinder|U
-Mind Sludge|U
-Mindbreak Trap|M
-Mindless Null|C
-Mire Blight|C
-Misty Rainforest|R
-Mold Shambler|C
-Molten Ravager|C
-Mountain|L
-Murasa Pyromancer|U
-Narrow Escape|C
-Needlebite Trap|U
-Nimana Sell-Sword|C
-Nimbus Wings|C
-Nissa Revane|M
-Nissa's Chosen|C
-Noble Vestige|C
-Ob Nixilis, the Fallen|M
-Obsidian Fireheart|M
-Ondu Cleric|C
-Oracle of Mul Daya|R
-Oran-Rief Recluse|C
-Oran-Rief Survivalist|C
-Oran-Rief, the Vastwood|R
-Paralyzing Grasp|C
-Pillarfield Ox|C
-Piranha Marsh|C
-Pitfall Trap|U
-Plains|L
-Plated Geopede|C
-Predatory Urge|R
-Primal Bellow|U
-Punishing Fire|U
-Pyromancer Ascension|R
-Quest for Ancient Secrets|U
-Quest for Pure Flame|U
-Quest for the Gemblades|U
-Quest for the Gravelord|U
-Quest for the Holy Relic|U
-Rampaging Baloths|M
 Ravenous Trap|U
 Reckless Scholar|C
-Relic Crush|C
-Rite of Replication|R
 River Boa|U
-Roil Elemental|R
+Rite of Replication|R
+Relic Crush|C
 Ruinous Minotaur|C
-Runeflare Trap|U
+Roil Elemental|R
 Sadistic Sacrament|R
+Runeflare Trap|U
 Savage Silhouette|C
-Scalding Tarn|R
 Scute Mob|R
+Scalding Tarn|R
 Scythe Tiger|C
 Sea Gate Loremaster|R
 Seascape Aerialist|U
 Seismic Shudder|C
-Sejiri Refuge|U
 Shatterskull Giant|C
+Sejiri Refuge|U
 Shepherd of the Lost|U
 Shieldmate's Blessing|C
 Shoal Serpent|C
 Sky Ruin Drake|C
-Slaughter Cry|C
 Soaring Seacliff|C
+Slaughter Cry|C
 Sorin Markov|M
 Soul Stair Expedition|C
-Spell Pierce|C
 Sphinx of Jwar Isle|R
+Spell Pierce|C
 Sphinx of Lost Truths|R
 Spidersilk Net|C
 Spire Barrage|C
@@ -196,39 +35,200 @@ Stonework Puma|C
 Summoner's Bane|U
 Summoning Trap|R
 Sunspring Expedition|C
+Tajuru Archer|U
 Surrakar Marauder|C
 Swamp|L
-Tajuru Archer|U
+Tempest Owl|C
 Tanglesap|C
 Teetering Peaks|C
-Tempest Owl|C
-Terra Stomper|R
 Territorial Baloth|C
+Terra Stomper|R
 Timbermaw Larva|C
 Torch Slinger|C
 Trailblazer's Boots|U
-Trapfinder's Trick|C
 Trapmaker's Snare|U
+Trapfinder's Trick|C
 Trusty Machete|U
 Tuktuk Grunts|C
 Turntimber Basilisk|U
-Turntimber Grove|C
 Turntimber Ranger|R
+Turntimber Grove|C
 Umara Raptor|C
-Unstable Footing|U
 Valakut, the Molten Pinnacle|R
+Unstable Footing|U
 Vampire Hexmage|U
 Vampire Lacerator|C
 Vampire Nighthawk|U
 Vampire's Bite|C
 Vastwood Gorger|C
-Verdant Catacombs|R
 Vines of Vastwood|C
+Verdant Catacombs|R
 Warren Instigator|M
+Windborne Charge|U
 Welkin Tern|C
 Whiplash Trap|C
-Windborne Charge|U
 Windrider Eel|C
 World Queller|R
-Zektar Shrine Expedition|C
 Zendikar Farguide|C
+Zektar Shrine Expedition|C
+Arid Mesa|R
+Adventuring Gear|C
+Aether Figment|U
+Akoum Refuge|U
+Archive Trap|R
+Archmage Ascension|R
+Rampaging Baloths|M
+Quest for the Holy Relic|U
+Piranha Marsh|C
+Plains|L
+Pitfall Trap|U
+Plated Geopede|C
+Predatory Urge|R
+Primal Bellow|U
+Pyromancer Ascension|R
+Punishing Fire|U
+Quest for Ancient Secrets|U
+Quest for the Gemblades|U
+Quest for Pure Flame|U
+Quest for the Gravelord|U
+Desecrated Earth|C
+Eldrazi Monument|M
+Emeria Angel|R
+Disfigure|C
+Electropotence|R
+Elemental Appeal|R
+Eternity Vessel|M
+Emeria, the Sky Ruin|R
+Explorer's Scope|C
+Feast of Blood|U
+Expedition Map|C
+Felidar Sovereign|M
+Gatekeeper of Malakir|U
+Forest|L
+Frontier Guide|U
+Geyser Glider|U
+Goblin Bushwhacker|C
+Giant Scorpion|C
+Gigantiform|R
+Goblin Guide|R
+Goblin Ruinblaster|U
+Goblin War Paint|C
+Goblin Shortcutter|C
+Grappling Hook|R
+Gomazoa|U
+Grazing Gladehart|C
+Greenweaver Druid|U
+Graypelt Refuge|U
+Hagra Crocodile|C
+Guul Draz Specter|R
+Kor Aeronaut|U
+Grim Discovery|C
+Guul Draz Vampire|C
+Heartstabber Mosquito|C
+Hagra Diabolist|U
+Harrow|C
+Hedron Scrabbler|C
+Halo Hunter|R
+Hedron Crab|U
+Hellkite Charger|R
+Hellfire Mongrel|U
+Hideous End|C
+Highland Berserker|C
+Inferno Trap|U
+Into the Roil|C
+Joraga Bard|C
+Ior Ruin Expedition|C
+Iona, Shield of Emeria|M
+Island|L
+Jwar Isle Refuge|U
+Journey to Nowhere|C
+Kabira Crossroads|C
+Kabira Evangel|R
+Kalitas, Bloodchief of Ghet|M
+Kazandu Blademaster|U
+Kazandu Refuge|U
+Kazuul Warlord|R
+Khalni Heart Expedition|C
+Khalni Gem|U
+Armament Master|R
+Bala Ged Thief|R
+Arrow Volley Trap|U
+Baloth Woodcrasher|U
+Baloth Cage Trap|U
+Blade of the Bloodchief|R
+Beastmaster Ascension|R
+Beast Hunt|C
+Blazing Torch|U
+Bladetusk Boar|C
+Blood Tribute|R
+Blood Seeker|C
+Bloodchief Ascension|R
+Bog Tatters|C
+Bloodghast|R
+Brave the Elements|U
+Bold Defense|C
+Caller of Gales|C
+Burst Lightning|C
+Caravan Hurda|C
+Cancel|C
+Carnage Altar|U
+Celestial Mantle|R
+Chandra Ablaze|M
+Cosi's Trickster|R
+Cliff Threader|C
+Conqueror's Pledge|R
+Cobra Trap|U
+Devout Lightcaster|R
+Crypt of Agadeem|R
+Demolish|C
+Crypt Ripper|C
+Day of Judgment|R
+Kor Cartographer|C
+Kor Duelist|U
+Kor Hookmaster|C
+Kor Sanctifiers|C
+Kor Outfitter|C
+Kor Skyfisher|C
+Kraken Hatchling|C
+Lorthos, the Tidemaker|M
+Landbind Ritual|U
+Lavaball Trap|R
+Lethargy Trap|C
+Living Tsunami|U
+Lotus Cobra|M
+Magma Rift|C
+Lullmage Mentor|R
+Luminarch Ascension|R
+Marsh Casualties|U
+Magosi, the Waterveil|R
+Makindi Shieldmate|C
+Malakir Bloodwitch|R
+Marsh Flats|R
+Mark of Mutiny|U
+Merfolk Wayfinder|U
+Mindless Null|C
+Merfolk Seastalkers|U
+Mind Sludge|U
+Mindbreak Trap|M
+Mire Blight|C
+Mold Shambler|C
+Misty Rainforest|R
+Narrow Escape|C
+Murasa Pyromancer|U
+Molten Ravager|C
+Mountain|L
+Nimana Sell-Sword|C
+Needlebite Trap|U
+Nimbus Wings|C
+Nissa Revane|M
+Nissa's Chosen|C
+Ondu Cleric|C
+Noble Vestige|C
+Ob Nixilis, the Fallen|M
+Obsidian Fireheart|M
+Pillarfield Ox|C
+Oracle of Mul Daya|R
+Oran-Rief Survivalist|C
+Oran-Rief Recluse|C
+Oran-Rief, the Vastwood|R
+Paralyzing Grasp|C

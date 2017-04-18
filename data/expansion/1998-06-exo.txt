@@ -1,46 +1,46 @@
-Aether Tide|C
+Coat of Arms|R
 Allay|C
-Anarchist|C
+Aether Tide|C
 Angelic Blessing|C
+Anarchist|C
 Avenging Druid|C
-Bequeathal|C
 Carnophage|C
+Bequeathal|C
 Cartographer|U
-Cat Burglar|C
 Cataclysm|R
 Charging Paladin|C
+Cat Burglar|C
 Cinder Crawler|C
 City of Traitors|R
-Coat of Arms|R
 Convalescence|R
 Crashing Boars|U
-Culling the Weak|C
 Cunning|C
+Culling the Weak|C
 Curiosity|U
 Cursed Flesh|C
 Dauthi Cutthroat|U
 Dauthi Jackal|C
+Dizzying Gaze|C
 Dauthi Warlord|U
 Death's Duet|C
-Dizzying Gaze|C
 Dominating Licid|R
-Elven Palisade|U
 Elvish Berserker|C
+Elven Palisade|U
 Entropic Specter|R
 Ephemeron|R
+Ertai, Wizard Adept|R
 Equilibrium|R
 Erratic Portal|R
-Ertai, Wizard Adept|R
 Exalted Dragon|R
 Fade Away|C
 Fighting Chance|R
-Flowstone Flood|U
 Forbid|U
+Flowstone Flood|U
 Fugue|U
 Furnace Brood|C
+High Ground|U
 Grollub|C
 Hatred|R
-High Ground|U
 Jackalope Herd|C
 Keeper of the Beasts|U
 Keeper of the Dead|U
@@ -49,85 +49,85 @@ Keeper of the Light|U
 Keeper of the Mind|U
 Killer Whale|U
 Kor Chant|C
-Limited Resources|R
 Mage il-Vec|C
-Mana Breach|U
+Limited Resources|R
 Manabond|R
+Mana Breach|U
 Maniacal Rage|C
 Medicine Bag|U
 Memory Crystal|R
 Merfolk Looter|C
 Mind Maggots|U
-Mind Over Matter|R
-Mindless Automaton|R
-Mirozel|U
 Mirri, Cat Warrior|R
-Mogg Assassin|U
+Mindless Automaton|R
+Mind Over Matter|R
+Mirozel|U
 Monstrous Hound|R
-Nausea|C
-Necrologia|U
+Mogg Assassin|U
 Null Brooch|R
+Necrologia|U
+Nausea|C
 Oath of Druids|R
 Oath of Ghouls|R
 Oath of Lieges|R
-Oath of Mages|R
 Oath of Scholars|R
+Oath of Mages|R
 Ogre Shaman|R
-Onslaught|C
 Paladin en-Vec|R
-Pandemonium|R
+Onslaught|C
 Paroxysm|U
-Peace of Mind|U
+Pandemonium|R
 Pegasus Stampede|U
+Peace of Mind|U
 Penance|U
 Pit Spawn|R
 Plaguebearer|R
 Plated Rootwalla|C
-Predatory Hunger|C
-Price of Progress|U
 Pygmy Troll|C
+Price of Progress|U
+Predatory Hunger|C
 Rabid Wolverines|C
 Raging Goblin|C
 Ravenous Baboons|R
 Reaping the Rewards|C
 Reckless Ogre|C
+Recurring Nightmare|R
 Reclaim|C
 Reconnaissance|U
-Recurring Nightmare|R
 Resuscitate|U
 Robe of Mirrors|C
 Rootwater Alligator|C
 Rootwater Mystic|C
 Sabertooth Wyvern|U
 Scalding Salamander|U
-Scare Tactics|C
 School of Piranha|C
+Shackles|C
+Scare Tactics|C
 Scrivener|U
 Seismic Assault|R
-Shackles|C
-Shattering Pulse|C
 Shield Mate|C
-Skyshaper|U
+Shattering Pulse|C
 Skyshroud Elite|U
+Skyshaper|U
 Skyshroud War Beast|R
-Slaughter|U
-Soltari Visionary|C
-Song of Serenity|U
 Sonic Burst|C
-Soul Warden|C
-Spellbook|U
-Spellshock|U
+Soltari Visionary|C
+Slaughter|U
+Song of Serenity|U
 Sphere of Resistance|R
+Soul Warden|C
+Spellshock|U
+Spellbook|U
 Spike Cannibal|U
 Spike Hatcher|R
 Spike Rogue|U
 Spike Weaver|R
 Standing Troops|C
-Survival of the Fittest|R
 Thalakos Drifters|R
+Survival of the Fittest|R
 Thalakos Scout|C
-Theft of Dreams|C
 Thopter Squadron|R
+Theft of Dreams|C
 Thrull Surgeon|C
 Transmogrifying Licid|U
 Treasure Hunter|U
@@ -138,6 +138,6 @@ Wall of Nets|R
 Wayward Soul|C
 Welkin Hawk|C
 Whiptongue Frog|C
-Wood Elves|C
 Workhorse|R
+Wood Elves|C
 Zealots en-Dal|U

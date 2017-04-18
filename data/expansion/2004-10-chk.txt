@@ -6,15 +6,15 @@ Akki Underminer|U
 Ashen-Skin Zubera|C
 Aura of Dominion|U
 Autumn-Tail, Kitsune Sage|R
-Azami, Lady of Scrolls|R
 Azusa, Lost but Seeking|R
+Azami, Lady of Scrolls|R
 Battle-Mad Ronin|C
-Befoul|C
 Ben-Ben, Akki Hermit|R
+Befoul|C
 Blessed Breath|C
 Blind with Anger|U
-Blood Rites|U
 Blood Speaker|U
+Blood Rites|U
 Bloodthirsty Ogre|U
 Boseiju, Who Shelters All|R
 Brothers Yamazaki|U
@@ -23,15 +23,15 @@ Budoka Gardener|R
 Burr Grafter|C
 Bushi Tenderfoot|U
 Cage of Hands|C
-Call to Glory|C
 Callous Deceiver|C
+Call to Glory|C
 Candles' Glow|U
+Commune with Nature|C
 Cleanfall|U
 Cloudcrest Lake|U
-Commune with Nature|C
 Consuming Vortex|C
-Counsel of the Soratami|C
 Cranial Extraction|R
+Counsel of the Soratami|C
 Cruel Deceiver|C
 Crushing Pain|C
 Cursed Ronin|C
@@ -43,12 +43,12 @@ Desperate Ritual|C
 Devoted Retainer|C
 Devouring Greed|C
 Devouring Rage|C
-Distress|C
-Dokai, Weaver of Life|R
 Dosan the Falling Leaf|R
+Dokai, Weaver of Life|R
+Distress|C
 Dripping-Tongue Zubera|C
-Earthshaker|U
 Eerie Procession|U
+Earthshaker|U
 Eiganjo Castle|R
 Eight-and-a-Half-Tails|R
 Ember-Fist Zubera|C
@@ -58,38 +58,38 @@ Feast of Worms|U
 Feral Deceiver|C
 Field of Reality|C
 Floating-Dream Zubera|C
-Forbidden Orchard|R
 Forest|L
+Forbidden Orchard|R
 Frostwielder|C
-Gale Force|U
 General's Kabuto|R
+Gale Force|U
 Ghostly Prison|U
 Gibbering Kami|C
-Gifts Ungiven|R
 Glacial Ray|C
-Glimpse of Nature|R
+Gifts Ungiven|R
 Godo, Bandit Warlord|R
+Glimpse of Nature|R
 Goka the Unjust|U
 Graceful Adept|U
 Guardian of Solitude|U
 Gutwrencher Oni|U
-Hair-Strung Koto|R
 Hall of the Bandit Lord|R
+Hair-Strung Koto|R
+Hankyu|U
 Hana Kami|U
 Hanabi Blast|U
-Hankyu|U
 Harsh Deceiver|C
 He Who Hungers|R
-Heartbeat of Spring|R
 Hearth Kami|C
+Heartbeat of Spring|R
 Hideous Laughter|U
 Hikari, Twilight Guardian|R
-Hinder|U
 Hisoka's Defiance|C
+Hinder|U
 Hisoka's Guard|C
 Hisoka, Minamo Sensei|R
-Hold the Line|R
 Honden of Cleansing Fire|U
+Hold the Line|R
 Honden of Infinite Rage|U
 Honden of Life's Web|U
 Honden of Night's Reach|U
@@ -99,23 +99,23 @@ Horizon Seed|U
 Horobi, Death's Wail|R
 Humble Budoka|C
 Hundred-Talon Kami|C
-Imi Statue|R
-Iname, Death Aspect|R
 Iname, Life Aspect|R
+Iname, Death Aspect|R
+Imi Statue|R
 Indomitable Will|C
 Initiate of Blood|U
 Innocence Kami|U
 Isamaru, Hound of Konda|R
+Journeyer's Kite|R
 Island|L
 Jade Idol|U
-Journeyer's Kite|R
 Joyous Respite|C
 Jugan, the Rising Star|R
 Jukai Messenger|C
-Junkyo Bell|R
-Jushi Apprentice|R
-Kabuto Moth|C
 Kami of Ancient Law|C
+Jushi Apprentice|R
+Junkyo Bell|R
+Kabuto Moth|C
 Kami of Fire's Roar|C
 Kami of Lunacy|U
 Kami of Old Stone|U
@@ -134,65 +134,69 @@ Kitsune Blademaster|C
 Kitsune Diviner|C
 Kitsune Healer|C
 Kitsune Mystic|R
+Kodama of the South Tree|R
 Kitsune Riftwalker|C
 Kodama of the North Tree|R
-Kodama of the South Tree|R
 Kodama's Might|C
 Kodama's Reach|C
+Konda, Lord of Eiganjo|R
 Kokusho, the Evening Star|R
 Konda's Banner|R
 Konda's Hatamoto|U
-Konda, Lord of Eiganjo|R
-Kumano's Pupils|U
 Kumano, Master Yamabushi|R
-Kuro, Pitlord|R
+Kumano's Pupils|U
 Kusari-Gama|R
+Lava Spike|C
+Kuro, Pitlord|R
 Lantern Kami|C
 Lantern-Lit Graveyard|U
-Lava Spike|C
-Lifted by Clouds|C
-Long-Forgotten Gohei|R
 Lure|U
+Lifted by Clouds|C
 Mana Seism|U
+Long-Forgotten Gohei|R
 Marrow-Gnawer|R
 Masako the Humorless|R
 Matsu-Tribe Decoy|C
-Meloku the Clouded Mirror|R
 Midnight Covenant|C
 Minamo, School at Water's Edge|R
+Meloku the Clouded Mirror|R
+Moss Kami|C
 Mindblaze|R
 Moonring Mirror|R
-Moss Kami|C
 Mothrider Samurai|C
-Mountain|L
-Myojin of Cleansing Fire|R
 Myojin of Infinite Rage|R
-Myojin of Life's Web|R
-Myojin of Night's Reach|R
-Myojin of Seeing Winds|R
+Mountain|L
 Mystic Restraints|C
+Myojin of Night's Reach|R
+Myojin of Cleansing Fire|R
+Myojin of Life's Web|R
+Myojin of Seeing Winds|R
 Nagao, Bound by Honor|U
-Nature's Will|R
 Nezumi Bone-Reader|U
-Nezumi Cutthroat|C
-Nezumi Graverobber|U
+Nature's Will|R
 Nezumi Ronin|C
-Nezumi Shortfang|R
-Night Dealings|R
+Nezumi Graverobber|U
+Nezumi Cutthroat|C
 Night of Souls' Betrayal|R
+Nezumi Shortfang|R
 Nighteyes the Desecrator|U
-Nine-Ringed Bo|U
+Night Dealings|R
 No-Dachi|U
-Numai Outcast|U
+Nine-Ringed Bo|U
 Oathkeeper, Takeno's Daisho|R
+Numai Outcast|U
 Okina, Temple to the Grandfathers|R
 Oni Possession|U
-Orbweaver Kumo|U
 Order of the Sacred Bell|C
-Ore Gorger|U
+Orbweaver Kumo|U
+Swallowing Plague|U
+Takeno, Samurai General|R
 Orochi Eggwatcher|U
-Orochi Hatchery|R
+Swirl the Mists|R
+Swamp|L
+Ore Gorger|U
 Orochi Leafcaller|C
+Orochi Hatchery|R
 Orochi Ranger|C
 Orochi Sustainer|C
 Otherworldly Journey|U
@@ -203,23 +207,23 @@ Peer Through Depths|C
 Petals of Insight|U
 Pinecrest Ridge|U
 Pious Kitsune|C
-Plains|L
 Psychic Puppetry|C
+Plains|L
 Pull Under|C
 Quiet Purity|C
 Rag Dealer|C
 Ragged Veins|C
 Reach Through Mists|C
+Rend Flesh|C
 Reciprocate|U
 Reito Lantern|U
-Rend Flesh|C
-Rend Spirit|C
 Reverse the Sands|R
 Reweave|R
+Rend Spirit|C
 River Kaijin|C
 Ronin Houndmaster|C
-Rootrunner|U
 Ryusei, the Falling Star|R
+Rootrunner|U
 Sachi, Daughter of Seshiro|U
 Sakura-Tribe Elder|C
 Samurai Enforcers|U
@@ -236,12 +240,12 @@ Shimatsu the Bloodcloaked|R
 Shinka, the Bloodsoaked Keep|R
 Shisato, Whispering Hunter|R
 Shizo, Death's Storehouse|R
-Sideswipe|U
-Sift Through Sands|C
 Silent-Chant Zubera|C
+Sift Through Sands|C
+Sideswipe|U
 Sire of the Storm|U
-Soilshaper|U
 Sokenzan Bruiser|C
+Soilshaper|U
 Soratami Cloudskater|C
 Soratami Mirror-Guard|C
 Soratami Mirror-Mage|U
@@ -250,38 +254,34 @@ Soratami Savant|U
 Soratami Seer|U
 Sosuke, Son of Seshiro|U
 Soul of Magma|C
-Soulblast|R
-Soulless Revival|C
-Squelch|U
 Stabwhisker the Odious|R
-Stone Rain|C
-Strange Inversion|U
 Strength of Cedars|U
-Struggle for Sanity|U
+Soulless Revival|C
+Soulblast|R
+Squelch|U
+Strange Inversion|U
+Stone Rain|C
 Student of Elements|U
-Swallowing Plague|U
-Swamp|L
-Swirl the Mists|R
-Takeno, Samurai General|R
+Struggle for Sanity|U
 Tatsumasa, the Dragon's Fang|R
 Teller of Tales|C
 Tenza, Godo's Maul|U
 Terashi's Cry|C
 The Unspeakable|R
-Thief of Hope|U
-Thoughtbind|C
-Thousand-legged Kami|U
 Through the Breach|R
+Thief of Hope|U
+Thousand-legged Kami|U
+Thoughtbind|C
+Time Stop|R
 Tide of War|R
 Time of Need|U
-Time Stop|R
-Tobita, Master of Winds|U
 Tok-Tok, Volcano Born|R
+Tobita, Master of Winds|U
 Tomoya the Revealer|R
-Tranquil Garden|U
 Uba Mask|R
-Uncontrollable Anger|C
+Tranquil Garden|U
 Unearthly Blizzard|C
+Uncontrollable Anger|C
 Unnatural Speed|C
 Untaidake, the Cloud Keeper|R
 Uyo, Silent Prophet|R
@@ -289,13 +289,13 @@ Vassal's Duty|R
 Venerable Kumo|C
 Vigilance|C
 Villainous Ogre|C
-Vine Kami|C
 Waking Nightmare|C
+Vine Kami|C
 Wandering Ones|C
-Waterveil Cavern|U
 Wear Away|C
+Waterveil Cavern|U
 Wicked Akuba|C
-Yamabushi's Flame|C
 Yamabushi's Storm|C
+Yamabushi's Flame|C
 Yosei, the Morning Star|R
 Zo-Zu the Punisher|R

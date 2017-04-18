@@ -1,28 +1,28 @@
-Abzan Charm|U
 Abzan Falconer|U
+Armory Automaton|R
+Abzan Charm|U
 Academy Elite|R
 Aeon Chronicler|R
 Akiri, Line-Slinger|R
 Akroan Horse|R
 Alesha, Who Smiles at Death|R
+Arcane Denial|C
 Ancient Excavation|U
 Ankle Shanker|R
-Arcane Denial|C
 Arcane Sanctum|U
-Armory Automaton|R
-Army of the Damned|M
+Assault Suit|U
 Artifact Mutation|R
 Ash Barrens|C
-Assault Suit|U
+Army of the Damned|M
 Astral Cornucopia|R
 Atraxa, Praetors' Voice|M
-Aura Mutation|R
 Azorius Chancery|U
+Aura Mutation|R
 Baleful Strix|U
 Bane of the Living|R
 Beacon of Unrest|R
-Beast Within|U
 Beastmaster Ascension|R
+Beast Within|U
 Benefactor's Draught|R
 Bituminous Blast|U
 Blasphemous Act|R
@@ -30,26 +30,26 @@ Blazing Archon|R
 Blind Obedience|R
 Blinkmoth Urn|R
 Blood Tyrant|R
+Boros Charm|U
 Bloodbraid Elf|U
 Bonehoard|R
 Boompile|R
-Boros Charm|U
 Boros Garrison|U
 Brave the Sands|U
 Breath of Fury|R
-Bred for the Hunt|U
-Breya, Etherium Shaper|M
 Bruse Tarl, Boorish Herder|M
+Breya, Etherium Shaper|M
+Bred for the Hunt|U
 Brutal Hordechief|M
-Burgeoning|R
-Buried Ruin|U
 Cathars' Crusade|R
+Buried Ruin|U
+Burgeoning|R
 Cauldron of Souls|R
 Caves of Koilos|R
-Chain of Vapor|U
 Champion of Lambholt|R
-Chaos Warp|R
+Chain of Vapor|U
 Charging Cinderhorn|R
+Chaos Warp|R
 Chasm Skulker|R
 Chief Engineer|R
 Chromatic Lantern|R
@@ -58,189 +58,189 @@ Clan Defiance|R
 Coastal Breach|R
 Coiling Oracle|C
 Collective Voyage|R
-Command Tower|C
 Commander's Sphere|C
-Conqueror's Flail|R
-Consuming Aberration|R
 Corpsejack Menace|R
+Conqueror's Flail|R
+Command Tower|C
+Consuming Aberration|R
 Crackling Doom|R
-Cranial Plating|U
 Cruel Entertainment|R
+Cranial Plating|U
+Cultivate|C
 Crumbling Necropolis|U
 Crystalline Crawler|R
-Cultivate|C
+Custodi Soulbinders|R
 Curse of Vengeance|R
 Curtains' Call|R
-Custodi Soulbinders|R
+Darkwater Catacombs|R
 Daretti, Scrap Savant|M
 Darksteel Citadel|U
 Darksteel Ingot|U
-Darkwater Catacombs|R
 Dauntless Escort|R
-Decimate|R
 Deepglow Skate|R
+Decimate|R
 Den Protector|R
 Devastation Tide|R
-Dimir Aqueduct|U
 Disdainful Stroke|C
+Dimir Aqueduct|U
 Dismal Backwater|C
 Dispeller's Capsule|C
+Duelist's Heritage|R
 Divergent Transformations|R
 Dragon Mage|R
-Dragonskull Summit|R
-Dreadship Reef|U
-Duelist's Heritage|R
-Duneblast|R
 Edric, Spymaster of Trest|R
+Dragonskull Summit|R
 Elite Scaleguard|U
+Dreadship Reef|U
+Duneblast|R
 Empyrial Plate|R
 Enduring Scalelord|U
 Entrapment Maneuver|R
 Etched Oracle|U
 Etherium Sculptor|C
+Evolutionary Escalation|U
 Etherium-Horn Sorcerer|R
 Ethersworn Adjudicator|M
-Evacuation|R
 Everflowing Chalice|U
-Everlasting Torment|R
-Evolutionary Escalation|U
-Evolving Wilds|C
+Evacuation|R
 Executioner's Capsule|C
+Everlasting Torment|R
+Evolving Wilds|C
 Exotic Orchard|R
 Faerie Artisans|R
-Far Wanderings|C
 Farseek|C
+Far Wanderings|C
 Fathom Mage|R
-Fellwar Stone|U
 Festercreep|C
-Filigree Angel|R
+Fellwar Stone|U
 Forbidden Orchard|R
+Filigree Angel|R
 Forest|L
 Forgotten Ancient|R
 Frenzied Fugue|U
-Frontier Bivouac|U
 Gamekeeper|U
+Frontier Bivouac|U
 Ghastly Conscription|M
 Ghave, Guru of Spores|M
+Goblin Spymaster|R
 Ghostly Prison|U
 Glint-Eye Nephilim|R
-Goblin Spymaster|R
 Godo, Bandit Warlord|R
 Golgari Rot Farm|U
 Golgari Signet|C
 Grab the Reins|U
 Grand Coliseum|R
-Grave Upheaval|U
 Grip of Phyresis|U
-Gruul Signet|C
+Grave Upheaval|U
 Gruul Turf|U
+Gruul Signet|C
+Hanna, Ship's Navigator|R
 Guiltfeeder|R
 Gwafa Hazid, Profiteer|R
-Hanna, Ship's Navigator|R
-Hardened Scales|R
 Hellkite Igniter|R
+Hardened Scales|R
 Hellkite Tyrant|M
-Homeward Path|R
 Hoofprints of the Stag|R
+Homeward Path|R
 Horizon Chimera|U
 Howling Mine|R
 Humble Defector|U
 Hushwing Gryff|R
-Ichor Wellspring|C
 Ikra Shidiqi, the Usurper|M
+Ichor Wellspring|C
 In Garruk's Wake|R
-Inspiring Call|U
 Iroas, God of Victory|M
+Inspiring Call|U
 Ishai, Ojutai Dragonspeaker|M
+Jor Kadeen, the Prevailer|R
 Island|L
 Izzet Boilerworks|U
-Jor Kadeen, the Prevailer|R
 Jungle Hollow|C
-Jungle Shrine|U
 Juniper Order Ranger|U
+Jungle Shrine|U
 Kalonian Hydra|M
-Karplusan Forest|R
 Kazuul, Tyrant of the Cliffs|R
+Karplusan Forest|R
 Keening Stone|R
 Kodama's Reach|C
 Korozda Guildmage|U
 Kraum, Ludevic's Opus|R
-Krosan Verge|U
 Kydele, Chosen of Kruphix|M
-Kynaios and Tiro of Meletis|M
+Krosan Verge|U
 Languish|R
-Lavalanche|R
-Lightning Greaves|U
+Kynaios and Tiro of Meletis|M
 Loxodon Warhammer|U
+Lightning Greaves|U
 Ludevic, Necro-Alchemist|M
-Lurking Predators|R
+Lavalanche|R
 Magus of the Will|R
+Lurking Predators|R
 Managorger Hydra|R
-Manifold Insights|R
 Master Biomancer|M
+Manifold Insights|R
 Master of Etherium|R
 Mentor of the Meek|R
 Merciless Eviction|R
-Migratory Route|U
 Minds Aglow|R
+Migratory Route|U
 Mirror Entity|R
-Mirrorweave|R
-Mortify|U
 Mosswort Bridge|R
+Mortify|U
+Mirrorweave|R
 Mountain|L
-Murmuring Bosk|R
 Mycoloth|R
-Mycosynth Wellspring|C
+Murmuring Bosk|R
 Myr Battlesphere|R
+Mycosynth Wellspring|C
 Myr Retriever|U
-Myriad Landscape|U
 Mystic Monastery|U
+Myriad Landscape|U
 Nath of the Gilt-Leaf|R
+Necroplasm|R
 Naya Charm|U
 Necrogenesis|U
-Necroplasm|R
 Nevinyrral's Disk|R
 Nomad Outpost|U
-Oath of Druids|R
 Oblation|R
+Oath of Druids|R
 Opal Palace|C
 Open the Vaults|R
+Order/Chaos|U
 Opulent Palace|U
-Order (Order/Chaos)|U
 Orzhov Advokist|U
 Orzhov Basilica|U
-Orzhov Signet|C
 Parting Thoughts|U
-Past in Flames|M
+Orzhov Signet|C
 Phyrexian Rebirth|R
+Past in Flames|M
 Plains|L
 Primeval Protector|R
-Prismatic Geoscope|R
 Progenitor Mimic|M
-Propaganda|U
+Prismatic Geoscope|R
 Psychosis Crawler|R
-Putrefy|U
+Propaganda|U
 Quirion Explorer|C
+Putrefy|U
 Rakdos Carnarium|U
 Rakdos Charm|U
 Rakdos Signet|C
-Rampant Growth|C
 Ravos, Soultender|M
+Rampant Growth|C
 Read the Runes|R
 Realm Seekers|R
 Reforge the Soul|R
 Reins of Power|R
-Reliquary Tower|U
 Reveillark|R
-Reverse the Sands|R
+Reliquary Tower|U
 Reyhan, Last of the Abzan|R
+Reverse the Sands|R
 Rites of Flourishing|R
-Rootbound Crag|R
 Rubblehulk|R
-Rugged Highlands|C
+Rootbound Crag|R
 Runehorn Hellkite|R
-Rupture Spire|C
+Rugged Highlands|C
 Sakura-Tribe Elder|C
+Rupture Spire|C
 Sanctum Gargoyle|C
 Sandsteppe Citadel|U
 Sangromancer|R
@@ -248,94 +248,94 @@ Saskia the Unyielding|M
 Satyr Wayfinder|C
 Savage Lands|U
 Scavenging Ooze|R
-Seaside Citadel|U
 Seat of the Synod|C
+Seaside Citadel|U
+Selesnya Sanctuary|U
 Seeds of Renewal|R
 Selesnya Guildmage|U
-Selesnya Sanctuary|U
 Selfless Squire|R
 Selvala, Explorer Returned|R
-Shadowblood Ridge|R
 Shamanic Revelation|R
-Sharuum the Hegemon|M
+Shadowblood Ridge|R
 Shimmer Myr|R
+Sharuum the Hegemon|M
 Sidar Kondo of Jamuraa|M
 Silas Renn, Seeker Adept|M
 Simic Growth Chamber|U
-Simic Signet|C
 Skullclamp|U
+Simic Signet|C
 Slobad, Goblin Tinkerer|R
-Sol Ring|U
-Solemn Simulacrum|R
-Solidarity of Heroes|U
 Soul of New Phyrexia|M
+Solemn Simulacrum|R
+Sol Ring|U
+Solidarity of Heroes|U
 Spellheart Chimera|U
-Spelltwine|R
 Sphere of Safety|U
+Spelltwine|R
 Sphinx Summoner|R
-Spinerock Knoll|R
-Spitting Image|R
 Stalking Vengeance|R
+Spinerock Knoll|R
 Stonehoof Chieftain|R
-Sublime Exhalation|R
+Spitting Image|R
 Sunforger|R
+Sublime Exhalation|R
 Sungrass Prairie|R
-Sunpetal Grove|R
 Swamp|L
-Swan Song|R
+Sunpetal Grove|R
 Swiftfoot Boots|U
-Swiftwater Cliffs|C
+Swan Song|R
 Swords to Plowshares|U
+Swiftwater Cliffs|C
 Sydri, Galvanic Genius|M
 Sylvan Reclamation|U
 Sylvok Explorer|C
 Tana, the Bloodsower|M
 Taurean Mauler|R
-Temple Bell|R
-Temple of the False God|U
 Tempt with Discovery|R
+Temple of the False God|U
+Temple Bell|R
 Terminate|C
-Terramorphic Expanse|C
-Tezzeret's Gambit|U
 Thelonite Hermit|R
-Thopter Foundry|U
+Terramorphic Expanse|C
 Thornwood Falls|C
+Tezzeret's Gambit|U
+Thopter Foundry|U
 Thrasios, Triton Hero|R
 Thrummingbird|U
 Thunderfoot Baloth|R
-Trading Post|R
 Transguild Promenade|C
+Trading Post|R
 Trash for Treasure|R
 Treacherous Terrain|U
+Trial/Error|U
 Treasure Cruise|C
-Trial (Trial/Error)|U
 Trinket Mage|C
 Tuskguard Captain|U
 Tymna the Weaver|R
-Underground River|R
 Utter End|R
+Underground River|R
+Veteran Explorer|U
 Vedalken Engineer|C
 Venser's Journal|R
-Veteran Explorer|U
 Vial Smasher the Fierce|M
-Volcanic Vision|R
 Vorel of the Hull Clade|R
+Volcanic Vision|R
 Vulturous Zombie|R
 Wall of Blossoms|U
-Waste Not|R
 Wave of Reckoning|R
-Wheel of Fate|R
+Waste Not|R
 Whims of the Fates|R
+Wheel of Fate|R
 Whipflare|U
-Whispering Madness|R
 Whispersilk Cloak|U
+Whispering Madness|R
 Wight of Precinct Six|U
 Wild Beastmaster|R
 Wilderness Elemental|U
 Windborn Muse|R
-Windbrisk Heights|R
 Windfall|U
+Windbrisk Heights|R
+Zedruu the Greathearted|M
 Worm Harvest|R
 Yidris, Maelstrom Wielder|M
-Zedruu the Greathearted|M
 Zhur-Taa Druid|C

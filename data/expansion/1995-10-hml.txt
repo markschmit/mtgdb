@@ -1,113 +1,113 @@
+Anaba Spirit Crafter|R
 Abbey Gargoyles|U
 Abbey Matron|C
 Aether Storm|U
-Aliban's Tower|C
 Ambush|U
+Aliban's Tower|C
 Ambush Party|C
 An-Havva Constable|R
-An-Havva Inn|U
 An-Havva Township|U
+An-Havva Inn|U
 An-Zerrin Ruins|R
 Anaba Ancestor|R
 Anaba Bodyguard|C
 Anaba Shaman|C
-Anaba Spirit Crafter|R
 Apocalypse Chime|R
 Autumn Willow|R
-Aysen Abbey|U
 Aysen Bureaucrats|C
+Aysen Abbey|U
 Aysen Crusader|R
-Aysen Highway|R
 Baki's Curse|R
+Aysen Highway|R
 Baron Sengir|R
 Beast Walkers|R
 Black Carriage|R
-Broken Visage|R
 Carapace|C
+Broken Visage|R
 Castle Sengir|U
 Cemetery Gate|C
-Chain Stasis|R
 Chandler|U
+Chain Stasis|R
 Clockwork Gnomes|U
 Clockwork Steed|U
 Clockwork Swarm|U
-Coral Reef|U
 Dark Maze|C
+Coral Reef|U
 Daughter of Autumn|R
 Death Speakers|U
+Dry Spell|C
 Didgeridoo|R
 Drudge Spell|U
-Dry Spell|C
 Dwarven Pony|R
 Dwarven Sea Clan|R
 Dwarven Trader|C
-Ebony Rhino|U
 Eron the Relentless|U
-Evaporate|U
+Ebony Rhino|U
 Faerie Noble|R
+Evaporate|U
 Feast of the Unicorn|C
-Feroz's Ban|R
-Folk of An-Havva|C
-Forget|R
 Funeral March|U
+Folk of An-Havva|C
+Feroz's Ban|R
+Forget|R
 Ghost Hounds|U
 Giant Albatross|C
 Giant Oyster|U
 Grandmother Sengir|R
 Greater Werewolf|U
 Hazduhr the Abbot|R
-Headstone|U
 Heart Wolf|R
+Headstone|U
 Hungry Mist|C
 Ihsan's Shade|U
 Irini Sengir|U
 Ironclaw Curse|R
-Jinx|U
 Joven|U
 Joven's Ferrets|U
+Jinx|U
 Joven's Tools|U
 Koskun Falls|R
-Koskun Keep|U
 Labyrinth Minotaur|C
+Koskun Keep|U
 Leaping Lizard|U
-Leeches|R
 Mammoth Harness|R
+Leeches|R
 Marjhan|R
 Memory Lapse|C
-Merchant Scroll|U
 Mesa Falcon|C
+Merchant Scroll|U
 Mystic Decree|R
-Narwhal|R
 Orcish Mine|U
-Primal Order|R
+Narwhal|R
 Prophecy|U
+Primal Order|R
 Rashka the Slayer|U
 Reef Pirates|C
-Renewal|U
-Retribution|U
 Reveka, Wizard Savant|R
-Root Spider|U
+Retribution|U
+Renewal|U
 Roots|U
+Root Spider|U
 Roterothopter|U
 Rysorian Badger|R
 Samite Alchemist|C
-Sea Sprite|U
 Sea Troll|U
+Sea Sprite|U
 Sengir Autocrat|R
 Sengir Bats|C
 Serra Aviary|R
 Serra Bestiary|U
 Serra Inquisitors|U
 Serra Paladin|U
-Serrated Arrows|U
 Shrink|C
+Serrated Arrows|U
+Timmerian Fiends|R
 Soraya the Falconer|R
 Spectral Bears|U
-Timmerian Fiends|R
 Torture|C
 Trade Caravan|C
-Truce|R
 Veldrane of Sengir|R
+Truce|R
 Wall of Kelp|R
 Willow Faerie|C
 Willow Priestess|R

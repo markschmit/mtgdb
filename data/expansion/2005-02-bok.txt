@@ -1,11 +1,12 @@
+Crack the Earth|C
 Akki Blizzard-Herder|C
-Akki Raider|U
 Ashen Monstrosity|U
-Aura Barbs|U
+Akki Raider|U
 Azamuki, Treachery Incarnate|U
-Baku Altar|R
-Bile Urchin|C
+Aura Barbs|U
 Blademane Baku|C
+Bile Urchin|C
+Baku Altar|R
 Blazing Shoal|R
 Blessing of Leeches|C
 Blinding Powder|U
@@ -16,29 +17,28 @@ Callow Jushi|U
 Child of Thorns|C
 Chisei, Heart of Oceans|R
 Clash of Realities|R
-Crack the Earth|C
 Crawling Filth|C
 Cunning Bandit|U
 Day of Destiny|R
 Disrupting Shoal|R
 Empty-Shrine Kannushi|U
-Enshrined Memories|R
 Eradicate|U
+Enshrined Memories|R
 Faithful Squire|U
 Final Judgment|R
 First Volley|C
 Flames of the Blood Hand|U
 Floodbringer|C
 Forked-Branch Garami|U
-Frost Ogre|C
 Frostling|C
+Frost Ogre|C
 Fumiko the Lowblood|R
 Genju of the Cedars|U
 Genju of the Falls|U
 Genju of the Fens|U
 Genju of the Fields|U
-Genju of the Realm|R
 Genju of the Spires|U
+Genju of the Realm|R
 Gnarled Mass|C
 Goblin Cohort|C
 Gods' Eye, Gate to the Reikai|U
@@ -47,15 +47,15 @@ Harbinger of Spring|C
 Heart of Light|C
 Heartless Hidetsugu|R
 Heed the Mists|U
-Hero's Demise|R
 Higure, the Still Wind|R
+Hero's Demise|R
 Hired Muscle|U
 Hokori, Dust Drinker|R
 Horobi's Whisper|C
 Hundred-Talon Strike|C
 Ichiga, Who Topples Oaks|U
-In the Web of War|R
 Indebted Samurai|U
+In the Web of War|R
 Ink-Eyes, Servant of Oni|R
 Ire of Kaminari|C
 Isao, Enlightened Bushi|R
@@ -74,21 +74,21 @@ Kitsune Palliator|U
 Kodama of the Center Tree|R
 Kumano's Blessing|C
 Kyoki, Sanity's Eclipse|R
-Lifegift|R
-Lifespinner|U
 Loam Dweller|U
+Lifespinner|U
+Lifegift|R
 Mannichi, the Fevered Dream|R
 Mark of Sakiko|U
 Mark of the Oni|U
 Matsu-Tribe Sniper|C
-Mending Hands|C
 Minamo Sightbender|U
+Mending Hands|C
 Minamo's Meddling|C
-Mirror Gallery|R
 Mistblade Shinobi|C
+Mirror Gallery|R
 Moonlit Strider|C
-Neko-Te|R
 Nezumi Shadow-Watcher|U
+Neko-Te|R
 Ninja of the Deep Hours|C
 Nourishing Shoal|R
 Ogre Marauder|U
@@ -96,8 +96,8 @@ Ogre Recluse|U
 Okiba-Gang Shinobi|C
 Opal-Eye, Konda's Yojimbo|R
 Orb of Dreams|R
-Ornate Kanzashi|R
 Overblaze|U
+Ornate Kanzashi|R
 Oyobi, Who Split the Heavens|R
 Patron of the Akki|R
 Patron of the Kitsune|R
@@ -106,42 +106,42 @@ Patron of the Nezumi|R
 Patron of the Orochi|R
 Petalmane Baku|C
 Phantom Wings|C
-Psychic Spear|C
 Pus Kami|U
-Quash|U
+Psychic Spear|C
 Quillmane Baku|C
-Reduce to Dreams|R
+Quash|U
 Ribbons of the Reikai|C
+Reduce to Dreams|R
 Roar of Jukai|C
 Ronin Cliffrider|U
 Ronin Warclub|U
 Sakiko, Mother of Summer|R
 Sakura-Tribe Springcaller|C
-Scaled Hulk|C
 Scarmaker|U
-Scour|U
+Scaled Hulk|C
 Scourge of Numai|U
 Shimmering Glasskite|C
+Scour|U
 Shining Shoal|R
 Shinka Gatekeeper|C
 Shirei, Shizo's Caretaker|R
 Shizuko, Caller of Autumn|R
-Shuko|U
 Shuriken|U
+Shuko|U
 Sickening Shoal|R
 Silverstorm Samurai|C
 Skullmane Baku|C
 Skullsnatcher|C
-Slumbering Tora|R
 Soratami Mindsweeper|U
-Sosuke's Summons|U
+Slumbering Tora|R
 Sowing Salt|U
+Sosuke's Summons|U
 Splinter|U
 Split-Tail Miko|C
-Stir the Grave|C
 Stream of Consciousness|U
-Sway of the Stars|R
+Stir the Grave|C
 Takeno's Cavalry|C
+Sway of the Stars|R
 Takenuma Bleeder|C
 Tallowisp|U
 Teardrop Kami|C
@@ -162,8 +162,8 @@ Umezawa's Jitte|R
 Unchecked Growth|U
 Uproot|C
 Veil of Secrecy|C
-Vital Surge|C
 Walker of Secret Ways|U
+Vital Surge|C
 Ward of Piety|U
 Waxmane Baku|C
 Yomiji, Who Bars the Way|R

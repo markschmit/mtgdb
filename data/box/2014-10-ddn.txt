@@ -1,71 +1,71 @@
-Act of Treason|C
+Banefire|R
 Aquamorph Entity|C
-Arc Trail|U
+Act of Treason|C
 Arcanis the Omnipotent|M
 Arrow Volley Trap|U
-Banefire|R
+Arc Trail|U
 Beetleback Chief|U
 Bone Splinters|C
 Coral Trickster|C
-Dauntless Onslaught|U
 Dregscape Zombie|C
+Dauntless Onslaught|U
+Faerie Impostor|U
 Echo Tracer|C
 Evolving Wilds|C
-Faerie Impostor|U
 Faerie Invaders|C
-Fathom Seer|C
-Fiery Fall|C
-Flame-Kin Zealot|U
 Fleeting Distraction|C
+Fathom Seer|C
+Flame-Kin Zealot|U
+Fiery Fall|C
 Fleshbag Marauder|U
 Frenzied Goblin|U
-Fury of the Horde|R
 Ghitu Encampment|U
+Fury of the Horde|R
 Goblin Bombardment|U
 Goblin Deathraiders|C
 Goblin Warchief|U
 Hell's Thunder|R
 Hellraiser Goblin|U
 Hold the Line|R
-Hussar Patrol|C
-Impulse|C
-Infantry Veteran|C
-Inferno Trap|U
 Island|L
+Hussar Patrol|C
+Infantry Veteran|C
+Impulse|C
+Inferno Trap|U
 Jeskai Elder|U
 Kathari Bomber|C
 Kor Hookmaster|C
-Krenko's Command|C
 Krenko, Mob Boss|R
+Krenko's Command|C
 Leonin Snarecaster|C
 Lightning Angel|R
 Lightning Helix|U
 Lone Missionary|C
-Mana Leak|C
 Mardu Heart-Piercer|U
-Master Decoy|C
 Mountain|L
+Mana Leak|C
+Master Decoy|C
+Oni of Wild Places|U
+Ogre Battledriver|R
 Mystic Monastery|U
 Nomad Outpost|U
-Ogre Battledriver|R
-Oni of Wild Places|U
-Orcish Cannonade|C
 Plains|L
-Reckless Abandon|C
+Orcish Cannonade|C
 Repeal|C
+Reckless Abandon|C
 Scourge Devil|U
-Shambling Remains|U
-Shock|C
-Sparkmage Apprentice|C
 Sphinx of Uthuun|R
+Shambling Remains|U
+Sparkmage Apprentice|C
+Shock|C
 Stave Off|C
 Steam Augury|R
 Stonecloaker|U
 Swamp|L
-Swift Justice|C
 Terramorphic Expanse|C
+Swift Justice|C
 Thousand Winds|R
 Traumatic Visions|C
-Whiplash Trap|C
 Willbender|U
+Whiplash Trap|C
 Zurgo Helmsmasher|M

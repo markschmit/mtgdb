@@ -2,106 +2,196 @@ Adarkar Wastes|R
 Air Elemental|U
 Aladdin's Ring|R
 Anaba Shaman|C
-Anaconda|U
 Anarchist|U
+Anaconda|U
 Ancient Silverback|R
 Angel of Mercy|U
-Angel's Feather|U
 Angelic Blessing|C
+Angel's Feather|U
 Annex|U
 Archivist|R
 Aven Cloudchaser|C
-Aven Fisher|C
 Aven Flock|C
+Aven Fisher|C
 Aven Windreader|C
-Azure Drake|U
 Balduvian Barbarians|C
+Azure Drake|U
 Baleful Stare|U
 Ballista Squad|U
-Battle of Wits|R
 Battlefield Forge|R
+Battle of Wits|R
 Beast of Burden|R
-Biorhythm|R
-Blackmail|U
 Blanchwood Armor|U
-Blaze|U
+Blackmail|U
+Biorhythm|R
 Blessed Orator|U
+Blaze|U
 Blinding Angel|R
 Blinking Spirit|R
-Blood Moon|R
-Bloodfire Colossus|R
-Bog Imp|C
 Bog Wraith|U
-Boiling Seas|U
+Bloodfire Colossus|R
+Blood Moon|R
+Bog Imp|C
 Booby Trap|R
+Boiling Seas|U
 Boomerang|C
 Bottle Gnomes|U
+Chastise|U
 Brushland|R
 Caves of Koilos|R
-Chastise|U
-Circle of Protection: Black|U
 Circle of Protection: Red|U
+Circle of Protection: Black|U
 Clone|R
-Coat of Arms|R
 Coercion|C
+Coat of Arms|R
 Confiscate|U
-Consume Spirit|U
 Contaminated Bond|C
-Counsel of the Soratami|C
+Consume Spirit|U
 Cowardice|R
+Counsel of the Soratami|C
 Crafty Pathmage|C
+Crossbow Infantry|C
 Craw Wurm|C
 Creeping Mold|U
-Crossbow Infantry|C
-Cruel Edict|U
-Dancing Scimitar|U
 Daring Apprentice|R
-Dark Banishing|C
+Dancing Scimitar|U
+Cruel Edict|U
 Death Pits of Rath|R
+Dark Banishing|C
 Deathgazer|U
-Defense Grid|R
 Dehydration|C
+Defense Grid|R
+Demystify|C
 Demolish|U
 Demon's Horn|U
-Demystify|C
-Diabolic Tutor|U
 Disrupting Scepter|R
+Diabolic Tutor|U
 Dragon's Claw|U
 Dream Prowler|U
 Drudge Skeletons|U
-Early Harvest|R
 Elvish Bard|U
+Early Harvest|R
 Elvish Berserker|C
 Elvish Champion|R
 Elvish Piper|R
-Elvish Warrior|C
 Emperor Crocodile|R
+Elvish Warrior|C
 Enfeeblement|C
-Enrage|U
-Evacuation|R
 Execute|U
+Evacuation|R
+Enrage|U
 Exhaustion|U
 Fear|C
-Fellwar Stone|U
 Festering Goblin|C
+Fellwar Stone|U
 Final Punishment|R
 Firebreathing|C
 Fishliver Oil|C
-Flame Wave|U
+Flowstone Crusher|U
 Flashfires|U
+Flame Wave|U
 Fleeting Image|R
 Flight|C
-Flowstone Crusher|U
 Flowstone Shambler|C
-Flowstone Slide|R
 Foot Soldiers|C
-Force of Nature|R
+Flowstone Slide|R
 Forest|L
-Form of the Dragon|R
-Foul Imp|C
+Force of Nature|R
 Fugitive Wizard|C
-Furnace of Rath|R
+Foul Imp|C
+Form of the Dragon|R
 Giant Cockroach|C
+Furnace of Rath|R
+Loxodon Warhammer|R
+Lumengrid Warden|C
+Magnivore|R
+Mahamoti Djinn|R
+Mana Leak|C
+Mana Clash|R
+Marble Titan|R
+Maro|R
+Master Decoy|C
+Master Healer|R
+Megrim|U
+Mending Hands|C
+Millstone|R
+Might of Oaks|R
+Mind Rot|C
+Mind Bend|R
+Mindslicer|R
+Mortivore|R
+Mogg Sentry|R
+Mountain|L
+Nantuko Husk|U
+Natural Affinity|R
+Naturalize|C
+Natural Spring|C
+Nekrataal|U
+Needle Storm|U
+Nightmare|R
+Norwood Ranger|C
+Ogre Taskmaster|U
+Oracle's Attendants|R
+Orcish Artillery|U
+Order of the Sacred Bell|C
+Overgrowth|C
+Ornithopter|U
+Pacifism|C
+Paladin en-Vec|R
+Panic Attack|C
+Peace of Mind|U
+Pegasus Charger|C
+Phantom Warrior|U
+Persecute|R
+Phyrexian Gargantua|U
+Phyrexian Arena|R
+Phyrexian Hulk|U
+Plague Beetle|C
+Plagiarize|R
+Plains|L
+Plague Wind|R
+Puppeteer|U
+Polymorph|R
+Quicksand|U
+Pyroclasm|U
+Raging Goblin|C
+Raise Dead|C
+Rampant Growth|C
+Rathi Dragon|R
+Ravenous Rats|C
+Razortooth Rats|C
+Regeneration|U
+Reflexes|C
+Reclaim|C
+Reminisce|U
+Relentless Assault|R
+Remove Soul|C
+Rewind|U
+Reverse Damage|R
+River Bear|U
+Righteousness|R
+Rogue Kavu|C
+Rod of Ruin|U
+Rootbreaker Wurm|U
+Rootwalla|C
+Royal Assassin|R
+Rukh Egg|R
+Sacred Ground|R
+Sage Aven|C
+Sacred Nectar|C
+Samite Healer|C
+Sanctum Guardian|U
+Sandstone Warrior|C
+Savannah Lions|R
+Scaled Wurm|C
+Scathe Zombies|C
+Sea's Claim|C
+Sea Monster|C
+Seasoned Marshal|U
+Seedborn Muse|R
+Seething Song|C
+Sengir Vampire|R
+Serpent Warrior|C
 Giant Growth|C
 Giant Spider|C
 Gift of Estates|U
@@ -111,22 +201,22 @@ Gluttonous Zombie|U
 Goblin Balloon Brigade|U
 Goblin Brigand|C
 Goblin Chariot|C
-Goblin King|R
 Goblin Mountaineer|C
+Goblin King|R
 Goblin Piker|C
 Goblin Sky Raider|C
-Grave Pact|R
 Gravedigger|C
+Grave Pact|R
 Greater Good|R
 Grizzly Bears|C
 Groundskeeper|U
-Guerrilla Tactics|U
 Hell's Caretaker|R
+Guerrilla Tactics|U
 Highway Robber|C
-Hill Giant|C
 Hollow Dogs|C
-Holy Day|C
+Hill Giant|C
 Holy Strength|C
+Holy Day|C
 Honor Guard|C
 Horned Turtle|C
 Horror of Horrors|U
@@ -136,198 +226,108 @@ Hypnotic Specter|R
 Icy Manipulator|U
 Imaginary Pet|R
 Infantry Veteran|C
-Inspirit|U
 Island|L
-Ivory Mask|R
+Inspirit|U
 Jade Statue|R
-Jester's Cap|R
+Ivory Mask|R
 Kami of Old Stone|U
+Jester's Cap|R
 Karplusan Forest|R
 Karplusan Yeti|R
 Kavu Climber|C
 King Cheetah|U
+Lava Axe|C
 Kird Ape|U
 Kraken's Eye|U
-Lava Axe|C
-Leonin Skyhunter|U
-Levitation|U
-Ley Druid|U
-Lightning Elemental|C
 Llanowar Behemoth|U
+Leonin Skyhunter|U
+Ley Druid|U
+Levitation|U
+Lightning Elemental|C
 Llanowar Elves|C
 Llanowar Wastes|R
 Looming Shade|C
 Lord of the Undead|R
-Loxodon Warhammer|R
-Lumengrid Warden|C
-Magnivore|R
-Mahamoti Djinn|R
-Mana Clash|R
-Mana Leak|C
-Marble Titan|R
-Maro|R
-Master Decoy|C
-Master Healer|R
-Megrim|U
-Mending Hands|C
-Might of Oaks|R
-Millstone|R
-Mind Bend|R
-Mind Rot|C
-Mindslicer|R
-Mogg Sentry|R
-Mortivore|R
-Mountain|L
-Nantuko Husk|U
-Natural Affinity|R
-Natural Spring|C
-Naturalize|C
-Needle Storm|U
-Nekrataal|U
-Nightmare|R
-Norwood Ranger|C
-Ogre Taskmaster|U
-Oracle's Attendants|R
-Orcish Artillery|U
-Order of the Sacred Bell|C
-Ornithopter|U
-Overgrowth|C
-Pacifism|C
-Paladin en-Vec|R
-Panic Attack|C
-Peace of Mind|U
-Pegasus Charger|C
-Persecute|R
-Phantom Warrior|U
-Phyrexian Arena|R
-Phyrexian Gargantua|U
-Phyrexian Hulk|U
-Plagiarize|R
-Plague Beetle|C
-Plague Wind|R
-Plains|L
-Polymorph|R
-Puppeteer|U
-Pyroclasm|U
-Quicksand|U
-Raging Goblin|C
-Raise Dead|C
-Rampant Growth|C
-Rathi Dragon|R
-Ravenous Rats|C
-Razortooth Rats|C
-Reclaim|C
-Reflexes|C
-Regeneration|U
-Relentless Assault|R
-Reminisce|U
-Remove Soul|C
-Reverse Damage|R
-Rewind|U
-Righteousness|R
-River Bear|U
-Rod of Ruin|U
-Rogue Kavu|C
-Rootbreaker Wurm|U
-Rootwalla|C
-Royal Assassin|R
-Rukh Egg|R
-Sacred Ground|R
-Sacred Nectar|C
-Sage Aven|C
-Samite Healer|C
-Sanctum Guardian|U
-Sandstone Warrior|C
-Savannah Lions|R
-Scaled Wurm|C
-Scathe Zombies|C
-Sea Monster|C
-Sea's Claim|C
-Seasoned Marshal|U
-Seedborn Muse|R
-Seething Song|C
-Sengir Vampire|R
-Serpent Warrior|C
 Serra Angel|R
 Serra's Blessing|U
 Shard Phoenix|R
-Shatter|C
 Shivan Dragon|R
-Shivan Reef|R
-Shock|C
+Shatter|C
 Sift|C
+Shock|C
+Shivan Reef|R
 Silklash Spider|R
 Skyhunter Prowler|C
-Slate of Ancestry|R
 Slay|U
-Sleight of Hand|C
+Slate of Ancestry|R
 Soul Feast|U
+Sleight of Hand|C
+Spineless Thug|C
 Soul Warden|U
 Spellbook|U
-Spineless Thug|C
 Spirit Link|U
+Storm Crow|C
 Stone Rain|C
 Storage Matrix|R
-Storm Crow|C
 Story Circle|R
 Stream of Life|U
-Sudden Impact|U
 Sulfurous Springs|R
+Sudden Impact|U
 Summer Bloom|U
 Suntail Hawk|C
 Swamp|L
 Swarm of Rats|U
-Tanglebloom|U
-Teferi's Puzzle Box|R
 Telepathy|U
+Teferi's Puzzle Box|R
+Tanglebloom|U
 Tempest of Light|U
 Temporal Adept|R
 Thieving Magpie|U
 Thought Courier|U
+Thundermare|R
 Thran Golem|R
 Threaten|U
-Thundermare|R
-Tidal Kraken|R
 Tidings|U
+Tidal Kraken|R
 Time Ebb|C
 Trade Routes|R
 Trained Armodon|C
+Tree Monkey|C
 Traumatize|R
 Treasure Trove|U
-Tree Monkey|C
 Treetop Bracers|C
-Underground River|R
 Underworld Dreams|R
+Underground River|R
 Unholy Strength|C
-Ur-Golem's Eye|U
 Urza's Mine|U
+Ur-Golem's Eye|U
 Urza's Power Plant|U
 Urza's Tower|U
 Utopia Tree|R
 Venerable Monk|C
-Verdant Force|R
 Verduran Enchantress|R
+Verdant Force|R
 Veteran Cavalier|C
 Viashino Sandstalker|U
 Viridian Shaman|U
-Volcanic Hammer|C
 Vulshok Morningstar|U
+Volcanic Hammer|C
 Wanderguard Sentry|C
-Warrior's Honor|C
 Weathered Wayfarer|R
+Warrior's Honor|C
 Web|U
 Weird Harvest|R
 Whip Sergeant|U
-Wildfire|R
+Wood Elves|C
 Will-o'-the-Wisp|R
+Wildfire|R
 Wind Drake|C
 Withering Gaze|U
-Wood Elves|C
 Worship|R
 Wrath of God|R
 Wurm's Tooth|U
-Yavimaya Coast|R
 Yavimaya Enchantress|U
+Yavimaya Coast|R
 Yawgmoth Demon|R
 Zealous Inquisitor|U
 Zodiac Monkey|C

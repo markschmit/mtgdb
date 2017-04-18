@@ -1,15 +1,15 @@
+Channel|M
 Balance|M
 Berserk|M
-Channel|M
 Gifts Ungiven|M
 Goblin Lackey|M
 Kird Ape|M
 Lotus Petal|M
 Mystical Tutor|M
-Necropotence|M
 Sensei's Divining Top|M
+Tinker|M
+Necropotence|M
+Trinisphere|M
 Serendib Efreet|M
 Skullclamp|M
 Strip Mine|M
-Tinker|M
-Trinisphere|M

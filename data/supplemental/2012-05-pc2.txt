@@ -1,136 +1,136 @@
-Arc Trail|U
+Brutalizer Exarch|U
+Brindle Shoat|U
 Armillary Sphere|C
+Arc Trail|U
 Armored Griffin|U
-Assassinate|C
-Augury Owl|C
 Aura Gnarlid|C
-Auramancer|C
+Augury Owl|C
+Assassinate|C
 Auratouched Mage|U
-Awakening Zone|R
+Auramancer|C
 Baleful Strix|U
-Beast Within|U
+Awakening Zone|R
 Beetleback Chief|U
-Bituminous Blast|U
+Beast Within|U
 Bloodbraid Elf|U
 Boar Umbra|U
+Bituminous Blast|U
 Bramble Elemental|C
-Brindle Shoat|U
-Brutalizer Exarch|U
 Cadaver Imp|C
 Cage of Hands|C
-Cancel|C
 Celestial Ancient|R
-Concentrate|U
 Cultivate|C
+Cancel|C
+Concentrate|U
 Dark Hatchling|R
 Deny Reality|C
-Dimir Aqueduct|C
 Dimir Infiltrator|C
+Dimir Aqueduct|C
 Dowsing Shaman|U
 Dragonlair Spider|R
 Dreampod Druid|U
 Elderwood Scion|R
-Enigma Sphinx|R
 Enlisted Wurm|U
+Enigma Sphinx|R
 Erratic Explosion|C
 Etherium-Horn Sorcerer|R
-Exotic Orchard|R
 Farsight Mask|U
+Exotic Orchard|R
 Felidar Umbra|U
-Fiery Conclusion|C
 Fiery Fall|C
+Fiery Conclusion|C
 Fires of Yavimaya|U
 Flayer Husk|C
-Fling|C
 Forest|L
 Fractured Powerstone|C
 Fusion Elemental|U
+Fling|C
 Ghostly Prison|U
 Glen Elendra Liege|R
+Gruul Turf|C
 Gluttonous Slime|U
 Graypelt Refuge|U
-Gruul Turf|C
-Guard Gomazoa|U
 Hellion Eruption|R
+Guard Gomazoa|U
 Hellkite Hatchling|U
 Higure, the Still Wind|R
-Hissing Iguanar|C
 Hyena Umbra|C
+Hissing Iguanar|C
 Illusory Angel|U
 Indrik Umbra|R
+Island|L
 Ink-Eyes, Servant of Oni|R
 Inkfathom Witch|U
-Island|L
 Jwar Isle Refuge|U
 Kathari Remnant|U
 Kazandu Refuge|U
-Khalni Garden|C
 Kor Spiritdancer|R
-Krond the Dawn-Clad|M
-Krosan Verge|U
-Last Stand|R
-Liliana's Specter|C
-Lumberknot|U
-Maelstrom Wanderer|M
-Mammoth Umbra|U
-Mark of Mutiny|U
-Mass Mutiny|R
-Mistblade Shinobi|C
-Mitotic Slime|R
-Mountain|L
 Mudbutton Torchrunner|C
+Mountain|L
 Mycoloth|R
 Nest Invader|C
 Ninja of the Deep Hours|C
 Noggle Ransacker|U
 Nullmage Advocate|C
 Okiba-Gang Shinobi|C
+Penumbra Spider|C
 Ondu Giant|C
 Overrun|U
-Penumbra Spider|C
 Peregrine Drake|U
-Plains|L
-Pollenbright Wings|U
 Predatory Urge|R
+Pollenbright Wings|U
+Plains|L
 Preyseizer Dragon|R
 Primal Plasma|C
 Quiet Disrepair|C
 Quietus Spike|R
 Rancor|C
 Rivals' Duel|U
-Rupture Spire|C
 Sai of the Shinobi|U
+Rupture Spire|C
 Sakashima's Student|R
-See Beyond|C
 Selesnya Sanctuary|C
 Shardless Agent|U
+See Beyond|C
+Silent-Blade Oni|R
 Shimmering Grotto|C
 Sigil of the Empty Throne|R
-Silent-Blade Oni|R
-Silhana Ledgewalker|C
 Skarrg, the Rage Pits|U
-Skullsnatcher|C
-Snake Umbra|C
+Silhana Ledgewalker|C
 Spirit Mantle|U
+Skullsnatcher|C
 Sunken Hope|R
+Snake Umbra|C
 Swamp|L
-Tainted Isle|U
-Terramorphic Expanse|C
 Thorn-Thrash Viashino|C
+Terramorphic Expanse|C
+Tainted Isle|U
+Lumberknot|U
+Last Stand|R
+Maelstrom Wanderer|M
+Mammoth Umbra|U
+Mass Mutiny|R
+Mark of Mutiny|U
+Mistblade Shinobi|C
+Mitotic Slime|R
 Thran Golem|U
+Thromok the Insatiable|M
 Three Dreams|R
 Throat Slitter|U
-Thromok the Insatiable|M
 Thunder-Thrash Elder|U
 Tormented Soul|C
 Tukatongue Thallid|C
 Vela the Night-Clad|M
 Viridian Emissary|C
-Vitu-Ghazi, the City-Tree|U
-Vivid Creek|U
-Walker of Secret Ways|U
 Wall of Blossoms|U
+Vivid Creek|U
+Vitu-Ghazi, the City-Tree|U
 Wall of Frost|U
-Warstorm Surge|R
+Walker of Secret Ways|U
 Whirlpool Warrior|R
+Warstorm Surge|R
 Whispersilk Cloak|U
+Khalni Garden|C
+Liliana's Specter|C
+Krosan Verge|U
+Krond the Dawn-Clad|M

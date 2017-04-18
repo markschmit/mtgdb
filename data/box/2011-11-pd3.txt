@@ -1,27 +1,27 @@
+Inkwell Leviathan|R
+Hidden Horror|U
 Animate Dead|U
-Avatar of Woe|R
 Blazing Archon|R
+Avatar of Woe|R
 Buried Alive|U
-Cabal Therapy|U
-Crosis, the Purger|R
-Crystal Vein|U
 Diabolic Servitude|U
+Crosis, the Purger|R
+Cabal Therapy|U
+Crystal Vein|U
 Dread Return|U
 Duress|C
-Ebon Stronghold|U
 Entomb|R
-Exhume|C
 Faceless Butcher|C
-Hidden Horror|U
-Inkwell Leviathan|R
-Last Rites|C
+Ebon Stronghold|U
+Exhume|C
 Polluted Mire|C
-Putrid Imp|C
+Last Rites|C
 Reanimate|U
 Sickening Dreams|U
-Sphinx of the Steel Wind|M
 Swamp|L
 Terastodon|R
+Sphinx of the Steel Wind|M
+Putrid Imp|C
 Twisted Abomination|C
-Verdant Force|R
 Zombie Infestation|U
+Verdant Force|R

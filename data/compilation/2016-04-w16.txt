@@ -1,16 +1,16 @@
-Aegis Angel|R
-Air Servant|U
-Borderland Marauder|C
-Cone of Flame|U
-Disperse|C
-Incremental Growth|U
 Marked by Honor|C
-Mind Rot|C
-Nightmare|R
+Air Servant|U
+Aegis Angel|R
+Disperse|C
+Cone of Flame|U
+Borderland Marauder|C
+Incremental Growth|U
 Oakenform|C
+Nightmare|R
+Mind Rot|C
 Sengir Vampire|U
-Serra Angel|U
 Shivan Dragon|R
+Serra Angel|U
 Soul of the Harvest|R
 Sphinx of Magosi|R
 Walking Corpse|C

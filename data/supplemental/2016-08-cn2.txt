@@ -1,209 +1,209 @@
-Absorb Vis|C
-Adriana, Captain of the Guard|R
+Beast Within|U
 Affa Guard Hound|U
+Adriana, Captain of the Guard|R
+Absorb Vis|C
 Akroan Hoplite|U
-Altar's Reap|C
 Animus of Predation|U
+Altar's Reap|C
 Arcane Savant|R
-Archdemon of Paliano|R
 Ascended Lawmage|U
+Archdemon of Paliano|R
 Avatar of Woe|M
 Ballot Broker|C
-Beast Within|U
 Berserk|M
-Besmirch|U
 Birds of Paradise|R
-Blood-Toll Harpy|C
+Besmirch|U
 Bonds of Quicksilver|C
+Blood-Toll Harpy|C
 Borderland Explorer|C
-Bronze Sable|C
-Brushstrider|U
-Burgeoning|R
 Burn Away|U
 Burning Wish|R
+Burgeoning|R
+Brushstrider|U
+Bronze Sable|C
 Caller of Gales|C
+Capital Punishment|R
 Caller of the Untamed|R
 Canal Courier|C
-Capital Punishment|R
 Carnage Gladiator|U
 Charmbreaker Devils|R
 Child of Night|C
 Cloaked Siren|C
 Coiling Oracle|U
-Coordinated Assault|U
 Copperhorn Scout|C
+Coordinated Assault|U
 Covenant of Minds|R
 Coveted Peacock|U
-Crown-Hunter Hireling|C
 Custodi Lich|R
 Custodi Peacekeeper|C
-Custodi Soulcaller|U
+Crown-Hunter Hireling|C
 Daretti, Ingenious Iconoclast|M
-Deadly Designs|U
+Custodi Soulcaller|U
 Death Wind|C
+Deadly Designs|U
 Deceiver Exarch|U
-Deputized Protester|C
-Desertion|R
-Diabolic Tutor|U
 Disenchant|C
-Dismiss|U
-Divination|C
+Diabolic Tutor|U
+Deputized Protester|C
 Domesticated Hydra|U
+Desertion|R
+Divination|C
+Dismiss|U
 Doomed Traveler|C
 Dragonlair Spider|R
 Dread Statuary|U
 Driver of the Dead|C
+Entourage of Trest|C
 Duskmantle Seer|R
 Ember Beast|C
-Entourage of Trest|C
 Evolving Wilds|C
-Exotic Orchard|R
 Explosive Vegetation|U
-Expropriate|M
+Exotic Orchard|R
 Fade into Antiquity|C
-Faith's Reward|R
+Expropriate|M
 Fang of the Pack|U
+Faith's Reward|R
 Farbog Boneflinger|U
-Festergloom|C
-Fiery Fall|C
 Flame Slash|C
+Fiery Fall|C
+Festergloom|C
 Fleeting Distraction|C
 Fleshbag Marauder|U
-Followed Footsteps|R
 Forgotten Ancient|R
+Followed Footsteps|R
 Gang of Devils|U
-Garbage Fire|C
 Garrulous Sycophant|C
 Ghostly Possession|C
-Ghostly Prison|U
-Gleam of Resistance|C
+Garbage Fire|C
 Goblin Balloon Brigade|C
+Gleam of Resistance|C
+Ghostly Prison|U
 Goblin Racketeer|C
+Grenzo, Havoc Raiser|R
 Goblin Tunneler|C
+Grenzo's Ruffians|U
 Gods Willing|C
 Gratuitous Violence|R
-Grenzo's Ruffians|U
-Grenzo, Havoc Raiser|R
-Gruul War Chant|U
 Guardian of the Gateless|U
-Guttersnipe|U
 Guul Draz Specter|R
-Hail of Arrows|U
+Gruul War Chant|U
+Guttersnipe|U
 Hallowed Burial|R
+Hail of Arrows|U
 Hamletback Goliath|R
-Harvester of Souls|R
 Havengul Vampire|U
+Harvester of Souls|R
 Hedron Matrix|R
-Hexplate Golem|C
 Hollowhenge Spirit|U
-Horn of Greed|R
+Hexplate Golem|C
 Hundred-Handed One|R
+Horn of Greed|R
+Illusionary Informant|C
 Hurly-Burly|C
 Ill-Tempered Cyclops|C
 Illusion of Choice|U
-Illusionary Informant|C
-Infest|U
-Inquisition of Kozilek|R
-Into the Void|U
 Irresistible Prey|U
-Jeering Homunculus|C
+Inquisition of Kozilek|R
+Infest|U
+Into the Void|U
 Juniper Order Ranger|U
-Kami of the Crescent Moon|R
+Jeering Homunculus|C
 Kaya, Ghost Assassin|M
+Kami of the Crescent Moon|R
 Keeper of Keys|R
-Keepsake Gorgon|U
+Knights of the Black Rose|U
 Kill Shot|C
+Keepsake Gorgon|U
 Kiln Fiend|C
 Kitesail|C
-Knights of the Black Rose|U
 Lace with Moonglove|C
-Lay of the Land|C
 Leovold's Operative|C
+Lay of the Land|C
 Leovold, Emissary of Trest|M
 Lieutenants of the Guard|C
-Manaplasm|U
-Marchesa's Decree|U
-Mausoleum Turnkey|U
 Menagerie Liberator|C
+Manaplasm|U
+Mausoleum Turnkey|U
+Marchesa's Decree|U
 Merfolk Looter|U
 Merfolk Skyscout|U
+Nessian Asp|U
 Messenger Jays|C
 Mnemonic Wall|C
-Murder|C
 Negate|C
-Nessian Asp|U
-Netcaster Spider|C
+Murder|C
 Noble Banneret|U
-Ogre Sentry|C
+Netcaster Spider|C
 Omenspeaker|C
+Ogre Sentry|C
 Opaline Unicorn|C
 Orchard Elemental|C
-Overrun|U
-Palace Jailer|U
-Palace Sentinels|C
 Paliano Vanguard|R
-Pariah|R
+Palace Sentinels|C
+Palace Jailer|U
+Overrun|U
 Pharika's Mender|U
+Pariah|R
 Phyrexian Arena|R
 Platinum Angel|M
-Plummet|C
-Prey Upon|C
 Protector of the Crown|R
+Prey Upon|C
+Plummet|C
 Psychosis Crawler|R
 Public Execution|U
+Raise Dead|C
 Pyretic Hunter|U
 Queen Marchesa|M
-Raise Dead|C
-Raise the Alarm|C
 Ravenous Leucrocota|C
-Recruiter of the Guard|R
+Raise the Alarm|C
 Regal Behemoth|R
-Regicide|C
+Recruiter of the Guard|R
 Repulse|C
+Regicide|C
 Reviving Dose|C
 Rogue's Passage|U
 Runed Servitor|U
+Selvala's Stampede|R
 Sanctum Prelate|M
 Sangromancer|R
-Selvala's Stampede|R
 Selvala, Heart of the Wilds|M
-Serum Visions|U
 Shambling Goblin|C
 Shimmering Grotto|U
+Serum Visions|U
 Shipwreck Singer|U
 Show and Tell|M
-Sinuous Vermin|C
 Skittering Crustacean|C
+Sinuous Vermin|C
 Skyline Despot|R
-Smuggler Captain|U
-Spectral Grasp|U
 Sphinx of Magosi|R
-Spire Phantasm|U
+Spectral Grasp|U
+Smuggler Captain|U
 Spirit of the Hearth|R
-Splitting Slime|R
-Spy Kit|U
+Spire Phantasm|U
 Stoneshock Giant|U
+Splitting Slime|R
+Stromkirk Patrol|C
+Spy Kit|U
 Stormchaser Chimera|U
 Strength in Numbers|C
-Stromkirk Patrol|C
 Stunt Double|R
 Subterranean Tremors|M
+Thorn of the Black Rose|C
 Sulfurous Blast|U
 Sylvan Bounty|C
-Thorn of the Black Rose|C
 Throne of the High City|R
 Throne Warden|C
 Tormenting Voice|C
 Traumatic Visions|C
-Trumpet Blast|C
 Twin Bolt|C
-Unnerve|C
 Vaporkin|C
+Trumpet Blast|C
+Unnerve|C
 Vertigo Spawn|U
 Volatile Chimera|R
 Voyaging Satyr|C
 Wild Griffin|C
 Wild Pair|R
-Windborne Charge|U
 Wings of the Guard|C
+Windborne Charge|U
 Zealous Strike|C

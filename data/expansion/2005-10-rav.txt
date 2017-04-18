@@ -1,80 +1,80 @@
+Divebomber Griffin|U
 Agrus Kos, Wojek Veteran|R
 Auratouched Mage|U
-Autochthon Wurm|R
 Barbarian Riftcutter|C
-Bathe in Light|U
+Autochthon Wurm|R
 Belltower Sphinx|U
+Bathe in Light|U
 Benevolent Ancestor|C
 Birds of Paradise|R
-Blazing Archon|R
 Blockbuster|U
+Blazing Archon|R
 Blood Funnel|R
-Bloodbond March|R
 Bloodletter Quill|R
+Bloodbond March|R
 Boros Fury-Shield|C
 Boros Garrison|C
 Boros Guildmage|U
 Boros Recruit|C
-Boros Signet|C
 Boros Swiftblade|U
-Bottled Cloister|R
+Boros Signet|C
 Brainspoil|C
+Bottled Cloister|R
 Bramble Elemental|C
 Breath of Fury|R
-Brightflame|R
-Caregiver|C
 Carrion Howler|U
+Caregiver|C
+Brightflame|R
 Carven Caryatid|U
 Centaur Safeguard|C
 Cerulean Sphinx|R
-Chant of Vitu-Ghazi|U
 Char|R
-Chord of Calling|R
-Chorus of the Conclave|R
+Chant of Vitu-Ghazi|U
 Circu, Dimir Lobotomist|R
+Chorus of the Conclave|R
+Chord of Calling|R
 Civic Wayfinder|C
-Cleansing Beam|U
 Clinging Darkness|C
-Cloudstone Curio|R
-Clutch of the Undercity|U
+Cleansing Beam|U
 Coalhauler Swine|C
-Compulsive Research|C
+Cloudstone Curio|R
 Concerted Effort|R
+Clutch of the Undercity|U
+Compulsive Research|C
 Conclave Equenaut|C
 Conclave Phalanx|U
 Conclave's Blessing|C
-Congregation at Dawn|U
 Consult the Necrosages|C
+Congregation at Dawn|U
 Convolute|C
 Copy Enchantment|R
 Courier Hawk|C
 Crown of Convergence|R
 Cyclopean Snare|U
 Dark Confidant|R
-Dark Heart of the Wood|U
 Darkblast|U
+Dark Heart of the Wood|U
 Devouring Light|U
 Dimir Aqueduct|C
 Dimir Cutpurse|R
 Dimir Doppelganger|R
-Dimir Guildmage|U
 Dimir House Guard|C
+Dimir Guildmage|U
 Dimir Infiltrator|C
 Dimir Machinations|U
-Dimir Signet|C
 Disembowel|C
-Divebomber Griffin|U
-Dizzy Spell|C
+Dimir Signet|C
 Dogpile|C
+Dizzy Spell|C
 Doubling Season|R
 Dowsing Shaman|U
 Drake Familiar|C
-Dream Leash|R
 Drift of Phantasms|C
+Dream Leash|R
 Dromad Purebred|C
 Drooling Groodion|U
-Dryad's Caress|C
 Duskmantle, House of Shadow|U
+Dryad's Caress|C
 Elves of Deep Shadow|C
 Elvish Skysweeper|C
 Empty the Catacombs|R
@@ -82,53 +82,53 @@ Ethereal Usher|U
 Excruciator|R
 Eye of the Storm|R
 Faith's Fetters|C
-Farseek|C
-Festival of the Guildpact|U
 Fiery Conclusion|C
-Firemane Angel|R
+Festival of the Guildpact|U
+Farseek|C
 Fists of Ironwood|C
+Firemane Angel|R
+Flash Conscription|U
 Flame Fusillade|R
 Flame-Kin Zealot|U
-Flash Conscription|U
 Flickerform|R
 Flight of Fancy|C
-Flow of Ideas|U
 Followed Footsteps|R
+Flow of Ideas|U
 Forest|L
 Frenzied Goblin|U
 Galvanic Arc|C
+Ghosts of the Innocent|R
 Gate Hound|C
 Gather Courage|C
-Gaze of the Gorgon|C
-Ghosts of the Innocent|R
-Glare of Subdual|R
 Glass Golem|U
+Gaze of the Gorgon|C
+Glare of Subdual|R
 Gleancrawler|R
-Glimpse the Unthinkable|R
 Goblin Fire Fiend|C
+Glimpse the Unthinkable|R
 Goblin Spelunkers|C
 Golgari Brownscale|C
-Golgari Germination|U
 Golgari Grave-Troll|R
-Golgari Guildmage|U
+Golgari Germination|U
 Golgari Rot Farm|C
+Golgari Guildmage|U
 Golgari Rotwurm|C
 Golgari Signet|C
 Golgari Thug|U
 Goliath Spider|U
-Grave-Shell Scarab|R
 Grayscaled Gharial|C
+Grave-Shell Scarab|R
 Greater Forgeling|U
 Greater Mossdog|C
 Grifter's Blade|U
-Grozoth|R
-Guardian of Vitu-Ghazi|C
-Halcyon Glaze|U
 Hammerfist Giant|R
-Helldozer|R
+Guardian of Vitu-Ghazi|C
+Grozoth|R
+Halcyon Glaze|U
 Hex|R
-Hour of Reckoning|R
+Helldozer|R
 Hunted Dragon|R
+Hour of Reckoning|R
 Hunted Horror|R
 Hunted Lammasu|R
 Hunted Phantasm|R
@@ -138,123 +138,123 @@ Indentured Oaf|U
 Induce Paranoia|C
 Infectious Host|C
 Instill Furor|U
-Island|L
 Ivy Dancer|U
+Island|L
 Junktroller|U
 Keening Banshee|U
-Last Gasp|C
 Leashling|U
-Leave No Trace|C
+Last Gasp|C
 Life from the Loam|R
+Leave No Trace|C
 Light of Sanction|R
-Lightning Helix|U
 Lore Broker|U
+Lightning Helix|U
 Loxodon Gatekeeper|R
 Loxodon Hierarch|R
-Lurking Informant|C
 Mark of Eviction|U
-Master Warcraft|R
-Mausoleum Turnkey|U
-Mindleech Mass|R
+Lurking Informant|C
 Mindmoil|R
-Mnemonic Nexus|U
+Mausoleum Turnkey|U
+Master Warcraft|R
+Mindleech Mass|R
 Moldervine Cloak|U
+Mnemonic Nexus|U
 Molten Sentry|R
-Moonlight Bargain|R
 Moroii|U
+Moonlight Bargain|R
 Mortipede|C
 Mountain|L
-Muddle the Mixture|C
 Necromantic Thirst|C
-Necroplasm|R
+Muddle the Mixture|C
 Netherborn Phalanx|U
+Necroplasm|R
 Nightguard Patrol|C
-Nightmare Void|U
 Nullmage Shepherd|U
+Nightmare Void|U
 Nullstone Gargoyle|R
 Oathsworn Giant|U
 Ordruun Commando|C
 Overgrown Tomb|R
-Overwhelm|U
 Pariah's Shield|R
+Overwhelm|U
 Peel from Reality|C
 Peregrine Mask|U
-Perilous Forays|U
 Perplex|C
+Perilous Forays|U
 Phytohydra|R
-Plague Boiler|R
 Plains|L
+Plague Boiler|R
 Pollenbright Wings|U
 Primordial Sage|R
 Privileged Position|R
-Psychic Drain|U
 Putrefy|U
+Psychic Drain|U
 Quickchange|C
-Rain of Embers|C
 Rally the Righteous|C
+Rain of Embers|C
 Razia's Purification|R
-Razia, Boros Archangel|R
 Recollect|U
-Remand|U
+Razia, Boros Archangel|R
 Reroute|U
+Remand|U
 Ribbons of Night|U
-Rolling Spoil|U
 Roofstalker Wight|C
+Rolling Spoil|U
 Root-Kin Ally|U
 Sabertooth Alley Cat|C
 Sacred Foundry|R
 Sadistic Augermage|C
-Sandsower|U
 Savra, Queen of the Golgari|R
-Scatter the Seeds|C
+Sandsower|U
 Scion of the Wild|R
+Scatter the Seeds|C
 Screeching Griffin|C
-Searing Meditation|R
 Seed Spark|U
+Searing Meditation|R
 Seeds of Strength|C
-Seismic Spike|C
 Selesnya Evangel|C
-Selesnya Guildmage|U
+Seismic Spike|C
 Selesnya Sagittars|U
+Selesnya Guildmage|U
 Selesnya Sanctuary|C
-Selesnya Signet|C
 Sell-Sword Brute|C
+Selesnya Signet|C
+Shambling Shell|C
 Sewerdreg|C
 Shadow of Doubt|R
-Shambling Shell|C
-Shred Memory|C
 Siege Wurm|C
+Shred Memory|C
+Skyknight Legionnaire|C
 Sins of the Past|R
 Sisters of Stone Death|R
-Skyknight Legionnaire|C
-Smash|C
 Snapping Drake|C
+Smash|C
 Sparkmage Apprentice|C
+Stasis Cell|C
 Spawnbroker|R
 Spectral Searchlight|U
-Stasis Cell|C
 Stinkweed Imp|C
 Stone-Seeder Hierophant|C
 Stoneshaker Shaman|U
 Strands of Undeath|C
-Sundering Vitae|C
 Sunforger|R
+Sundering Vitae|C
 Sunhome Enforcer|U
-Sunhome, Fortress of the Legion|U
 Suppression Field|U
-Surge of Zeal|C
+Sunhome, Fortress of the Legion|U
 Surveilling Sprite|C
-Svogthos, the Restless Tomb|U
+Surge of Zeal|C
 Swamp|L
+Svogthos, the Restless Tomb|U
 Szadek, Lord of Secrets|R
 Tattered Drake|C
 Telling Time|U
 Temple Garden|R
-Terraformer|C
-Terrarion|C
 Thoughtpicker Witch|C
-Three Dreams|R
+Terraformer|C
 Thundersong Trumpeter|C
+Terrarion|C
+Three Dreams|R
 Tidewater Minion|C
 Tolsimir Wolfblood|R
 Torpid Moloch|C
@@ -264,8 +264,8 @@ Tunnel Vision|R
 Twilight Drover|R
 Twisted Justice|U
 Undercity Shade|U
-Ursapine|R
 Vedalken Dismisser|C
+Ursapine|R
 Vedalken Entrancer|C
 Veteran Armorer|C
 Viashino Fangtail|C
@@ -273,19 +273,19 @@ Viashino Slasher|C
 Vigor Mortis|U
 Vindictive Mob|U
 Vinelasher Kudzu|R
-Vitu-Ghazi, the City-Tree|U
 Votary of the Conclave|C
-Voyager Staff|U
+Vitu-Ghazi, the City-Tree|U
 Vulturous Zombie|R
+Voyager Staff|U
 War-Torch Goblin|C
-Warp World|R
-Watchwolf|U
-Watery Grave|R
 Wizened Snitches|U
+Watery Grave|R
+Watchwolf|U
+Warp World|R
 Woebringer Demon|R
 Wojek Apothecary|U
 Wojek Embermage|U
-Wojek Siren|C
 Woodwraith Corrupter|R
 Woodwraith Strangler|C
+Wojek Siren|C
 Zephyr Spirit|C

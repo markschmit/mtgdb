@@ -9,72 +9,41 @@ Archivist|R
 Ardent Militia|U
 Avatar of Hope|R
 Aven Cloudchaser|C
-Aven Fisher|C
 Aven Flock|C
-Balance of Power|R
+Aven Fisher|C
 Balduvian Barbarians|C
+Balance of Power|R
 Beast of Burden|R
 Birds of Paradise|R
 Blanchwood Armor|U
-Blaze|U
 Blessed Reversal|R
+Blaze|U
 Blinding Angel|R
-Blood Moon|R
-Bloodshot Cyclops|R
-Bog Imp|C
 Bog Wraith|U
-Boil|U
+Bloodshot Cyclops|R
+Blood Moon|R
+Bog Imp|C
 Boomerang|C
+Boil|U
 Brass Herald|R
-Bribery|R
 Call of the Wild|R
+Bribery|R
 Canopy Spider|C
 Canyon Wildcat|C
 Carrion Wall|U
-Catalog|C
-Chastise|U
 Choke|U
+Chastise|U
+Catalog|C
 Cinder Wall|C
 Circle of Protection: Black|U
 Circle of Protection: Blue|U
 Circle of Protection: Green|U
 Circle of Protection: Red|U
 Circle of Protection: White|U
-City of Brass|R
-Coastal Hornclaw|C
-Coastal Piracy|R
-Coastal Tower|U
-Coat of Arms|R
-Coercion|C
-Collective Unconscious|R
-Concentrate|U
-Confiscate|U
-Coral Eel|C
-Cowardice|R
-Craw Wurm|C
-Creeping Mold|U
-Crossbow Infantry|C
-Crystal Rod|U
-Curiosity|U
-Daring Apprentice|R
-Dark Banishing|C
-Death Pit Offering|R
-Death Pits of Rath|R
-Deathgazer|U
-Deepwood Ghoul|C
-Defense Grid|R
-Deflection|R
-Dehydration|C
-Demolish|U
-Demystify|C
-Diabolic Tutor|U
-Dingus Egg|R
-Disrupting Scepter|R
-Distorting Lens|R
 Diving Griffin|C
 Drudge Skeletons|C
-Dusk Imp|C
 Dwarven Demolition Team|U
+Dusk Imp|C
 Eastern Paladin|R
 Elfhame Palace|U
 Elite Archers|R
@@ -85,74 +54,98 @@ Elvish Pioneer|C
 Elvish Piper|R
 Elvish Scrapper|U
 Emperor Crocodile|R
-Enrage|U
-Ensnaring Bridge|R
 Evacuation|R
+Ensnaring Bridge|R
+Enrage|U
 Execute|U
 Fallen Angel|R
 Fear|C
-Fecundity|U
 Fertile Ground|C
+Fecundity|U
 Fighting Drake|U
-Flash Counter|C
 Flashfires|U
+Flash Counter|C
 Fleeting Image|R
 Flight|C
 Flying Carpet|R
-Fodder Cannon|U
 Foratog|U
+Fodder Cannon|U
 Forest|L
 Fugitive Wizard|C
+Fyndhorn Elder|U
 Fungusaur|R
 Furnace of Rath|R
-Fyndhorn Elder|U
 Gaea's Herald|R
 Giant Badger|C
 Giant Cockroach|C
-Giant Growth|C
-Giant Spider|C
-Glorious Anthem|R
-Glory Seeker|C
-Gluttonous Zombie|U
-Goblin Chariot|C
-Goblin Glider|U
+Coastal Hornclaw|C
+City of Brass|R
+Coastal Piracy|R
+Coastal Tower|U
+Coercion|C
+Coat of Arms|R
+Concentrate|U
+Collective Unconscious|R
+Craw Wurm|C
+Confiscate|U
+Coral Eel|C
+Cowardice|R
+Crossbow Infantry|C
+Creeping Mold|U
+Death Pit Offering|R
+Curiosity|U
+Crystal Rod|U
+Daring Apprentice|R
+Dark Banishing|C
+Death Pits of Rath|R
+Deathgazer|U
+Deepwood Ghoul|C
+Deflection|R
+Defense Grid|R
+Dehydration|C
+Demystify|C
+Demolish|U
+Dingus Egg|R
+Diabolic Tutor|U
+Disrupting Scepter|R
+Distorting Lens|R
 Goblin King|R
 Goblin Raider|C
-Grave Pact|R
-Gravedigger|C
-Grizzly Bears|C
-Guerrilla Tactics|U
 Hammer of Bogardan|R
-Healing Salve|C
+Grizzly Bears|C
+Gravedigger|C
+Grave Pact|R
+Guerrilla Tactics|U
 Hibernation|U
+Healing Salve|C
+Holy Strength|C
 Hill Giant|C
 Holy Day|C
-Holy Strength|C
 Honor Guard|C
 Horned Troll|C
 Horned Turtle|C
 Howling Mine|R
 Hulking Cyclops|U
-Hunted Wumpus|U
-Index|C
 Inferno|R
+Hunted Wumpus|U
 Inspiration|C
+Index|C
 Intrepid Hero|R
 Intruder Alarm|R
 Invisibility|U
-Iron Star|U
 Island|L
-Ivory Cup|U
+Iron Star|U
 Ivory Mask|R
-Jayemdae Tome|R
+Ivory Cup|U
 Karma|U
-Larceny|R
+Jayemdae Tome|R
 Lava Axe|C
+Larceny|R
 Lava Hounds|R
 Lesser Gargadon|U
+Lightning Elemental|C
 Lhurgoyf|R
 Lightning Blast|U
-Lightning Elemental|C
 Living Terrain|U
 Llanowar Behemoth|U
 Lone Wolf|C
@@ -161,72 +154,79 @@ Lord of the Undead|R
 Lure|U
 Maggot Carrier|C
 Mahamoti Djinn|R
-Mana Clash|R
-Mana Leak|C
 Maro|R
+Mana Leak|C
+Mana Clash|R
 Master Decoy|C
 Master Healer|R
-Megrim|U
 Merchant of Secrets|C
+Giant Growth|C
+Giant Spider|C
+Glorious Anthem|R
+Glory Seeker|C
+Gluttonous Zombie|U
+Goblin Chariot|C
+Goblin Glider|U
+Megrim|U
 Merchant Scroll|U
-Might of Oaks|R
 Millstone|R
-Mind Bend|R
+Might of Oaks|R
 Mind Rot|C
+Mind Bend|R
 Mind Slash|U
 Mind Sludge|U
 Mogg Sentry|R
 Monstrous Growth|C
 Moss Monster|C
+Nantuko Disciple|C
 Mountain|L
 Murderous Betrayal|R
-Nantuko Disciple|C
-Natural Affinity|R
 Naturalize|C
-Nausea|C
+Natural Affinity|R
 Nekrataal|U
+Nausea|C
 Nightmare|R
 Noble Purpose|R
 Norwood Ranger|C
-Obliterate|R
 Ogre Taskmaster|U
+Obliterate|R
 Okk|R
 Oracle's Attendants|R
 Orcish Artillery|U
-Orcish Spy|C
 Pacifism|C
+Orcish Spy|C
 Panic Attack|C
 Patagia Golem|U
-Peach Garden Oath|U
 Persecute|R
+Peach Garden Oath|U
 Phantom Warrior|U
-Phyrexian Arena|R
 Phyrexian Colossus|R
+Phyrexian Arena|R
 Phyrexian Hulk|U
 Phyrexian Plaguelord|R
 Plague Beetle|C
-Plague Wind|R
 Plains|L
-Planar Portal|R
+Plague Wind|R
 Plow Under|R
-Primeval Force|R
+Planar Portal|R
 Primeval Shambler|U
+Primeval Force|R
 Puppeteer|U
 Pyroclasm|U
 Pyrotechnics|U
 Raging Goblin|C
-Rain of Blades|U
 Raise Dead|C
+Rain of Blades|U
 Rampant Growth|C
 Ravenous Rats|C
 Razorfoot Griffin|C
-Redeem|C
-Reflexes|C
 Regeneration|C
-Relentless Assault|R
+Reflexes|C
+Redeem|C
 Remove Soul|C
-Revive|U
+Relentless Assault|R
 Rewind|U
+Revive|U
 Rhox|R
 Ridgeline Rager|C
 Rod of Ruin|U
@@ -239,32 +239,32 @@ Sacred Ground|R
 Sacred Nectar|C
 Sage of Lat-Nam|R
 Sage Owl|C
-Salt Marsh|U
 Samite Healer|C
-Sanctimony|U
+Salt Marsh|U
 Savannah Lions|R
+Sanctimony|U
 Scathe Zombies|C
+Seasoned Marshal|U
 Sea Monster|C
 Searing Wind|R
-Seasoned Marshal|U
 Seismic Assault|R
 Serpent Warrior|C
 Serra Angel|R
-Sever Soul|U
 Severed Legion|C
+Sever Soul|U
 Shatter|C
 Shifting Sky|R
 Shivan Dragon|R
-Shivan Oasis|U
 Shock|C
+Shivan Oasis|U
 Shock Troops|C
+Slay|U
 Sizzle|C
 Skull of Orm|R
-Slay|U
-Sneaky Homunculus|C
-Solidarity|C
-Soul Feast|U
 Spellbook|U
+Sneaky Homunculus|C
+Soul Feast|U
+Solidarity|C
 Spiketail Hatchling|U
 Spined Wurm|C
 Spineless Thug|C
@@ -272,64 +272,64 @@ Spirit Link|U
 Spitting Spider|U
 Spreading Algae|U
 Standing Troops|C
-Star Compass|U
 Staunch Defenders|U
+Star Compass|U
 Steal Artifact|U
-Stone Rain|C
 Storm Crow|C
+Stone Rain|C
 Story Circle|R
 Stream of Life|U
 Sudden Impact|U
 Suntail Hawk|C
-Sunweb|R
 Swamp|L
+Sunweb|R
 Swarm of Rats|U
 Sword Dancer|U
-Teferi's Puzzle Box|R
 Telepathy|U
+Teferi's Puzzle Box|R
 Temporal Adept|R
-Thieves' Auction|R
 Thieving Magpie|U
+Thieves' Auction|R
 Thorn Elemental|R
 Throne of Bone|U
 Tidal Kraken|R
 Trade Routes|R
 Trained Armodon|C
-Treasure Trove|U
 Tremor|C
+Treasure Trove|U
 Tundra Wolves|C
-Twiddle|C
 Two-Headed Dragon|R
+Twiddle|C
 Underworld Dreams|R
 Unholy Strength|C
 Unsummon|C
 Urborg Volcano|U
-Urza's Armor|R
 Urza's Mine|U
+Urza's Armor|R
 Urza's Power Plant|U
 Urza's Tower|U
 Vampiric Spirit|R
 Venerable Monk|C
 Verduran Enchantress|R
 Vernal Bloom|R
-Vexing Arcanix|R
 Viashino Sandstalker|U
+Vexing Arcanix|R
 Vicious Hunger|C
 Vine Trellis|C
-Volcanic Hammer|C
 Wall of Air|U
+Volcanic Hammer|C
 Wall of Spears|U
 Wall of Stone|U
 Wall of Swords|U
 Warped Devotion|R
 Western Paladin|R
+Wood Elves|C
 Wind Drake|C
 Wing Snare|U
-Wood Elves|C
-Wooden Sphere|U
 Worship|R
-Wrath of God|R
+Wooden Sphere|U
 Wrath of Marit Lage|U
+Wrath of God|R
 Yavimaya Enchantress|U
 Zombify|U
 Zur's Weirding|R

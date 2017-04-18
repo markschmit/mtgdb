@@ -1,43 +1,43 @@
+Angel's Mercy|C
 Abundant Growth|C
-Aggravate|U
-Alchemist's Apprentice|C
-Alchemist's Refuge|R
 Amass the Components|C
+Alchemist's Apprentice|C
+Aggravate|U
+Alchemist's Refuge|R
 Angel of Glory's Rise|R
 Angel of Jubilation|R
-Angel's Mercy|C
-Angel's Tomb|U
 Angelic Armaments|U
+Angel's Tomb|U
 Angelic Wall|C
 Appetite for Brains|U
-Arcane Melee|R
 Archangel|U
+Arcane Melee|R
 Archwing Dragon|R
-Avacyn, Angel of Hope|M
 Banishing Stroke|U
+Avacyn, Angel of Hope|M
 Banners Raised|C
-Barter in Blood|U
 Battle Hymn|C
+Barter in Blood|U
 Bladed Bracers|C
 Blessings of Nature|U
 Blood Artist|U
 Bloodflow Connoisseur|C
-Bone Splinters|C
 Bonfire of the Damned|M
+Bone Splinters|C
 Borderland Ranger|C
+Builder's Blessing|U
 Bower Passage|U
 Bruna, Light of Alabaster|M
-Builder's Blessing|U
-Burn at the Stake|R
 Butcher Ghoul|C
+Burn at the Stake|R
 Call to Serve|C
 Captain of the Mists|R
-Cathars' Crusade|R
 Cathedral Sanctifier|C
-Cavern of Souls|R
+Cathars' Crusade|R
 Champion of Lambholt|R
-Cloudshift|C
+Cavern of Souls|R
 Commander's Authority|U
+Cloudshift|C
 Conjurer's Closet|R
 Corpse Traders|U
 Craterhoof Behemoth|M
@@ -47,43 +47,43 @@ Cursebreak|C
 Dangerous Wager|C
 Dark Impostor|R
 Deadeye Navigator|R
-Death Wind|C
 Defang|C
-Defy Death|U
+Death Wind|C
 Demolish|C
-Demonic Rising|R
+Defy Death|U
 Demonic Taskmaster|U
+Demonic Rising|R
 Demonlord of Ashmouth|R
-Descendants' Path|R
 Descent into Madness|M
+Descendants' Path|R
 Desolate Lighthouse|R
 Devastation Tide|R
 Devout Chaplain|U
 Diregraf Escort|C
 Divine Deflection|R
 Dread Slaver|R
-Dreadwaters|C
-Driver of the Dead|C
 Druid's Familiar|U
+Driver of the Dead|C
+Dreadwaters|C
 Druids' Repository|R
 Dual Casting|R
-Eaten by Spiders|U
 Elgaud Shieldmate|C
+Eaten by Spiders|U
 Emancipation Angel|U
-Entreat the Angels|M
 Essence Harvest|C
+Entreat the Angels|M
 Evernight Shade|U
-Exquisite Blood|R
 Falkenrath Exterminator|U
+Exquisite Blood|R
 Farbog Explorer|C
 Favorable Winds|U
 Fervent Cathar|C
+Flowering Lumberknot|C
 Fettergeist|U
 Fleeting Distraction|C
-Flowering Lumberknot|C
+Galvanic Alchemist|C
 Forest|L
 Gallows at Willow Hill|R
-Galvanic Alchemist|C
 Gang of Devils|U
 Geist Snatch|C
 Geist Trappers|C
@@ -93,13 +93,13 @@ Ghostly Touch|U
 Ghoulflesh|C
 Gisela, Blade of Goldnight|M
 Gloom Surgeon|R
-Gloomwidow|U
 Goldnight Commander|U
+Gloomwidow|U
 Goldnight Redeemer|U
-Grave Exchange|C
-Griselbrand|M
 Grounded|C
+Grave Exchange|C
 Gryff Vanguard|C
+Griselbrand|M
 Guise of Fire|C
 Hanweir Lancer|C
 Harvester of Souls|R
@@ -109,79 +109,74 @@ Havengul Vampire|U
 Heirs of Stromkirk|C
 Herald of War|R
 Holy Justiciar|U
-Homicidal Seclusion|U
 Hound of Griselbrand|R
+Homicidal Seclusion|U
 Howlgeist|U
 Human Frailty|U
 Hunted Ghoul|C
 Infinite Reflection|R
-Into the Void|U
 Island|L
-Joint Assault|C
+Into the Void|U
 Kessig Malcontents|U
-Killing Wave|R
-Kruin Striker|C
-Lair Delve|C
-Latch Seeker|U
+Joint Assault|C
 Leap of Faith|C
-Lightning Mauler|U
 Lightning Prowess|U
 Lone Revenant|R
 Lunar Mystic|R
 Maalfeld Twins|U
-Mad Prophet|C
 Malicious Intent|C
-Malignus|M
+Mad Prophet|C
 Marrow Bats|U
+Malignus|M
+Midnight Duelist|C
 Mass Appeal|U
 Mental Agony|C
-Midnight Duelist|C
 Midvast Protector|C
-Mist Raven|C
 Misthollow Griffin|M
+Mist Raven|C
 Moonlight Geist|C
 Moonsilver Spear|R
 Moorland Inquisitor|C
-Mountain|L
 Narstad Scrapper|C
-Natural End|C
+Mountain|L
 Nearheath Pilgrim|U
-Necrobite|C
+Natural End|C
 Nephalia Smuggler|U
+Necrobite|C
 Nettle Swine|C
 Nightshade Peddler|C
-Otherworld Atlas|R
 Outwit|C
+Otherworld Atlas|R
 Pathbreaker Wurm|C
 Peel from Reality|C
-Pillar of Flame|C
 Plains|L
+Pillar of Flame|C
 Polluted Dead|C
 Predator's Gambit|C
-Primal Surge|M
 Raging Poltergeist|C
-Rain of Thorns|U
+Primal Surge|M
 Reforge the Soul|R
+Rain of Thorns|U
 Renegade Demon|C
 Restoration Angel|R
-Revenge of the Hunted|R
 Riders of Gavony|R
+Revenge of the Hunted|R
 Righteous Blow|C
 Riot Ringleader|C
 Rite of Ruin|R
 Rotcrown Ghoul|C
 Rush of Blood|U
-Scalding Devil|C
 Scrapskin Drake|C
+Scalding Devil|C
 Scroll of Avacyn|C
 Scroll of Griselbrand|C
 Searchlight Geist|C
 Second Guess|U
 Seraph of Dawn|C
-Seraph Sanctuary|C
-Sheltering Word|C
 Sigarda, Host of Herons|M
+Seraph Sanctuary|C
 Silverblade Paladin|R
+Sheltering Word|C
 Slayers' Stronghold|R
 Snare the Skies|C
 Somberwald Sage|R
@@ -192,19 +187,19 @@ Spectral Gateguards|C
 Spectral Prison|C
 Spirit Away|R
 Stern Mentor|U
-Stolen Goods|R
 Stonewright|U
 Swamp|L
+Stolen Goods|R
 Tamiyo, the Moon Sage|M
 Tandem Lookout|U
 Temporal Mastery|M
 Terminus|R
 Terrifying Presence|C
-Thatcher Revolt|C
 Thraben Valiant|C
-Thunderbolt|C
-Thunderous Wrath|U
+Thatcher Revolt|C
 Tibalt, the Fiend-Blooded|M
+Thunderous Wrath|U
+Thunderbolt|C
 Timberland Guide|C
 Tormentor's Trident|U
 Treacherous Pit-Dweller|R
@@ -213,22 +208,27 @@ Triumph of Ferocity|U
 Trusted Forcemage|C
 Tyrant of Discord|R
 Ulvenwald Tracker|R
-Uncanny Speed|C
 Undead Executioner|C
+Uncanny Speed|C
 Unhallowed Pact|C
 Vanguard's Shield|C
-Vanishment|U
 Vessel of Endless Rest|U
-Vexing Devil|R
-Vigilante Justice|U
-Voice of the Provinces|C
 Vorstclaw|U
+Vanishment|U
+Vexing Devil|R
+Voice of the Provinces|C
+Vigilante Justice|U
 Wandering Wolf|C
 Wild Defiance|R
 Wildwood Geist|C
 Wingcrafter|C
 Wolfir Avenger|U
 Wolfir Silverheart|R
-Yew Spirit|U
 Zealous Conscripts|R
+Yew Spirit|U
 Zealous Strike|C
+Killing Wave|R
+Kruin Striker|C
+Latch Seeker|U
+Lair Delve|C
+Lightning Mauler|U

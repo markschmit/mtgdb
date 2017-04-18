@@ -1,61 +1,60 @@
-Alert Shu Infantry|U
-Ambition's Cost|R
 Balance of Power|R
 Barbarian General|U
-Barbarian Horde|C
-Blaze|U
+Ambition's Cost|R
 Borrowing 100,000 Arrows|U
+Barbarian Horde|C
 Borrowing the East Wind|R
-Brilliant Plan|U
-Broken Dam|C
-Burning Fields|C
-Burning of Xinye|R
-Cao Cao, Lord of Wei|R
-Cao Ren, Wei Commander|R
-Capture of Jingzhou|R
-Champion's Victory|U
-Coercion|U
-Control of the Court|U
-Corrupt Court Official|U
+Alert Shu Infantry|U
 Corrupt Eunuchs|U
 Council of Advisors|U
 Counterintelligence|U
 Cunning Advisor|U
-Deception|C
-Desert Sandstorm|C
 Desperate Charge|U
+Desert Sandstorm|C
+Deception|C
 Diaochan, Artful Beauty|R
 Dong Zhou, the Tyrant|R
 Eightfold Maze|R
-Empty City Ruse|U
 Eunuchs' Intrigues|U
 Exhaustion|R
+Empty City Ruse|U
 Extinguish|C
 False Defeat|C
-False Mourning|U
 Famine|U
-Fire Ambush|C
+False Mourning|U
 Fire Bowman|U
+Fire Ambush|C
 Flanking Troops|U
-Forced Retreat|C
 Forest|L
-Forest Bear|C
-Ghostly Visit|C
+Forced Retreat|C
 Guan Yu's 1,000-Li March|R
+Forest Bear|C
+Blaze|U
+Broken Dam|C
+Cao Ren, Wei Commander|R
+Brilliant Plan|U
+Burning of Xinye|R
+Capture of Jingzhou|R
+Corrupt Court Official|U
+Cao Cao, Lord of Wei|R
+Champion's Victory|U
+Coercion|U
+Burning Fields|C
+Control of the Court|U
+Ghostly Visit|C
 Guan Yu, Sainted Warrior|R
-Heavy Fog|U
-Hua Tuo, Honored Physician|R
 Huang Zhong, Shu General|R
+Hua Tuo, Honored Physician|R
+Heavy Fog|U
 Hunting Cheetah|U
-Imperial Edict|C
 Imperial Recruiter|U
-Imperial Seal|R
+Imperial Edict|C
 Independent Troops|C
-Island|L
+Kongming, "Sleeping Dragon"|R
 Kongming's Contraptions|R
-Kongming, “Sleeping Dragon”|R
-Lady Sun|R
+Island|L
 Lady Zhurong, Warrior Queen|R
+Lady Sun|R
 Liu Bei, Lord of Shu|R
 Lone Wolf|U
 Loyal Retainers|U
@@ -66,105 +65,106 @@ Lu Xun, Scholar General|R
 Ma Chao, Western Warrior|R
 Marshaling the Troops|R
 Meng Huo's Horde|C
+Imperial Seal|R
 Meng Huo, Barbarian King|R
-Misfortune's Gain|C
 Mountain|L
 Mountain Bandit|C
-Mystic Denial|U
 Overwhelming Forces|R
-Pang Tong, “Young Phoenix”|R
-Peach Garden Oath|U
-Plains|L
-Poison Arrow|U
-Preemptive Strike|C
+Pang Tong, "Young Phoenix"|R
+Mystic Denial|U
 Rally the Troops|U
+Plains|L
+Peach Garden Oath|U
+Preemptive Strike|C
+Poison Arrow|U
 Ravages of War|R
+Misfortune's Gain|C
 Ravaging Horde|U
-Red Cliffs Armada|U
+Riding Red Hare|C
 Relentless Assault|R
+Red Cliffs Armada|U
 Renegade Troops|U
 Return to Battle|C
-Riding Red Hare|C
-Riding the Dilu Horse|R
-Rockslide Ambush|U
 Rolling Earthquake|R
-Sage's Knowledge|C
+Riding the Dilu Horse|R
 Shu Cavalry|C
+Rockslide Ambush|U
+Sage's Knowledge|C
 Shu Defender|C
-Shu Elite Companions|U
 Shu Elite Infantry|C
+Shu Elite Companions|U
 Shu Farmer|C
 Shu Foot Soldiers|C
-Shu General|U
 Shu Grain Caravan|C
+Shu General|U
 Shu Soldier-Farmers|U
 Sima Yi, Wei Field Marshal|R
 Slashing Tiger|R
+Spring of Eternal Peace|C
 Southern Elephant|C
 Spoils of Victory|U
-Spring of Eternal Peace|C
 Stalking Tiger|C
-Stolen Grain|U
 Stone Catapult|R
-Stone Rain|C
+Stolen Grain|U
 Strategic Planning|U
-Straw Soldiers|C
-Sun Ce, Young Conquerer|R
-Sun Quan, Lord of Wu|R
-Swamp|L
 Taoist Hermit|U
+Straw Soldiers|C
+Stone Rain|C
+Sun Ce, Young Conquerer|R
+Swamp|L
+Sun Quan, Lord of Wu|R
 Taoist Mystic|R
 Taunting Challenge|R
 Three Visits|C
 Trained Cheetah|U
 Trained Jackal|C
-Trip Wire|U
 Vengeance|U
-Virtuous Charge|C
 Volunteer Militia|C
+Trip Wire|U
+Virtuous Charge|C
 Warrior's Oath|R
-Warrior's Stand|U
 Wei Ambush Force|C
+Warrior's Stand|U
 Wei Assassins|U
 Wei Elite Companions|U
-Wei Infantry|C
-Wei Night Raiders|U
 Wei Scout|C
+Wei Night Raiders|U
+Wei Infantry|C
 Wei Strike Force|C
 Wielding the Green Dragon|C
 Wolf Pack|R
-Wu Admiral|U
 Wu Elite Cavalry|C
-Wu Infantry|C
+Wu Admiral|U
 Wu Light Cavalry|C
+Wu Infantry|C
 Wu Longbowman|U
-Wu Scout|C
 Wu Spy|U
+Wu Scout|C
 Wu Warship|C
 Xiahou Dun, the One-Eyed|R
-Xun Yu, Wei Advisor|R
 Yellow Scarves Cavalry|C
+Xun Yu, Wei Advisor|R
 Yellow Scarves General|R
+Yuan Shao, the Indecisive|R
 Yellow Scarves Troops|C
+Zhang He, Wei General|R
 Young Wei Recruits|C
 Yuan Shao's Infantry|U
-Yuan Shao, the Indecisive|R
 Zhang Fei, Fierce Warrior|R
-Zhang He, Wei General|R
 Zhang Liao, Hero of Hefei|R
 Zhao Zilong, Tiger General|R
 Zhou Yu, Chief Commander|R
+Zodiac Dragon|R
 Zhuge Jin, Wu Strategist|R
 Zodiac Dog|C
-Zodiac Dragon|R
 Zodiac Goat|C
 Zodiac Horse|U
 Zodiac Monkey|C
 Zodiac Ox|U
 Zodiac Pig|U
+Zodiac Rooster|C
 Zodiac Rabbit|C
 Zodiac Rat|C
-Zodiac Rooster|C
 Zodiac Snake|C
 Zodiac Tiger|U
 Zuo Ci, the Mocking Sage|R

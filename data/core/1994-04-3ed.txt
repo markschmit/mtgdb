@@ -1,228 +1,23 @@
-Air Elemental|U
-Aladdin's Lamp|R
-Aladdin's Ring|R
-Animate Artifact|U
-Animate Dead|U
-Animate Wall|R
-Ankh of Mishra|R
-Armageddon|R
-Armageddon Clock|R
-Aspect of Wolf|R
-Atog|C
-Bad Moon|R
-Badlands|R
-Balance|R
-Basalt Monolith|U
-Bayou|R
-Benalish Hero|C
-Birds of Paradise|R
-Black Knight|U
-Black Vise|U
-Black Ward|U
-Blessing|R
-Blue Elemental Blast|C
-Blue Ward|U
-Bog Wraith|U
-Bottle of Suleiman|R
-Braingeyser|R
-Brass Man|U
-Burrowing|U
-Castle|U
-Celestial Prism|U
-Channel|U
-Chaoslace|R
-Circle of Protection: Black|C
-Circle of Protection: Blue|C
-Circle of Protection: Green|C
-Circle of Protection: Red|C
-Circle of Protection: White|C
-Clockwork Beast|R
-Clone|U
-Cockatrice|R
-Conservator|U
-Contract from Below|R
-Control Magic|U
-Conversion|U
-Copy Artifact|R
-Counterspell|U
-Craw Wurm|C
-Creature Bond|C
-Crumble|U
-Crusade|R
-Crystal Rod|U
-Cursed Land|U
-Dancing Scimitar|R
-Dark Ritual|C
-Darkpact|R
-Death Ward|C
-Deathgrip|U
-Deathlace|R
-Demonic Attorney|R
-Demonic Hordes|R
-Demonic Tutor|U
-Desert Twister|U
-Dingus Egg|R
-Disenchant|C
-Disintegrate|C
-Disrupting Scepter|R
-Dragon Engine|R
-Dragon Whelp|U
-Drain Life|C
-Drain Power|R
-Drudge Skeletons|C
-Dwarven Warriors|C
-Dwarven Weaponsmith|U
-Earth Elemental|U
-Earthbind|C
-Earthquake|R
-Ebony Horse|R
-El-Hajjâj|R
-Elvish Archers|R
-Energy Flux|U
-Erg Raiders|C
-Evil Presence|U
-Eye for an Eye|R
-Farmstead|R
-Fastbond|R
-Fear|C
-Feedback|U
-Fire Elemental|U
-Fireball|C
-Firebreathing|C
-Flashfires|U
-Flight|C
-Flying Carpet|R
-Fog|C
-Force of Nature|R
-Forest|L
-Fork|R
-Frozen Shade|C
-Fungusaur|R
-Gaea's Liege|R
-Giant Growth|C
-Giant Spider|C
-Glasses of Urza|U
-Gloom|U
-Goblin Balloon Brigade|U
-Goblin King|R
-Granite Gargoyle|R
-Gray Ogre|C
-Green Ward|U
-Grizzly Bears|C
-Guardian Angel|C
-Healing Salve|C
-Helm of Chatzuk|R
-Hill Giant|C
-Holy Armor|C
-Holy Strength|C
-Howl from Beyond|C
-Howling Mine|R
-Hurkyl's Recall|R
-Hurloon Minotaur|C
-Hurricane|U
-Hypnotic Specter|U
-Instill Energy|U
-Iron Star|U
-Ironroot Treefolk|C
-Island|L
-Island Fish Jasconius|R
-Island Sanctuary|R
-Ivory Cup|U
-Ivory Tower|R
-Jade Monolith|R
-Jandor's Ring|R
-Jandor's Saddlebags|R
-Jayemdae Tome|R
-Juggernaut|U
-Jump|C
-Karma|U
-Keldon Warlord|U
-Kird Ape|C
-Kormus Bell|R
-Kudzu|R
-Lance|U
-Ley Druid|U
-Library of Leng|U
-Lifeforce|U
-Lifelace|R
-Lifetap|U
-Lightning Bolt|C
-Living Artifact|R
-Living Lands|R
-Living Wall|U
-Llanowar Elves|C
-Lord of Atlantis|R
-Lord of the Pit|R
-Lure|U
-Magical Hack|R
-Magnetic Mountain|R
-Mahamoti Djinn|R
-Mana Flare|R
-Mana Short|R
-Mana Vault|R
-Manabarbs|R
-Meekstone|R
-Merfolk of the Pearl Trident|C
-Mesa Pegasus|C
-Mijae Djinn|R
-Millstone|R
-Mind Twist|R
-Mishra's War Machine|R
-Mons's Goblin Raiders|C
-Mountain|L
-Nether Shadow|R
-Nettling Imp|U
-Nevinyrral's Disk|R
-Nightmare|R
-Northern Paladin|R
-Obsianus Golem|U
-Onulet|R
-Orcish Artillery|U
-Orcish Oriflamme|U
-Ornithopter|U
-Paralyze|C
-Pearled Unicorn|C
-Personal Incarnation|R
-Pestilence|C
-Phantasmal Forces|U
-Phantasmal Terrain|C
-Phantom Monster|U
-Pirate Ship|R
-Plague Rats|C
-Plains|L
-Plateau|R
-Power Leak|C
-Power Sink|C
-Power Surge|R
-Primal Clay|R
-Prodigal Sorcerer|C
-Psychic Venom|C
-Purelace|R
-Raise Dead|C
-Reconstruction|C
-Red Elemental Blast|C
-Red Ward|U
-Regeneration|C
 Regrowth|U
 Resurrection|U
-Reverse Damage|R
 Reverse Polarity|U
-Righteousness|R
+Reverse Damage|R
 Roc of Kher Ridges|R
+Righteousness|R
+Rod of Ruin|U
 Rock Hydra|R
 Rocket Launcher|R
-Rod of Ruin|U
 Royal Assassin|R
-Sacrifice|U
 Samite Healer|C
-Savannah|R
+Sacrifice|U
 Savannah Lions|R
+Savannah|R
 Scathe Zombies|C
 Scavenging Ghoul|U
-Scrubland|R
 Scryb Sprites|C
-Sea Serpent|C
+Scrubland|R
 Sedge Troll|R
+Sea Serpent|C
 Sengir Vampire|U
 Serendib Efreet|R
 Serra Angel|U
@@ -232,44 +27,44 @@ Shatterstorm|U
 Shivan Dragon|R
 Simulacrum|U
 Siren's Call|U
-Sleight of Mind|R
 Smoke|R
+Sleight of Mind|R
 Sol Ring|U
 Sorceress Queen|R
-Soul Net|U
-Spell Blast|C
 Stasis|R
+Spell Blast|C
+Soul Net|U
 Steal Artifact|U
 Stone Giant|U
+Sunglasses of Urza|R
 Stone Rain|C
 Stream of Life|C
-Sunglasses of Urza|R
 Swamp|L
-Swords to Plowshares|U
 Taiga|R
-Terror|C
+Swords to Plowshares|U
 The Hive|R
+Terror|C
 The Rack|U
 Thicket Basilisk|U
 Thoughtlace|R
 Throne of Bone|U
 Timber Wolves|R
-Titania's Song|R
 Tranquility|C
-Tropical Island|R
+Titania's Song|R
 Tsunami|U
-Tundra|R
+Tropical Island|R
 Tunnel|U
+Tundra|R
 Underground Sea|R
 Unholy Strength|C
 Unstable Mutation|C
-Unsummon|C
 Uthden Troll|U
+Unsummon|C
 Verduran Enchantress|R
 Vesuvan Doppelganger|R
 Veteran Bodyguard|R
-Volcanic Eruption|R
 Volcanic Island|R
+Volcanic Eruption|R
 Wall of Air|U
 Wall of Bone|U
 Wall of Brambles|U
@@ -279,18 +74,223 @@ Wall of Stone|U
 Wall of Swords|U
 Wall of Water|U
 Wall of Wood|C
-Wanderlust|U
 War Mammoth|C
+Wanderlust|U
 Warp Artifact|R
 Water Elemental|U
-Weakness|C
 Web|R
+Weakness|C
 Wheel of Fortune|R
 White Knight|U
-White Ward|U
 Wild Growth|C
+White Ward|U
 Will-O'-The-Wisp|R
 Winter Orb|R
 Wooden Sphere|U
+Air Elemental|U
+Aladdin's Lamp|R
+Animate Artifact|U
+Aladdin's Ring|R
+Animate Dead|U
+Armageddon|R
+Animate Wall|R
+Armageddon Clock|R
+Ankh of Mishra|R
+Badlands|R
+Aspect of Wolf|R
+Atog|C
+Balance|R
+Bad Moon|R
+Bayou|R
+Basalt Monolith|U
+Benalish Hero|C
+Blue Ward|U
+Birds of Paradise|R
+Black Vise|U
+Black Knight|U
+Black Ward|U
+Blessing|R
+Blue Elemental Blast|C
+Braingeyser|R
+Bog Wraith|U
+Brass Man|U
+Bottle of Suleiman|R
+Burrowing|U
+Channel|U
+Celestial Prism|U
+Circle of Protection: Black|C
+Castle|U
+Chaoslace|R
+Circle of Protection: Blue|C
+Circle of Protection: Red|C
+Circle of Protection: Green|C
+Circle of Protection: White|C
+Clone|U
+Clockwork Beast|R
+Cockatrice|R
+Contract from Below|R
+Conservator|U
+Control Magic|U
+Conversion|U
+Copy Artifact|R
+Craw Wurm|C
+Counterspell|U
+Crusade|R
+Creature Bond|C
+Crystal Rod|U
+Crumble|U
+Cursed Land|U
+Death Ward|C
+Dancing Scimitar|R
+Dark Ritual|C
+Darkpact|R
+Deathgrip|U
+Demonic Hordes|R
+Deathlace|R
+Demonic Attorney|R
+Demonic Tutor|U
+Dingus Egg|R
+Desert Twister|U
+Disrupting Scepter|R
+Disenchant|C
+Disintegrate|C
+Dragon Engine|R
+Drain Life|C
+Drudge Skeletons|C
+Dragon Whelp|U
+Drain Power|R
+Dwarven Warriors|C
+Dwarven Weaponsmith|U
+Earthquake|R
+Earth Elemental|U
+Ebony Horse|R
+Earthbind|C
+Elvish Archers|R
+El-Hajjâj|R
+Evil Presence|U
+Erg Raiders|C
+Energy Flux|U
+Farmstead|R
+Eye for an Eye|R
+Fastbond|R
+Fear|C
+Fire Elemental|U
+Feedback|U
+Firebreathing|C
+Fireball|C
+Flight|C
+Flashfires|U
+Fog|C
+Flying Carpet|R
+Forest|L
+Force of Nature|R
+Fork|R
+Frozen Shade|C
+Fungusaur|R
+Gaea's Liege|R
+Giant Growth|C
+Giant Spider|C
+Gloom|U
+Glasses of Urza|U
+Green Ward|U
+Goblin Balloon Brigade|U
+Granite Gargoyle|R
+Goblin King|R
+Gray Ogre|C
+Grizzly Bears|C
+Guardian Angel|C
+Healing Salve|C
+Holy Strength|C
+Holy Armor|C
+Hill Giant|C
+Helm of Chatzuk|R
+Howl from Beyond|C
+Howling Mine|R
+Hurloon Minotaur|C
+Hurkyl's Recall|R
+Hypnotic Specter|U
+Hurricane|U
+Instill Energy|U
+Island Fish Jasconius|R
+Ironroot Treefolk|C
+Iron Star|U
+Island|L
+Island Sanctuary|R
+Ivory Cup|U
+Ivory Tower|R
+Jade Monolith|R
+Jandor's Saddlebags|R
+Jandor's Ring|R
+Juggernaut|U
+Jayemdae Tome|R
+Karma|U
+Jump|C
+Keldon Warlord|U
+Kudzu|R
+Kird Ape|C
+Ley Druid|U
+Kormus Bell|R
+Lance|U
+Lifeforce|U
+Library of Leng|U
+Lifetap|U
+Lifelace|R
+Lightning Bolt|C
+Living Artifact|R
+Living Wall|U
+Living Lands|R
+Llanowar Elves|C
+Lord of Atlantis|R
+Lure|U
+Lord of the Pit|R
+Magnetic Mountain|R
+Magical Hack|R
+Mahamoti Djinn|R
+Mana Vault|R
+Mana Short|R
+Mana Flare|R
+Manabarbs|R
+Meekstone|R
+Merfolk of the Pearl Trident|C
+Mesa Pegasus|C
+Mind Twist|R
+Mijae Djinn|R
+Mishra's War Machine|R
+Millstone|R
+Mons's Goblin Raiders|C
+Nether Shadow|R
+Mountain|L
+Nettling Imp|U
+Nightmare|R
+Nevinyrral's Disk|R
+Northern Paladin|R
+Obsianus Golem|U
+Orcish Artillery|U
+Onulet|R
+Ornithopter|U
+Orcish Oriflamme|U
+Paralyze|C
+Pearled Unicorn|C
+Pestilence|C
+Personal Incarnation|R
+Phantasmal Terrain|C
+Phantasmal Forces|U
+Phantom Monster|U
+Pirate Ship|R
+Plague Rats|C
+Power Leak|C
+Plateau|R
+Primal Clay|R
+Plains|L
+Power Surge|R
+Power Sink|C
+Prodigal Sorcerer|C
+Psychic Venom|C
+Raise Dead|C
+Purelace|R
+Red Ward|U
+Red Elemental Blast|C
+Reconstruction|C
+Regeneration|C
 Wrath of God|R
 Zombie Master|R

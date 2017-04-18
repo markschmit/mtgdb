@@ -1,45 +1,120 @@
-Accursed Centaur|C
-Aether Charge|U
-Aggravated Assault|R
-Airborne Aid|C
 Airdrop Condor|U
-Akroma's Blessing|U
+Accursed Centaur|C
+Aggravated Assault|R
+Aether Charge|U
+Airborne Aid|C
 Akroma's Vengeance|R
+Akroma's Blessing|U
 Ancestor's Prophet|R
-Animal Magnetism|R
 Annex|U
+Animal Magnetism|R
 Anurid Murkdiver|C
 Aphetto Alchemist|U
 Aphetto Dredging|C
 Aphetto Grifter|U
 Aphetto Vulture|U
-Arcanis the Omnipotent|R
 Artificial Evolution|R
+Arcanis the Omnipotent|R
 Ascending Aven|C
 Astral Slide|U
 Aura Extraction|U
-Aurification|R
 Avarax|U
+Aurification|R
 Aven Brigadier|R
 Aven Fateshaper|U
 Aven Soulgazer|U
-Backslide|C
 Barkhide Mauler|C
-Barren Moor|C
-Battering Craghorn|C
+Backslide|C
 Battlefield Medic|C
-Biorhythm|R
+Battering Craghorn|C
+Barren Moor|C
+Bloodline Shaman|U
 Birchlore Rangers|C
+Biorhythm|R
+Blistering Firecat|R
 Blackmail|U
 Blatant Thievery|R
-Blistering Firecat|R
-Bloodline Shaman|U
-Bloodstained Mire|R
 Boneknitter|U
-Break Open|C
+Bloodstained Mire|R
 Brightstone Ritual|C
 Broodhatch Nantuko|U
+Break Open|C
 Butcher Orgg|R
+Elvish Guidance|C
+Elvish Pathcutter|C
+Elvish Pioneer|C
+Elvish Scrapper|U
+Elvish Vanguard|R
+Elvish Warrior|C
+Embermage Goblin|U
+Enchantress's Presence|R
+Entrails Feaster|R
+Endemic Plague|R
+Essence Fracture|U
+Erratic Explosion|C
+Everglove Courier|U
+Exalted Angel|R
+Fade from Memory|U
+Explosive Vegetation|U
+Fallen Cleric|C
+Festering Goblin|C
+False Cure|R
+Feeding Frenzy|U
+Flamestick Courier|U
+Fever Charm|C
+Fleeting Aven|U
+Flooded Strand|R
+Foothill Guide|C
+Frightshroud Courier|U
+Forest|L
+Forgotten Cave|C
+Ghosthelm Courier|U
+Gangrenous Goliath|R
+Future Sight|R
+Glarecaster|R
+Gigapede|R
+Glory Seeker|C
+Gluttonous Zombie|U
+Goblin Machinist|U
+Goblin Burrows|U
+Goblin Piledriver|R
+Goblin Pyromancer|R
+Goblin Sharpshooter|R
+Goblin Sky Raider|C
+Goblin Sledder|C
+Goblin Taskmaster|C
+Grand Melee|R
+Grand Coliseum|R
+Gravel Slinger|C
+Grassland Crusader|C
+Gratuitous Violence|R
+Gravespawn Sovereign|R
+Graxiplon|U
+Grinning Demon|R
+Gustcloak Harrier|C
+Gustcloak Runner|C
+Gustcloak Savior|R
+Gustcloak Sentinel|U
+Gustcloak Skirmisher|U
+Haunted Cadaver|C
+Harsh Mercy|R
+Heedless One|U
+Headhunter|U
+Head Games|R
+Hystrodon|R
+Imagecrafter|C
+Improvised Armor|U
+Ixidor, Reality Sculptor|R
+Information Dealer|C
+Infest|U
+Invigorating Boon|U
+Inspirit|U
+Insurrection|R
+Ironfist Crusher|U
+Island|L
+Ixidor's Will|C
+Kaboom!|R
+Jareth, Leonine Titan|R
 Cabal Archon|U
 Cabal Executioner|U
 Cabal Slaver|U
@@ -48,18 +123,18 @@ Catapult Master|R
 Catapult Squad|U
 Centaur Glade|U
 Chain of Acid|U
-Chain of Plasma|U
 Chain of Silence|U
+Chain of Plasma|U
 Chain of Smog|U
-Chain of Vapor|U
 Charging Slateback|C
-Choking Tethers|C
+Chain of Vapor|U
 Circle of Solace|R
+Choking Tethers|C
 Clone|R
-Commando Raid|U
 Complicate|U
-Contested Cliffs|R
+Commando Raid|U
 Convalescent Care|R
+Contested Cliffs|R
 Cover of Darkness|R
 Crafty Pathmage|C
 Crowd Favorites|U
@@ -73,185 +148,110 @@ Cruel Revival|C
 Cryptic Gateway|R
 Custody Battle|U
 Daru Cavalier|C
-Daru Encampment|U
 Daru Healer|C
+Daru Encampment|U
 Daru Lancer|C
 Daunting Defender|C
 Dawning Purist|U
-Death Match|R
-Death Pulse|U
 Defensive Maneuvers|C
+Death Pulse|U
+Death Match|R
 Demystify|C
-Dirge of Dread|C
 Disciple of Grace|C
+Dirge of Dread|C
 Disciple of Malice|C
 Discombobulate|U
-Dispersing Orb|U
 Disruptive Pitmage|C
+Dispersing Orb|U
+Doomed Necromancer|R
 Dive Bomber|C
 Doom Cannon|R
-Doomed Necromancer|R
 Doubtless One|U
 Dragon Roost|R
-Dream Chisel|R
 Dwarven Blastminer|U
+Dream Chisel|R
 Ebonblade Reaper|R
 Elven Riders|U
-Elvish Guidance|C
-Elvish Pathcutter|C
-Elvish Pioneer|C
-Elvish Scrapper|U
-Elvish Vanguard|R
-Elvish Warrior|C
-Embermage Goblin|U
-Enchantress's Presence|R
-Endemic Plague|R
-Entrails Feaster|R
-Erratic Explosion|C
-Essence Fracture|U
-Everglove Courier|U
-Exalted Angel|R
-Explosive Vegetation|U
-Fade from Memory|U
-Fallen Cleric|C
-False Cure|R
-Feeding Frenzy|U
-Festering Goblin|C
-Fever Charm|C
-Flamestick Courier|U
-Fleeting Aven|U
-Flooded Strand|R
-Foothill Guide|C
-Forest|L
-Forgotten Cave|C
-Frightshroud Courier|U
-Future Sight|R
-Gangrenous Goliath|R
-Ghosthelm Courier|U
-Gigapede|R
-Glarecaster|R
-Glory Seeker|C
-Gluttonous Zombie|U
-Goblin Burrows|U
-Goblin Machinist|U
-Goblin Piledriver|R
-Goblin Pyromancer|R
-Goblin Sharpshooter|R
-Goblin Sky Raider|C
-Goblin Sledder|C
-Goblin Taskmaster|C
-Grand Coliseum|R
-Grand Melee|R
-Grassland Crusader|C
-Gratuitous Violence|R
-Gravel Slinger|C
-Gravespawn Sovereign|R
-Graxiplon|U
-Grinning Demon|R
-Gustcloak Harrier|C
-Gustcloak Runner|C
-Gustcloak Savior|R
-Gustcloak Sentinel|U
-Gustcloak Skirmisher|U
-Harsh Mercy|R
-Haunted Cadaver|C
-Head Games|R
-Headhunter|U
-Heedless One|U
-Hystrodon|R
-Imagecrafter|C
-Improvised Armor|U
-Infest|U
-Information Dealer|C
-Inspirit|U
-Insurrection|R
-Invigorating Boon|U
-Ironfist Crusher|U
-Island|L
-Ixidor's Will|C
-Ixidor, Reality Sculptor|R
-Jareth, Leonine Titan|R
-Kaboom!|R
-Kamahl's Summons|U
 Kamahl, Fist of Krosa|R
-Krosan Colossus|R
+Kamahl's Summons|U
 Krosan Groundshaker|U
+Krosan Colossus|R
 Krosan Tusker|C
 Lavamancer's Skill|C
-Lay Waste|C
 Leery Fogbeast|C
+Lay Waste|C
 Lightning Rift|U
 Lonely Sandbar|C
-Mage's Guile|C
 Mana Echoes|R
+Mage's Guile|C
 Meddle|U
 Menacing Ogre|R
-Misery Charm|C
 Mistform Dreamer|C
+Misery Charm|C
 Mistform Mask|C
 Mistform Mutant|U
 Mistform Shrieker|U
 Mistform Skyreaver|R
 Mistform Stalker|U
 Mistform Wall|C
-Mobilization|R
 Mountain|L
+Mobilization|R
 Mythic Proportions|R
 Nameless One|U
 Nantuko Husk|C
-Naturalize|C
-Nosy Goblin|C
-Nova Cleric|U
-Oblation|R
 Oversold Cemetery|R
+Nosy Goblin|C
+Naturalize|C
+Nova Cleric|U
 Overwhelming Instinct|U
+Oblation|R
 Pacifism|C
-Patriarch's Bidding|R
 Pearlspear Courier|U
-Peer Pressure|R
+Patriarch's Bidding|R
 Piety Charm|C
-Pinpoint Avalanche|C
+Peer Pressure|R
 Plains|L
+Pinpoint Avalanche|C
 Polluted Delta|R
 Primal Boost|U
-Profane Prayers|C
 Prowling Pangolin|U
-Psychic Trance|R
+Profane Prayers|C
 Quicksilver Dragon|R
+Psychic Trance|R
 Ravenous Baloth|R
 Read the Runes|R
 Reckless One|U
 Reminisce|U
 Renewed Faith|C
-Righteous Cause|U
 Riptide Biologist|C
+Righteous Cause|U
 Riptide Chronologist|U
 Riptide Entrancer|R
-Riptide Laboratory|R
 Riptide Replicator|R
+Riptide Laboratory|R
 Riptide Shapeshifter|U
-Risky Move|R
 Rorix Bladewing|R
 Rotlung Reanimator|R
+Risky Move|R
 Rummaging Wizard|U
-Run Wild|U
-Sage Aven|C
-Sandskin|C
 Screaming Seahawk|C
+Sage Aven|C
+Run Wild|U
+Sandskin|C
 Screeching Buzzard|C
 Sea's Claim|C
 Searing Flesh|U
 Seaside Haven|U
-Secluded Steppe|C
 Serpentine Basilisk|U
+Secluded Steppe|C
 Severed Legion|C
-Shade's Breath|U
 Shaleskin Bruiser|U
+Shade's Breath|U
 Shared Triumph|R
 Shepherd of Rot|C
 Shieldmage Elder|U
-Shock|C
 Sigil of the New Dawn|R
+Shock|C
 Silent Specter|R
 Silklash Spider|R
 Silvos, Rogue Elemental|R
@@ -262,42 +262,42 @@ Skittish Valesk|U
 Slate of Ancestry|R
 Slice and Dice|U
 Slipstream Eel|C
-Smother|U
 Snapping Thragg|U
+Smother|U
 Snarling Undorak|C
-Solar Blast|C
 Soulless One|U
+Solar Blast|C
 Sparksmith|C
 Spined Basher|C
 Spitfire Handler|U
 Spitting Gourna|C
 Spurred Wolverine|C
-Spy Network|C
+Starstorm|R
 Stag Beetle|R
+Spy Network|C
 Standardize|R
 Starlit Sanctum|U
-Starstorm|R
-Steely Resolve|R
 Strongarm Tactics|R
-Sunfire Balm|U
+Steely Resolve|R
 Supreme Inquisitor|R
-Swamp|L
+Sunfire Balm|U
 Swat|C
+Swamp|L
 Symbiotic Beast|U
 Symbiotic Elf|C
-Symbiotic Wurm|R
 Syphon Mind|C
+Symbiotic Wurm|R
 Syphon Soul|C
 Taunting Elf|C
 Tempting Wurm|R
-Tephraderm|R
 Thoughtbound Primoc|U
+Tephraderm|R
 Thrashing Mudspawn|U
-Threaten|U
 Thunder of Hooves|U
+Threaten|U
 Towering Baloth|U
-Trade Secrets|R
 Tranquil Thicket|C
+Trade Secrets|R
 Treespring Lorian|C
 Tribal Golem|R
 Tribal Unity|U
@@ -305,20 +305,20 @@ Trickery Charm|C
 True Believer|R
 Undead Gladiator|R
 Unholy Grotto|R
-Unified Strike|C
 Venomspout Brackus|U
+Unified Strike|C
 Visara the Dreadful|R
-Vitality Charm|C
 Voice of the Woods|R
+Vitality Charm|C
 Voidmage Prodigy|R
 Walking Desecration|U
 Wall of Mulch|U
-Wave of Indifference|C
 Weathered Wayfarer|R
-Weird Harvest|R
+Wave of Indifference|C
 Wellwisher|C
-Wheel and Deal|R
+Weird Harvest|R
 Whipcorder|U
+Wheel and Deal|R
 Windswept Heath|R
 Wirewood Elf|C
 Wirewood Herald|C
@@ -328,8 +328,8 @@ Wirewood Savage|C
 Withering Hex|U
 Wooded Foothills|R
 Words of War|R
-Words of Waste|R
 Words of Wilding|R
-Words of Wind|R
+Words of Waste|R
 Words of Worship|R
+Words of Wind|R
 Wretched Anurid|C

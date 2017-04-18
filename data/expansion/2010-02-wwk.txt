@@ -1,140 +1,15 @@
-Abyssal Persecutor|M
-Admonition Angel|M
-Aether Tradewinds|C
-Agadeem Occultist|R
-Akoum Battlesinger|C
-Amulet of Vigor|R
-Anowon, the Ruin Sage|R
-Apex Hawks|C
-Arbor Elf|C
-Archon of Redemption|R
-Avenger of Zendikar|M
-Basilisk Collar|R
-Battle Hurda|C
-Bazaar Trader|R
-Bestial Menace|U
-Bloodhusk Ritualist|U
-Bojuka Bog|C
-Bojuka Brigand|C
-Brink of Disaster|C
-Bull Rush|C
-Butcher of Malakir|R
-Calcite Snapper|C
-Canopy Cover|U
-Caustic Crawler|U
-Celestial Colonnade|R
-Chain Reaction|R
-Claws of Valakut|C
-Comet Storm|M
-Corrupted Zendikon|C
-Cosi's Ravager|C
-Creeping Tar Pit|R
-Crusher Zendikon|C
-Cunning Sparkmage|U
-Dead Reckoning|C
-Death's Shadow|R
-Deathforge Shaman|U
-Dispel|C
-Dragonmaster Outcast|M
-Dread Statuary|U
-Enclave Elite|C
-Everflowing Chalice|U
-Explore|C
-Eye of Ugin|M
-Feral Contest|C
-Fledgling Griffin|C
-Gnarlid Pack|C
-Goblin Roughrider|C
-Goliath Sphinx|R
-Grappler Spider|C
-Graypelt Hunter|C
-Grotag Thrasher|C
-Groundswell|C
-Guardian Zendikon|C
-Hada Freeblade|U
-Halimar Depths|C
-Halimar Excavator|C
-Hammer of Ruin|U
-Harabaz Druid|R
-Hedron Rover|C
-Horizon Drake|U
-Iona's Judgment|C
-Jace, the Mind Sculptor|M
-Jagwasp Swarm|C
-Join the Ranks|C
-Joraga Warcaller|R
-Jwari Shapeshifter|R
-Kalastria Highborn|R
-Kazuul, Tyrant of the Cliffs|R
-Khalni Garden|C
-Kitesail|C
-Kitesail Apprentice|C
-Kor Firewalker|U
-Lavaclaw Reaches|R
-Leatherback Baloth|U
-Lightkeeper of Emeria|U
-Loam Lion|U
-Lodestone Golem|R
-Marsh Threader|C
-Marshal's Anthem|R
-Mire's Toll|C
-Mordant Dragon|R
-Mysteries of the Deep|C
-Nature's Claim|C
-Nemesis Trap|U
-Novablast Wurm|M
-Omnath, Locus of Mana|M
-Perimeter Captain|U
-Permafrost Trap|U
-Pilgrim's Eye|C
-Pulse Tracker|C
-Quag Vampires|C
-Quest for Renewal|U
-Quest for the Goblin Lord|U
-Quest for the Nihil Stone|R
-Quest for Ula's Temple|R
-Quicksand|C
-Raging Ravine|R
-Razor Boomerang|U
-Refraction Trap|U
-Rest for the Weary|C
-Ricochet Trap|U
-Roiling Terrain|C
-Ruin Ghost|U
-Rumbling Aftershocks|U
-Ruthless Cullblade|C
-Scrib Nibblers|U
-Searing Blaze|C
-Seer's Sundial|R
-Sejiri Merfolk|U
-Sejiri Steppe|C
-Selective Memory|R
-Shoreline Salvager|U
-Skitter of Lizards|C
-Slavering Nulls|U
-Slingbow Trap|U
-Smoldering Spires|C
-Smother|U
-Snapping Creeper|C
-Spell Contortion|U
-Stirring Wildwood|R
-Stone Idol Trap|R
-Stoneforge Mystic|R
-Strength of the Tajuru|R
-Summit Apes|U
-Surrakar Banisher|C
 Talus Paladin|R
-Tectonic Edge|U
 Terastodon|R
-Terra Eternal|R
+Tectonic Edge|U
 Thada Adel, Acquisitor|R
+Terra Eternal|R
 Tideforce Elemental|U
 Tomb Hex|C
 Treasure Hunt|C
 Tuktuk Scrapper|U
+Vapor Snare|U
 Twitch|C
 Urge to Feed|U
-Vapor Snare|U
 Vastwood Animist|U
 Vastwood Zendikon|C
 Veteran's Reflexes|C
@@ -143,3 +18,128 @@ Walking Atlas|C
 Wind Zendikon|C
 Wolfbriar Elemental|R
 Wrexial, the Risen Deep|M
+Akoum Battlesinger|C
+Abyssal Persecutor|M
+Aether Tradewinds|C
+Admonition Angel|M
+Agadeem Occultist|R
+Kor Firewalker|U
+Leatherback Baloth|U
+Lavaclaw Reaches|R
+Lightkeeper of Emeria|U
+Marshal's Anthem|R
+Marsh Threader|C
+Loam Lion|U
+Lodestone Golem|R
+Mire's Toll|C
+Mysteries of the Deep|C
+Mordant Dragon|R
+Nature's Claim|C
+Omnath, Locus of Mana|M
+Anowon, the Ruin Sage|R
+Amulet of Vigor|R
+Arbor Elf|C
+Apex Hawks|C
+Archon of Redemption|R
+Avenger of Zendikar|M
+Basilisk Collar|R
+Battle Hurda|C
+Bazaar Trader|R
+Bloodhusk Ritualist|U
+Nemesis Trap|U
+Novablast Wurm|M
+Perimeter Captain|U
+Permafrost Trap|U
+Pilgrim's Eye|C
+Pulse Tracker|C
+Quag Vampires|C
+Quest for the Goblin Lord|U
+Quest for Renewal|U
+Quest for the Nihil Stone|R
+Quest for Ula's Temple|R
+Quicksand|C
+Raging Ravine|R
+Razor Boomerang|U
+Rest for the Weary|C
+Refraction Trap|U
+Ricochet Trap|U
+Ruin Ghost|U
+Roiling Terrain|C
+Ruthless Cullblade|C
+Rumbling Aftershocks|U
+Scrib Nibblers|U
+Searing Blaze|C
+Seer's Sundial|R
+Sejiri Merfolk|U
+Selective Memory|R
+Sejiri Steppe|C
+Shoreline Salvager|U
+Skitter of Lizards|C
+Slavering Nulls|U
+Smoldering Spires|C
+Slingbow Trap|U
+Smother|U
+Stirring Wildwood|R
+Snapping Creeper|C
+Spell Contortion|U
+Stoneforge Mystic|R
+Stone Idol Trap|R
+Summit Apes|U
+Strength of the Tajuru|R
+Surrakar Banisher|C
+Bestial Menace|U
+Bojuka Brigand|C
+Bojuka Bog|C
+Brink of Disaster|C
+Butcher of Malakir|R
+Bull Rush|C
+Calcite Snapper|C
+Canopy Cover|U
+Caustic Crawler|U
+Celestial Colonnade|R
+Claws of Valakut|C
+Chain Reaction|R
+Corrupted Zendikon|C
+Comet Storm|M
+Cosi's Ravager|C
+Crusher Zendikon|C
+Creeping Tar Pit|R
+Cunning Sparkmage|U
+Dead Reckoning|C
+Death's Shadow|R
+Deathforge Shaman|U
+Dragonmaster Outcast|M
+Dispel|C
+Dread Statuary|U
+Enclave Elite|C
+Explore|C
+Fledgling Griffin|C
+Everflowing Chalice|U
+Eye of Ugin|M
+Feral Contest|C
+Gnarlid Pack|C
+Goblin Roughrider|C
+Goliath Sphinx|R
+Grappler Spider|C
+Graypelt Hunter|C
+Grotag Thrasher|C
+Guardian Zendikon|C
+Groundswell|C
+Hada Freeblade|U
+Halimar Excavator|C
+Halimar Depths|C
+Hammer of Ruin|U
+Harabaz Druid|R
+Hedron Rover|C
+Horizon Drake|U
+Jace, the Mind Sculptor|M
+Iona's Judgment|C
+Jagwasp Swarm|C
+Joraga Warcaller|R
+Join the Ranks|C
+Jwari Shapeshifter|R
+Kalastria Highborn|R
+Kazuul, Tyrant of the Cliffs|R
+Kitesail|C
+Khalni Garden|C
+Kitesail Apprentice|C

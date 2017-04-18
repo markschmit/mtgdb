@@ -1,11 +1,12 @@
+Everglades|U
+Archangel|R
 Aku Djinn|R
 Anvil of Bogardan|R
-Archangel|R
 Army Ants|U
 Betrayal|C
+Brass-Talon Chimera|U
 Blanket of Night|U
 Bogardan Phoenix|R
-Brass-Talon Chimera|U
 Breathstealer's Crypt|R
 Breezekeeper|C
 Brood of Cockroaches|U
@@ -13,125 +14,99 @@ Bull Elephant|C
 Chronatog|R
 City of Solitude|R
 Cloud Elemental|C
-Coercion|C
-Coral Atoll|U
 Corrosion|R
-Creeping Mold|U
+Coral Atoll|U
+Coercion|C
 Crypt Rats|C
+Creeping Mold|U
 Daraja Griffin|U
 Dark Privilege|C
-Death Watch|C
-Desertion|R
 Desolation|U
+Death Watch|C
 Diamond Kaleidoscope|R
-Dormant Volcano|U
+Desertion|R
 Dragon Mask|U
-Dream Tides|U
+Dormant Volcano|U
 Dwarven Vigilantes|C
-Elephant Grass|U
+Dream Tides|U
 Elkin Lair|R
+Elephant Grass|U
+Equipoise|R
 Elven Cache|C
 Emerald Charm|C
-Equipoise|R
-Everglades|U
 Eye of Singularity|R
 Fallen Askari|C
 Femeref Enchantress|R
-Feral Instinct|C
 Fireblast|C
+Feral Instinct|C
+Forbidden Ritual|R
 Firestorm Hellkite|R
 Flooded Shoreline|R
-Forbidden Ritual|R
 Foreshadow|U
 Freewind Falcon|C
-Funeral Charm|C
 Giant Caterpillar|C
+Funeral Charm|C
 Goblin Recruiter|U
 Goblin Swine-Rider|C
 Gossamer Chains|C
 Griffin Canyon|R
 Guiding Spirit|R
-Hearth Charm|C
 Heat Wave|U
-Helm of Awakening|U
+Hearth Charm|C
 Honorable Passage|U
+Helm of Awakening|U
 Hope Charm|C
 Hulking Cyclops|U
-Impulse|C
-Infantry Veteran|C
-Infernal Harvest|C
 Inspiration|C
+Infantry Veteran|C
+Impulse|C
+Infernal Harvest|C
 Iron-Heart Chimera|U
 Jamuraan Lion|C
 Juju Bubble|U
 Jungle Basin|U
-Kaervek's Spite|R
 Karoo|U
-Katabatic Winds|R
+Kaervek's Spite|R
 Keeper of Kookus|C
+Katabatic Winds|R
 King Cheetah|C
 Knight of the Mists|C
 Knight of Valor|C
-Kookus|R
 Kyscu Drake|U
+Kookus|R
 Lead-Belly Chimera|U
 Lichenthrope|R
 Lightning Cloud|R
 Longbow Archer|U
-Magma Mine|U
-Man-o'-War|C
 Matopi Golem|U
-Miraculous Recovery|U
-Mob Mentality|U
-Mortal Wound|C
-Mundungu|U
-Mystic Veil|C
-Natural Order|R
-Necromancy|U
-Necrosavant|R
-Nekrataal|U
-Ogre Enforcer|R
-Ovinomancer|U
-Panther Warriors|C
-Parapet|C
-Peace Talks|U
-Phyrexian Marauder|R
-Phyrexian Walker|C
-Pillar Tombs of Aku|R
-Prosperity|U
-Pygmy Hippo|R
-Python|C
-Quicksand|U
-Quirion Druid|R
-Quirion Ranger|C
-Raging Gorilla|C
-Rainbow Efreet|R
-Relentless Assault|R
+Man-o'-War|C
+Magma Mine|U
 Relic Ward|U
-Remedy|C
+Relentless Assault|R
 Resistance Fighter|C
+Remedy|C
 Retribution of the Meek|R
-Righteous Aura|C
 Righteous War|R
+Righteous Aura|C
 River Boa|C
-Rock Slide|C
 Rowen|R
-Sands of Time|R
+Rock Slide|C
 Scalebane's Elite|U
+Sands of Time|R
 Shimmering Efreet|U
 Shrieking Drake|C
+Solfatara|C
 Simoon|U
 Sisay's Ring|C
 Snake Basket|R
-Solfatara|C
 Song of Blood|C
 Spider Climb|C
 Spitting Drake|U
-Squandered Resources|R
 Stampeding Wildebeests|U
+Squandered Resources|R
+Sun Clasp|C
 Suleiman's Legacy|R
 Summer Bloom|U
-Sun Clasp|C
 Suq'Ata Assassin|U
 Suq'Ata Lancer|C
 Talruum Champion|C
@@ -140,28 +115,53 @@ Tar Pit Warrior|C
 Teferi's Honor Guard|U
 Teferi's Puzzle Box|R
 Teferi's Realm|R
+Miraculous Recovery|U
+Mob Mentality|U
+Mortal Wound|C
+Mystic Veil|C
+Mundungu|U
+Necromancy|U
+Natural Order|R
+Necrosavant|R
+Nekrataal|U
+Ogre Enforcer|R
+Panther Warriors|C
+Ovinomancer|U
+Phyrexian Marauder|R
+Peace Talks|U
+Parapet|C
+Phyrexian Walker|C
+Pillar Tombs of Aku|R
+Pygmy Hippo|R
+Prosperity|U
+Python|C
+Quirion Druid|R
+Quicksand|U
+Quirion Ranger|C
+Raging Gorilla|C
+Rainbow Efreet|R
 Tempest Drake|U
 Three Wishes|R
-Time and Tide|U
 Tin-Wing Chimera|U
-Tithe|R
+Time and Tide|U
 Tremor|C
-Triangle of War|R
+Tithe|R
 Uktabi Orangutan|U
-Undiscovered Paradise|R
+Triangle of War|R
 Undo|C
+Undiscovered Paradise|R
+Vampirism|U
 Urborg Mindsucker|C
 Vampiric Tutor|R
-Vampirism|U
 Vanishing|C
 Viashino Sandstalker|U
 Viashivan Dragon|R
-Vision Charm|C
 Wake of Vultures|C
+Vision Charm|C
 Wand of Denial|R
-Warrior's Honor|C
 Warthog|C
+Warrior's Honor|C
 Waterspout Djinn|U
-Wicked Reward|C
 Wind Shear|U
+Wicked Reward|C
 Zhalfirin Crusader|R

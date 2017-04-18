@@ -1,175 +1,141 @@
 Abhorrent Overlord|R
+Observant Alseid|C
+Nykthos, Shrine to Nyx|R
+Nimbus Naiad|C
+Nylea's Disciple|C
+Nylea's Emissary|U
+Nylea's Presence|C
+Nylea, God of the Hunt|M
+Ashen Rider|M
+Arena Athlete|U
+Ashiok, Nightmare Weaver|M
+Artisan of Forms|R
+Artisan's Sorrow|U
+Asphodel Wanderer|C
 Agent of Horizons|C
 Agent of the Fates|R
 Akroan Crusader|C
 Akroan Hoplite|U
+Annul|C
 Akroan Horse|R
+Anthousa, Setessan Hero|R
 Anax and Cymede|R
 Anger of the Gods|R
-Annul|C
-Anthousa, Setessan Hero|R
 Anvilwrought Raptor|U
 Aqueous Form|C
-Arbor Colossus|R
-Arena Athlete|U
-Artisan of Forms|R
-Artisan's Sorrow|U
-Ashen Rider|M
-Ashiok, Nightmare Weaver|M
-Asphodel Wanderer|C
 Baleful Eidolon|C
 Battlewise Hoplite|U
+Blood-Toll Harpy|C
 Battlewise Valor|C
 Benthic Giant|C
 Bident of Thassa|R
-Blood-Toll Harpy|C
-Boon of Erebos|C
 Boon Satyr|R
-Borderland Minotaur|C
-Boulderfall|C
+Boon of Erebos|C
 Bow of Nylea|R
+Boulderfall|C
+Borderland Minotaur|C
 Breaching Hippocamp|C
 Bronze Sable|C
 Burnished Hart|U
 Cavalry Pegasus|C
 Cavern Lampad|C
 Celestial Archon|R
-Centaur Battlemaster|U
-Chained to the Rocks|R
-Chosen by Heliod|C
-Chronicler of Heroes|U
-Coastline Chimera|C
-Colossus of Akros|R
-Commune with the Gods|C
-Coordinated Assault|U
-Crackling Triton|C
-Curse of the Swine|R
-Cutthroat Maneuver|U
-Dark Betrayal|U
-Dauntless Onslaught|U
-Daxos of Meletis|R
-Deathbellow Raider|C
-Decorated Griffin|U
-Defend the Hearth|C
-Demolish|C
-Destructive Revelry|U
-Disciple of Phenax|C
-Dissolve|U
-Divine Verdict|C
-Dragon Mantle|C
-Elspeth, Sun's Champion|M
-Ember Swallower|R
-Ephara's Warden|C
-Erebos's Emissary|U
-Erebos, God of the Dead|M
-Evangel of Heliod|U
-Fabled Hero|R
-Fade into Antiquity|C
-Fanatic of Mogis|U
-Fate Foretold|C
-Favored Hoplite|U
-Felhide Minotaur|C
-Feral Invocation|C
-Firedrinker Satyr|R
-Flamecast Wheel|U
-Flamespeaker Adept|U
-Fleecemane Lion|R
-Fleetfeather Sandals|C
-Fleshmad Steed|C
-Forest|L
-Gainsay|U
-Gift of Immortality|R
-Glare of Heresy|U
-Gods Willing|C
-Gray Merchant of Asphodel|C
-Griptide|C
-Guardians of Meletis|C
-Hammer of Purphoros|R
-Heliod's Emissary|U
-Heliod, God of the Sun|M
-Hero's Downfall|R
-Hopeful Eidolon|C
-Horizon Chimera|U
-Horizon Scholar|U
-Hundred-Handed One|R
-Hunt the Hunter|U
-Hythonia the Cruel|M
-Ill-Tempered Cyclops|C
-Insatiable Harpy|U
-Island|L
-Karametra's Acolyte|U
-Keepsake Gorgon|U
-Kragma Warcaller|U
-Labyrinth Champion|R
-Lagonna-Band Elder|C
-Lash of the Whip|C
-Last Breath|C
-Leafcrown Dryad|C
-Leonin Snarecaster|C
-Lightning Strike|C
-Loathsome Catoblepas|C
-Lost in a Labyrinth|C
-Magma Jet|U
-March of the Returned|C
-Master of Waves|M
-Medomai the Ageless|M
-Meletis Charlatan|R
-Messenger's Speed|C
-Minotaur Skullcleaver|C
-Mistcutter Hydra|R
-Mnemonic Wall|C
-Mogis's Marauder|U
-Mountain|L
-Nemesis of Mortals|U
-Nessian Asp|C
-Nessian Courser|C
-Nighthowler|R
-Nimbus Naiad|C
-Nykthos, Shrine to Nyx|R
-Nylea's Disciple|C
-Nylea's Emissary|U
-Nylea's Presence|C
-Nylea, God of the Hunt|M
-Observant Alseid|C
 Omenspeaker|C
 Opaline Unicorn|C
 Ordeal of Erebos|U
 Ordeal of Heliod|U
+Plains|L
+Polis Crusher|R
 Ordeal of Nylea|U
 Ordeal of Purphoros|U
 Ordeal of Thassa|U
 Peak Eruption|U
 Phalanx Leader|U
-Pharika's Cure|C
 Pharika's Mender|U
+Pharika's Cure|C
 Pheres-Band Centaurs|C
-Plains|L
-Polis Crusher|R
 Polukranos, World Eater|M
-Portent of Betrayal|C
 Prescient Chimera|C
+Portent of Betrayal|C
 Priest of Iroas|C
 Prognostic Sphinx|R
 Prophet of Kruphix|R
+Purphoros's Emissary|U
 Prowler's Helm|U
 Psychic Intrusion|R
-Purphoros's Emissary|U
 Purphoros, God of the Forge|M
-Pyxis of Pandemonium|R
 Rage of Purphoros|C
 Rageblood Shaman|R
+Pyxis of Pandemonium|R
 Ray of Dissolution|C
 Read the Bones|C
-Reaper of the Wilds|R
 Rescue from the Underworld|U
+Reaper of the Wilds|R
 Returned Centaur|C
 Returned Phalanx|C
+Satyr Rambler|C
 Reverent Hunter|R
 Satyr Hedonist|C
 Satyr Piper|U
-Satyr Rambler|C
-Savage Surge|C
+Arbor Colossus|R
+Nighthowler|R
 Scholar of Athreos|C
+Shipbreaker Kraken|R
+Shipwreck Singer|U
+Shredding Winds|C
+Silent Artisan|C
+Soldier of the Pantheon|R
+Sip of Hemlock|C
+Spear of Heliod|R
+Spark Jolt|C
+Spellheart Chimera|U
+Spearpoint Oread|C
+Staunch-Hearted Warrior|C
+Stoneshock Giant|U
+Stormbreath Dragon|M
+Steam Augury|R
+Swamp|L
+Stymied Hopes|C
+Swan Song|R
+Sylvan Caryatid|R
+Temple of Deceit|R
+Temple of Abandon|R
+Temple of Mystery|R
+Temple of Silence|R
+Temple of Triumph|R
+Thassa's Emissary|U
+Thassa's Bounty|C
+Thassa, God of the Sea|M
+Titan of Eternal Fire|R
+Thoughtseize|R
+Time to Feed|C
+Titan's Strength|C
+Tormented Hero|U
+Traveling Philosopher|C
+Traveler's Amulet|C
+Triton Fortune Hunter|U
+Triad of Fates|R
+Triton Shorethief|C
+Two-Headed Cerberus|C
+Triton Tactics|U
+Underworld Cerberus|M
+Tymaret, the Murder King|R
+Vanquish the Foul|U
+Vaporkin|C
+Unknown Shores|C
+Viper's Kiss|C
+Voyage's End|C
+Voyaging Satyr|C
+Vulpine Goliath|C
+Wavecrash Triton|C
+Warriors' Lesson|U
+Whip of Erebos|R
+Wild Celebrants|C
+Wingsteed Rider|C
+Witches' Eye|U
+Xenagos, the Reveler|M
+Yoked Ox|C
+Savage Surge|C
 Scourgemark|C
 Sea God's Revenge|U
 Sealock Monster|U
@@ -177,58 +143,92 @@ Sedge Scorpion|C
 Sentry of the Underworld|U
 Setessan Battle Priest|C
 Setessan Griffin|C
-Shipbreaker Kraken|R
-Shipwreck Singer|U
-Shredding Winds|C
-Silent Artisan|C
-Sip of Hemlock|C
-Soldier of the Pantheon|R
-Spark Jolt|C
-Spear of Heliod|R
-Spearpoint Oread|C
-Spellheart Chimera|U
-Staunch-Hearted Warrior|C
-Steam Augury|R
-Stoneshock Giant|U
-Stormbreath Dragon|M
-Stymied Hopes|C
-Swamp|L
-Swan Song|R
-Sylvan Caryatid|R
-Temple of Abandon|R
-Temple of Deceit|R
-Temple of Mystery|R
-Temple of Silence|R
-Temple of Triumph|R
-Thassa's Bounty|C
-Thassa's Emissary|U
-Thassa, God of the Sea|M
-Thoughtseize|R
-Time to Feed|C
-Titan of Eternal Fire|R
-Titan's Strength|C
-Tormented Hero|U
-Traveler's Amulet|C
-Traveling Philosopher|C
-Triad of Fates|R
-Triton Fortune Hunter|U
-Triton Shorethief|C
-Triton Tactics|U
-Two-Headed Cerberus|C
-Tymaret, the Murder King|R
-Underworld Cerberus|M
-Unknown Shores|C
-Vanquish the Foul|U
-Vaporkin|C
-Viper's Kiss|C
-Voyage's End|C
-Voyaging Satyr|C
-Vulpine Goliath|C
-Warriors' Lesson|U
-Wavecrash Triton|C
-Whip of Erebos|R
-Wild Celebrants|C
-Wingsteed Rider|C
-Witches' Eye|U
-Xenagos, the Reveler|M
-Yoked Ox|C
+Centaur Battlemaster|U
+Chained to the Rocks|R
+Chosen by Heliod|C
+Chronicler of Heroes|U
+Coastline Chimera|C
+Colossus of Akros|R
+Coordinated Assault|U
+Commune with the Gods|C
+Crackling Triton|C
+Cutthroat Maneuver|U
+Curse of the Swine|R
+Dauntless Onslaught|U
+Dark Betrayal|U
+Daxos of Meletis|R
+Deathbellow Raider|C
+Decorated Griffin|U
+Demolish|C
+Defend the Hearth|C
+Disciple of Phenax|C
+Destructive Revelry|U
+Dissolve|U
+Divine Verdict|C
+Dragon Mantle|C
+Elspeth, Sun's Champion|M
+Ember Swallower|R
+Ephara's Warden|C
+Fade into Antiquity|C
+Evangel of Heliod|U
+Erebos's Emissary|U
+Erebos, God of the Dead|M
+Fanatic of Mogis|U
+Fabled Hero|R
+Fate Foretold|C
+Favored Hoplite|U
+Felhide Minotaur|C
+Feral Invocation|C
+Flamespeaker Adept|U
+Firedrinker Satyr|R
+Flamecast Wheel|U
+Fleetfeather Sandals|C
+Fleecemane Lion|R
+Forest|L
+Fleshmad Steed|C
+Gift of Immortality|R
+Gainsay|U
+Glare of Heresy|U
+Gray Merchant of Asphodel|C
+Gods Willing|C
+Griptide|C
+Hammer of Purphoros|R
+Guardians of Meletis|C
+Heliod, God of the Sun|M
+Heliod's Emissary|U
+Hopeful Eidolon|C
+Hero's Downfall|R
+Horizon Chimera|U
+Horizon Scholar|U
+Hundred-Handed One|R
+Hunt the Hunter|U
+Hythonia the Cruel|M
+Ill-Tempered Cyclops|C
+Insatiable Harpy|U
+Karametra's Acolyte|U
+Island|L
+Keepsake Gorgon|U
+Kragma Warcaller|U
+Labyrinth Champion|R
+Lagonna-Band Elder|C
+Last Breath|C
+Lash of the Whip|C
+Leafcrown Dryad|C
+Leonin Snarecaster|C
+Loathsome Catoblepas|C
+Lightning Strike|C
+Magma Jet|U
+Lost in a Labyrinth|C
+March of the Returned|C
+Messenger's Speed|C
+Master of Waves|M
+Medomai the Ageless|M
+Meletis Charlatan|R
+Minotaur Skullcleaver|C
+Mistcutter Hydra|R
+Mnemonic Wall|C
+Mogis's Marauder|U
+Nemesis of Mortals|U
+Mountain|L
+Nessian Courser|C
+Nessian Asp|C

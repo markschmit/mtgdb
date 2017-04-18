@@ -1,3 +1,7 @@
+Archangel|R
+Armored Galleon|U
+Armageddon|R
+Armored Griffin|U
 Abyssal Nightstalker|U
 Air Elemental|U
 Alaborn Cavalier|U
@@ -13,23 +17,19 @@ Angel of Mercy|U
 Angelic Blessing|C
 Angelic Wall|C
 Apprentice Sorcerer|U
-Archangel|R
-Armageddon|R
-Armored Galleon|U
-Armored Griffin|U
 Barbtooth Wurm|C
-Bargain|U
-Bear Cub|C
-Bee Sting|U
-Blaze|U
 Bloodcurdling Scream|U
-Breath of Life|C
+Bear Cub|C
+Bargain|U
+Blaze|U
+Bee Sting|U
 Brimstone Dragon|R
+Breath of Life|C
 Brutal Nightstalker|U
 Chorus of Woe|C
 Coastal Wizard|R
-Coercion|U
 Cruel Edict|C
+Coercion|U
 Cunning Giant|R
 Dakmor Bat|C
 Dakmor Plague|U
@@ -37,52 +37,52 @@ Dakmor Scorpion|C
 Dakmor Sorceress|R
 Dark Offering|U
 Deathcoil Wurm|R
+Denizen of the Deep|R
+Exhaustion|R
 Deep Wood|U
 Déjà Vu|C
-Denizen of the Deep|R
-Earthquake|R
-Exhaustion|R
 Extinguish|C
+Earthquake|R
 Eye Spy|U
-False Summoning|C
 Festival of Trokin|C
+False Summoning|C
 Forest|L
+Goblin Firestarter|U
 Foul Spirit|U
 Goblin Cavaliers|C
-Goblin Firestarter|U
 Goblin General|R
 Goblin Glider|C
-Goblin Lore|U
 Goblin Matron|U
+Goblin Lore|U
 Goblin Mountaineer|C
 Goblin Piker|C
 Goblin Raider|C
-Goblin War Cry|U
 Goblin War Strike|C
+Goblin War Cry|U
 Golden Bear|C
-Hand of Death|C
 Harmony of Nature|U
-Hidden Horror|R
+Hand of Death|C
 Hurricane|R
-Ironhoof Ox|U
-Island|L
-Jagged Lightning|U
+Hidden Horror|R
 Just Fate|R
-Kiss of Death|U
+Ironhoof Ox|U
+Jagged Lightning|U
+Island|L
 Lava Axe|C
+Kiss of Death|U
+Magma Giant|R
 Lone Wolf|U
 Lurking Nightstalker|C
 Lynx|C
-Magma Giant|R
-Mind Rot|C
 Moaning Spirit|C
-Monstrous Growth|C
+Mind Rot|C
 Mountain|L
+Monstrous Growth|C
 Muck Rats|C
 Mystic Denial|U
 Natural Spring|C
-Nature's Lore|C
 Nightstalker Engine|R
+Nature's Lore|C
 Norwood Archers|C
 Norwood Priestess|R
 Norwood Ranger|C
@@ -90,38 +90,37 @@ Norwood Riders|C
 Norwood Warrior|C
 Obsidian Giant|U
 Ogre Arsonist|U
-Ogre Berserker|C
 Ogre Taskmaster|U
-Ogre Warrior|C
-Path of Peace|C
+Ogre Berserker|C
 Piracy|R
-Plains|L
+Path of Peace|C
 Plated Wurm|C
-Predatory Nightstalker|U
+Plains|L
 Prowling Nightstalker|C
+Predatory Nightstalker|U
 Raging Goblin|C
 Raiding Nightstalker|C
-Rain of Daggers|R
 Raise Dead|C
+Rain of Daggers|R
 Rally the Troops|U
 Ravenous Rats|C
 Razorclaw Bear|R
-Relentless Assault|R
 Remove|U
-Renewing Touch|U
+Relentless Assault|R
 Return of the Nightstalkers|R
+Renewing Touch|U
 Righteous Charge|C
-Righteous Fury|R
 River Bear|U
-Salvage|C
+Righteous Fury|R
 Screeching Drake|C
+Salvage|C
 Sea Drake|U
 Sleight of Hand|C
 Spitting Earth|C
 Steam Catapult|R
 Steam Frigate|C
-Stone Rain|C
 Swamp|L
+Stone Rain|C
 Swarm of Rats|C
 Sylvan Basilisk|R
 Sylvan Yeti|R
@@ -134,22 +133,23 @@ Talas Warrior|R
 Temple Acolyte|C
 Temple Elder|U
 Temporal Manipulation|R
-Theft of Dreams|U
 Tidal Surge|C
-Time Ebb|C
+Theft of Dreams|U
 Touch of Brilliance|C
+Time Ebb|C
 Town Sentry|C
 Tree Monkey|C
-Tremor|C
 Trokin High Guard|C
+Tremor|C
 Undo|U
 Untamed Wilds|U
 Vampiric Spirit|R
+Volunteer Militia|C
+Ogre Warrior|C
 Vengeance|U
 Volcanic Hammer|C
-Volunteer Militia|C
 Warrior's Stand|U
 Wild Griffin|C
+Wind Sail|C
 Wild Ox|U
 Wildfire|R
-Wind Sail|C

@@ -1,87 +1,87 @@
+Double Play|C
 Ashnod's Coupon|R
-B.F.M. (Big Furry Monster)|R
 Blacker Lotus|R
-Bronze Calendar|U
 Bureaucracy|R
-Burning Cinder Fury of Crimson Chaos Fire|R
+Bronze Calendar|U
 Cardboard Carapace|R
+Burning Cinder Fury of Crimson Chaos Fire|R
 Censorship|U
+B.F.M. (Big Furry Monster)|R
 Chaos Confetti|C
 Charm School|U
-Checks and Balances|U
 Chicken à la King|R
+Checks and Balances|U
 Chicken Egg|C
 Clam Session|C
 Clam-I-Am|C
 Clambassadors|C
+Deadhead|C
 Clay Pigeon|U
 Common Courtesy|U
-Deadhead|C
+Double Deal|C
 Denied!|C
 Double Cross|C
-Double Deal|C
 Double Dip|C
-Double Play|C
 Double Take|C
 Elvish Impersonators|C
-Flock of Rabid Sheep|U
 Forest|L
+Flock of Rabid Sheep|U
 Fowl Play|C
-Free-for-All|R
 Free-Range Chicken|C
-Gerrymandering|U
+Free-for-All|R
 Get a Life|U
+Gerrymandering|U
+Goblin Bookie|C
 Ghazbán Ogress|C
 Giant Fan|R
-Goblin Bookie|C
 Goblin Bowling Team|C
 Goblin Tutor|U
-Growth Spurt|C
 Gus|C
-Handcuffs|U
+Growth Spurt|C
 Hungry Hungry Heifer|U
 Hurloon Wrangler|C
-I'm Rubber, You're Glue|R
-Incoming!|R
+Handcuffs|U
 Infernal Spawn of Evil|R
+I'm Rubber, You're Glue|R
 Island|L
+Incoming!|R
 Jack-in-the-Mox|R
 Jalum Grifter|R
-Jester's Sombrero|R
 Jumbo Imp|U
+Jester's Sombrero|R
 Knight of the Hokey Pokey|C
-Krazy Kow|C
-Landfill|R
 Lexivore|U
+Krazy Kow|C
 Look at Me, I'm the DCI|R
+Landfill|R
 Mesa Chicken|C
 Mine, Mine, Mine!|R
 Mirror Mirror|R
 Miss Demeanor|U
+Organ Harvest|C
 Mountain|L
 Once More with Feeling|R
-Organ Harvest|C
 Ow|R
 Paper Tiger|C
-Plains|L
 Poultrygeist|C
+Plains|L
 Prismatic Wardrobe|C
-Psychic Network|R
 Ricochet|U
+Psychic Network|R
 Rock Lobster|C
 Scissors Lizard|C
-Sex Appeal|C
-Sorry|U
 Spark Fiend|R
+Sorry|U
+Sex Appeal|C
 Spatula of the Ages|U
-Squirrel Farm|R
 Strategy, Schmategy|R
+Squirrel Farm|R
 Swamp|L
-Team Spirit|C
 Temp of the Damned|C
-The Cheese Stands Alone|R
-The Ultimate Nightmare of Wizards of the Coast® Customer Service|U
+Team Spirit|C
 Timmy, Power Gamer|R
-Urza's Contact Lenses|U
+The Cheese Stands Alone|R
 Urza's Science Fair Project|U
+The Ultimate Nightmare of Wizards of the Coast® Customer Service|U
 Volrath's Motion Sensor|U
+Urza's Contact Lenses|U

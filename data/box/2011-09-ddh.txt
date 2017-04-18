@@ -1,80 +1,77 @@
+Titanic Ultimatum|R
+Vapor Snag|C
+Vitu-Ghazi, the City-Tree|U
 Ageless Entity|R
+Ajani's Pridemate|U
 Agonizing Demise|C
 Ajani Vengeant|M
 Ajani's Mantra|C
-Ajani's Pridemate|U
-Behemoth Sledge|U
 Blazing Specter|R
+Behemoth Sledge|U
 Brackwater Elemental|C
 Briarhorn|U
 Canyon Wildcat|C
-Countersquall|U
-Cruel Ultimatum|R
 Crumbling Necropolis|U
+Countersquall|U
+Pride of Lions|U
+Recoil|C
+Qasali Pridemage|C
+Recumbent Bliss|C
+Profane Command|R
+Rupture Spire|C
+Rise/Fall|U
+Searing Meditation|R
+Sapseep Forest|U
+Shriekmaw|U
+Cruel Ultimatum|R
 Deep Analysis|U
 Dimir Cutpurse|R
-Elder Mastery|U
 Essence Warden|C
+Elder Mastery|U
 Evolving Wilds|C
-Fall (Rise/Fall)|U
-Fire-Field Ogre|U
 Firemane Angel|R
+Fire-Field Ogre|U
 Fleetfoot Panther|U
+Grazing Gladehart|C
 Forest|L
 Graypelt Refuge|U
-Grazing Gladehart|C
 Griffin Guide|U
-Grixis Charm|U
 Hellfire Mongrel|U
+Grixis Charm|U
 Icy Manipulator|U
 Igneous Pouncer|C
-Island|L
 Jade Mage|U
+Island|L
 Jhessian Zombies|C
 Jungle Shrine|U
-Kazandu Refuge|U
 Kird Ape|U
-Lead the Stampede|U
+Kazandu Refuge|U
 Lightning Helix|U
+Lead the Stampede|U
 Loam Lion|U
 Loxodon Hierarch|R
-Malice (Spite/Malice)|U
-Marisi's Twinclaws|U
 Morgue Toad|C
-Moroii|U
-Mountain|L
-Nacatl Hunt-Pride|U
-Naya Charm|U
-Nicol Bolas, Planeswalker|M
-Nightscape Familiar|C
-Obelisk of Grixis|C
-Ogre Savant|C
-Pain (Pain/Suffering)|U
-Plains|L
-Pride of Lions|U
-Profane Command|R
-Qasali Pridemage|C
-Recoil|C
-Recumbent Bliss|C
-Rise (Rise/Fall)|U
-Rupture Spire|C
-Sapseep Forest|U
-Searing Meditation|R
-Shriekmaw|U
-Slave of Bolas|U
-Slavering Nulls|U
-Spite (Spite/Malice)|U
 Spitemare|U
-Steamcore Weird|C
-Suffering (Pain/Suffering)|U
-Surveilling Sprite|C
+Undermine|R
+Pain/Suffering|U
 Swamp|L
 Sylvan Bounty|C
 Sylvan Ranger|C
-Terramorphic Expanse|C
-Titanic Ultimatum|R
-Undermine|R
-Vapor Snag|C
-Vitu-Ghazi, the City-Tree|U
 Wild Nacatl|C
+Terramorphic Expanse|C
+Slavering Nulls|U
+Slave of Bolas|U
+Steamcore Weird|C
+Spite/Malice|U
 Woolly Thoctar|U
+Marisi's Twinclaws|U
+Moroii|U
+Mountain|L
+Nicol Bolas, Planeswalker|M
+Nacatl Hunt-Pride|U
+Ogre Savant|C
+Nightscape Familiar|C
+Naya Charm|U
+Obelisk of Grixis|C
+Plains|L
+Surveilling Sprite|C

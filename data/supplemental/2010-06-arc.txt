@@ -1,142 +1,141 @@
+Dimir Signet|C
+Dragon Breath|C
+Armadillo Cloak|C
 Aether Spellbomb|C
 Agony Warp|C
 Architects of Will|C
-Armadillo Cloak|C
 Artisan of Kozilek|U
 Avatar of Discord|R
 Avatar of Woe|R
-Azorius Signet|C
 Barren Moor|C
-Battering Craghorn|C
-Batwing Brume|U
-Beacon of Unrest|R
-Bituminous Blast|U
+Azorius Signet|C
 Bog Witch|C
+Battering Craghorn|C
+Beacon of Unrest|R
 Branching Bolt|C
+Batwing Brume|U
+Bituminous Blast|U
 Breath of Darigaaz|U
+Colossal Might|C
 Cemetery Reaper|R
 Chameleon Colossus|R
 Chandra's Outrage|C
-Colossal Might|C
 Corpse Connoisseur|U
-Dimir Signet|C
-Dragon Breath|C
-Dragon Fodder|C
 Dragon Whelp|U
 Dragonspeaker Shaman|U
 Dreamstone Hedron|U
 Dregscape Zombie|C
-Duplicant|R
+Fertilid|C
 Ethersworn Shieldmage|C
+Duplicant|R
 Everflowing Chalice|U
+Festering Goblin|C
 Extractor Demon|R
 Feral Hydra|R
-Fertilid|C
-Festering Goblin|C
-Fieldmist Borderpost|C
 Fierce Empath|C
 Fireball|U
-Fires of Yavimaya|U
+Fieldmist Borderpost|C
 Flameblast Dragon|R
-Fog|C
+Fires of Yavimaya|U
 Forest|L
+Fog|C
 Forgotten Ancient|R
+Dragon Fodder|C
+Graypelt Refuge|U
 Furnace Whelp|U
 Gathan Raiders|C
 Gleeful Sabotage|C
-Graypelt Refuge|U
-Gruul Signet|C
 Harmonize|U
+Gruul Signet|C
 Hellkite Charger|R
-Heroes' Reunion|U
 Hunting Moa|U
+Heroes' Reunion|U
+Infectious Horror|C
 Imperial Hellkite|R
 Incremental Blight|U
-Infectious Horror|C
-Inferno Trap|U
 Infest|U
-Island|L
-Juggernaut|U
+Inferno Trap|U
 Kaervek the Merciless|R
+Juggernaut|U
 Kamahl, Fist of Krosa|R
+Island|L
 Kazandu Refuge|U
-Khalni Garden|C
 Kilnmouth Dragon|R
+Leaf Gilder|C
+Khalni Garden|C
 Krosan Tusker|C
 Krosan Verge|U
-Leaf Gilder|C
-Leonin Abunas|R
 Lightning Greaves|U
+Leonin Abunas|R
 Llanowar Reborn|U
 Lodestone Golem|R
-Magister Sphinx|R
 Makeshift Mannequin|U
+Magister Sphinx|R
 March of the Machines|R
 Master Transmuter|R
 Memnarch|R
 Metallurgeon|U
 Mistvein Borderpost|C
 Molimo, Maro-Sorcerer|R
-Mosswort Bridge|R
 Mountain|L
-Nantuko Monastery|U
+Mosswort Bridge|R
 Obelisk of Esper|C
+Nantuko Monastery|U
 Oblivion Ring|C
 Pale Recluse|C
-Path to Exile|U
 Plains|L
+Path to Exile|U
+Rakdos Carnarium|C
 Plummet|C
 Primal Command|R
-Rakdos Carnarium|C
 Rakdos Guildmage|U
-Rakdos Signet|C
 Rancor|C
-Reanimate|U
+Rakdos Signet|C
 Reassembling Skeleton|U
 Ryusei, the Falling Star|R
+Reanimate|U
 Sakura-Tribe Elder|C
 Sanctum Gargoyle|C
 Savage Twister|U
 Scion of Darkness|R
 Secluded Steppe|C
+Shinen of Life's Roar|C
 Seething Song|C
 Selesnya Guildmage|U
-Shinen of Life's Roar|C
 Shriekmaw|U
 Sign in Blood|C
 Skirk Commando|C
 Skirk Marauder|C
-Skullcage|U
 Sorcerer's Strongbox|U
+Skullcage|U
 Spider Umbra|C
-Spin into Myth|U
 Sun Droplet|U
+Spin into Myth|U
 Sundering Titan|R
 Swamp|L
 Synod Centurion|U
 Synod Sanctum|U
 Taurean Mauler|R
-Terminate|C
-Terramorphic Expanse|C
 Thelonite Hermit|R
+Terramorphic Expanse|C
+Terminate|C
 Thran Dynamo|U
-Thunderstaff|U
-Torrent of Souls|U
 Tranquil Thicket|C
-Twisted Abomination|C
+Thunderstaff|U
 Two-Headed Dragon|R
-Unbender Tine|U
+Torrent of Souls|U
+Twisted Abomination|C
 Unmake|C
+Unbender Tine|U
 Urborg Syphon-Mage|C
 Vampiric Dragon|R
 Verdeloth the Ancient|R
-Vitu-Ghazi, the City-Tree|U
 Volcanic Fallout|U
+Vitu-Ghazi, the City-Tree|U
 Wall of Roots|C
-Wane (Wax/Wane)|S
 Watchwolf|U
-Wax (Wax/Wane)|U
 Wickerbough Elder|C
+Wax/Wane|U
 Yavimaya Dryad|U
-Zombie Infestation|U
 Zombify|U
+Zombie Infestation|U

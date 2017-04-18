@@ -1,78 +1,78 @@
-Abu Ja'far|U
 Aladdin|U
+Abu Ja'far|U
 Aladdin's Lamp|U
 Aladdin's Ring|U
+Bazaar of Baghdad|U
 Ali Baba|U
 Ali from Cairo|U
 Army of Allah|C
-Bazaar of Baghdad|U
-Bird Maiden|C
 Bottle of Suleiman|U
-Brass Man|U
-Camel|C
+Bird Maiden|C
 City in a Bottle|U
-City of Brass|U
-Cuombajj Witches|C
-Cyclone|U
+Camel|C
+Brass Man|U
 Dancing Scimitar|U
+Cuombajj Witches|C
+City of Brass|U
+Cyclone|U
 Dandân|C
 Desert|L
 Desert Nomads|C
 Desert Twister|U
 Diamond Valley|U
-Drop of Honey|U
 Ebony Horse|U
-El-Hajjâj|U
 Elephant Graveyard|U
+Drop of Honey|U
+El-Hajjâj|U
 Erg Raiders|C
 Erhnam Djinn|U
-Eye for an Eye|U
 Fishliver Oil|C
+Eye for an Eye|U
+Ghazbán Ogre|C
 Flying Carpet|U
 Flying Men|C
-Ghazbán Ogre|C
 Giant Tortoise|C
+Hurr Jackal|C
 Guardian Beast|U
 Hasran Ogress|C
-Hurr Jackal|C
 Ifh-Bíff Efreet|U
-Island Fish Jasconius|U
 Island of Wak-Wak|U
+Island Fish Jasconius|U
 Jandor's Ring|U
 Jandor's Saddlebags|U
 Jeweled Bird|U
-Jihad|U
-Junún Efreet|U
-Juzám Djinn|U
 Khabál Ghoul|U
+Junún Efreet|U
+Jihad|U
+Juzám Djinn|U
+Magnetic Mountain|U
 King Suleiman|U
 Kird Ape|C
 Library of Alexandria|U
-Magnetic Mountain|U
 Merchant Ship|U
-Metamorphosis|C
 Mijae Djinn|U
+Metamorphosis|C
 Moorish Cavalry|C
-Mountain|U
-Nafs Asp|C
-Oasis|U
-Old Man of the Sea|U
-Oubliette|C
-Piety|C
 Pyramids|U
-Repentant Blacksmith|U
-Ring of Ma'rûf|U
-Rukh Egg|C
-Sandals of Abdallah|U
-Sandstorm|C
+Old Man of the Sea|U
+Nafs Asp|C
+Mountain|U
+Oasis|U
+Piety|C
+Oubliette|C
 Serendib Djinn|U
+Ring of Ma'rûf|U
+Repentant Blacksmith|U
+Sandals of Abdallah|U
+Rukh Egg|C
+Sandstorm|C
 Serendib Efreet|U
-Shahrazad|U
-Sindbad|U
 Singing Tree|U
+Sindbad|U
+Shahrazad|U
 Sorceress Queen|U
 Stone-Throwing Devils|C
 Unstable Mutation|C
-War Elephant|C
 Wyluli Wolf|C
+War Elephant|C
 Ydwen Efreet|U

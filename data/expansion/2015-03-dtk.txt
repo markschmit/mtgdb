@@ -1,213 +1,92 @@
+Sarkhan's Rage|C
+Sarkhan's Triumph|U
+Ambuscade Shaman|U
 Acid-Spewer Dragon|U
 Aerie Bowmasters|C
 Ainok Artillerist|C
 Ainok Survivalist|U
-Ambuscade Shaman|U
-Anafenza, Kin-Tree Spirit|R
-Ancestral Statue|C
-Ancient Carp|C
-Anticipate|C
-Arashin Foremost|R
-Arashin Sovereign|R
-Artful Maneuver|C
-Assault Formation|R
-Atarka Beastbreaker|C
-Atarka Efreet|C
-Atarka Monument|U
-Atarka Pummeler|U
-Atarka's Command|R
-Avatar of the Resolute|R
-Aven Sunstriker|U
-Aven Tactician|C
-Battle Mastery|U
-Belltoll Dragon|U
-Berserkers' Onslaught|R
-Blessed Reincarnation|R
-Blood-Chin Fanatic|R
-Blood-Chin Rager|U
-Boltwing Marauder|R
-Butcher's Glee|C
-Center Soul|C
-Champion of Arashin|C
-Circle of Elders|U
-Clone Legion|M
-Coat with Venom|C
-Collected Company|R
-Colossodon Yearling|C
-Commune with Lava|R
-Conifer Strider|C
-Contradict|C
-Corpseweft|R
-Crater Elemental|R
-Cunning Breezedancer|U
-Custodian of the Trove|C
-Damnable Pact|R
-Dance of the Skywise|U
-Deadly Wanderings|U
-Death Wind|U
-Deathbringer Regent|R
-Deathmist Raptor|M
-Defeat|C
-Den Protector|R
-Descent of the Dragons|M
-Dirgur Nemesis|C
-Display of Dominance|U
-Draconic Roar|U
-Dragon Fodder|C
-Dragon Hunter|U
-Dragon Tempest|R
-Dragon Whisperer|M
-Dragon's Eye Sentry|C
-Dragon-Scarred Bear|C
-Dragonloft Idol|U
-Dragonlord Atarka|M
-Dragonlord Dromoka|M
-Dragonlord Kolaghan|M
-Dragonlord Ojutai|M
-Dragonlord Silumgar|M
-Dragonlord's Prerogative|R
-Dragonlord's Servant|U
-Dromoka Captain|U
-Dromoka Dunecaster|C
-Dromoka Monument|U
-Dromoka Warrior|C
-Dromoka's Command|R
-Dromoka's Gift|U
-Duress|C
-Dutiful Attendant|C
-Echoes of the Kin Tree|U
-Elusive Spellfist|C
-Encase in Ice|U
-Enduring Scalelord|U
-Enduring Victory|C
-Epic Confrontation|C
-Evolving Wilds|C
-Explosive Vegetation|U
-Fate Forgotten|C
-Flatten|C
-Foe-Razer Regent|R
-Forest|L
-Foul Renewal|R
-Foul-Tongue Invocation|U
-Foul-Tongue Shriek|C
-Gate Smasher|U
-Glade Watcher|C
-Glaring Aegis|C
-Gleam of Authority|R
-Glint|C
-Graceblade Artisan|U
-Gravepurge|C
-Great Teacher's Decree|U
-Guardian Shield-Bearer|C
-Gudul Lurker|U
-Gurmag Drowner|C
-Hand of Silumgar|C
-Harbinger of the Hunt|R
-Hardened Berserker|C
-Haven of the Spirit Dragon|R
-Hedonist's Trove|R
-Herald of Dromoka|C
-Herdchaser Dragon|U
-Hidden Dragonslayer|R
-Icefall Regent|R
-Illusory Gains|R
-Impact Tremors|C
-Inspiring Call|U
-Ire Shaman|R
-Island|L
-Keeper of the Lens|C
-Kindled Fury|C
-Kolaghan Aspirant|C
-Kolaghan Forerunners|U
-Kolaghan Monument|U
-Kolaghan Skirmisher|C
-Kolaghan Stormsinger|C
-Kolaghan's Command|R
-Learn from the Past|U
-Lightning Berserker|U
-Lightwalker|C
-Living Lore|R
-Lose Calm|C
-Lurking Arynx|U
-Magmatic Chasm|C
-Marang River Skeleton|U
-Marsh Hulk|C
-Mind Rot|C
-Minister of Pain|U
-Mirror Mockery|R
-Misthoof Kirin|C
-Monastery Loremaster|C
-Mountain|L
-Mystic Meditation|C
-Myth Realized|R
-Narset Transcendent|M
 Naturalize|C
-Necromaster Dragon|R
-Negate|C
 Obscuring Aether|R
-Ojutai Exemplars|M
+Negate|C
 Ojutai Interceptor|C
 Ojutai Monument|U
-Ojutai's Breath|C
 Ojutai's Command|R
+Ojutai's Breath|C
 Ojutai's Summons|C
 Orator of Ojutai|U
 Pacifism|C
 Palace Familiar|C
 Pinion Feast|C
 Pitiless Horde|R
+Pristine Skywise|R
 Plains|L
 Press the Advantage|U
-Pristine Skywise|R
 Profaner of the Dead|R
-Profound Journey|R
 Qal Sisma Behemoth|U
+Profound Journey|R
 Qarsi Deceiver|U
 Qarsi Sadist|C
-Radiant Purge|R
 Rakshasa Gravecaller|U
+Radiant Purge|R
 Reckless Imp|C
 Reduce in Stature|C
-Rending Volley|U
 Resupply|C
-Revealing Wind|C
+Rending Volley|U
 Risen Executioner|M
-Roast|U
-Ruthless Deathfang|U
+Revealing Wind|C
 Sabertooth Outrider|C
+Ruthless Deathfang|U
+Roast|U
 Salt Road Ambushers|U
 Salt Road Quartermasters|U
 Sandcrafter Mage|C
 Sandsteppe Scavenger|C
 Sandstorm Charger|C
-Sarkhan Unbroken|M
-Sarkhan's Rage|C
-Sarkhan's Triumph|U
-Savage Ventmaw|U
-Scale Blessing|U
 Scaleguard Sentinels|U
+Scale Blessing|U
+Segmented Krotiq|C
 Scion of Ugin|U
 Screamreach Brawler|C
 Secure the Wastes|R
-Segmented Krotiq|C
-Seismic Rupture|U
 Self-Inflicted Wound|U
+Seismic Rupture|U
 Servant of the Scale|C
 Shaman of Forgotten Ways|M
 Shambling Goblin|C
+Sarkhan Unbroken|M
+Savage Ventmaw|U
+Student of Ojutai|C
+Summit Prowler|C
+Sunscorch Regent|R
+Sunbringer's Touch|R
+Surrak, the Hunt Caller|R
+Surge of Righteousness|U
+Swamp|L
+Swift Warkite|U
+Tail Slash|C
+Taigam's Strike|C
+Tapestry of the Ages|U
+Territorial Roc|C
+Thunderbreak Regent|R
+Tread Upon|C
+Twin Bolt|C
+Tormenting Voice|C
+Ukud Cobra|U
+Updraft Elemental|C
+Ultimate Price|U
 Shape the Sands|C
 Sheltered Aerie|C
-Shieldhide Dragon|U
 Shorecrasher Elemental|M
+Shieldhide Dragon|U
 Sibsig Icebreakers|C
 Sidisi's Faithful|C
 Sidisi, Undead Vizier|R
-Sight Beyond Sight|U
 Sight of the Scalelords|U
-Silkwrap|U
-Silumgar Assassin|R
+Sight Beyond Sight|U
 Silumgar Butcher|C
 Silumgar Monument|U
+Silkwrap|U
+Silumgar Assassin|R
 Silumgar Sorcerer|U
 Silumgar Spell-Eater|U
 Silumgar's Command|R
@@ -221,34 +100,155 @@ Stormrider Rig|U
 Stormwing Dragon|U
 Stratus Dancer|R
 Strongarm Monk|U
-Student of Ojutai|C
-Summit Prowler|C
-Sunbringer's Touch|R
-Sunscorch Regent|R
-Surge of Righteousness|U
-Surrak, the Hunt Caller|R
-Swamp|L
-Swift Warkite|U
-Taigam's Strike|C
-Tail Slash|C
-Tapestry of the Ages|U
-Territorial Roc|C
-Thunderbreak Regent|R
-Tormenting Voice|C
-Tread Upon|C
-Twin Bolt|C
-Ukud Cobra|U
-Ultimate Price|U
-Updraft Elemental|C
-Vandalize|C
-Vial of Dragonfire|C
-Virulent Plague|U
+Anafenza, Kin-Tree Spirit|R
+Ancestral Statue|C
+Ancient Carp|C
+Arashin Sovereign|R
+Arashin Foremost|R
+Anticipate|C
+Assault Formation|R
+Artful Maneuver|C
+Atarka Beastbreaker|C
+Atarka Efreet|C
+Atarka Monument|U
+Avatar of the Resolute|R
+Atarka Pummeler|U
+Atarka's Command|R
+Aven Sunstriker|U
+Aven Tactician|C
+Battle Mastery|U
+Belltoll Dragon|U
+Blessed Reincarnation|R
+Berserkers' Onslaught|R
+Blood-Chin Fanatic|R
+Blood-Chin Rager|U
+Boltwing Marauder|R
+Center Soul|C
+Butcher's Glee|C
+Circle of Elders|U
+Champion of Arashin|C
+Clone Legion|M
+Collected Company|R
+Coat with Venom|C
+Colossodon Yearling|C
+Commune with Lava|R
+Conifer Strider|C
+Crater Elemental|R
+Corpseweft|R
+Contradict|C
 Void Squall|U
+Vial of Dragonfire|C
+Vandalize|C
+Virulent Plague|U
 Volcanic Rush|C
 Volcanic Vision|R
 Vulturous Aven|C
 Wandering Tombshell|C
-Warbringer|U
 Youthful Scholar|U
+Warbringer|U
 Zephyr Scribe|C
 Zurgo Bellstriker|R
+Cunning Breezedancer|U
+Custodian of the Trove|C
+Dance of the Skywise|U
+Damnable Pact|R
+Deadly Wanderings|U
+Death Wind|U
+Deathmist Raptor|M
+Deathbringer Regent|R
+Den Protector|R
+Defeat|C
+Descent of the Dragons|M
+Dirgur Nemesis|C
+Display of Dominance|U
+Draconic Roar|U
+Dragon Fodder|C
+Dragon Hunter|U
+Dragon Whisperer|M
+Dragon's Eye Sentry|C
+Dragon Tempest|R
+Dragon-Scarred Bear|C
+Dragonloft Idol|U
+Dragonlord Atarka|M
+Dragonlord Dromoka|M
+Dragonlord Ojutai|M
+Dragonlord Kolaghan|M
+Dragonlord Silumgar|M
+Dragonlord's Servant|U
+Dragonlord's Prerogative|R
+Dromoka Captain|U
+Dromoka Dunecaster|C
+Dromoka Monument|U
+Dromoka Warrior|C
+Dromoka's Command|R
+Duress|C
+Dromoka's Gift|U
+Elusive Spellfist|C
+Dutiful Attendant|C
+Echoes of the Kin Tree|U
+Encase in Ice|U
+Enduring Scalelord|U
+Epic Confrontation|C
+Enduring Victory|C
+Explosive Vegetation|U
+Evolving Wilds|C
+Flatten|C
+Fate Forgotten|C
+Foul-Tongue Invocation|U
+Forest|L
+Foe-Razer Regent|R
+Foul Renewal|R
+Foul-Tongue Shriek|C
+Gate Smasher|U
+Glade Watcher|C
+Glaring Aegis|C
+Gleam of Authority|R
+Graceblade Artisan|U
+Guardian Shield-Bearer|C
+Glint|C
+Great Teacher's Decree|U
+Gravepurge|C
+Gudul Lurker|U
+Hand of Silumgar|C
+Gurmag Drowner|C
+Harbinger of the Hunt|R
+Hardened Berserker|C
+Hedonist's Trove|R
+Haven of the Spirit Dragon|R
+Herald of Dromoka|C
+Herdchaser Dragon|U
+Hidden Dragonslayer|R
+Icefall Regent|R
+Illusory Gains|R
+Impact Tremors|C
+Ire Shaman|R
+Inspiring Call|U
+Island|L
+Keeper of the Lens|C
+Kolaghan Aspirant|C
+Kindled Fury|C
+Kolaghan Forerunners|U
+Kolaghan Skirmisher|C
+Kolaghan Monument|U
+Kolaghan Stormsinger|C
+Learn from the Past|U
+Kolaghan's Command|R
+Living Lore|R
+Marang River Skeleton|U
+Lightning Berserker|U
+Lightwalker|C
+Lurking Arynx|U
+Lose Calm|C
+Magmatic Chasm|C
+Minister of Pain|U
+Marsh Hulk|C
+Mind Rot|C
+Mirror Mockery|R
+Misthoof Kirin|C
+Monastery Loremaster|C
+Mountain|L
+Mystic Meditation|C
+Narset Transcendent|M
+Myth Realized|R
+Ojutai Exemplars|M
+Necromaster Dragon|R

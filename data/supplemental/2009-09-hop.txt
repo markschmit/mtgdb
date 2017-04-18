@@ -1,90 +1,94 @@
-Akroma's Vengeance|R
-Ancient Den|C
-Arc Lightning|C
+Vault of Whispers|C
+Vedalken Engineer|C
+Verdant Force|R
+Withered Wretch|U
+Whiplash Trap|C
+Wizard Replica|C
 Arcbound Crusher|U
+Ancient Den|C
+Akroma's Vengeance|R
 Arcbound Slith|U
+Arc Lightning|C
 Arsenal Thresher|C
 Ascendant Evincar|R
-Assault (Assault/Battery)|U
-Balefire Liege|R
-Battery (Assault/Battery)|U
 Battlegate Mimic|C
+Balefire Liege|R
 Beacon of Unrest|R
 Beast Hunt|C
-Beseech the Queen|U
 Blaze|U
+Assault/Battery|U
+Beseech the Queen|U
 Bogardan Firefiend|C
 Bogardan Rager|C
 Boros Garrison|C
+Boros Swiftblade|U
 Boros Guildmage|U
 Boros Signet|C
-Boros Swiftblade|U
 Bosh, Iron Golem|R
-Branching Bolt|C
 Briarhorn|U
+Branching Bolt|C
 Broodstar|R
-Browbeat|U
 Bull Cerodon|U
-Cabal Coffers|U
+Browbeat|U
 Cadaverous Knight|C
-Captain's Maneuver|U
+Cabal Coffers|U
 Cerodon Yearling|C
-Chaos (Order/Chaos)|U
+Captain's Maneuver|U
 Cinder Elemental|U
-Cone of Flame|U
 Congregate|C
-Consume Spirit|U
+Cone of Flame|U
 Copper Myr|C
+Consume Spirit|U
 Corpse Harvester|U
 Cranial Plating|C
-Cruel Revival|C
 Dark Ritual|C
-Darksteel Forge|R
+Cruel Revival|C
 Death Baron|R
+Darksteel Forge|R
+Dregscape Zombie|C
 Door to Nothingness|R
 Double Cleave|C
-Dregscape Zombie|C
 Duergar Hedge-Mage|U
 Etched Oracle|U
-Explosive Vegetation|U
 Fabricate|U
+Explosive Vegetation|U
 Fertile Ground|C
-Fertilid|C
 Festering Goblin|C
 Fires of Yavimaya|U
+Fertilid|C
 Flamekin Harbinger|U
 Flametongue Kavu|U
-Forest|L
 Forgotten Ancient|R
-Furnace of Rath|R
-Glory of Warfare|R
-Goblin Offensive|U
-Gold Myr|C
-Grave Pact|R
-Gravedigger|C
-Great Furnace|C
-Gruul Turf|C
+Forest|L
 Hearthfire Hobgoblin|U
-Helldozer|R
-Hideous End|C
+Glory of Warfare|R
+Furnace of Rath|R
+Gold Myr|C
+Goblin Offensive|U
+Great Furnace|C
+Gravedigger|C
+Grave Pact|R
 Hull Breach|C
+Gruul Turf|C
+Hideous End|C
+Helldozer|R
 Incremental Blight|U
+Iron Myr|C
 Innocent Blood|C
 Insurrection|R
-Iron Myr|C
 Island|L
 Ivy Elemental|R
-Keep Watch|C
 Keldon Champion|U
-Kor Sanctifiers|C
+Keep Watch|C
 Leaden Myr|C
+Kor Sanctifiers|C
 Leechridden Swamp|U
-Lightning Helix|U
 Living Hive|R
+Lightning Helix|U
+Mask of Memory|U
 Lodestone Myr|R
 Loxodon Warhammer|R
 Mage Slayer|U
-Mask of Memory|U
 Master of Etherium|R
 Menacing Ogre|R
 Mountain|L
@@ -92,36 +96,36 @@ Myr Enforcer|C
 Nefashu|R
 Noxious Ghoul|U
 Nuisance Engine|U
+Order/Chaos|U
 Oblivion Ring|C
-Order (Order/Chaos)|U
 Orim's Thunder|C
-Pentad Prism|C
 Pentavus|R
+Pentad Prism|C
 Phyrexian Arena|R
 Phyrexian Ghoul|C
-Plains|L
 Prison Term|U
+Plains|L
 Profane Command|R
-Pyrotechnics|U
 Qumulox|U
+Pyrotechnics|U
 Rampant Growth|C
+Relentless Assault|R
 Razia, Boros Archangel|R
 Reckless Charge|C
-Relentless Assault|R
+Rotting Rats|C
 Relic of Progenitus|C
 Rockslide Elemental|U
-Rolling Thunder|C
 Rorix Bladewing|R
-Rotting Rats|C
+Rolling Thunder|C
 Rumbling Slum|R
 Sarcomite Myr|C
 Savage Twister|U
 Search for Tomorrow|C
 Seat of the Synod|C
-Serum Tank|U
 Shepherd of Rot|C
-Shivan Oasis|U
+Serum Tank|U
 Silver Myr|C
+Shivan Oasis|U
 Silverglade Elemental|C
 Skeleton Shard|U
 Sludge Strider|U
@@ -131,18 +135,12 @@ Soulless One|U
 Sunhome, Fortress of the Legion|U
 Suntouched Myr|C
 Swamp|L
-Syphon Mind|C
 Syphon Soul|C
+Syphon Mind|C
+Thirst for Knowledge|U
 Taurean Mauler|R
 Terramorphic Expanse|C
-Thirst for Knowledge|U
 Tornado Elemental|R
 Tree of Tales|C
 Tribal Unity|U
 Undead Warchief|U
-Vault of Whispers|C
-Vedalken Engineer|C
-Verdant Force|R
-Whiplash Trap|C
-Withered Wretch|U
-Wizard Replica|C

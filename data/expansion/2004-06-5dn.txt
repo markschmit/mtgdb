@@ -1,63 +1,63 @@
-Abuna's Chant|C
 Acquire|R
+Abuna's Chant|C
 Advanced Hoverguard|C
 All Suns' Dawn|R
 Anodet Lurker|C
-Arachnoid|U
 Arcbound Wanderer|U
-Armed Response|C
+Arachnoid|U
 Artificer's Intuition|R
+Armed Response|C
 Auriok Champion|R
 Auriok Salvagers|U
 Auriok Windwalker|R
-Avarice Totem|U
 Baton of Courage|C
+Avarice Totem|U
 Battered Golem|C
-Beacon of Creation|R
 Beacon of Destruction|R
+Beacon of Creation|R
 Beacon of Immortality|R
-Beacon of Tomorrows|R
 Beacon of Unrest|R
+Beacon of Tomorrows|R
 Blasting Station|U
 Blind Creeper|C
-Blinkmoth Infusion|R
-Bringer of the Black Dawn|R
 Bringer of the Blue Dawn|R
+Bringer of the Black Dawn|R
+Blinkmoth Infusion|R
 Bringer of the Green Dawn|R
 Bringer of the Red Dawn|R
 Bringer of the White Dawn|R
 Cackling Imp|C
 Channel the Suns|U
-Chimeric Coils|U
 Circle of Protection: Artifacts|U
+Chimeric Coils|U
 Clearwater Goblet|R
-Clock of Omens|U
 Composite Golem|U
-Condescend|C
+Clock of Omens|U
 Conjurer's Bauble|C
+Condescend|C
 Cosmic Larva|R
 Cranial Plating|C
-Crucible of Worlds|R
 Dawn's Reflection|C
+Crucible of Worlds|R
 Desecration Elemental|R
 Devour in Shadow|U
 Disruption Aura|U
 Door to Nothingness|R
 Doubling Cube|R
 Dross Crocodile|C
-Early Frost|C
 Ebon Drake|U
 Endless Whispers|R
-Energy Chamber|U
+Early Frost|C
 Engineered Explosives|R
+Energy Chamber|U
 Ensouled Scimitar|U
-Eon Hub|R
 Etched Oracle|U
+Eon Hub|R
 Eternal Witness|U
-Eyes of the Watcher|U
 Fangren Pathcutter|U
-Feedback Bolt|U
+Eyes of the Watcher|U
 Ferocious Charge|C
+Feedback Bolt|U
 Ferropede|U
 Fill with Fright|C
 Fist of Suns|R
@@ -68,17 +68,42 @@ Gemstone Array|U
 Goblin Brawler|C
 Goblin Cannon|U
 Grafted Wargear|U
-Granulate|R
-Grinding Station|U
 Guardian Idol|U
+Grinding Station|U
+Granulate|R
 Healer's Headdress|C
-Heliophial|C
 Helm of Kaldra|R
-Horned Helm|C
+Heliophial|C
 Hoverguard Sweepers|R
+Stasis Cocoon|C
+Summoner's Egg|R
+Steelshaper's Gift|U
+Summoning Station|R
+Suncrusher|R
+Suntouched Myr|C
+Sylvok Explorer|C
+Synod Centurion|U
+Tel-Jilad Lifebreather|C
+Tangle Asp|C
+Tel-Jilad Justice|U
+Thermal Navigator|C
+Thought Courier|C
+Tornado Elemental|R
+Trinket Mage|C
+Vedalken Mastermind|U
+Tyrranax|C
+Vedalken Shackles|R
+Vanquish|U
+Vedalken Orrery|R
+Vulshok Sorcerer|C
+Vicious Betrayal|C
+Viridian Lorebearers|U
+Viridian Scout|C
+Wayfarer's Bauble|C
+Horned Helm|C
 Infused Arrows|U
-Into Thin Air|C
 Ion Storm|R
+Into Thin Air|C
 Iron-Barb Hellion|U
 Joiner Adept|R
 Krark-Clan Engineers|U
@@ -86,14 +111,14 @@ Krark-Clan Ironworks|U
 Krark-Clan Ogre|C
 Lantern of Insight|U
 Leonin Squire|C
-Lose Hope|C
-Loxodon Anchorite|C
 Loxodon Stalwart|U
+Loxodon Anchorite|C
+Lose Hope|C
 Lunar Avenger|U
 Magma Giant|R
+Mana Geyser|C
 Magma Jet|U
 Magnetic Theft|U
-Mana Geyser|C
 Mephidross Vampire|R
 Moriok Rigger|R
 Mycosynth Golem|R
@@ -102,64 +127,39 @@ Myr Servitor|C
 Neurok Stealthsuit|C
 Night's Whisper|U
 Nim Grotesque|U
-Opaline Bracers|C
 Ouphe Vandals|U
+Opaline Bracers|C
 Paradise Mantle|U
-Pentad Prism|C
 Plasma Elemental|U
-Plunge into Darkness|R
+Pentad Prism|C
 Possessed Portal|R
+Plunge into Darkness|R
 Qumulox|U
-Rain of Rust|C
 Raksha Golden Cub|R
+Rain of Rust|C
 Razorgrass Screen|C
 Razormane Masticore|R
 Relentless Rats|U
-Relic Barrier|U
 Retaliate|R
+Relic Barrier|U
 Reversal of Fortune|R
-Rite of Passage|R
 Roar of Reclamation|R
-Rude Awakening|R
+Rite of Passage|R
 Salvaging Station|R
+Rude Awakening|R
 Sawtooth Thresher|C
 Screaming Fury|C
-Serum Visions|C
 Shattered Dreams|U
+Serum Visions|C
 Silent Arbiter|R
-Skullcage|U
-Skyhunter Prowler|C
 Skyhunter Skirmisher|U
+Skyhunter Prowler|C
+Skullcage|U
 Skyreach Manta|C
 Solarion|R
 Spark Elemental|C
 Sparring Collar|C
 Spectral Shift|R
 Spinal Parasite|U
-Staff of Domination|R
 Stand Firm|C
-Stasis Cocoon|C
-Steelshaper's Gift|U
-Summoner's Egg|R
-Summoning Station|R
-Suncrusher|R
-Suntouched Myr|C
-Sylvok Explorer|C
-Synod Centurion|U
-Tangle Asp|C
-Tel-Jilad Justice|U
-Tel-Jilad Lifebreather|C
-Thermal Navigator|C
-Thought Courier|C
-Tornado Elemental|R
-Trinket Mage|C
-Tyrranax|C
-Vanquish|U
-Vedalken Mastermind|U
-Vedalken Orrery|R
-Vedalken Shackles|R
-Vicious Betrayal|C
-Viridian Lorebearers|U
-Viridian Scout|C
-Vulshok Sorcerer|C
-Wayfarer's Bauble|C
+Staff of Domination|R

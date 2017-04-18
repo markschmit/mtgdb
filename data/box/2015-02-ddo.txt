@@ -1,60 +1,60 @@
-Accumulated Knowledge|C
 Aetherize|U
-Banisher Priest|U
+Plasm Capture|R
+Raise the Alarm|C
+Simic Sky Swallower|R
+Soldier|C
+Secluded Steppe|C
+Sealock Monster|U
+Soul Parry|C
+Surrakar Banisher|C
+Sunlance|C
+Temple of the False God|U
+Time to Feed|C
+Veteran Armorsmith|C
+Urban Evolution|U
+Standing Troops|C
+Veteran Swordsmith|C
+Whelming Wave|R
+Gempalm Avenger|C
+Accumulated Knowledge|C
 Captain of the Watch|R
-Celestial Flare|C
+Banisher Priest|U
 Coiling Oracle|C
+Explore|C
+Celestial Flare|C
+Dictate of Heliod|R
 Court Street Denizen|C
 Dauntless Onslaught|U
 Decree of Justice|R
-Dictate of Heliod|R
 Elspeth, Sun's Champion|M
-Evolving Wilds|C
-Explore|C
 Explosive Vegetation|U
+Evolving Wilds|C
 Forest|L
-Gempalm Avenger|C
 Grazing Gladehart|C
 Gustcloak Harrier|C
 Gustcloak Savior|R
 Gustcloak Sentinel|U
 Gustcloak Skirmisher|U
 Icatian Javelineers|C
+Kinsbaile Skirmisher|C
 Inkwell Leviathan|R
 Island|L
-Kinsbaile Skirmisher|C
 Kiora's Follower|U
 Kiora, the Crashing Wave|M
 Kor Skyfisher|C
 Kraken|C
 Lorescale Coatl|U
-Loxodon Partisan|C
 Man-o'-War|C
+Loxodon Partisan|C
 Mighty Leap|C
 Mortal's Ardor|C
 Mother of Runes|U
-Nessian Asp|C
 Netcaster Spider|C
+Nessian Asp|C
 Nimbus Swimmer|U
-Noble Templar|C
 Omenspeaker|C
-Peel from Reality|C
+Noble Templar|C
 Plains|L
-Plasm Capture|R
-Precinct Captain|R
-Raise the Alarm|C
 Scourge of Fleets|R
-Sealock Monster|U
-Secluded Steppe|C
-Simic Sky Swallower|R
-Soldier|C
-Soul Parry|C
-Standing Troops|C
-Sunlance|C
-Surrakar Banisher|C
-Temple of the False God|U
-Time to Feed|C
-Urban Evolution|U
-Veteran Armorsmith|C
-Veteran Swordsmith|C
-Whelming Wave|R
+Peel from Reality|C
+Precinct Captain|R

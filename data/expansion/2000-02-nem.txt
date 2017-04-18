@@ -1,119 +1,119 @@
+Carrion Wall|U
+Blinding Angel|R
+Bola Warrior|C
 Accumulated Knowledge|C
-Aether Barrier|R
-Air Bladder|C
 Ancient Hydra|U
+Air Bladder|C
+Aether Barrier|R
 Angelic Favor|U
-Animate Land|U
 Arc Mage|U
+Animate Land|U
 Ascendant Evincar|R
 Avenger en-Dal|R
 Battlefield Percher|U
 Belbe's Armor|U
 Belbe's Percher|C
-Belbe's Portal|R
 Blastoderm|C
-Blinding Angel|R
-Bola Warrior|C
-Carrion Wall|U
+Belbe's Portal|R
 Chieftain en-Dal|U
-Cloudskate|C
 Coiling Woodworm|U
+Cloudskate|C
 Complex Automaton|R
-Dark Triumph|U
 Daze|C
+Dark Triumph|U
 Death Pit Offering|R
 Defender en-Vec|C
 Defiant Falcon|C
 Defiant Vanguard|U
 Divining Witch|R
-Dominate|U
-Downhill Charge|C
 Ensnare|U
-Eye of Yawgmoth|R
+Downhill Charge|C
+Dominate|U
 Fanatical Devotion|C
+Eye of Yawgmoth|R
 Flame Rift|C
 Flint Golem|U
-Flowstone Armor|U
 Flowstone Crusher|C
+Flowstone Armor|U
 Flowstone Overseer|R
-Flowstone Slide|R
-Flowstone Strike|C
-Flowstone Surge|U
 Flowstone Thopter|U
+Flowstone Strike|C
+Flowstone Slide|R
+Flowstone Surge|U
 Flowstone Wall|C
-Fog Patch|C
 Harvest Mage|C
-Infiltrate|C
+Fog Patch|C
 Jolting Merfolk|U
-Kill Switch|R
-Kor Haven|R
+Infiltrate|C
 Laccolith Grunt|C
+Kor Haven|R
+Kill Switch|R
 Laccolith Rig|C
 Laccolith Titan|R
 Laccolith Warrior|U
 Laccolith Whelp|C
-Lashknife|C
 Lawbringer|C
+Lashknife|C
 Lightbringer|C
 Lin Sivvi, Defiant Hero|R
-Mana Cache|R
-Massacre|U
 Mind Slash|U
+Massacre|U
+Mana Cache|R
 Mind Swords|C
 Mogg Alarm|U
-Mogg Salvage|U
 Mogg Toady|C
+Mogg Salvage|U
 Moggcatcher|R
 Mossdog|C
 Murderous Betrayal|R
 Nesting Wurm|U
 Netter en-Dal|C
-Noble Stand|U
-Off Balance|C
 Oracle's Attendants|R
+Off Balance|C
+Noble Stand|U
+Pack Hunt|R
 Oraxid|C
 Overlaid Terrain|R
-Pack Hunt|R
-Pale Moon|R
 Parallax Dementia|C
+Pale Moon|R
 Parallax Inhibitor|R
 Parallax Nexus|R
 Parallax Tide|R
-Parallax Wave|R
 Phyrexian Driver|C
+Parallax Wave|R
 Phyrexian Prowler|U
 Plague Witch|C
 Predator, Flagship|R
-Rackling|U
 Rath's Edge|R
+Rackling|U
 Rathi Assassin|R
-Rathi Fiend|U
 Rathi Intimidator|C
-Refreshing Rain|U
+Rathi Fiend|U
 Rejuvenation Chamber|U
+Refreshing Rain|U
 Reverent Silence|C
 Rhox|R
-Rising Waters|R
 Rootwater Commando|C
+Rising Waters|R
 Rootwater Thief|R
-Rupture|U
 Rusting Golem|U
-Saproling Burst|R
+Rupture|U
 Saproling Cluster|R
+Saproling Burst|R
 Seahunter|R
 Seal of Cleansing|C
 Seal of Doom|C
 Seal of Fire|C
-Seal of Removal|C
 Seal of Strength|C
+Seal of Removal|C
 Shrieking Mogg|R
 Silkenfist Fighter|C
 Silkenfist Order|U
 Sivvi's Ruse|U
 Sivvi's Valor|R
 Skyshroud Behemoth|R
-Skyshroud Claim|C
 Skyshroud Cutter|C
+Skyshroud Claim|C
 Skyshroud Poacher|R
 Skyshroud Ridgeback|C
 Skyshroud Sentinel|C
@@ -124,18 +124,18 @@ Spiritual Asylum|R
 Spiteful Bully|C
 Stampede Driver|U
 Stronghold Biologist|U
-Stronghold Discipline|C
 Stronghold Gambit|R
+Stronghold Discipline|C
 Stronghold Machinist|U
 Stronghold Zeppelin|U
-Submerge|U
-Tangle Wire|R
 Terrain Generator|U
+Tangle Wire|R
+Submerge|U
 Topple|C
 Treetop Bracers|C
 Trickster Mage|C
-Vicious Hunger|C
 Viseling|U
+Vicious Hunger|C
 Voice of Truth|U
 Volrath the Fallen|R
 Wandering Eye|C

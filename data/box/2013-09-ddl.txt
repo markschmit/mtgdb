@@ -2,22 +2,22 @@ Anax and Cymede|R
 Armory Guard|C
 Auramancer|C
 Battle Mastery|U
-Beast Within|U
 Blood Ogre|C
+Beast Within|U
 Bonds of Faith|C
 Boros Guildgate|C
 Cavalry Pegasus|C
-Condemn|U
 Conquering Manticore|R
+Condemn|U
 Crater Hellion|R
 Crowned Ceratok|U
 Daily Regimen|U
 Dawnstrike Paladin|C
 Deadly Recluse|C
-Destructive Revelry|U
 Deus of Calamity|R
-Dragon Blood|U
 Fencing Ace|U
+Destructive Revelry|U
+Dragon Blood|U
 Figure of Destiny|R
 Fires of Yavimaya|U
 Forest|L
@@ -28,34 +28,34 @@ Griffin Guide|U
 Gustcloak Sentinel|U
 Kamahl, Pit Fighter|R
 Kavu Predator|U
-Kazandu Refuge|U
 Krosan Tusker|C
-Llanowar Reborn|U
+Kazandu Refuge|U
 Magma Jet|U
-Miraculous Recovery|U
+Llanowar Reborn|U
 Moment of Heroism|C
+Miraculous Recovery|U
 Mountain|L
-New Benalia|U
 Nobilis of War|R
+Pyrokinesis|U
+New Benalia|U
 Orcish Lumberjack|C
-Ordeal of Purphoros|U
-Pay No Heed|C
-Plains|L
 Polukranos, World Eater|M
+Ordeal of Purphoros|U
+Plains|L
+Pay No Heed|C
 Prey Upon|C
 Pyroclasm|U
-Pyrokinesis|U
 Regrowth|U
+Skarrg, the Rage Pits|U
 Righteousness|U
 Satyr Hedonist|C
 Shower of Sparks|C
-Skarrg, the Rage Pits|U
-Skarrgan Firebird|R
 Skarrgan Skybreaker|U
+Skarrgan Firebird|R
 Smite the Monstrous|C
 Somberwald Vigilante|C
-Stand Firm|C
 Stun Sniper|U
+Stand Firm|C
 Sun Titan|M
 Terrifying Presence|C
 Thraben Valiant|C
@@ -63,6 +63,6 @@ Troll Ascetic|R
 Truefire Paladin|U
 Undying Rage|U
 Valley Rannet|C
-Volt Charge|C
 Winds of Rath|R
+Volt Charge|C
 Zhur-Taa Druid|C

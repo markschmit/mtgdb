@@ -1,73 +1,73 @@
-Abolish|U
-Aether Spellbomb|C
 Angel of Salvation|R
+Aether Spellbomb|C
+Abolish|U
 Arcbound Worker|C
 Argivian Restoration|U
 Assembly-Worker|U
-Blinding Beam|C
 Burrenton Bombardier|C
 Catapult Master|R
+Blinding Beam|C
 Celestial Crusader|U
 Clockwork Condor|C
 Clockwork Hydra|U
 Conclave Equenaut|C
 Conclave Phalanx|U
-Contagion Clasp|U
 Crusade|R
-Darksteel Citadel|C
+Contagion Clasp|U
 Daru Encampment|U
+Darksteel Citadel|C
 Echoing Truth|C
 Elite Vanguard|U
 Elixir of Immortality|U
 Elspeth, Knight-Errant|M
-Energy Chamber|U
 Esperzoa|U
-Everflowing Chalice|U
+Energy Chamber|U
 Faerie Mechanist|C
-Foil|U
-Frogmite|C
+Everflowing Chalice|U
 Glory Seeker|C
+Frogmite|C
+Foil|U
 Goldmeadow Harrier|C
 Infantry Veteran|C
-Island|L
-Journey to Nowhere|C
 Juggernaut|U
-Kabira Crossroads|C
+Journey to Nowhere|C
+Island|L
 Kemba's Skyguard|C
+Kabira Crossroads|C
 Kor Aeronaut|U
 Kor Hookmaster|C
 Kor Skyfisher|C
 Loyal Sentry|R
 Master of Etherium|R
-Mighty Leap|C
-Mishra's Factory|U
 Moonglove Extract|C
+Mishra's Factory|U
+Mighty Leap|C
 Mosquito Guard|C
 Pentavus|R
-Plains|L
 Qumulox|U
 Raise the Alarm|C
-Razor Barrier|C
 Razormane Masticore|R
+Razor Barrier|C
 Runed Servitor|U
-Rustic Clachan|R
 Saltblast|U
-Seasoned Marshal|U
 Seat of the Synod|C
+Rustic Clachan|R
+Seasoned Marshal|U
 Serrated Biskelion|U
 Silver Myr|C
-Stalking Stones|U
-Steel Overseer|R
-Steel Wall|C
-Stormfront Riders|U
-Sunlance|C
-Swell of Courage|U
 Swords to Plowshares|U
-Synod Centurion|U
+Steel Overseer|R
+Stalking Stones|U
+Stormfront Riders|U
+Steel Wall|C
+Swell of Courage|U
 Temple Acolyte|C
+Sunlance|C
+Synod Centurion|U
 Tezzeret the Seeker|M
-Thirst for Knowledge|U
 Thoughtcast|C
+Thirst for Knowledge|U
 Trinket Mage|C
-Trip Noose|U
 Triskelion|R
+Trip Noose|U
+Plains|L

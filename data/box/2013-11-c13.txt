@@ -1,117 +1,205 @@
-Acidic Slime|U
-Act of Authority|R
-Aerie Mystics|U
-Aethermage's Touch|R
-Ajani's Pridemate|U
-Akoum Refuge|U
-Angel of Finality|R
-Annihilate|U
-Arcane Denial|C
-Arcane Melee|R
 Arcane Sanctum|U
+Act of Authority|R
+Aethermage's Touch|R
+Aerie Mystics|U
+Ajani's Pridemate|U
+Angel of Finality|R
+Acidic Slime|U
+Annihilate|U
+Akoum Refuge|U
+Arcane Denial|C
 Archangel|U
-Armillary Sphere|C
-Army of the Damned|M
+Arcane Melee|R
 Augur of Bolas|U
-Augury Adept|R
+Armillary Sphere|C
 Avenger of Zendikar|M
-Azami, Lady of Scrolls|R
+Army of the Damned|M
 Azorius Chancery|C
+Augury Adept|R
+Azami, Lady of Scrolls|R
 Azorius Guildgate|C
 Azorius Herald|U
 Azorius Keyrune|U
 Baleful Force|R
 Baleful Strix|U
+Barren Moor|C
 Baloth Woodcrasher|U
 Bane of Progress|R
 Bant Panorama|C
-Barren Moor|C
 Basalt Monolith|U
 Behemoth Sledge|U
+Bojuka Bog|C
 Blood Rites|U
 Blue Sun's Zenith|R
-Bojuka Bog|C
 Boros Charm|U
 Boros Garrison|C
 Boros Guildgate|C
 Borrowing 100,000 Arrows|U
-Brilliant Plan|U
 Brooding Saurian|R
+Brilliant Plan|U
 Capricious Efreet|R
-Carnage Altar|U
 Charmbreaker Devils|R
+Carnage Altar|U
 Charnelhoard Wurm|R
-Command Tower|C
 Conjurer's Closet|R
+Command Tower|C
 Contested Cliffs|R
 Control Magic|U
 Cradle of Vitality|R
 Crater Hellion|R
+Crumbling Necropolis|U
+Cultivate|C
 Crawlspace|R
 Crosis's Charm|U
 Cruel Ultimatum|R
-Crumbling Necropolis|U
-Cultivate|C
 Curse of Chaos|U
-Curse of Inertia|U
 Curse of Predation|U
+Curse of Inertia|U
 Curse of Shallow Graves|U
+Darksteel Mutation|U
 Curse of the Forsaken|U
 Darksteel Ingot|U
-Darksteel Mutation|U
-Deadwood Treefolk|U
-Death Grasp|R
-Deathbringer Thoctar|R
 Deceiver Exarch|U
+Deadwood Treefolk|U
+Deathbringer Thoctar|R
+Death Grasp|R
 Decree of Pain|R
-Deep Analysis|C
 Deepfire Elemental|U
+Deep Analysis|C
 Derevi, Empyrial Tactician|M
+Disciple of Griselbrand|U
 Dimir Guildgate|C
 Dirge of Dread|C
-Disciple of Griselbrand|U
-Dismiss|U
 Diviner Spirit|U
 Divinity of Pride|R
+Dismiss|U
 Djinn of Infinite Deceits|R
 Drifting Meadow|C
 Dromar's Charm|U
-Druidic Satchel|R
 Drumhunter|U
+Druidic Satchel|R
 Dungeon Geists|R
-Echo Mage|R
-Elvish Skysweeper|C
 Endless Cockroaches|R
+Elvish Skysweeper|C
+Echo Mage|R
 Endrek Sahr, Master Breeder|R
 Esper Panorama|C
+Famine|U
+Eye of Doom|R
 Eternal Dragon|R
 Evolving Wilds|C
-Eye of Doom|R
-Faerie Conclave|U
-Famine|U
+Myr Battlesphere|R
+Naya Charm|U
+Mystic Barrier|R
+Naya Panorama|C
+Naya Soulbeast|R
+Nevinyrral's Disk|R
+Nekusar, the Mindrazer|M
+New Benalia|U
+Nightscape Familiar|C
+Night Soil|C
+Nihil Spellbomb|C
+Nivix Guildmage|U
+Obelisk of Grixis|C
+Obelisk of Esper|C
+Obelisk of Jund|C
+Oloro, Ageless Ascetic|M
+Opal Palace|C
+One Dozen Eyes|U
+Ophiomancer|R
+Order of Succession|R
+Opportunity|U
+Orzhov Guildgate|C
+Orzhov Basilica|C
+Phantom Nantuko|R
+Phyrexian Gargantua|U
+Phyrexian Delver|R
+Phthisis|U
+Phyrexian Reclamation|U
+Pilgrim's Eye|C
+Plains|L
+Plague Boiler|R
+Presence of Gond|C
+Price of Knowledge|R
+Pristine Talisman|C
+Primal Vigor|R
+Propaganda|U
+Prosperity|U
+Prossh, Skyraider of Kher|M
+Quagmire Druid|C
+Rakdos Carnarium|C
+Rain of Thorns|U
+Rakdos Guildgate|C
+Rampaging Baloths|M
+Rakeclaw Gargantuan|C
+Raven Familiar|U
+Ravenous Baloth|R
+Razor Hippogriff|U
+Reckless Spite|U
+Restore|U
+Reincarnation|U
+Roon of the Hidden Realm|M
+Rubinia Soulsinger|R
+Sakura-Tribe Elder|C
+Rupture Spire|C
+Saltcrusted Steppe|U
+Sanguine Bond|R
+Savage Lands|U
+Scarland Thrinax|U
+Savage Twister|U
+Seaside Citadel|U
+Secluded Steppe|C
+Seer's Sundial|R
+Sejiri Refuge|U
+Sek'Kuar, Deathkeeper|R
+Selesnya Guildgate|C
+Selesnya Charm|U
+Selesnya Sanctuary|C
+Selesnya Guildmage|U
+Selesnya Signet|C
+Serene Master|R
+Serra Avatar|M
+Sharding Sphinx|R
+Shattergang Brothers|M
+Sharuum the Hegemon|M
+Silklash Spider|R
+Simic Guildgate|C
+Skyscribing|U
+Simic Signet|C
+Skyward Eye Prophets|U
+Slice and Dice|U
+Slice in Twain|U
+Smoldering Crater|C
+Slippery Karst|C
+Sol Ring|U
+Spawning Grounds|R
+Soul Manipulation|C
+Sphinx of the Steel Wind|M
+Spellbreaker Behemoth|R
 Farhaven Elf|C
-Fecundity|U
+Faerie Conclave|U
 Fell Shepherd|R
+Fecundity|U
 Fiend Hunter|U
+Fireball|U
 Fiery Justice|R
 Filigree Angel|R
-Fireball|U
 Fires of Yavimaya|U
-Fissure Vent|C
 Flickerform|R
+Fissure Vent|C
 Flickerwisp|U
 Fog Bank|U
 Forest|L
-Forgotten Cave|C
 Foster|R
-From the Ashes|R
+Forgotten Cave|C
 Furnace Celebration|U
-Gahiji, Honored One|M
+From the Ashes|R
 Goblin Bombardment|U
+Gahiji, Honored One|M
 Goblin Sharpshooter|R
 Golgari Guildgate|C
-Golgari Guildmage|U
 Golgari Rot Farm|C
+Golgari Guildmage|U
 Grazing Gladehart|C
 Greed|R
 Grim Backwoods|R
@@ -125,44 +213,44 @@ Harmonize|U
 Homeward Path|R
 Hooded Horror|U
 Hua Tuo, Honored Physician|R
-Hull Breach|C
 Hunted Troll|R
-Illusionist's Gambit|R
+Hull Breach|C
 Incendiary Command|R
+Illusionist's Gambit|R
 Inferno Titan|M
-Infest|U
-Island|L
 Izzet Boilerworks|C
+Island|L
+Infest|U
 Izzet Guildgate|C
 Jace's Archivist|R
+Jund Charm|U
 Jade Mage|U
 Jar of Eyeballs|R
 Jeleva, Nephalia's Scourge|M
-Jund Charm|U
 Jund Panorama|C
-Jungle Shrine|U
 Jwar Isle Refuge|U
+Jungle Shrine|U
 Karmic Guide|R
-Kazandu Refuge|U
 Kazandu Tuskcaller|R
-Khalni Garden|C
+Kazandu Refuge|U
 Kher Keep|R
-Kirtar's Wrath|R
+Khalni Garden|C
 Kongming, "Sleeping Dragon"|R
-Krosan Grip|U
+Kirtar's Wrath|R
 Krosan Tusker|C
+Krosan Grip|U
 Krosan Warchief|U
 Leafdrake Roost|U
-Leonin Bladetrap|U
 Lim-Dûl's Vault|U
+Leonin Bladetrap|U
+Lu Xun, Scholar General|R
 Llanowar Reborn|U
 Lonely Sandbar|C
-Lu Xun, Scholar General|R
 Magus of the Arena|R
 Marath, Will of the Wild|M
+Mayael the Anima|M
 Marrow Bats|U
 Mass Mutiny|R
-Mayael the Anima|M
 Mirari|R
 Mirror Entity|R
 Mistmeadow Witch|U
@@ -170,173 +258,84 @@ Mnemonic Wall|C
 Mold Shambler|C
 Molten Disaster|R
 Molten Slagheap|U
-Mosswort Bridge|R
 Mountain|L
+Mosswort Bridge|R
 Murkfiend Liege|R
-Myr Battlesphere|R
-Mystic Barrier|R
-Naya Charm|U
-Naya Panorama|C
-Naya Soulbeast|R
-Nekusar, the Mindrazer|M
-Nevinyrral's Disk|R
-New Benalia|U
-Night Soil|C
-Nightscape Familiar|C
-Nihil Spellbomb|C
-Nivix Guildmage|U
-Obelisk of Esper|C
-Obelisk of Grixis|C
-Obelisk of Jund|C
-Oloro, Ageless Ascetic|M
-One Dozen Eyes|U
-Opal Palace|C
-Ophiomancer|R
-Opportunity|U
-Order of Succession|R
-Orzhov Basilica|C
-Orzhov Guildgate|C
-Phantom Nantuko|R
-Phthisis|U
-Phyrexian Delver|R
-Phyrexian Gargantua|U
-Phyrexian Reclamation|U
-Pilgrim's Eye|C
-Plague Boiler|R
-Plains|L
-Presence of Gond|C
-Price of Knowledge|R
-Primal Vigor|R
-Pristine Talisman|C
-Propaganda|U
-Prosperity|U
-Prossh, Skyraider of Kher|M
-Quagmire Druid|C
-Rain of Thorns|U
-Rakdos Carnarium|C
-Rakdos Guildgate|C
-Rakeclaw Gargantuan|C
-Rampaging Baloths|M
-Raven Familiar|U
-Ravenous Baloth|R
-Razor Hippogriff|U
-Reckless Spite|U
-Reincarnation|U
-Restore|U
-Roon of the Hidden Realm|M
-Rough (Rough/Tumble)|U
-Rubinia Soulsinger|R
-Rupture Spire|C
-Sakura-Tribe Elder|C
-Saltcrusted Steppe|U
-Sanguine Bond|R
-Savage Lands|U
-Savage Twister|U
-Scarland Thrinax|U
-Seaside Citadel|U
-Secluded Steppe|C
-Seer's Sundial|R
-Sejiri Refuge|U
-Sek'Kuar, Deathkeeper|R
-Selesnya Charm|U
-Selesnya Guildgate|C
-Selesnya Guildmage|U
-Selesnya Sanctuary|C
-Selesnya Signet|C
-Serene Master|R
-Serra Avatar|M
-Sharding Sphinx|R
-Sharuum the Hegemon|M
-Shattergang Brothers|M
-Silklash Spider|R
-Simic Guildgate|C
-Simic Signet|C
-Skyscribing|U
-Skyward Eye Prophets|U
-Slice and Dice|U
-Slice in Twain|U
-Slippery Karst|C
-Smoldering Crater|C
-Sol Ring|U
-Soul Manipulation|C
-Spawning Grounds|R
-Spellbreaker Behemoth|R
-Sphinx of the Steel Wind|M
-Spinal Embrace|R
-Spine of Ish Sah|R
 Spitebellows|U
-Spiteful Visions|R
-Spoils of Victory|U
-Springjack Pasture|R
+Spine of Ish Sah|R
+Spinal Embrace|R
 Sprouting Thrinax|U
-Sprouting Vines|C
+Spoils of Victory|U
+Spiteful Visions|R
+Springjack Pasture|R
 Stalking Vengeance|R
-Starstorm|R
+Sprouting Vines|C
 Stonecloaker|U
+Starstorm|R
 Stormscape Battlemage|U
 Strategic Planning|U
-Street Spasm|U
 Stronghold Assassin|R
+Street Spasm|U
 Sudden Demise|R
-Sudden Spoiling|R
 Sun Droplet|U
+Sudden Spoiling|R
 Surveyor's Scope|R
-Survival Cache|U
 Swamp|L
+Survival Cache|U
 Swiftfoot Boots|U
 Sword of the Paruns|R
 Sydri, Galvanic Genius|M
-Temple Bell|R
-Temple of the False God|U
 Tempt with Discovery|R
+Temple of the False God|U
+Temple Bell|R
 Tempt with Glory|R
 Tempt with Immortality|R
 Tempt with Reflections|R
 Tempt with Vengeance|R
 Terra Ravager|U
+Thornwind Faeries|C
 Terramorphic Expanse|C
 Thopter Foundry|U
-Thornwind Faeries|C
 Thousand-Year Elixir|R
 Thraximundar|M
-Thunderstaff|U
-Tidal Force|R
 Tidehollow Strix|C
+Thunderstaff|U
+Tower of Fortunes|R
+Tidal Force|R
 Tooth and Claw|R
 Tower Gargoyle|U
-Tower of Fortunes|R
-Toxic Deluge|R
 Tranquil Thicket|C
+Toxic Deluge|R
 Transguild Promenade|C
 True-Name Nemesis|R
-Tumble (Rough/Tumble)|U
 Unexpectedly Absent|R
-Urza's Factory|U
+Rough/Tumble|U
 Uyo, Silent Prophet|R
+Urza's Factory|U
 Valley Rannet|C
 Vampire Nighthawk|U
 Vile Requiem|U
 Viscera Seer|C
+Vitu-Ghazi, the City-Tree|U
 Viseling|U
 Vision Skeins|C
-Vitu-Ghazi, the City-Tree|U
 Vivid Crag|U
-Vivid Creek|U
 Vivid Grove|U
+Vivid Creek|U
 Vivid Marsh|U
 Vizkopa Guildmage|U
 Walker of the Grove|U
 Wall of Reverence|R
+Wash Out|U
 War Cadence|U
 Warstorm Surge|R
-Wash Out|U
-Wayfarer's Bauble|C
 Well of Lost Dreams|R
+Wayfarer's Bauble|C
 Where Ancients Tread|R
 Widespread Panic|R
 Wight of Precinct Six|U
 Wild Ricochet|R
 Winged Coatl|C
-Witch Hunt|R
 Wonder|U
+Witch Hunt|R
 Wrath of God|R

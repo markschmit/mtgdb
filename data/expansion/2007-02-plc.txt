@@ -1,110 +1,155 @@
+Blightspeaker|C
 Aeon Chronicler|R
+Battering Sliver|C
 Aether Membrane|U
-Akroma, Angel of Fury|R
 Ana Battlemage|U
+Akroma, Angel of Fury|R
+Aven Riftwatcher|C
 Aquamorph Entity|C
 Auramancer's Guise|U
-Aven Riftwatcher|C
-Battering Sliver|C
 Benalish Commander|R
 Big Game Hunter|U
-Blightspeaker|C
+Treacherous Urge|U
+Uktabi Drake|C
+Rough/Tumble|U
+Urborg, Tomb of Yawgmoth|R
+Utopia Vow|C
+Vampiric Link|C
+Veiling Oddity|C
+Vitaspore Thallid|C
+Venarian Glimmer|U
+Voidstone Gargoyle|R
+Volcano Hellion|R
+Waning Wurm|U
+Vorosh, the Hunter|R
+Whitemane Lion|C
+Wistful Thinking|C
+Wild Pair|R
 Blood Knight|U
-Body Double|R
 Bog Serpent|C
-Boom (Boom/Bust)|R
+Body Double|R
 Braids, Conjurer Adept|R
 Brain Gorgers|C
-Brute Force|C
-Bust (Boom/Bust)|R
 Calciderm|U
+Boom/Bust|R
+Brute Force|C
 Cautery Sliver|U
+Citanul Woodreaders|C
+Crovax, Ascendant Hero|R
 Chronozoa|R
 Circle of Affliction|U
-Citanul Woodreaders|C
+Roiling Horror|R
+Saltblast|U
+Serendib Sorcerer|R
+Saltfield Recluse|C
+Seal of Primordium|C
+Serra Sphinx|R
+Serra's Boon|U
+Shade of Trokair|C
+Shaper Parasite|C
+Shivan Meteor|U
+Shivan Wumpus|R
+Simian Spirit Guide|C
+Shrouded Lore|U
+Sinew Sliver|C
+Skirk Shaman|C
+Sophic Centaur|U
+Spitting Sliver|C
+Spellshift|R
+Stingscourger|C
+Stonecloaker|U
+Stormfront Riders|U
+Sulfur Elemental|U
+Tidewalker|U
+Synchronous Sliver|C
+Sunlance|C
+Teneb, the Harvester|R
+Temporal Extortion|R
+Timbermare|R
+Timebender|U
+Torchling|R
+Timecrafting|U
+Gossamer Phantasm|C
 Cradle to Grave|C
-Crovax, Ascendant Hero|R
-Damnation|R
 Darkheart Sliver|U
-Dash Hopes|C
+Damnation|R
 Dawn Charm|C
-Dead (Dead/Gone)|C
 Deadly Grub|C
+Dash Hopes|C
 Deadwood Treefolk|U
 Detritivore|R
+Dreamscape Artist|C
 Dichotomancy|R
 Dismal Failure|U
 Dormant Sliver|U
-Dreamscape Artist|C
 Dunerider Outlaw|U
 Dust Corona|C
 Dust Elemental|R
-Enslave|U
 Erratic Mutation|C
+Enslave|U
 Essence Warden|C
-Evolution Charm|C
 Extirpate|R
 Fa'adiyah Seer|C
-Fatal Frenzy|R
+Evolution Charm|C
 Firefright Mage|C
+Fatal Frenzy|R
 Frenetic Sliver|U
-Frozen Aether|U
 Fungal Behemoth|R
+Frozen Aether|U
 Fury Charm|C
 Gaea's Anthem|R
 Ghost Tactician|C
 Giant Dustwasp|C
-Gone (Dead/Gone)|C
-Gossamer Phantasm|C
+Dead/Gone|C
 Groundbreaker|R
 Hammerheim Deadeye|U
-Harmonize|U
-Healing Leaves|C
 Hedge Troll|U
-Heroes Remembered|R
+Healing Leaves|C
+Harmonize|U
 Hunting Wilds|U
+Heroes Remembered|R
+Jedit Ojanen of Efrava|R
 Imp's Mischief|R
 Intet, the Dreamer|R
-Jedit Ojanen of Efrava|R
 Jodah's Avenger|U
 Kavu Predator|U
-Keen Sense|U
 Keldon Marauders|C
-Kor Dirge|U
-Lavacore Elemental|U
+Keen Sense|U
 Life and Limb|R
+Lavacore Elemental|U
 Magus of the Arena|R
+Kor Dirge|U
 Magus of the Bazaar|R
 Magus of the Coffers|R
 Magus of the Library|R
 Magus of the Tabernacle|R
 Malach of the Dawn|U
-Mana Tithe|C
 Mantle of Leadership|U
-Melancholy|C
 Merfolk Thaumaturgist|C
+Mana Tithe|C
+Melancholy|C
 Mesa Enchantress|R
-Midnight Charm|C
 Mire Boa|C
 Mirri the Cursed|R
+Midnight Charm|C
 Molten Firebird|R
 Muck Drubb|U
 Mycologist|U
 Necrotic Sliver|U
 Needlepeak Spider|C
-Null Profusion|R
-Numot, the Devastator|R
 Oros, the Avenger|R
+Numot, the Devastator|R
 Ovinize|U
+Null Profusion|R
 Pallid Mycoderm|C
+Pongify|U
 Phantasmagorian|U
 Piracy Charm|C
-Pongify|U
 Porphyry Nodes|R
 Poultice Sliver|C
+Prodigal Pyromancer|C
 Pouncing Wurm|U
 Primal Plasma|C
-Prodigal Pyromancer|C
 Psychotrope Thallid|U
 Pyrohemia|U
 Radha, Heir to Keld|R
@@ -113,56 +158,8 @@ Reality Acid|C
 Rebuff the Wicked|U
 Reckless Wurm|U
 Reflex Sliver|C
-Retether|R
 Revered Dead|C
+Retether|R
+Riptide Pilferer|U
 Ridged Kusite|C
 Riftmarked Knight|U
-Riptide Pilferer|U
-Roiling Horror|R
-Rough (Rough/Tumble)|U
-Saltblast|U
-Saltfield Recluse|C
-Seal of Primordium|C
-Serendib Sorcerer|R
-Serra Sphinx|R
-Serra's Boon|U
-Shade of Trokair|C
-Shaper Parasite|C
-Shivan Meteor|U
-Shivan Wumpus|R
-Shrouded Lore|U
-Simian Spirit Guide|C
-Sinew Sliver|C
-Skirk Shaman|C
-Sophic Centaur|U
-Spellshift|R
-Spitting Sliver|C
-Stingscourger|C
-Stonecloaker|U
-Stormfront Riders|U
-Sulfur Elemental|U
-Sunlance|C
-Synchronous Sliver|C
-Temporal Extortion|R
-Teneb, the Harvester|R
-Tidewalker|U
-Timbermare|R
-Timebender|U
-Timecrafting|U
-Torchling|R
-Treacherous Urge|U
-Tumble (Rough/Tumble)|U
-Uktabi Drake|C
-Urborg, Tomb of Yawgmoth|R
-Utopia Vow|C
-Vampiric Link|C
-Veiling Oddity|C
-Venarian Glimmer|U
-Vitaspore Thallid|C
-Voidstone Gargoyle|R
-Volcano Hellion|R
-Vorosh, the Hunter|R
-Waning Wurm|U
-Whitemane Lion|C
-Wild Pair|R
-Wistful Thinking|C

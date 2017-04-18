@@ -1,31 +1,30 @@
+Bronze Sable|C
 Accursed Spirit|C
 Act on Impulse|U
-Aegis Angel|R
 Aeronaut Tinkerer|C
-Aetherspouts|R
 Aggressive Mining|R
-Ajani Steadfast|M
-Ajani's Pridemate|U
-Altac Bloodseeker|U
+Aetherspouts|R
+Aegis Angel|R
 Amphin Pathmage|C
 Ancient Silverback|U
 Avacyn, Guardian Angel|R
+Altac Bloodseeker|U
+Ajani Steadfast|M
+Ajani's Pridemate|U
 Avarice Amulet|R
+Belligerent Sliver|U
 Back to Nature|U
 Battle Mastery|U
 Battlefield Forge|R
-Belligerent Sliver|U
+Blood Host|U
 Black Cat|C
 Blastfire Bolt|C
-Blood Host|U
 Boonweaver Giant|U
 Borderland Marauder|C
-Brawler's Plate|U
-Bronze Sable|C
 Brood Keeper|U
 Burning Anger|R
-Cancel|C
 Carnivorous Moss-Beast|C
+Cancel|C
 Carrion Crow|C
 Caustic Tar|U
 Caves of Koilos|R
@@ -35,25 +34,25 @@ Charging Rhino|C
 Chasm Skulker|R
 Chief Engineer|R
 Child of Night|C
-Chord of Calling|R
 Chronostutter|C
+Chord of Calling|R
 Circle of Flame|U
 Clear a Path|C
 Cone of Flame|U
 Congregate|U
 Constricting Sliver|U
 Coral Barrier|C
-Covenant of Blood|C
 Crippling Blight|C
-Crowd's Favor|C
+Covenant of Blood|C
 Crucible of Fire|R
+Crowd's Favor|C
 Cruel Sadist|R
 Darksteel Citadel|U
 Dauntless River Marshal|U
-Devouring Light|U
 Diffusion Sliver|U
-Dissipate|U
+Devouring Light|U
 Divination|C
+Dissipate|U
 Divine Favor|C
 Divine Verdict|C
 Elvish Mystic|C
@@ -62,91 +61,93 @@ Endless Obedience|U
 Ensoul Artifact|U
 Ephemeral Shields|C
 Eternal Thirst|C
-Evolving Wilds|C
 Feast on the Fallen|U
+Evolving Wilds|C
 Feral Incarnation|U
 Festergloom|C
 First Response|U
-Flesh to Dust|C
 Forest|L
-Forge Devil|C
+Flesh to Dust|C
 Foundry Street Denizen|C
+Forge Devil|C
 Frenzied Goblin|U
-Frost Lynx|C
 Fugitive Wizard|C
+Frost Lynx|C
 Furnace Whelp|U
 Gargoyle Sentinel|U
 Garruk's Packleader|U
+Geist of the Moors|U
 Garruk, Apex Predator|M
 Gather Courage|U
-Geist of the Moors|U
 Generator Servant|C
 Genesis Hydra|R
-Glacial Crasher|C
-Goblin Kaboomist|R
-Goblin Rabblemaster|R
 Goblin Roughrider|C
+Goblin Kaboomist|R
+Glacial Crasher|C
+Goblin Rabblemaster|R
+Hammerhand|C
 Gravedigger|U
 Grindclock|R
-Hammerhand|C
-Haunted Plate Mail|R
-Heat Ray|U
-Heliod's Pilgrim|C
 Hoarding Dragon|R
+Haunted Plate Mail|R
+Heliod's Pilgrim|C
+Heat Ray|U
+Hot Soup|U
 Hornet Nest|R
 Hornet Queen|R
-Hot Soup|U
 Hunt the Weak|C
+Indulgent Tormentor|R
 Hunter's Ambush|C
 Hushwing Gryff|R
-Hydrosurge|C
 Illusory Angel|U
+Hydrosurge|C
 In Garruk's Wake|R
-Indulgent Tormentor|R
 Inferno Fist|C
 Inspired Charge|C
-Into the Void|U
 Invasive Species|C
-Invisibility|C
+Into the Void|U
 Island|L
-Jace's Ingenuity|U
+Invisibility|C
 Jace, the Living Guildpact|M
-Jalira, Master Polymorphist|R
+Jace's Ingenuity|U
 Jorubai Murk Lurker|U
-Juggernaut|U
+Jalira, Master Polymorphist|R
 Kalonian Twingrove|R
-Kapsho Kitefins|U
+Juggernaut|U
 Kinsbaile Skirmisher|C
+Kapsho Kitefins|U
 Kird Chieftain|U
 Krenko's Enforcer|C
+Lightning Strike|C
+Leeching Sliver|U
 Kurkesh, Onakke Ancient|R
 Lava Axe|C
-Leeching Sliver|U
+Plains|L
+Perilous Vault|M
 Life's Legacy|R
-Lightning Strike|C
 Liliana Vess|M
 Living Totem|C
-Llanowar Wastes|R
 Mahamoti Djinn|R
-Marked by Honor|C
-Mass Calcify|R
 Master of Predicaments|R
+Llanowar Wastes|R
+Marked by Honor|C
 Meditation Puzzle|C
+Mass Calcify|R
 Mercurial Pretender|R
-Meteorite|U
-Midnight Guard|C
-Might Makes Right|U
 Military Intelligence|U
-Mind Rot|C
+Midnight Guard|C
 Mind Sculpt|C
+Meteorite|U
+Might Makes Right|U
+Mind Rot|C
 Miner's Bane|C
-Mountain|L
-Naturalize|C
 Necrobite|C
 Necrogen Scudder|U
+Mountain|L
+Naturalize|C
+Negate|C
 Necromancer's Assistant|C
 Necromancer's Stockpile|R
-Negate|C
 Netcaster Spider|C
 Nightfire Giant|U
 Nightmare|R
@@ -155,42 +156,41 @@ Nissa's Expedition|U
 Nissa, Worldwaker|M
 Ob Nixilis, Unshackled|R
 Obelisk of Urd|R
-Oppressive Rays|C
 Oreskos Swiftclaw|C
 Ornithopter|C
-Overwhelm|U
+Oppressive Rays|C
+Paragon of Gathering Mists|U
 Paragon of Eternal Wilds|U
 Paragon of Fierce Defiance|U
-Paragon of Gathering Mists|U
+Overwhelm|U
 Paragon of New Dawns|U
 Paragon of Open Graves|U
 Peel from Reality|C
-Perilous Vault|M
 Phyrexian Revoker|R
+Brawler's Plate|U
+Preeminent Captain|R
 Phytotitan|R
 Pillar of Light|C
-Plains|L
-Plummet|C
 Polymorphist's Jest|R
-Preeminent Captain|R
-Profane Memento|U
+Plummet|C
 Quickling|U
+Profane Memento|U
 Radiant Fountain|C
 Raise the Alarm|C
-Ranger's Guile|C
 Razorfoot Griffin|C
+Ranger's Guile|C
 Reclamation Sage|U
+Return to the Ranks|R
 Research Assistant|C
 Resolute Archangel|R
-Restock|U
-Return to the Ranks|R
 Roaring Primadox|U
-Rogue's Gloves|U
 Rotfeaster Maggot|C
+Restock|U
+Rogue's Gloves|U
+Sanctified Charge|C
 Rummaging Goblin|C
 Runeclaw Bear|C
 Sacred Armory|U
-Sanctified Charge|C
 Satyr Wayfinder|C
 Scrapyard Mongrel|C
 Scuttling Doom Engine|R
@@ -198,72 +198,72 @@ Seismic Strike|C
 Selfless Cathar|C
 Sengir Vampire|U
 Seraph of the Masses|U
-Serra Angel|U
 Shadowcloak Vampire|C
+Shivan Reef|R
 Shaman of Spring|C
+Serra Angel|U
 Shield of the Avatar|R
 Shivan Dragon|R
-Shivan Reef|R
 Shrapnel Blast|U
 Siege Dragon|R
 Siege Wurm|C
-Sign in Blood|C
 Sliver Hive|R
+Sign in Blood|C
 Sliver Hivelord|M
-Solemn Offering|C
 Soul of Innistrad|M
+Solemn Offering|C
 Soul of New Phyrexia|M
 Soul of Ravnica|M
 Soul of Shandalar|M
 Soul of Theros|M
 Soul of Zendikar|M
+Stab Wound|U
 Soulmender|C
 Spectra Ward|R
 Spirit Bonds|R
-Stab Wound|U
 Staff of the Death Magus|U
 Staff of the Flame Magus|U
 Staff of the Mind Magus|U
 Staff of the Sun Magus|U
 Staff of the Wild Magus|U
-Stain the Mind|R
 Statute of Denial|C
+Stain the Mind|R
 Stoke the Flames|U
+Sungrace Pegasus|C
 Stormtide Leviathan|R
 Sunblade Elf|U
-Sungrace Pegasus|C
 Swamp|L
 Terra Stomper|R
 The Chain Veil|M
-Thundering Giant|C
 Tireless Missionaries|C
-Titanic Growth|C
+Thundering Giant|C
 Torch Fiend|C
 Tormod's Crypt|U
+Titanic Growth|C
 Triplicate Spirits|C
 Turn to Frog|U
 Typhoid Rats|C
-Tyrant's Machine|C
 Ulcerate|U
+Tyrant's Machine|C
+Urborg, Tomb of Yawgmoth|R
 Undergrowth Scavenger|C
 Unmake the Graves|C
-Urborg, Tomb of Yawgmoth|R
 Venom Sliver|U
 Verdant Haven|C
 Vineweft|C
-Void Snare|C
 Walking Corpse|C
+Void Snare|C
 Wall of Essence|U
 Wall of Fire|C
 Wall of Frost|U
 Wall of Limbs|U
 Wall of Mulch|U
 Warden of the Beyond|U
-Waste Not|R
-Welkin Tern|C
-Will-Forged Golem|C
 Witch's Familiar|C
+Welkin Tern|C
+Waste Not|R
+Will-Forged Golem|C
 Xathrid Slyblade|U
-Yavimaya Coast|R
 Yisan, the Wanderer Bard|R
+Yavimaya Coast|R
 Zof Shade|C

@@ -1,85 +1,86 @@
-Akroma, Angel of Wrath|S
 Arena|S
-Assault (Assault/Battery)|S
+Akroma, Angel of Wrath|S
 Auratog|S
 Avalanche Riders|S
 Avatar of Woe|S
-Avoid Fate|S
 Bad Moon|S
-Battery (Assault/Battery)|U
+Avoid Fate|S
+Assault/Battery|U
 Browbeat|S
 Call of the Herd|S
 Celestial Dawn|S
-Claws of Gix|S
-Coalition Victory|S
 Cockatrice|S
+Claws of Gix|S
 Consecrate Land|S
-Conspiracy|S
+Coalition Victory|S
 Craw Giant|S
+Conspiracy|S
+Dauthi Slayer|S
 Dandân|S
 Darkness|S
-Dauthi Slayer|S
 Defiant Vanguard|S
-Desert|S
+Dodecapod|S
 Desolation Giant|S
+Desert|S
 Disenchant|S
 Disintegrate|S
-Dodecapod|S
 Dragon Whelp|S
-Dragonstorm|S
-Enduring Renewal|S
 Eron the Relentless|S
+Enduring Renewal|S
+Dragonstorm|S
 Essence Sliver|S
 Evil Eye of Orms-by-Gore|S
 Faceless Butcher|S
 Feldon's Cane|S
 Fiery Justice|S
-Fiery Temper|S
 Fire Whip|S
+Fiery Temper|S
 Flying Men|S
 Funeral Charm|S
 Gaea's Blessing|S
 Gaea's Liege|S
-Gemstone Mine|S
 Ghost Ship|S
+Gemstone Mine|S
 Giant Oyster|S
 Goblin Snowman|S
-Grinning Totem|S
 Hail Storm|S
-Honorable Passage|S
+Grinning Totem|S
 Hunting Moa|S
+Honorable Passage|S
 Icatian Javelineers|S
 Jasmine Boreal|S
 Jolrael, Empress of Beasts|S
 Kobold Taskmaster|S
-Krosan Cloudscraper|S
 Leviathan|S
-Lightning Angel|S
+Krosan Cloudscraper|S
 Lord of Atlantis|S
+Lightning Angel|S
 Merfolk Assassin|S
 Merieke Ri Berit|S
 Mindless Automaton|S
-Mirari|S
 Mistform Ultimus|S
+Mirari|S
 Moorish Cavalry|S
 Mystic Enforcer|S
-Mystic Snake|S
 Nicol Bolas|S
-Orcish Librarian|S
-Orgg|S
+Mystic Snake|S
 Ovinomancer|S
-Pandemonium|S
+Orcish Librarian|S
+Withered Wretch|S
+Zhalfirin Commander|S
+Orgg|S
 Pendelhaven|S
-Pirate Ship|S
 Prodigal Sorcerer|S
+Pandemonium|S
+Pirate Ship|S
 Psionic Blast|S
-Resurrection|S
 Sacred Mesa|S
-Safe Haven|S
+Resurrection|S
 Scragnoth|S
+Safe Haven|S
 Sengir Autocrat|S
-Serrated Arrows|S
 Shadow Guildmage|S
+Serrated Arrows|S
 Shadowmage Infiltrator|S
 Sindbad|S
 Sol'kanar the Swamp King|S
@@ -88,35 +89,33 @@ Soul Collector|S
 Spike Feeder|S
 Spined Sliver|S
 Spitting Slug|S
-Squire|S
-Stormbind|S
 Stormscape Familiar|S
 Stupor|S
 Suq'Ata Lancer|S
+Squire|S
+Stormbind|S
 Swamp Mosquito|S
-Teferi's Moat|S
 Thallid|S
-The Rack|S
+Teferi's Moat|S
 Thornscape Battlemage|S
+The Rack|S
 Tormod's Crypt|S
-Tribal Flames|S
 Twisted Abomination|S
+Tribal Flames|S
 Uncle Istvan|S
 Undead Warchief|S
-Undertaker|S
 Unstable Mutation|S
+Undertaker|S
 Uthden Troll|S
-Valor|S
 Verdeloth the Ancient|S
+Valor|S
 Vhati il-Dal|S
-Void|S
 Voidmage Prodigy|S
 Wall of Roots|S
-War Barge|S
-Whirling Dervish|S
-Whispers of the Muse|S
+Void|S
 Wildfire Emissary|S
+Whirling Dervish|S
+War Barge|S
+Whispers of the Muse|S
 Willbender|S
 Witch Hunter|S
-Withered Wretch|S
-Zhalfirin Commander|S

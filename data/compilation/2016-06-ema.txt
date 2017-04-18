@@ -1,117 +1,149 @@
-Abundant Growth|C
+Sentinel Spider|C
+Blightsoil Druid|C
 Ancestral Mask|U
 Animate Dead|U
-Annihilate|U
+Abundant Growth|C
 Arcanis the Omnipotent|R
 Argothian Enchantress|M
+Annihilate|U
 Armadillo Cloak|U
-Ashnod's Altar|U
 Avarax|C
 Aven Riftwatcher|C
-Balance|M
+Ashnod's Altar|U
 Baleful Strix|R
+Balance|M
 Ballynock Cohort|C
 Battle Squadron|U
 Beetleback Chief|U
 Benevolent Bodyguard|C
-Blightsoil Druid|C
+Seismic Stomp|C
+Sengir Autocrat|U
+Sensei's Divining Top|R
+Second Thoughts|C
+Serra Angel|U
+Shaman of the Pack|U
+Shardless Agent|R
+Serendib Efreet|R
+Shoreline Ranger|C
+Sinkhole|R
+Siege-Gang Commander|R
+Shelter|C
+Silent Departure|C
+Silvos, Rogue Elemental|R
+Skulking Ghost|C
+Soulcatcher|U
+Sneak Attack|M
+Squadron Hawk|C
+Sprite Noble|U
+Sphinx of the Steel Wind|M
+Stingscourger|C
+Sulfuric Vortex|R
+Stupefying Touch|C
+Swiftwater Cliffs|C
+Swords to Plowshares|U
+Sylvan Library|R
+Thornweald Archer|C
+Sylvan Might|C
+Thunderclap Wyvern|U
+Thornwood Falls|C
+Ticking Gnomes|U
 Blood Artist|U
 Bloodbraid Elf|U
-Bloodfell Caves|C
 Blossoming Sands|C
+Bloodfell Caves|C
 Borderland Marauder|C
 Brago, King Eternal|R
 Braids, Cabal Minion|R
-Brainstorm|U
-Brawn|U
 Burning Vengeance|U
-Cabal Therapy|U
+Brawn|U
+Brainstorm|U
 Calciderm|U
-Call the Skybreaker|R
-Carbonize|C
-Carrion Feeder|C
+Cabal Therapy|U
 Centaur Chieftain|U
+Carbonize|C
+Call the Skybreaker|R
+Carrion Feeder|C
 Cephalid Sage|C
-Chain Lightning|U
 Chrome Mox|M
+Chain Lightning|U
 Civic Wayfinder|C
 Coalition Honor Guard|C
 Commune with the Gods|C
 Control Magic|R
 Counterspell|C
 Crater Hellion|R
+Deadbridge Shaman|C
 Dack Fayden|M
 Daze|U
-Deadbridge Shaman|C
 Deathrite Shaman|R
-Deep Analysis|C
 Desperate Ravings|C
+Deep Analysis|C
 Diminishing Returns|R
 Dismal Backwater|C
 Dragon Egg|C
-Dream Twist|C
 Dualcaster Mage|R
+Dream Twist|C
+Eight-and-a-Half-Tails|R
 Duplicant|R
 Duress|C
-Eight-and-a-Half-Tails|R
 Elephant Guide|C
 Elite Vanguard|C
 Elvish Vanguard|C
-Emmessi Tome|U
 Emperor Crocodile|C
-Enlightened Tutor|R
+Emmessi Tome|U
 Entomb|R
-Extract from Darkness|U
+Enlightened Tutor|R
 Eyeblight's Ending|C
+Extract from Darkness|U
 Fact or Fiction|U
 Faith's Fetters|U
 Faithless Looting|C
 Fervent Cathar|C
-Field of Souls|U
 Firebolt|C
+Field of Souls|U
+Flinthoof Boar|U
 Flame Jab|U
 Flame-Kin Zealot|U
-Flinthoof Boar|U
 Fog|C
 Force of Will|M
-Future Sight|R
 Gaea's Blessing|U
+Future Sight|R
 Gamble|R
 Gaseous Form|C
 Ghitu Slinger|U
 Giant Solifuge|R
 Giant Tortoise|C
 Glacial Wall|C
-Glare of Subdual|R
 Glimmerpoint Stag|U
+Glare of Subdual|R
 Goblin Charbelcher|R
-Goblin Trenches|R
 Gravedigger|C
-Green Sun's Zenith|R
+Goblin Trenches|R
 Harmonize|U
-Havoc Demon|U
+Green Sun's Zenith|R
 Heritage Druid|R
+Havoc Demon|U
 Honden of Cleansing Fire|U
 Honden of Infinite Rage|U
 Honden of Life's Web|U
 Honden of Night's Reach|U
 Honden of Seeing Winds|U
-Humble|C
 Hydroblast|U
-Hymn to Tourach|U
+Humble|C
 Ichorid|R
+Hymn to Tourach|U
 Imperious Perfect|R
 Inkwell Leviathan|R
-Innocent Blood|C
 Intangible Virtue|U
+Innocent Blood|C
 Invigorate|U
-Isochron Scepter|R
 Jace, the Mind Sculptor|M
-Jareth, Leonine Titan|R
+Isochron Scepter|R
 Jetting Glasskite|U
+Jareth, Leonine Titan|R
+Karakas|M
 Juggernaut|U
 Jungle Hollow|C
-Karakas|M
 Karmic Guide|R
 Keldon Champion|U
 Keldon Marauders|C
@@ -120,99 +152,67 @@ Kor Hookmaster|C
 Llanowar Elves|C
 Lys Alana Huntmaster|C
 Lys Alana Scarblade|U
-Maelstrom Wanderer|M
 Malicious Affliction|R
+Maelstrom Wanderer|M
 Man-o'-War|C
-Mana Crypt|M
 Maze of Ith|R
+Mana Crypt|M
 Memory Lapse|C
-Merfolk Looter|U
 Mesa Enchantress|U
-Millikin|U
+Merfolk Looter|U
 Mindless Automaton|U
+Millikin|U
 Mishra's Factory|U
 Mistral Charger|C
 Mogg Fanatic|C
 Mogg War Marshal|C
 Monk Idealist|C
 Mother of Runes|R
+Nausea|C
 Mystical Tutor|R
 Natural Order|M
 Nature's Claim|C
-Nausea|C
-Necropotence|M
 Nekrataal|U
+Necropotence|M
 Nevinyrral's Disk|R
 Night's Whisper|C
 Nimble Mongoose|C
-Oona's Grace|C
 Orcish Oriflamme|C
+Oona's Grace|C
 Pacifism|C
 Peregrine Drake|C
+Phyrexian Ingester|U
 Phantom Monster|C
 Phyrexian Gargantua|U
-Phyrexian Ingester|U
 Phyrexian Rager|C
 Pilgrim's Eye|C
 Plague Witch|C
 Price of Progress|U
-Prismatic Lens|U
-Prodigal Sorcerer|U
 Prowling Pangolin|C
-Pyroblast|U
-Pyrokinesis|R
+Prodigal Sorcerer|U
+Prismatic Lens|U
 Quiet Speculation|U
-Raise the Alarm|C
+Pyrokinesis|R
+Pyroblast|U
 Rally the Peasants|C
+Raise the Alarm|C
 Rancor|U
-Reckless Charge|C
-Regal Force|R
 Relic of Progenitus|U
+Reckless Charge|C
 Roar of the Wurm|U
+Regal Force|R
 Roots|C
-Rorix Bladewing|R
 Rugged Highlands|C
-Scoured Barrens|C
+Rorix Bladewing|R
 Screeching Skaab|C
-Seal of Cleansing|C
+Scoured Barrens|C
 Seal of Strength|C
-Second Thoughts|C
-Seismic Stomp|C
-Sengir Autocrat|U
-Sensei's Divining Top|R
-Sentinel Spider|C
-Serendib Efreet|R
-Serra Angel|U
-Shaman of the Pack|U
-Shardless Agent|R
-Shelter|C
-Shoreline Ranger|C
-Siege-Gang Commander|R
-Silent Departure|C
-Silvos, Rogue Elemental|R
-Sinkhole|R
-Skulking Ghost|C
-Sneak Attack|M
-Soulcatcher|U
-Sphinx of the Steel Wind|M
-Sprite Noble|U
-Squadron Hawk|C
-Stingscourger|C
-Stupefying Touch|C
-Sulfuric Vortex|R
-Swiftwater Cliffs|C
-Swords to Plowshares|U
-Sylvan Library|R
-Sylvan Might|C
-Thornweald Archer|C
-Thornwood Falls|C
-Thunderclap Wyvern|U
-Ticking Gnomes|U
-Tidal Wave|C
+Seal of Cleansing|C
 Timberwatch Elf|U
+Tidal Wave|C
 Tooth and Claw|U
-Torrent of Souls|U
 Toxic Deluge|R
+Torrent of Souls|U
 Tragic Slip|C
 Tranquil Cove|C
 Trygon Predator|U
@@ -220,24 +220,24 @@ Twisted Abomination|C
 Undying Rage|C
 Unexpectedly Absent|R
 Urborg Uprising|C
-Vampiric Tutor|M
+Void|R
 Victimize|U
+Vampiric Tutor|M
 Vindicate|R
 Visara the Dreadful|R
-Void|R
 Wake of Vultures|C
-Wakedancer|C
 Wall of Omens|U
-War Priest of Thune|U
+Wakedancer|C
 Warden of Evos Isle|C
-Wasteland|R
+War Priest of Thune|U
 Wee Dragonauts|U
+Wasteland|R
 Welkin Guide|C
-Werebear|C
 Whitemane Lion|C
+Werebear|C
 Wildfire Emissary|C
-Wind-Scarred Crag|C
 Winter Orb|R
+Wind-Scarred Crag|C
 Wirewood Symbiote|U
 Wonder|U
 Worldgorger Dragon|M

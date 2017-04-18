@@ -1,91 +1,6 @@
-Ad Nauseam|R
-Agony Warp|C
-Ajani Vengeant|M
-Akrasan Squire|C
-Algae Gharial|U
-Angel's Herald|U
-Angelic Benediction|U
-Angelsong|C
-Arcane Sanctum|U
-Archdemon of Unx|R
-Banewasp Affliction|C
-Bant Battlemage|U
-Bant Charm|U
-Bant Panorama|C
-Battlegrace Angel|R
-Behemoth's Herald|U
-Blightning|C
-Blister Beetle|C
-Blood Cultist|U
-Bloodpyre Elemental|C
-Bloodthorn Taunter|C
-Bone Splinters|C
-Branching Bolt|C
-Brilliant Ultimatum|R
-Broodmate Dragon|R
-Bull Cerodon|U
-Caldera Hellion|R
-Call to Heel|C
-Cancel|C
-Carrion Thrash|C
-Cathartic Adept|C
-Cavern Thoctar|C
-Clarion Ultimatum|R
-Cloudheath Drake|C
-Coma Veil|C
-Corpse Connoisseur|U
-Courier's Capsule|C
-Court Archers|C
-Covenant of Minds|R
-Cradle of Vitality|R
-Crucible of Fire|R
-Cruel Ultimatum|R
-Crumbling Necropolis|U
-Cunning Lethemancer|R
-Cylian Elf|C
-Dawnray Archer|U
-Death Baron|R
-Deathgreeter|C
-Deft Duelist|C
-Demon's Herald|U
-Dispeller's Capsule|C
-Dragon Fodder|C
-Dragon's Herald|U
-Dreg Reaver|C
-Dregscape Zombie|C
-Druid of the Anima|C
-Drumhunter|U
-Elspeth, Knight-Errant|M
-Elvish Visionary|C
-Empyrial Archangel|M
-Esper Battlemage|U
-Esper Charm|U
-Esper Panorama|C
-Etherium Astrolabe|U
-Etherium Sculptor|C
-Ethersworn Canonist|R
-Excommunicate|C
-Executioner's Capsule|C
-Exuberant Firestoker|U
-Fatestitcher|U
-Feral Hydra|R
-Filigree Sages|U
-Fire-Field Ogre|U
-Flameblast Dragon|R
-Fleshbag Marauder|U
-Forest|L
-Gather Specimens|R
-Gift of the Gargantuan|C
-Glaze Fiend|C
-Goblin Assault|R
-Goblin Deathraiders|C
-Goblin Mountaineer|C
-Godsire|M
-Godtoucher|C
-Grixis Battlemage|U
 Grixis Charm|U
-Grixis Panorama|C
 Guardians of Akrasa|C
+Grixis Panorama|C
 Gustrider Exuberant|C
 Hell's Thunder|R
 Hellkite Overlord|M
@@ -93,9 +8,9 @@ Hindering Light|C
 Hissing Iguanar|C
 Immortal Coil|R
 Incurable Ogre|C
+Island|L
 Infest|U
 Invincible Hymn|R
-Island|L
 Jhessian Infiltrator|U
 Jhessian Lookout|C
 Jund Battlemage|U
@@ -107,56 +22,72 @@ Kathari Screecher|C
 Kederekt Creeper|C
 Kederekt Leviathan|R
 Keeper of Progenitus|R
-Kiss of the Amesha|U
 Knight of the Skyward Eye|C
+Kiss of the Amesha|U
 Knight of the White Orchid|R
 Knight-Captain of Eos|R
+Esper Charm|U
+Esper Panorama|C
+Etherium Sculptor|C
+Ethersworn Canonist|R
+Executioner's Capsule|C
+Excommunicate|C
+Exuberant Firestoker|U
+Fatestitcher|U
+Feral Hydra|R
+Filigree Sages|U
+Flameblast Dragon|R
+Fire-Field Ogre|U
+Fleshbag Marauder|U
+Goblin Deathraiders|C
+Forest|L
+Gift of the Gargantuan|C
+Gather Specimens|R
+Glaze Fiend|C
+Goblin Assault|R
+Goblin Mountaineer|C
+Godtoucher|C
+Godsire|M
+Grixis Battlemage|U
 Kresh the Bloodbraided|M
-Lich's Mirror|M
 Lightning Talons|C
+Lich's Mirror|M
+Manaplasm|R
 Lush Growth|C
 Magma Spray|C
-Manaplasm|R
-Marble Chalice|C
 Master of Etherium|R
+Marble Chalice|C
 Mayael the Anima|M
 Memory Erosion|R
 Metallurgeon|U
 Mighty Emergence|U
-Mindlock Orb|R
-Minion Reflector|R
-Mosstodon|C
-Mountain|L
-Mycoloth|R
-Naturalize|C
-Naya Battlemage|U
 Naya Charm|U
 Naya Panorama|C
 Necrogenesis|U
-Obelisk of Bant|C
 Obelisk of Esper|C
+Obelisk of Bant|C
 Obelisk of Grixis|C
 Obelisk of Jund|C
 Obelisk of Naya|C
-Oblivion Ring|C
 Onyx Goblet|C
-Ooze Garden|R
+Oblivion Ring|C
 Outrider of Jhess|C
 Plains|L
-Predator Dragon|R
+Ooze Garden|R
 Prince of Thralls|M
+Predator Dragon|R
 Protomatter Powder|U
-Punish Ignorance|R
 Puppet Conjurer|U
+Punish Ignorance|R
 Qasali Ambusher|U
 Quietus Spike|R
-Rafiq of the Many|M
 Rakeclaw Gargantuan|C
+Rafiq of the Many|M
 Ranger of Eos|R
-Realm Razer|R
 Relic of Progenitus|C
-Resounding Roar|C
+Realm Razer|R
 Resounding Scream|C
+Resounding Roar|C
 Resounding Silence|C
 Resounding Thunder|C
 Resounding Wave|C
@@ -169,51 +100,92 @@ Rockslide Elemental|U
 Sacellum Godspeaker|R
 Salvage Titan|R
 Sanctum Gargoyle|C
-Sangrite Surge|U
 Sarkhan Vol|M
+Sangrite Surge|U
 Savage Hunger|C
+Minion Reflector|R
+Mindlock Orb|R
+Mosstodon|C
+Mountain|L
+Mycoloth|R
+Naya Battlemage|U
+Naturalize|C
+Agony Warp|C
+Ad Nauseam|R
+Ajani Vengeant|M
+Akrasan Squire|C
+Algae Gharial|U
+Angel's Herald|U
+Angelsong|C
+Angelic Benediction|U
+Archdemon of Unx|R
+Arcane Sanctum|U
+Banewasp Affliction|C
+Bant Battlemage|U
+Battlegrace Angel|R
+Bant Charm|U
+Bant Panorama|C
+Behemoth's Herald|U
+Blister Beetle|C
+Blightning|C
+Blood Cultist|U
+Bloodpyre Elemental|C
+Bloodthorn Taunter|C
+Bone Splinters|C
+Broodmate Dragon|R
+Branching Bolt|C
+Brilliant Ultimatum|R
+Bull Cerodon|U
+Caldera Hellion|R
+Cancel|C
+Call to Heel|C
+Carrion Thrash|C
+Cathartic Adept|C
+Cavern Thoctar|C
 Savage Lands|U
 Scavenger Drake|U
+Corpse Connoisseur|U
+Cloudheath Drake|C
 Scourge Devil|U
+Sedraxis Specter|R
 Scourglass|R
 Seaside Citadel|U
-Sedraxis Specter|R
-Sedris, the Traitor King|M
 Shadowfeed|C
+Sedris, the Traitor King|M
 Sharding Sphinx|R
 Sharuum the Hegemon|M
 Shore Snapper|C
 Sighted-Caste Sorcerer|C
-Sigil Blessing|C
 Sigil of Distinction|R
+Sigil Blessing|C
 Sigiled Paladin|U
 Skeletal Kathari|C
-Skeletonize|U
 Skill Borrower|R
+Skeletonize|U
 Skullmulcher|R
 Soul's Fire|C
 Soul's Grace|C
-Soul's Might|C
 Spearbreaker Behemoth|R
-Spell Snip|C
+Soul's Might|C
 Sphinx Sovereign|M
+Spell Snip|C
 Sphinx's Herald|U
 Sprouting Thrinax|U
 Steelclad Serpent|C
 Steward of Valeron|C
-Stoic Angel|R
-Sunseed Nurturer|U
-Swamp|L
-Swerve|U
 Tar Fiend|R
-Tezzeret the Seeker|M
+Sunseed Nurturer|U
+Stoic Angel|R
+Swamp|L
 Thorn-Thrash Viashino|C
+Swerve|U
+Tezzeret the Seeker|M
 Thoughtcutter Agent|U
 Thunder-Thrash Elder|U
 Tidehollow Sculler|U
 Tidehollow Strix|C
-Titanic Ultimatum|R
 Topan Ascetic|U
+Titanic Ultimatum|R
 Tortoise Formation|C
 Tower Gargoyle|U
 Undead Leotau|C
@@ -221,14 +193,42 @@ Vectis Silencers|C
 Vein Drinker|R
 Viashino Skeleton|C
 Vicious Shadows|R
-Violent Ultimatum|R
 Viscera Dragger|C
+Violent Ultimatum|R
 Vithian Stinger|C
 Volcanic Submersion|C
 Waveskimmer Aven|C
 Welkin Guide|C
-Where Ancients Tread|R
 Wild Nacatl|C
+Where Ancients Tread|R
 Windwright Mage|C
 Woolly Thoctar|U
 Yoked Plowbeast|C
+Clarion Ultimatum|R
+Coma Veil|C
+Courier's Capsule|C
+Court Archers|C
+Cradle of Vitality|R
+Covenant of Minds|R
+Crucible of Fire|R
+Crumbling Necropolis|U
+Cruel Ultimatum|R
+Cunning Lethemancer|R
+Cylian Elf|C
+Dawnray Archer|U
+Death Baron|R
+Deathgreeter|C
+Deft Duelist|C
+Demon's Herald|U
+Dispeller's Capsule|C
+Dragon Fodder|C
+Dragon's Herald|U
+Dregscape Zombie|C
+Dreg Reaver|C
+Druid of the Anima|C
+Elspeth, Knight-Errant|M
+Drumhunter|U
+Elvish Visionary|C
+Esper Battlemage|U
+Empyrial Archangel|M
+Etherium Astrolabe|U

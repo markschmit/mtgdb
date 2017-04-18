@@ -1,18 +1,19 @@
+Beastmaster's Magemark|C
+Culling Sun|R
 Absolver Thrull|C
-Abyssal Nocturnus|R
-Aetherplasm|U
 Agent of Masks|U
+Aetherplasm|U
+Abyssal Nocturnus|R
 Angel of Despair|R
 Battering Wurm|U
-Beastmaster's Magemark|C
 Belfry Spirit|U
 Benediction of Moons|C
 Bioplasm|R
 Blind Hunter|C
 Bloodscale Prowler|C
-Borborygmos|R
-Burning-Tree Bloodscale|C
 Burning-Tree Shaman|R
+Burning-Tree Bloodscale|C
+Borborygmos|R
 Castigate|C
 Caustic Rain|U
 Cerebral Vortex|R
@@ -22,31 +23,30 @@ Cremate|C
 Cry of Contrition|C
 Cryptwailing|U
 Crystal Seer|C
-Culling Sun|R
 Daggerclaw Imp|U
-Debtors' Knell|R
 Djinn Illuminatus|R
+Debtors' Knell|R
 Douse in Gloom|C
 Droning Bureaucrats|U
 Drowned Rusalka|U
 Dryad Sophisticate|U
-Dune-Brood Nephilim|R
 Earth Surge|R
+Dune-Brood Nephilim|R
 Electrolyze|U
 Exhumer Thrull|U
 Fencer's Magemark|C
 Feral Animist|U
-Frazzle|U
 Gatherer of Graces|U
-Gelectrode|U
 Ghor-Clan Bloodscale|U
+Frazzle|U
+Gelectrode|U
 Ghor-Clan Savage|C
 Ghost Council of Orzhova|R
 Ghost Warden|C
+Glint-Eye Nephilim|R
+Gigadrowse|C
 Ghostway|R
 Giant Solifuge|R
-Gigadrowse|C
-Glint-Eye Nephilim|R
 Goblin Flectomancer|U
 Godless Shrine|R
 Graven Dominator|R
@@ -54,27 +54,27 @@ Gristleback|U
 Gruul Guildmage|U
 Gruul Nodorog|C
 Gruul Scrapper|C
-Gruul Signet|C
 Gruul Turf|C
-Gruul War Plow|R
+Gruul Signet|C
 Guardian's Magemark|C
-Harrier Griffin|U
+Gruul War Plow|R
 Hatching Plans|R
-Hissing Miasma|U
+Harrier Griffin|U
 Hypervolt Grasp|U
+Hissing Miasma|U
+Invoke the Firemind|R
+Izzet Chronarch|C
 Infiltrator's Magemark|C
 Ink-Treader Nephilim|R
-Invoke the Firemind|R
 Izzet Boilerworks|C
-Izzet Chronarch|C
 Izzet Guildmage|U
 Izzet Signet|C
 Killer Instinct|R
-Leap of Flame|C
-Leyline of Lifeforce|R
 Leyline of Lightning|R
-Leyline of Singularity|R
+Leyline of Lifeforce|R
+Leap of Flame|C
 Leyline of the Meek|R
+Leyline of Singularity|R
 Leyline of the Void|R
 Lionheart Maverick|C
 Living Inferno|R
@@ -85,81 +85,81 @@ Moratorium Stone|R
 Mortify|U
 Mourning Thrull|C
 Necromancer's Magemark|C
-Niv-Mizzet, the Firemind|R
+Orzhov Euthanist|C
 Nivix, Aerie of the Firemind|U
+Niv-Mizzet, the Firemind|R
 Ogre Savant|C
 Order of the Stars|U
 Orzhov Basilica|C
-Orzhov Euthanist|C
 Orzhov Guildmage|U
+Orzhova, the Church of Deals|U
 Orzhov Pontiff|R
 Orzhov Signet|C
-Orzhova, the Church of Deals|U
 Ostiary Thrull|C
 Parallectric Feedback|R
-Petrahydrox|C
-Petrified Wood-Kin|R
 Pillory of the Sleepless|C
-Plagued Rusalka|U
+Petrified Wood-Kin|R
+Petrahydrox|C
 Poisonbelly Ogre|C
-Predatory Focus|U
-Primeval Light|U
+Plagued Rusalka|U
 Pyromatics|C
-Quicken|R
+Predatory Focus|U
 Rabble-Rouser|U
-Repeal|C
+Primeval Light|U
+Quicken|R
 Restless Bones|C
+Repeal|C
 Revenant Patriarch|U
-Rumbling Slum|R
 Runeboggle|C
-Sanguine Praetor|R
-Savage Twister|U
 Scab-Clan Mauler|C
-Schismotivate|U
+Rumbling Slum|R
+Sanguine Praetor|R
 Scorched Rusalka|U
+Savage Twister|U
 Seize the Soul|R
+Schismotivate|U
 Shadow Lance|U
-Shattering Spree|U
 Shrieking Grotesque|C
-Siege of Towers|R
 Silhana Ledgewalker|C
-Silhana Starfletcher|C
+Shattering Spree|U
+Siege of Towers|R
 Sinstriker's Will|U
-Skarrg, the Rage Pits|U
+Silhana Starfletcher|C
 Skarrgan Firebird|R
+Skarrg, the Rage Pits|U
+Skeletal Vampire|R
 Skarrgan Pit-Skulk|C
 Skarrgan Skybreaker|U
-Skeletal Vampire|R
-Sky Swallower|R
 Skyrider Trainee|C
-Smogsteed Rider|U
+Sky Swallower|R
 Souls of the Faultless|U
+Smogsteed Rider|U
 Spelltithe Enforcer|R
 Starved Rusalka|U
 Steam Vents|R
 Steamcore Weird|C
+Sword of the Paruns|R
 Stitch in Time|R
 Stomping Ground|R
-Storm Herd|R
 Stratozeppelid|U
+Storm Herd|R
 Streetbreaker Wurm|C
-Sword of the Paruns|R
 Teysa, Orzhov Scion|R
-Thunderheads|U
 Tibor and Lumia|R
-Tin Street Hooligan|C
-To Arms!|U
-Torch Drake|C
+Thunderheads|U
 Train of Thought|C
+Tin Street Hooligan|C
+Torch Drake|C
+To Arms!|U
 Ulasht, the Hate Seed|R
-Vacuumelt|U
 Vedalken Plotter|U
+Vacuumelt|U
 Vertigo Spawn|U
 Wee Dragonauts|C
-Wild Cantor|C
 Wildsize|C
-Witch-Maw Nephilim|R
 Withstand|C
 Wreak Havoc|U
+Witch-Maw Nephilim|R
+Wild Cantor|C
 Wurmweaver Coil|R
 Yore-Tiller Nephilim|R

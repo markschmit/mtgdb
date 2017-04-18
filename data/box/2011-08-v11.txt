@@ -1,15 +1,15 @@
 Cao Cao, Lord of Wei|M
 Captain Sisay|M
-Doran, the Siege Tower|M
-Kiki-Jiki, Mirror Breaker|M
-Kresh the Bloodbraided|M
 Mikaeus, the Lunarch|M
+Doran, the Siege Tower|M
+Kresh the Bloodbraided|M
+Kiki-Jiki, Mirror Breaker|M
 Omnath, Locus of Mana|M
-Oona, Queen of the Fae|M
-Progenitus|M
-Rafiq of the Many|M
 Sharuum the Hegemon|M
+Oona, Queen of the Fae|M
+Rafiq of the Many|M
+Progenitus|M
 Sun Quan, Lord of Wu|M
-Teferi, Mage of Zhalfir|M
 Ulamog, the Infinite Gyre|M
+Teferi, Mage of Zhalfir|M
 Visara the Dreadful|M

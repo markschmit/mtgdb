@@ -1,45 +1,47 @@
 Aether Membrane|U
 Angelic Shield|U
-Anger|U
-Armillary Sphere|C
 Augury Owl|C
+Armillary Sphere|C
 Azorius Chancery|C
 Bloodfire Colossus|R
 Bloodfire Kavu|U
+Clone|R
 Cache Raiders|U
 Chartooth Cougar|C
-Clone|R
 Coral Fighters|U
 Cosi's Ravager|C
 Cryptic Annelid|U
-Downhill Charge|C
 Earth Servant|U
+Downhill Charge|C
 Fiery Hellhound|C
-Flood Plain|U
 Galepowder Mage|R
+Flood Plain|U
 Geyser Glider|U
 Greater Stone Spirit|U
+Jedit's Dragoons|C
 Island|L
 Jaws of Stone|U
-Jedit's Dragoons|C
-Journeyer's Kite|R
 Kor Cartographer|C
+Journeyer's Kite|R
 Koth of the Hammer|M
-Lithophage|R
 Minamo Sightbender|U
-Mistmeadow Witch|U
+Anger|U
+Lithophage|R
 Mountain|L
+Mistmeadow Witch|U
 Neurok Invisimancer|C
+Overrule|C
 New Benalia|U
 Oblivion Ring|U
-Overrule|C
 Path to Exile|U
 Pilgrim's Eye|C
 Plains|L
 Plated Geopede|C
-Preordain|C
 Primal Plasma|C
+Preordain|C
 Pygmy Pyrosaur|C
+Vulshok Morningstar|U
+Vulshok Sorcerer|C
 Revoke Existence|C
 Safe Passage|C
 Sawtooth Loon|U
@@ -50,20 +52,18 @@ Sejiri Refuge|U
 Sigil of Sleep|C
 Sky Spirit|U
 Slith Strider|U
-Soaring Seacliff|C
 Sphinx of Uthuun|R
+Soaring Seacliff|C
+Stone Giant|U
 Spire Barrage|C
 Steel of the Godhead|C
-Stone Giant|U
 Sunblast Angel|R
+Venser, the Sojourner|M
 Torchling|R
 Vanish into Memory|U
-Venser, the Sojourner|M
-Volley of Boulders|R
 Vulshok Battlegear|U
+Volley of Boulders|R
 Vulshok Berserker|C
-Vulshok Morningstar|U
-Vulshok Sorcerer|C
 Wall of Denial|U
 Wayfarer's Bauble|C
 Whitemane Lion|C

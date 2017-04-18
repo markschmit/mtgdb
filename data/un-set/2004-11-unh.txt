@@ -1,145 +1,141 @@
+Bloodletter|C
+B-I-N-G-O|R
+Ambiguity|R
 _____|U
 Aesthetic Consultation|R
-Ambiguity|R
 Artful Looter|C
-Ass Whuppin'|R
 Assquatch|R
+Ass Whuppin'|R
 Atinlay Igpay|U
 Avatar of Me|R
 AWOL|C
-B-I-N-G-O|R
 Bad Ass|C
 Blast from the Past|R
-Bloodletter|C
-Booster Tutor|U
 Bosom Buddy|U
+Booster Tutor|U
 Brushstroke Paintermage|C
 Bursting Beebles|C
-Cardpecker|C
 Carnivorous Death-Parrot|C
-Cheap Ass|C
+Cardpecker|C
 Cheatyface|U
-Circle of Protection: Art|C
+Cheap Ass|C
 City of Ass|R
+Circle of Protection: Art|C
 Collector Protector|R
 Creature Guy|U
 Curse of the Fire Penguin|R
-Deal Damage|U
 Double Header|C
-Drawn Together|R
+Deal Damage|U
 Duh|C
+Drawn Together|R
 Dumb Ass|C
 Elvish House Party|U
+Erase (Not the Urza's Legacy One)|C
 Emcee|U
 Enter the Dungeon|R
-Erase (Not the Urza's Legacy One)|C
 Eye to Eye|U
-Face to Face|U
 Farewell to Arms|C
+Face to Face|U
 Fascist Art Director|C
+Flaccify|C
 Fat Ass|C
 First Come, First Served|U
-Flaccify|C
+Fraction Jackson|R
 Forest|L
 Form of the Squirrel|R
-Fraction Jackson|R
-Framed!|C
 Frankie Peanuts|R
+Framed!|C
 Frazzled Editor|C
-Gleemax|R
-Gluetius Maximus|U
-Goblin Mime|C
 Goblin S.W.A.T. Team|C
+Gluetius Maximus|U
+Gleemax|R
+Goblin Mime|C
 Goblin Secret Agent|C
-Granny's Payback|U
 Graphic Violence|C
+Granny's Payback|U
 Greater Morphling|R
-Head to Head|U
 Infernal Spawn of Infernal Spawn of Evil|R
-Island|L
+Head to Head|U
 Johnny, Combo Player|R
+Island|L
 Keeper of the Sacred Word|C
 Kill! Destroy!|U
 Ladies' Knight|U
 Land Aid '04|C
 Laughing Hyena|C
-Letter Bomb|R
 Little Girl|C
 Look at Me, I'm R&D|R
+Letter Bomb|R
 Loose Lips|C
 Magical Hacker|U
 Man of Measure|C
-Mana Flair|C
 Mana Screw|U
+Mana Flair|C
 Meddling Kids|R
-Mise|U
 Moniker Mage|C
+Mise|U
 Monkey Monkey Monkey|C
 Mons's Goblin Waiters|C
 Mother of Goons|C
+Mox Lotus|R
 Mountain|L
 Mouth to Mouth|U
-Mox Lotus|R
 My First Tome|U
 Name Dropping|U
-Necro-Impotence|R
 Now I Know My ABC's|R
-Number Crunch|C
+Necro-Impotence|R
 Old Fogey|R
+Number Crunch|C
 Orcish Paratroopers|C
 Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental|C
-Persecute Artist|U
 Phyrexian Librarian|U
+Persecute Artist|U
+Punctuate|C
 Plains|L
 Pointy Finger of Doom|R
-Punctuate|C
+R&D's Secret Lair|R
 Pygmy Giant|U
 Question Elemental?|U
-R&D's Secret Lair|R
-Rare-B-Gone|R
 Red-Hot Hottie|C
-Remodel|C
-Richard Garfield, Ph.D.|R
+Rare-B-Gone|R
 Rocket-Powered Turbo Slug|U
-Rod of Spanking|U
+Richard Garfield, Ph.D.|R
+Remodel|C
 S.N.O.T.|C
-Sauté|C
+Rod of Spanking|U
 Save Life|U
 Shoe Tree|C
-Side to Side|U
+Sauté|C
 Six-y Beast|U
+Side to Side|U
 Smart Ass|C
 Spell Counter|U
+Stone-Cold Basilisk|U
 Standing Army|C
 Staying Power|R
-Stone-Cold Basilisk|U
-Stop That|C
-Super Secret Tech|R
 Supersize|C
+Super Secret Tech|R
+Stop That|C
 Swamp|L
 Symbol Status|U
 Tainted Monkey|C
 The Fallen Apart|C
-Time Machine|R
 Togglodyte|U
+Time Machine|R
+Toy Boat|U
 Topsy Turvy|R
 Touch and Go|C
-Toy Boat|U
+Vile Bile|C
 Uktabi Kong|R
 Urza's Hot Tub|U
-Vile Bile|C
-Water Gun Balloon Game|R
 Wet Willie of the Damned|C
-What (Who/What/When/Where/Why)|R
-When (Who/What/When/Where/Why)|R
-When Fluffy Bunnies Attack|C
-Where (Who/What/When/Where/Why)|R
-Who (Who/What/When/Where/Why)|R
-Why (Who/What/When/Where/Why)|R
+Water Gun Balloon Game|R
 Wordmail|C
+Who/What/When/Where/Why|R
+When Fluffy Bunnies Attack|C
 Working Stiff|U
-World-Bottling Kit|R
 Yet Another Aether Vortex|R
+World-Bottling Kit|R
 Zombie Fanboy|U
 Zzzyxas's Abyss|R
-“Ach! Hans, Run!”|R
+"Ach! Hans, Run!"|R

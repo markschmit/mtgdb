@@ -1,138 +1,68 @@
-Abuna Acolyte|U
-Accorder's Shield|C
-Acid Web Spider|U
-Alpha Tyrranax|C
-Arc Trail|U
-Argent Sphinx|R
-Argentum Armor|R
-Arrest|C
-Asceticism|R
-Assault Strobe|C
-Auriok Edgewright|U
-Auriok Replica|C
-Auriok Sunchaser|C
-Barbed Battlegear|U
-Barrage Ogre|U
-Bellowing Tanglewurm|U
-Blackcleave Cliffs|R
-Blackcleave Goblin|C
-Blade-Tribe Berserkers|C
-Bladed Pinions|C
-Bleak Coven Vampires|C
-Blight Mamba|C
-Blistergrub|C
-Bloodshot Trainee|U
-Blunt the Assault|C
-Bonds of Quicksilver|C
-Carapace Forger|C
-Carnifex Demon|R
-Carrion Call|U
-Cerebral Eruption|R
-Chimeric Mass|R
-Chrome Steed|C
-Clone Shell|U
-Contagion Clasp|U
-Contagion Engine|R
-Contagious Nim|C
-Copper Myr|C
-Copperhorn Scout|C
-Copperline Gorge|R
-Corpse Cur|C
-Corrupted Harvester|U
-Culling Dais|U
-Cystbearer|C
-Darkslick Drake|U
-Darkslick Shores|R
-Darksteel Axe|U
-Darksteel Juggernaut|R
-Darksteel Myr|U
-Darksteel Sentinel|U
-Dispense Justice|U
-Disperse|C
-Dissipation Field|R
-Dross Hopper|C
-Echo Circlet|C
-Elspeth Tirel|M
-Embersmith|U
-Engulfing Slagwurm|R
-Etched Champion|R
-Exsanguinate|U
-Ezuri's Archers|C
-Ezuri's Brigade|R
-Ezuri, Renegade Leader|R
-Ferrovore|C
-Flameborn Hellion|C
-Flesh Allergy|U
-Flight Spellbomb|C
-Forest|L
-Fulgent Distraction|C
-Fume Spitter|C
-Furnace Celebration|U
-Galvanic Blast|C
+Memnite|U
 Genesis Wave|R
-Geth, Lord of the Vault|M
 Ghalma's Warden|C
 Glimmerpoint Stag|U
-Glimmerpost|C
 Glint Hawk|C
+Glimmerpost|C
 Glint Hawk Idol|C
 Goblin Gaveleer|C
+Instill Infection|C
+Iron Myr|C
 Gold Myr|C
-Golden Urn|C
-Golem Artisan|U
+Grafted Exoskeleton|U
 Golem Foundry|C
 Golem's Heart|U
-Grafted Exoskeleton|U
 Grand Architect|R
-Grasp of Darkness|C
 Grindclock|R
-Halt Order|U
+Grasp of Darkness|C
 Hand of the Praetors|R
+Halt Order|U
+Ichor Rats|U
 Heavy Arbalest|U
 Hoard-Smelter Dragon|R
 Horizon Spellbomb|C
-Ichor Rats|U
 Ichorclaw Myr|C
 Indomitable Archangel|M
-Inexorable Tide|R
 Infiltration Lens|U
-Instill Infection|C
-Iron Myr|C
-Island|L
+Golden Urn|C
+Inexorable Tide|R
 Kemba's Skyguard|C
-Kemba, Kha Regent|R
+Island|L
 Koth of the Hammer|M
-Kuldotha Forgemaster|R
+Kemba, Kha Regent|R
 Kuldotha Phoenix|R
+Golem Artisan|U
+Kuldotha Forgemaster|R
 Kuldotha Rebirth|C
 Leaden Myr|C
 Leonin Arbiter|R
 Liege of the Tangle|M
-Lifesmith|U
-Liquimetal Coating|U
-Livewire Lash|R
 Loxodon Wayfarer|C
+Liquimetal Coating|U
+Lifesmith|U
+Livewire Lash|R
 Lumengrid Drake|C
-Lux Cannon|M
+Accorder's Shield|C
+Abuna Acolyte|U
 Melt Terrain|C
-Memnite|U
-Memoricide|R
-Mimic Vat|R
+Lux Cannon|M
 Mindslaver|M
+Mimic Vat|R
 Molder Beast|C
-Molten Psyche|R
+Memoricide|R
 Molten-Tail Masticore|M
+Molten Psyche|R
+Mountain|L
 Moriok Reaver|C
 Moriok Replica|C
-Mountain|L
 Mox Opal|M
 Myr Battlesphere|R
 Myr Galvanizer|U
+Myrsmith|U
 Myr Propagator|R
 Myr Reservoir|R
-Myrsmith|U
-Necrogen Censer|C
 Necrogen Scudder|U
+Necrogen Censer|C
 Necropede|U
 Necrotic Ooze|R
 Neurok Invisimancer|C
@@ -140,51 +70,51 @@ Neurok Replica|C
 Nihil Spellbomb|C
 Nim Deathmantle|R
 Ogre Geargrabber|U
-Origin Spellbomb|C
 Oxidda Daredevil|C
 Oxidda Scrapmelter|U
-Painful Quandary|R
+Origin Spellbomb|C
 Painsmith|U
+Painful Quandary|R
 Palladium Myr|U
 Panic Spellbomb|C
 Perilous Myr|C
+Plated Seastrider|C
 Plague Stinger|C
 Plains|L
-Plated Seastrider|C
 Platinum Emperion|M
 Precursor Golem|R
+Putrefax|R
 Prototype Portal|R
 Psychic Miasma|C
-Putrefax|R
+Razor Hippogriff|U
 Quicksilver Gargantuan|M
 Ratchet Bomb|R
-Razor Hippogriff|U
 Razorfield Thresher|C
-Razorverge Thicket|R
 Relic Putrescence|C
-Revoke Existence|C
-Riddlesmith|U
 Rust Tick|U
+Riddlesmith|U
+Razorverge Thicket|R
+Revoke Existence|C
 Rusted Relic|U
 Saberclaw Golem|C
 Salvage Scout|C
-Scoria Elemental|C
 Scrapdiver Serpent|C
+Scoria Elemental|C
+Seize the Initiative|C
 Screeching Silcaw|C
 Seachrome Coast|R
-Seize the Initiative|C
-Semblance Anvil|R
 Shape Anew|R
-Shatter|C
+Semblance Anvil|R
 Silver Myr|C
-Skinrender|U
+Shatter|C
 Skithiryx, the Blight Dragon|M
+Skinrender|U
 Sky-Eel School|C
 Slice in Twain|U
 Snapsail Glider|C
+Spikeshot Elder|R
 Soliton|C
 Soul Parry|C
-Spikeshot Elder|R
 Steady Progress|C
 Steel Hellkite|R
 Stoic Rebuttal|C
@@ -192,43 +122,113 @@ Strata Scythe|R
 Strider Harness|C
 Sunblast Angel|R
 Sunspear Shikari|C
-Swamp|L
-Sword of Body and Mind|M
-Sylvok Lifestaff|C
 Sylvok Replica|C
+Sword of Body and Mind|M
+Swamp|L
+Sylvok Lifestaff|C
 Tainted Strike|C
 Tangle Angler|U
-Tel-Jilad Defiance|C
 Tel-Jilad Fallen|C
-Tempered Steel|R
+Tel-Jilad Defiance|C
 Throne of Geth|U
+Tempered Steel|R
 Thrummingbird|U
-Tower of Calamities|R
 Trigon of Corruption|U
-Trigon of Infestation|U
-Trigon of Mending|U
 Trigon of Rage|U
 Trigon of Thought|U
+Tower of Calamities|R
 Trinket Mage|U
-True Conviction|R
+Trigon of Infestation|U
+Trigon of Mending|U
 Tumble Magnet|C
+True Conviction|R
 Tunnel Ignus|R
 Turn Aside|C
 Turn to Slag|C
 Twisted Image|U
 Untamed Might|C
-Vault Skyward|C
 Vector Asp|C
+Vault Skyward|C
 Vedalken Certarch|C
-Venser's Journal|R
 Venser, the Sojourner|M
+Venser's Journal|R
 Vigil for the Lost|U
+Vulshok Heartstoker|C
 Viridian Revel|U
 Volition Reins|U
-Vulshok Heartstoker|C
 Vulshok Replica|C
 Wall of Tanglecord|C
 Whitesun's Passage|C
 Wing Puncture|C
 Withstand Death|C
 Wurmcoil Engine|M
+Acid Web Spider|U
+Alpha Tyrranax|C
+Argent Sphinx|R
+Arc Trail|U
+Argentum Armor|R
+Arrest|C
+Auriok Edgewright|U
+Asceticism|R
+Assault Strobe|C
+Auriok Replica|C
+Auriok Sunchaser|C
+Barrage Ogre|U
+Barbed Battlegear|U
+Bellowing Tanglewurm|U
+Blackcleave Goblin|C
+Blackcleave Cliffs|R
+Blade-Tribe Berserkers|C
+Bladed Pinions|C
+Bleak Coven Vampires|C
+Blight Mamba|C
+Bloodshot Trainee|U
+Bonds of Quicksilver|C
+Blistergrub|C
+Blunt the Assault|C
+Carapace Forger|C
+Carnifex Demon|R
+Cerebral Eruption|R
+Carrion Call|U
+Chimeric Mass|R
+Chrome Steed|C
+Clone Shell|U
+Contagion Engine|R
+Contagion Clasp|U
+Copper Myr|C
+Contagious Nim|C
+Copperhorn Scout|C
+Copperline Gorge|R
+Corpse Cur|C
+Corrupted Harvester|U
+Cystbearer|C
+Culling Dais|U
+Darkslick Drake|U
+Darksteel Axe|U
+Darkslick Shores|R
+Darksteel Juggernaut|R
+Disperse|C
+Dispense Justice|U
+Darksteel Sentinel|U
+Darksteel Myr|U
+Dissipation Field|R
+Dross Hopper|C
+Echo Circlet|C
+Elspeth Tirel|M
+Engulfing Slagwurm|R
+Embersmith|U
+Etched Champion|R
+Exsanguinate|U
+Ezuri's Archers|C
+Ezuri's Brigade|R
+Flameborn Hellion|C
+Ezuri, Renegade Leader|R
+Ferrovore|C
+Flight Spellbomb|C
+Flesh Allergy|U
+Forest|L
+Fulgent Distraction|C
+Fume Spitter|C
+Furnace Celebration|U
+Geth, Lord of the Vault|M
+Galvanic Blast|C

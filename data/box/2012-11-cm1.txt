@@ -1,18 +1,18 @@
+Desertion|R
 Chaos Warp|R
 Command Tower|C
 Decree of Pain|R
-Desertion|R
+Duplicant|R
 Diaochan, Artful Beauty|R
 Dragonlair Spider|R
-Duplicant|R
 Edric, Spymaster of Trest|R
 Kaalia of the Vast|M
 Loyal Retainers|U
 Maelstrom Wanderer|M
-Mind's Eye|R
-Mirari's Wake|R
 Rhystic Study|C
+Mind's Eye|R
 Scroll Rack|R
+Vela the Night-Clad|M
+Mirari's Wake|R
 Sylvan Library|R
 The Mimeoplasm|M
-Vela the Night-Clad|M

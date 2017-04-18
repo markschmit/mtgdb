@@ -1,13 +1,13 @@
-Akroma, Angel of Fury|M
+Baneslayer Angel|M
 Akroma, Angel of Wrath|M
+Akroma, Angel of Fury|M
 Archangel of Strife|M
 Aurelia, the Warleader|M
 Avacyn, Angel of Hope|M
-Baneslayer Angel|M
-Entreat the Angels|M
 Exalted Angel|M
-Iona, Shield of Emeria|M
+Entreat the Angels|M
 Iridescent Angel|M
+Iona, Shield of Emeria|M
 Jenara, Asura of War|M
 Lightning Angel|M
 Platinum Angel|M

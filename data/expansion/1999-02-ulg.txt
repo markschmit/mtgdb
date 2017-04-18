@@ -1,18 +1,18 @@
+Blessed Reversal|R
+Beast of Burden|R
 About Face|C
 Angel's Trumpet|U
 Angelic Curator|C
-Anthroplasm|R
 Archivist|R
-Aura Flux|C
+Anthroplasm|R
 Avalanche Riders|U
-Beast of Burden|R
-Blessed Reversal|R
+Aura Flux|C
 Bloated Toad|U
 Bone Shredder|U
 Bouncing Beebles|C
 Brink of Madness|R
-Burst of Energy|C
 Cessation|C
+Burst of Energy|C
 Cloud of Faeries|C
 Crawlspace|R
 Crop Rotation|C
@@ -20,112 +20,112 @@ Damping Engine|R
 Darkwatch Elves|U
 Defender of Chaos|C
 Defender of Law|C
-Defense Grid|R
 Defense of the Heart|R
+Defense Grid|R
 Delusions of Mediocrity|R
 Deranged Hermit|R
+Erase|C
 Devout Harpist|C
 Engineered Plague|U
-Erase|C
 Eviscerator|R
 Expendable Troops|C
 Faerie Conclave|U
 Fleeting Image|R
 Fog of Gnats|C
 Forbidding Watchtower|U
-Frantic Search|C
 Gang of Elk|U
-Ghitu Encampment|U
+Frantic Search|C
 Ghitu Fire-Eater|U
+Ghitu Encampment|U
 Ghitu Slinger|C
 Ghitu War Cry|U
 Giant Cockroach|C
 Goblin Medics|C
 Goblin Welder|R
 Granite Grip|C
-Grim Monolith|R
 Harmonic Convergence|U
+Grim Monolith|R
 Hidden Gibbons|R
-Hope and Glory|U
 Impending Disaster|R
+Hope and Glory|U
 Intervene|C
-Iron Maiden|R
 Iron Will|C
+Iron Maiden|R
 Jhoira's Toolbox|U
 Karmic Guide|R
-King Crab|U
-Knighthood|U
 Last-Ditch Effort|U
+King Crab|U
 Lava Axe|C
-Levitation|U
+Knighthood|U
 Lone Wolf|U
+Levitation|U
 Lurking Skirge|R
-Martyr's Cause|U
 Memory Jar|R
+Martyr's Cause|U
 Might of Oaks|R
 Miscalculation|C
 Molten Hydra|R
 Mother of Runes|U
 Multani's Acolyte|C
-Multani's Presence|U
 Multani, Maro-Sorcerer|R
+Multani's Presence|U
 No Mercy|R
 Opal Avenger|R
-Opal Champion|C
 Opportunity|U
-Ostracize|C
+Opal Champion|C
 Palinchron|R
+Ostracize|C
+Phyrexian Broodlings|C
 Parch|C
 Peace and Quiet|U
-Phyrexian Broodlings|C
 Phyrexian Debaser|C
 Phyrexian Defiler|U
 Phyrexian Denouncer|C
 Phyrexian Plaguelord|R
 Phyrexian Reclamation|U
 Plague Beetle|C
-Planar Collapse|R
 Purify|R
+Planar Collapse|R
 Pygmy Pyrosaur|C
-Pyromancy|R
 Quicksilver Amulet|R
-Rack and Ruin|U
+Pyromancy|R
 Radiant's Dragoons|U
-Radiant's Judgment|C
+Rack and Ruin|U
 Radiant, Archangel|R
+Radiant's Judgment|C
 Rancor|C
 Rank and File|U
 Raven Familiar|U
-Rebuild|U
-Repopulate|C
 Ring of Gix|R
+Repopulate|C
+Rebuild|U
 Rivalry|R
 Scrapheap|R
 Second Chance|R
 Shivan Phoenix|R
-Sick and Tired|C
 Silk Net|C
+Sick and Tired|C
 Simian Grunts|C
 Sleeper's Guile|C
 Slow Motion|C
 Sluggishness|C
+Subversion|R
 Snap|C
 Spawning Pool|U
-Subversion|R
+Tethered Skirge|U
 Sustainer of the Realm|U
 Swat|C
-Tethered Skirge|U
 Thornwind Faeries|C
-Thran Lens|R
 Thran War Machine|U
+Thran Lens|R
 Thran Weaponry|R
 Ticking Gnomes|U
-Tinker|U
-Tragic Poet|C
 Treacherous Link|U
+Tragic Poet|C
+Tinker|U
 Treefolk Mystic|C
-Treetop Village|U
 Unearth|C
+Treetop Village|U
 Urza's Blueprints|R
 Viashino Bey|C
 Viashino Cutthroat|U
@@ -135,8 +135,8 @@ Vigilant Drake|C
 Walking Sponge|U
 Weatherseed Elf|C
 Weatherseed Faeries|C
-Weatherseed Treefolk|R
 Wheel of Torture|R
+Weatherseed Treefolk|R
 Wing Snare|U
 Yavimaya Granger|C
 Yavimaya Scion|C

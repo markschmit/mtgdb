@@ -1,20 +1,20 @@
+Durkwood Boars|S
 Angelic Blessing|S
 Breath of Life|S
-Durkwood Boars|S
-Eager Cadet|S
 Giant Octopus|S
-Hand of Death|S
+Eager Cadet|S
 Knight Errant|S
-Lava Axe|S
+Hand of Death|S
 Mons's Goblin Raiders|S
-Monstrous Growth|S
 Moon Sprite|S
+Lava Axe|S
+Monstrous Growth|S
 Ogre Warrior|S
-Rhox|S
-Royal Falcon|S
 Sea Eagle|S
+Rhox|S
 Time Ebb|S
-Trained Orgg|S
+Royal Falcon|S
 Vizzerdrix|S
+Trained Orgg|S
 Wild Griffin|S
 Willow Elf|S

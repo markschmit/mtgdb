@@ -1,8 +1,9 @@
-Akroma's Devoted|U
-Akroma, Angel of Wrath|R
+Daru Stinger|C
 Aphetto Exterminator|U
+Akroma, Angel of Wrath|R
 Aven Envoy|C
 Aven Redeemer|C
+Akroma's Devoted|U
 Aven Warhawk|U
 Bane of the Living|R
 Beacon of Destiny|R
@@ -18,17 +19,16 @@ Canopy Crawler|U
 Celestial Gatekeeper|R
 Cephalid Pathmage|C
 Chromeshell Crab|R
-Clickslither|R
 Cloudreach Cavalry|U
+Clickslither|R
 Corpse Harvester|U
 Covert Operative|C
 Crested Craghorn|C
 Crookclaw Elder|U
 Crypt Sliver|C
 Dark Supplicant|U
-Daru Mender|U
 Daru Sanctifier|C
-Daru Stinger|C
+Daru Mender|U
 Deathmark Prelate|U
 Defender of the Order|R
 Defiant Elf|C
@@ -38,13 +38,13 @@ Dreamborn Muse|R
 Drinker of Sorrow|R
 Dripping Dead|C
 Earthblighter|U
-Echo Tracer|C
 Elvish Soultiller|R
+Echo Tracer|C
 Embalmed Brawler|C
 Enormous Baloth|U
+Flamewave Invoker|C
 Essence Sliver|R
 Feral Throwback|R
-Flamewave Invoker|C
 Frenetic Raptor|U
 Fugitive Wizard|C
 Gempalm Avenger|C
@@ -126,13 +126,13 @@ Toxin Sliver|R
 Tribal Forcemage|R
 Unstable Hulk|R
 Vexing Beetle|R
-Vile Deacon|C
 Voidmage Apprentice|C
+Vile Deacon|C
 Wall of Deceit|U
 Wall of Hope|C
 Warbreak Trumpeter|U
-Ward Sliver|U
 Warped Researcher|U
+Ward Sliver|U
 Weaver of Lies|R
 Whipgrass Entangler|C
 White Knight|U

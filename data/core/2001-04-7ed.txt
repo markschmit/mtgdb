@@ -1,58 +1,143 @@
 Abyssal Horror|R
+Aladdin's Ring|R
 Abyssal Specter|U
 Adarkar Wastes|R
-Aether Flash|U
 Agonizing Memories|U
+Aether Flash|U
 Air Elemental|U
-Aladdin's Ring|R
 Anaconda|U
-Ancestral Memories|R
+Sacred Ground|R
+Sage Owl|C
+Sacred Nectar|C
+Samite Healer|C
+Scathe Zombies|C
+Sanctimony|U
+Scavenger Folk|U
+Seasoned Marshal|U
+Sea Monster|C
+Seeker of Skybreak|C
+Seismic Assault|R
+Serpent Warrior|C
+Serra Advocate|U
+Serra Angel|R
+Serra's Embrace|U
+Shanodin Dryads|C
+Shield Wall|C
+Shatter|C
+Shivan Dragon|R
+Sky Diamond|U
+Shock|C
+Sisay's Ring|U
+Soul Feast|U
+Skyshroud Falcon|C
+Sleight of Hand|C
+Southern Paladin|R
+Soul Net|U
+Spineless Thug|C
+Spined Wurm|C
+Spellbook|U
+Squall|C
+Spirit Link|U
+Spitting Earth|C
+Standing Troops|C
+Staunch Defenders|U
+Static Orb|R
+Starlight|U
+Steal Artifact|U
+Storm Crow|C
+Stone Rain|C
+Storm Cauldron|R
+Storm Shaman|U
+Strands of Night|U
+Stronghold Assassin|R
+Stream of Life|C
+Sulfurous Springs|R
+Sudden Impact|U
+Sunweb|R
+Sustainer of the Realm|U
+Teferi's Puzzle Box|R
+Swamp|L
+Telepathic Spies|C
+Tainted Aether|R
+Temporal Adept|R
+Telepathy|U
+Thieving Magpie|U
+Thorn Elemental|R
+Thoughtleech|U
+Throne of Bone|U
+Tolarian Winds|C
+Trained Armodon|C
+Trained Orgg|R
+Treefolk Seedlings|U
+Tranquility|C
+Treasure Trove|U
+Twiddle|C
+Tremor|C
+Uktabi Wildcats|R
+Underground River|R
+Unholy Strength|C
+Unsummon|C
+Untamed Wilds|U
+Venerable Monk|C
+Verduran Enchantress|R
+Vengeance|U
+Vernal Bloom|R
+Vigilant Drake|C
+Wall of Air|U
+Vizzerdrix|R
+Volcanic Hammer|C
+Wall of Bone|U
+Wall of Fire|U
+Wall of Spears|U
+Wall of Swords|U
+Wall of Wonder|R
 Ancient Silverback|R
-Angelic Page|C
-Arcane Laboratory|U
 Archivist|R
+Ancestral Memories|R
+Angelic Page|C
 Ardent Militia|U
+Arcane Laboratory|U
 Balduvian Barbarians|C
 Baleful Stare|U
 Beast of Burden|R
-Bedlam|R
 Befoul|U
-Bellowing Fiend|R
 Benthic Behemoth|R
+Bellowing Fiend|R
+Bedlam|R
+Blood Pet|C
 Bereavement|U
-Birds of Paradise|R
 Blanchwood Armor|U
+Birds of Paradise|R
+Bloodshot Cyclops|R
 Blaze|U
 Blessed Reversal|R
-Blood Pet|C
-Bloodshot Cyclops|R
-Bog Imp|C
 Bog Wraith|U
-Boil|U
+Bog Imp|C
 Boomerang|C
+Boil|U
 Breath of Life|U
 Brushland|R
-Bull Hippo|U
 Caltrops|U
 Canopy Spider|C
-Castle|U
-Charcoal Diamond|U
+Bull Hippo|U
 Circle of Protection: Black|C
+Charcoal Diamond|U
+Castle|U
 Circle of Protection: Blue|C
 Circle of Protection: Green|C
 Circle of Protection: Red|C
 Circle of Protection: White|C
 City of Brass|R
+Compost|U
 Cloudchaser Eagle|C
 Coat of Arms|R
-Compost|U
-Confiscate|U
 Coral Merfolk|C
+Confiscate|U
+Crossbow Infantry|C
 Corrupt|C
+Crimson Hellkite|R
 Counterspell|C
 Creeping Mold|U
-Crimson Hellkite|R
-Crossbow Infantry|C
 Crypt Rats|U
 Crystal Rod|U
 Dakmor Lancer|U
@@ -60,17 +145,17 @@ Daring Apprentice|R
 Dark Banishing|C
 Darkest Hour|R
 Deflection|R
-Delusions of Mediocrity|R
 Dingus Egg|R
+Delusions of Mediocrity|R
 Disenchant|C
 Disorder|U
 Disrupting Scepter|R
-Dregs of Sorrow|R
 Drudge Skeletons|C
-Duress|C
+Dregs of Sorrow|R
 Eager Cadet|C
-Early Harvest|R
 Earthquake|R
+Duress|C
+Early Harvest|R
 Eastern Paladin|R
 Elder Druid|R
 Elite Archers|R
@@ -83,27 +168,44 @@ Ensnaring Bridge|R
 Equilibrium|R
 Evacuation|R
 Fallen Angel|R
-Familiar Ground|U
 Fear|C
+Familiar Ground|U
 Femeref Archers|U
-Feroz's Ban|R
 Fervor|R
+Feroz's Ban|R
 Fighting Drake|U
+Ivory Cup|U
+Intrepid Hero|R
+Island|L
+Iron Star|U
+Jalum Tome|R
+Jandor's Saddlebags|R
+Knight Errant|C
+Lava Axe|C
+Knighthood|U
+Leshrac's Rite|U
+Lightning Elemental|C
+Levitation|U
+Lightning Blast|C
+Llanowar Elves|C
+Karplusan Forest|R
+Jayemdae Tome|R
+Kjeldoran Royal Guard|R
 Final Fortune|R
 Fire Diamond|U
 Fire Elemental|U
 Fleeting Image|R
+Fog|C
 Flight|C
 Flying Carpet|R
-Fog|C
 Force Spike|C
-Forest|L
 Foul Imp|U
-Fugue|U
+Forest|L
 Fyndhorn Elder|U
+Fugue|U
+Ghitu Fire-Eater|U
 Gang of Elk|U
 Gerrard's Wisdom|U
-Ghitu Fire-Eater|U
 Giant Cockroach|C
 Giant Growth|C
 Giant Octopus|C
@@ -119,14 +221,14 @@ Goblin King|R
 Goblin Matron|U
 Goblin Raider|C
 Goblin Spelunkers|C
-Goblin War Drums|U
 Gorilla Chieftain|C
+Goblin War Drums|U
 Grafted Skullcap|R
 Granite Grip|C
 Grapeshot Catapult|U
 Gravedigger|C
-Greed|R
 Grizzly Bears|C
+Greed|R
 Healing Salve|C
 Heavy Ballista|U
 Hibernation|U
@@ -135,201 +237,99 @@ Hollow Dogs|C
 Holy Strength|C
 Honor Guard|C
 Horned Turtle|C
-Howl from Beyond|C
 Howling Mine|R
+Howl from Beyond|C
 Hurricane|R
-Impatience|R
 Infernal Contract|R
+Impatience|R
 Inferno|R
 Inspiration|C
-Intrepid Hero|R
-Iron Star|U
-Island|L
-Ivory Cup|U
-Jalum Tome|R
-Jandor's Saddlebags|R
-Jayemdae Tome|R
-Karplusan Forest|R
-Kjeldoran Royal Guard|R
-Knight Errant|C
-Knighthood|U
-Lava Axe|C
-Leshrac's Rite|U
-Levitation|U
-Lightning Blast|C
-Lightning Elemental|C
-Llanowar Elves|C
 Lone Wolf|C
 Longbow Archer|U
 Looming Shade|C
 Lord of Atlantis|R
 Lure|U
 Mahamoti Djinn|R
-Mana Breach|U
-Mana Clash|R
 Mana Short|R
-Marble Diamond|U
+Mana Clash|R
+Mana Breach|U
 Maro|R
+Marble Diamond|U
 Master Healer|R
+Megrim|U
 Mawcor|R
 Meekstone|R
-Megrim|U
 Memory Lapse|C
 Merfolk Looter|U
 Merfolk of the Pearl Trident|C
-Might of Oaks|R
 Millstone|R
-Mind Rot|C
+Might of Oaks|R
 Monstrous Growth|C
-Moss Diamond|U
+Mind Rot|C
 Mountain|L
+Moss Diamond|U
 Nature's Resurgence|R
-Nature's Revolt|R
 Nausea|C
-Necrologia|U
+Nature's Revolt|R
 Nightmare|R
-Nocturnal Raid|U
+Necrologia|U
 Northern Paladin|R
+Nocturnal Raid|U
 Ogre Taskmaster|U
 Okk|R
-Opportunity|U
-Opposition|R
 Oppression|R
+Opposition|R
+Opportunity|U
 Orcish Artillery|U
-Orcish Oriflamme|U
 Ostracize|C
+Orcish Oriflamme|U
 Pacifism|C
 Pariah|R
 Patagia Golem|U
-Persecute|R
 Phantom Warrior|U
+Persecute|R
 Phyrexian Colossus|R
 Phyrexian Hulk|U
-Pillage|U
 Pit Trap|U
+Pillage|U
 Plague Beetle|C
-Plains|L
 Pride of Lions|U
 Prodigal Sorcerer|C
-Purify|R
+Plains|L
 Pygmy Pyrosaur|C
+Purify|R
+Rag Man|R
 Pyroclasm|U
 Pyrotechnics|U
-Rag Man|R
 Raging Goblin|C
+Razorfoot Griffin|C
 Raise Dead|C
 Rampant Growth|C
-Razorfoot Griffin|C
 Razortooth Rats|C
 Reckless Embermage|R
-Reclaim|C
 Redwood Treefolk|C
+Reclaim|C
 Reflexes|C
 Regeneration|C
-Relentless Assault|R
 Remove Soul|C
-Reprisal|U
+Relentless Assault|R
 Reprocess|R
+Reprisal|U
 Revenant|R
-Reverse Damage|R
 Rod of Ruin|U
-Rolling Stones|R
+Reverse Damage|R
 Rowen|R
+Rolling Stones|R
 Sabretooth Tiger|C
-Sacred Ground|R
-Sacred Nectar|C
-Sage Owl|C
-Samite Healer|C
-Sanctimony|U
-Scathe Zombies|C
-Scavenger Folk|U
-Sea Monster|C
-Seasoned Marshal|U
-Seeker of Skybreak|C
-Seismic Assault|R
-Serpent Warrior|C
-Serra Advocate|U
-Serra Angel|R
-Serra's Embrace|U
-Shanodin Dryads|C
-Shatter|C
-Shield Wall|C
-Shivan Dragon|R
-Shock|C
-Sisay's Ring|U
-Sky Diamond|U
-Skyshroud Falcon|C
-Sleight of Hand|C
-Soul Feast|U
-Soul Net|U
-Southern Paladin|R
-Spellbook|U
-Spined Wurm|C
-Spineless Thug|C
-Spirit Link|U
-Spitting Earth|C
-Squall|C
-Standing Troops|C
-Starlight|U
-Static Orb|R
-Staunch Defenders|U
-Steal Artifact|U
-Stone Rain|C
-Storm Cauldron|R
-Storm Crow|C
-Storm Shaman|U
-Strands of Night|U
-Stream of Life|C
-Stronghold Assassin|R
-Sudden Impact|U
-Sulfurous Springs|R
-Sunweb|R
-Sustainer of the Realm|U
-Swamp|L
-Tainted Aether|R
-Teferi's Puzzle Box|R
-Telepathic Spies|C
-Telepathy|U
-Temporal Adept|R
-Thieving Magpie|U
-Thorn Elemental|R
-Thoughtleech|U
-Throne of Bone|U
-Tolarian Winds|C
-Trained Armodon|C
-Trained Orgg|R
-Tranquility|C
-Treasure Trove|U
-Treefolk Seedlings|U
-Tremor|C
-Twiddle|C
-Uktabi Wildcats|R
-Underground River|R
-Unholy Strength|C
-Unsummon|C
-Untamed Wilds|U
-Venerable Monk|C
-Vengeance|U
-Verduran Enchantress|R
-Vernal Bloom|R
-Vigilant Drake|C
-Vizzerdrix|R
-Volcanic Hammer|C
-Wall of Air|U
-Wall of Bone|U
-Wall of Fire|U
-Wall of Spears|U
-Wall of Swords|U
-Wall of Wonder|R
 Western Paladin|R
-Wild Growth|C
-Wildfire|R
 Wind Dancer|U
+Wild Growth|C
+Wood Elves|C
+Wildfire|R
 Wind Drake|C
 Wing Snare|U
-Wood Elves|C
-Wooden Sphere|U
 Worship|R
-Wrath of God|R
+Wooden Sphere|U
 Yavimaya Enchantress|U
+Wrath of God|R
 Yawgmoth's Edict|U

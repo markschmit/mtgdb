@@ -1,130 +1,111 @@
+Book Burning|C
+Border Patrol|C
 Ancestor's Chosen|U
 Anger|U
 Anurid Barkripper|C
-Anurid Brushhopper|R
 Anurid Swarmsnapper|U
+Anurid Brushhopper|R
 Arcane Teachings|C
 Aven Fogbringer|C
-Aven Warcraft|U
+Wormfang Newt|C
+Wormfang Turtle|U
 Balthor the Defiled|R
-Barbarian Bully|C
+Aven Warcraft|U
 Battle Screech|U
+Barbarian Bully|C
 Battlefield Scrounger|C
 Battlewise Aven|C
 Benevolent Bodyguard|C
-Book Burning|C
-Border Patrol|C
 Brawn|U
 Breaking Point|R
-Browbeat|U
 Burning Wish|R
 Cabal Therapy|U
 Cabal Trainee|C
 Cagemail|C
-Canopy Claws|C
 Centaur Rootcaster|C
+Canopy Claws|C
 Cephalid Constable|R
 Cephalid Inkshrouder|U
-Chastise|U
 Commander Eesha|R
-Crush of Wurms|R
+Chastise|U
 Cunning Wish|R
+Crush of Wurms|R
 Death Wish|R
-Defy Gravity|C
 Dwarven Bloodboiler|R
+Defy Gravity|C
 Dwarven Driller|U
 Dwarven Scorcher|C
 Earsplitting Rats|C
 Elephant Guide|U
-Ember Shot|C
+Browbeat|U
 Envelop|C
+Ember Shot|C
 Epic Struggle|R
+Masked Gorgon|R
+Mirror Wall|C
 Erhnam Djinn|R
 Exoskeletal Armor|U
 Filth|U
 Firecat Blitz|U
-Flaring Pain|C
 Flash of Insight|U
+Flaring Pain|C
 Fledgling Dragon|R
-Folk Medicine|C
 Forcemage Advocate|U
-Funeral Pyre|C
+Folk Medicine|C
 Genesis|R
+Funeral Pyre|C
 Giant Warthog|C
+Goretusk Firebeast|C
 Glory|R
 Golden Wish|R
-Goretusk Firebeast|C
 Grave Consequences|U
 Grip of Amnesia|C
 Grizzly Fate|U
-Guided Strike|C
 Guiltfeeder|R
+Guided Strike|C
 Hapless Researcher|C
 Harvester Druid|C
 Hunting Grounds|R
 Infectious Rage|U
 Ironshell Beetle|C
 Jeska, Warrior Adept|R
-Keep Watch|C
 Krosan Reclamation|U
+Keep Watch|C
 Krosan Verge|U
 Krosan Wayfarer|C
-Laquatus's Disdain|U
 Lava Dart|C
+Laquatus's Disdain|U
 Lead Astray|C
 Liberated Dwarf|C
-Lightning Surge|R
 Living Wish|R
+Lightning Surge|R
 Lost in Thought|C
-Masked Gorgon|R
 Mental Note|C
 Mirari's Wake|R
-Mirror Wall|C
 Mist of Stagnation|R
-Morality Shift|R
 Nantuko Monastery|U
+Morality Shift|R
 Nantuko Tracer|C
 Nomad Mythmaker|R
-Nullmage Advocate|C
-Phantom Centaur|U
-Phantom Flock|U
-Phantom Nantuko|R
-Phantom Nishoba|R
-Phantom Nomad|C
-Phantom Tiger|C
-Planar Chaos|U
-Prismatic Strands|C
-Pulsemage Advocate|R
-Quiet Speculation|U
-Rats' Feast|C
-Ray of Revelation|C
-Riftstone Portal|U
-Scalpelexis|R
-Seedtime|R
-Selfless Exorcist|R
-Serene Sunset|U
-Shaman's Trance|R
-Shieldmage Advocate|C
 Silver Seraph|R
-Solitary Confinement|R
 Soulcatchers' Aerie|U
 Soulgorger Orgg|U
 Spellgorger Barbarian|C
-Spelljack|R
-Spirit Cairn|U
 Spurnmage Advocate|U
+Spirit Cairn|U
+Spelljack|R
 Stitch Together|U
 Sudden Strength|C
 Suntail Hawk|C
-Sutured Ghoul|R
 Swelter|U
-Swirling Sandstorm|C
+Sutured Ghoul|R
 Sylvan Safekeeper|R
-Telekinetic Bonds|R
+Swirling Sandstorm|C
+Trained Pronghorn|C
 Test of Endurance|R
+Telekinetic Bonds|R
 Thriss, Nantuko Primus|R
 Toxic Stench|C
-Trained Pronghorn|C
 Treacherous Vampire|U
 Treacherous Werewolf|C
 Tunneler Wurm|U
@@ -132,12 +113,31 @@ Unquestioned Authority|U
 Valor|U
 Venomous Vines|C
 Vigilant Sentry|C
-Web of Inertia|U
 Wonder|U
-Worldgorger Dragon|R
+Web of Inertia|U
 Wormfang Behemoth|R
+Worldgorger Dragon|R
 Wormfang Crab|U
 Wormfang Drake|C
 Wormfang Manta|R
-Wormfang Newt|C
-Wormfang Turtle|U
+Nullmage Advocate|C
+Phantom Centaur|U
+Phantom Flock|U
+Phantom Nantuko|R
+Phantom Nishoba|R
+Phantom Nomad|C
+Phantom Tiger|C
+Prismatic Strands|C
+Planar Chaos|U
+Pulsemage Advocate|R
+Rats' Feast|C
+Quiet Speculation|U
+Riftstone Portal|U
+Ray of Revelation|C
+Scalpelexis|R
+Selfless Exorcist|R
+Seedtime|R
+Serene Sunset|U
+Shieldmage Advocate|C
+Shaman's Trance|R
+Solitary Confinement|R

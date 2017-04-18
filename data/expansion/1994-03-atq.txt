@@ -1,61 +1,61 @@
-Amulet of Kroog|C
-Argivian Archaeologist|R
-Argivian Blacksmith|C
-Argothian Pixies|C
-Argothian Treefolk|C
 Armageddon Clock|U
-Artifact Blast|C
+Argivian Archaeologist|R
+Amulet of Kroog|C
+Argivian Blacksmith|C
+Argothian Treefolk|C
+Argothian Pixies|C
 Artifact Possession|C
+Artifact Blast|C
 Artifact Ward|C
-Ashnod's Altar|U
 Ashnod's Battle Gear|U
+Ashnod's Altar|U
 Ashnod's Transmogrant|U
 Atog|C
 Battering Ram|C
 Bronze Tablet|R
 Candelabra of Tawnos|R
-Circle of Protection: Artifacts|U
 Citanul Druid|U
+Circle of Protection: Artifacts|U
 Clay Statue|C
 Clockwork Avian|R
 Colossus of Sardia|R
+Cursed Rack|U
 Coral Helm|R
 Crumble|C
-Cursed Rack|U
-Damping Field|U
 Detonate|U
-Drafna's Restoration|C
+Damping Field|U
 Dragon Engine|C
+Drafna's Restoration|C
 Dwarven Weaponsmith|U
-Energy Flux|U
 Feldon's Cane|U
+Energy Flux|U
+Goblin Artisans|U
 Gaea's Avenger|R
 Gate to Phyrexia|U
-Goblin Artisans|U
 Golgothian Sylex|R
 Grapeshot Catapult|C
 Haunting Wind|U
-Hurkyl's Recall|R
 Ivory Tower|U
+Hurkyl's Recall|R
 Jalum Tome|U
+Millstone|U
 Martyrs of Korlis|U
 Mightstone|U
-Millstone|U
-Mishra's Factory|U
 Mishra's War Machine|R
-Mishra's Workshop|R
 Obelisk of Undoing|R
-Onulet|U
-Orcish Mechanics|C
-Ornithopter|C
+Mishra's Factory|U
 Phyrexian Gremlins|C
+Mishra's Workshop|R
+Orcish Mechanics|C
+Onulet|U
+Ornithopter|C
 Power Artifact|U
-Powerleech|U
-Priest of Yawgmoth|C
-Primal Clay|U
-Rakalite|U
-Reconstruction|C
 Reverse Polarity|C
+Priest of Yawgmoth|C
+Rakalite|U
+Powerleech|U
+Primal Clay|U
+Reconstruction|C
 Rocket Launcher|U
 Sage of Lat-Nam|C
 Shapeshifter|R
@@ -65,21 +65,21 @@ Strip Mine|U
 Su-Chi|U
 Tablet of Epityr|C
 Tawnos's Coffin|R
+Tetravus|R
 Tawnos's Wand|U
 Tawnos's Weaponry|U
-Tetravus|R
 The Rack|U
-Titania's Song|U
 Transmute Artifact|U
+Titania's Song|U
 Triskelion|R
 Urza's Avenger|R
 Urza's Chalice|C
 Urza's Mine|C
 Urza's Miter|R
+Wall of Spears|U
 Urza's Power Plant|C
 Urza's Tower|C
-Wall of Spears|U
-Weakstone|U
 Xenic Poltergeist|U
+Weakstone|U
 Yawgmoth Demon|R
 Yotian Soldier|C

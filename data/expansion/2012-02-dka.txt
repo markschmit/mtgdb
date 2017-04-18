@@ -1,60 +1,118 @@
-Afflicted Deserter|U
+Silverpelt Werewolf|U
+Skillful Lunge|C
+Skirsdag Flayer|U
+Sorin, Lord of Innistrad|M
+Somberwald Dryad|C
+Spiteful Shadows|C
+Soul Seizer|U
+Strangleroot Geist|U
+Stormbound Geist|C
+Stromkirk Captain|U
+Talons of Falkenrath|C
+Tower Geist|U
+Sudden Disappearance|R
+Thraben Doomsayer|R
+Thalia, Guardian of Thraben|R
+Thought Scour|C
+Thraben Heretic|U
+Tovolar's Magehunter|R
+Torch Fiend|C
+Tragic Slip|C
+Predator Ooze|R
+Pyreheart Wolf|U
+Ravager of the Fells|M
+Ravenous Demon|R
+Ray of Revelation|C
+Reap the Seagraf|C
+Requiem Angel|R
+Relentless Skaabs|U
+Russet Wolves|C
+Sanctuary Cat|C
+Scorch the Fields|C
+Saving Grasp|C
+Scorned Villager|C
+Séance|R
+Screeching Skaab|C
+Secrets of the Dead|U
+Shriekgeist|C
+Shattered Perception|U
+Sightless Ghoul|C
+Silverclaw Griffin|C
+Ulvenwald Bear|C
+Tracker's Instincts|U
+Unhallowed Cathar|C
+Undying Evil|C
+Werewolf Ransacker|U
+Vault of the Archangel|R
+Vengeful Vampire|U
+Village Survivors|U
+Warden of the Wall|U
+Wakedancer|U
+Vorapede|M
+Wolfbitten Captive|R
+Withengar Unbound|M
+Wild Hunger|C
+Young Wolf|C
+Wolfhunter's Quiver|U
+Wrack with Madness|C
 Alpha Brawl|R
-Altar of the Lost|U
+Afflicted Deserter|U
 Archangel's Light|M
+Altar of the Lost|U
 Archdemon of Greed|R
 Artful Dodge|C
 Avacyn's Collar|U
-Bar the Door|C
 Beguiler of Wills|M
+Bar the Door|C
+Bone to Ash|C
 Black Cat|C
 Blood Feud|U
-Bone to Ash|C
 Break of Day|C
 Briarpack Alpha|U
 Burden of Guilt|C
-Burning Oil|U
 Call to the Kindred|R
+Burning Oil|U
 Chalice of Death|U
-Chalice of Life|U
 Chant of the Skifsang|C
-Chill of Foreboding|U
+Chalice of Life|U
 Chosen of Markov|C
-Clinging Mists|C
+Chill of Foreboding|U
 Counterlash|R
-Crushing Vines|C
+Clinging Mists|C
 Curse of Bloodletting|R
+Crushing Vines|C
 Curse of Echoes|R
 Curse of Exhaustion|U
 Curse of Misfortunes|R
 Curse of Thirst|U
 Dawntreader Elk|C
 Deadly Allure|U
-Death's Caress|C
 Deranged Outcast|R
+Death's Caress|C
 Diregraf Captain|U
-Divination|C
 Drogskol Captain|U
+Divination|C
 Drogskol Reaver|M
 Dungeon Geists|R
 Elbrus, the Binding Blade|M
 Elgaud Inquisitor|C
+Zombie Apocalypse|R
 Erdwal Ripper|C
-Evolving Wilds|C
 Executioner's Hood|C
-Faith's Shield|U
+Evolving Wilds|C
 Faithless Looting|C
+Faith's Shield|U
 Falkenrath Aristocrat|M
 Falkenrath Torturer|C
 Farbog Boneflinger|U
 Favor of the Woods|C
-Feed the Pack|R
 Fiend of the Shadows|R
-Fires of Undeath|C
+Feed the Pack|R
 Flayer of the Hatebound|R
-Fling|C
-Forge Devil|C
+Fires of Undeath|C
 Gather the Townsfolk|C
+Forge Devil|C
+Fling|C
 Gavony Ironwright|U
 Geralf's Messenger|R
 Geralf's Mindcrusher|R
@@ -62,31 +120,31 @@ Ghastly Haunting|U
 Ghoultree|R
 Grafdigger's Cage|R
 Gravecrawler|R
-Gravepurge|C
 Gravetiller Wurm|U
+Gravepurge|C
 Grim Backwoods|R
-Grim Flowering|U
 Griptide|C
-Gruesome Discovery|C
+Grim Flowering|U
 Harrowing Journey|U
+Gruesome Discovery|C
 Haunted Fengraf|C
 Havengul Lich|M
 Havengul Runebinder|R
 Headless Skaab|C
 Heavy Mattock|C
 Heckling Fiends|U
-Hellrider|R
 Helvault|M
+Hellrider|R
 Highborn Ghoul|C
 Hinterland Hermit|C
 Hinterland Scourge|C
 Hollowhenge Beast|C
 Hollowhenge Spirit|U
-Hunger of the Howlpack|C
 Huntmaster of the Fells|M
+Hunger of the Howlpack|C
+Increasing Confusion|R
 Immerwolf|U
 Increasing Ambition|R
-Increasing Confusion|R
 Increasing Devotion|R
 Increasing Savagery|R
 Increasing Vengeance|R
@@ -94,78 +152,20 @@ Jar of Eyeballs|R
 Kessig Recluse|C
 Krallenhorde Killer|R
 Lambholt Elder|U
-Lingering Souls|U
 Lost in the Woods|R
+Lingering Souls|U
 Loyal Cathar|C
 Markov Blademaster|R
 Markov Warlord|U
 Markov's Servant|C
 Midnight Guard|C
-Mikaeus, the Unhallowed|M
 Mondronen Shaman|R
+Mikaeus, the Unhallowed|M
 Moonscarred Werewolf|C
-Moonveil Dragon|M
 Mystic Retrieval|U
+Moonveil Dragon|M
 Nearheath Stalker|C
 Nephalia Seakite|C
 Niblis of the Breath|U
 Niblis of the Mist|C
 Niblis of the Urn|U
-Predator Ooze|R
-Pyreheart Wolf|U
-Ravager of the Fells|M
-Ravenous Demon|R
-Ray of Revelation|C
-Reap the Seagraf|C
-Relentless Skaabs|U
-Requiem Angel|R
-Russet Wolves|C
-Sanctuary Cat|C
-Saving Grasp|C
-Scorch the Fields|C
-Scorned Villager|C
-Screeching Skaab|C
-Séance|R
-Secrets of the Dead|U
-Shattered Perception|U
-Shriekgeist|C
-Sightless Ghoul|C
-Silverclaw Griffin|C
-Silverpelt Werewolf|U
-Skillful Lunge|C
-Skirsdag Flayer|U
-Somberwald Dryad|C
-Sorin, Lord of Innistrad|M
-Soul Seizer|U
-Spiteful Shadows|C
-Stormbound Geist|C
-Strangleroot Geist|U
-Stromkirk Captain|U
-Sudden Disappearance|R
-Talons of Falkenrath|C
-Thalia, Guardian of Thraben|R
-Thought Scour|C
-Thraben Doomsayer|R
-Thraben Heretic|U
-Torch Fiend|C
-Tovolar's Magehunter|R
-Tower Geist|U
-Tracker's Instincts|U
-Tragic Slip|C
-Ulvenwald Bear|C
-Undying Evil|C
-Unhallowed Cathar|C
-Vault of the Archangel|R
-Vengeful Vampire|U
-Village Survivors|U
-Vorapede|M
-Wakedancer|U
-Warden of the Wall|U
-Werewolf Ransacker|U
-Wild Hunger|C
-Withengar Unbound|M
-Wolfbitten Captive|R
-Wolfhunter's Quiver|U
-Wrack with Madness|C
-Young Wolf|C
-Zombie Apocalypse|R

@@ -1,64 +1,57 @@
-Advent of the Wurm|R
-Aetherling|R
-Alive (Alive/Well)|U
-Armed (Armed/Dangerous)|U
-Armored Wolf-Rider|C
-Ascended Lawmage|U
-Away (Far/Away)|U
-Awe for the Guilds|C
-Azorius Cluestone|C
 Azorius Guildgate|C
 Bane Alley Blackguard|C
+Aetherling|R
+Advent of the Wurm|R
+Wind Drake|C
+Armored Wolf-Rider|C
+Deputy of Acquittals|C
+Ascended Lawmage|U
+Awe for the Guilds|C
+Azorius Cluestone|C
 Battering Krasis|C
-Beck (Beck/Call)|R
 Beetleform Mage|C
 Blast of Genius|U
 Blaze Commando|U
-Blood (Flesh/Blood)|R
 Blood Baron of Vizkopa|M
+Goblin Test Pilot|U
 Blood Scrivener|R
 Boros Battleshaper|R
 Boros Cluestone|C
 Boros Guildgate|C
 Boros Mastiff|C
-Breaking (Breaking/Entering)|R
 Bred for the Hunt|U
+Exava, Rakdos Blood Witch|R
 Bronzebeak Moa|U
-Burn (Turn/Burn)|U
-Call (Beck/Call)|R
+Beck/Call|R
+Ubul Sar Gatekeepers|C
 Carnage Gladiator|U
-Catch (Catch/Release)|R
-Clear a Path|C
 Council of the Absolute|M
+Clear a Path|C
 Crypt Incursion|C
-Dangerous (Armed/Dangerous)|U
 Deadbridge Chant|M
+Armed/Dangerous|U
 Debt to the Deathless|U
-Deputy of Acquittals|C
 Dimir Cluestone|C
 Dimir Guildgate|C
-Dirty (Down/Dirty)|U
-Down (Down/Dirty)|U
+Down/Dirty|U
 Dragonshift|R
 Drown in Filth|C
 Emmara Tandris|R
-Entering (Breaking/Entering)|R
-Exava, Rakdos Blood Witch|R
-Far (Far/Away)|U
 Fatal Fumes|C
+Breaking/Entering|R
+Far/Away|U
 Feral Animist|U
-Flesh (Flesh/Blood)|R
 Fluxcharger|U
+Flesh/Blood|R
+Teysa, Envoy of Ghosts|R
 Gaze of Granite|R
-Give (Give/Take)|U
 Gleam of Battle|U
-Goblin Test Pilot|U
-Golgari Cluestone|C
 Golgari Guildgate|C
+Golgari Cluestone|C
 Gruul Cluestone|C
 Gruul Guildgate|C
-Gruul War Chant|U
 Haazda Snare Squad|C
+Gruul War Chant|U
 Haunter of Nightveil|U
 Hidden Strings|C
 Hired Torturer|C
@@ -69,38 +62,36 @@ Korozda Gorgon|U
 Krasis Incubation|U
 Kraul Warrior|C
 Lavinia of the Tenth|R
+Progenitor Mimic|M
 Legion's Initiative|M
-Loss (Profit/Loss)|U
 Lyev Decree|C
-Master of Cruelties|M
 Maw of the Obzedat|U
+Master of Cruelties|M
 Maze Abomination|C
-Maze Behemoth|C
 Maze Glider|C
+Maze Behemoth|C
 Maze Rusher|C
 Maze Sentinel|C
-Maze's End|M
-Melek, Izzet Paragon|R
-Mending Touch|C
 Mindstatic|C
+Melek, Izzet Paragon|R
+Maze's End|M
+Mending Touch|C
+Murmuring Phantasm|C
 Mirko Vosk, Mind Drinker|R
 Morgue Burst|C
-Murmuring Phantasm|C
 Mutant's Prey|C
 Nivix Cyclops|C
 Notion Thief|R
-Obzedat's Aid|R
 Opal Lake Gatekeepers|C
-Orzhov Cluestone|C
+Obzedat's Aid|R
 Orzhov Guildgate|C
+Orzhov Cluestone|C
+Pontiff of Blight|R
 Phytoburst|C
 Pilfered Plans|C
+Profit/Loss|U
 Plasm Capture|R
-Pontiff of Blight|R
 Possibility Storm|R
-Profit (Profit/Loss)|U
-Progenitor Mimic|M
-Protect (Protect/Serve)|U
 Punish the Enemy|C
 Putrefy|U
 Pyrewild Shaman|R
@@ -108,15 +99,14 @@ Rakdos Cluestone|C
 Rakdos Drake|C
 Rakdos Guildgate|C
 Ral Zarek|M
-Ready (Ready/Willing)|R
+Catch/Release|R
 Reap Intellect|M
-Release (Catch/Release)|R
 Render Silent|R
 Renegade Krasis|R
-Renounce the Guilds|R
 Restore the Peace|U
-Riot Control|C
+Renounce the Guilds|R
 Riot Piker|C
+Riot Control|C
 Rot Farm Skeleton|U
 Rubblebelt Maaka|C
 Runner's Bane|C
@@ -127,45 +117,40 @@ Scab-Clan Giant|U
 Scion of Vitu-Ghazi|R
 Selesnya Cluestone|C
 Selesnya Guildgate|C
-Serve (Protect/Serve)|U
 Showstopper|U
+Protect/Serve|U
 Simic Cluestone|C
 Simic Guildgate|C
 Sin Collector|U
 Sinister Possession|C
 Sire of Insanity|R
-Skylasher|R
 Smelt-Ward Gatekeepers|C
+Skylasher|R
 Species Gorger|U
 Spike Jester|U
-Steeple Roc|C
 Sunspire Gatekeepers|C
+Steeple Roc|C
 Tajic, Blade of the Legion|R
-Take (Give/Take)|U
-Tear (Wear/Tear)|U
-Teysa, Envoy of Ghosts|R
+Give/Take|U
 Thrashing Mossdog|C
 Tithe Drinker|C
-Toil (Toil/Trouble)|U
-Trait Doctoring|R
-Trostani's Summoner|U
-Trouble (Toil/Trouble)|U
-Turn (Turn/Burn)|U
-Ubul Sar Gatekeepers|C
-Uncovered Clues|C
 Unflinching Courage|U
+Trostani's Summoner|U
+Trait Doctoring|R
+Turn/Burn|U
+Toil/Trouble|U
+Uncovered Clues|C
 Varolz, the Scar-Striped|R
 Viashino Firstblade|C
 Voice of Resurgence|M
 Vorel of the Hull Clade|R
-Wake the Reflections|C
 Warleader's Helix|U
-Warped Physique|U
+Wake the Reflections|C
 Weapon Surge|C
-Wear (Wear/Tear)|U
-Well (Alive/Well)|U
-Willing (Ready/Willing)|R
-Wind Drake|C
+Warped Physique|U
+Wear/Tear|U
+Alive/Well|U
+Ready/Willing|R
 Woodlot Crawler|U
 Zhur-Taa Ancient|R
 Zhur-Taa Druid|C

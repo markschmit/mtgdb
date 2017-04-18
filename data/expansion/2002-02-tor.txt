@@ -1,11 +1,11 @@
+Arrogant Wurm|U
 Accelerate|C
 Acorn Harvest|C
-Alter Reality|R
 Ambassador Laquatus|R
+Alter Reality|R
 Angel of Retribution|R
 Anurid Scavenger|U
 Aquamoeba|C
-Arrogant Wurm|U
 Aven Trooper|C
 Balshan Collaborator|U
 Balthor the Stout|R
@@ -25,29 +25,29 @@ Cephalid Aristocrat|C
 Cephalid Illusionist|U
 Cephalid Sage|U
 Cephalid Snitch|C
+Chainer, Dementia Master|R
 Cephalid Vandal|R
 Chainer's Edict|U
-Chainer, Dementia Master|R
 Churning Eddy|C
-Circular Logic|U
+Crackling Club|C
 Cleansing Meditation|U
+Circular Logic|U
 Compulsion|U
 Coral Net|C
-Crackling Club|C
 Crazed Firecat|U
 Crippling Fatigue|C
-Dawn of the Dead|R
 Deep Analysis|C
+Dawn of the Dead|R
 Devastating Dreams|R
 Dwell on the Past|U
 Enslaved Dwarf|C
-Equal Treatment|U
 Faceless Butcher|C
+Equal Treatment|U
 False Memories|R
 Far Wanderings|C
 Fiery Temper|C
-Flaming Gambit|U
 Flash of Defiance|C
+Flaming Gambit|U
 Floating Shield|C
 Frantic Purification|C
 Ghostly Wings|C
@@ -55,89 +55,89 @@ Gloomdrifter|U
 Gravegouger|C
 Grim Lavamancer|R
 Grotesque Hybrid|U
-Gurzigost|R
 Hell-Bent Raider|R
+Gurzigost|R
 Hydromorph Guardian|C
 Hydromorph Gull|U
+Ichorid|R
 Hypnox|R
 Hypochondria|U
-Ichorid|R
-Insidious Dreams|R
 Insist|R
+Insidious Dreams|R
 Invigorating Falls|C
-Kamahl's Sledge|C
 Krosan Constrictor|C
-Krosan Restorer|C
-Laquatus's Champion|R
-Last Laugh|R
-Liquify|C
-Llawan, Cephalid Empress|R
-Longhorn Firebeast|C
-Major Teroh|R
-Mesmeric Fiend|C
-Militant Monk|C
-Mind Sludge|U
-Morningtide|R
-Mortal Combat|R
-Mortiphobia|U
-Mutilate|R
-Mystic Familiar|C
-Nantuko Blightcutter|R
-Nantuko Calmer|C
-Nantuko Cultivator|R
-Nantuko Shade|R
-Narcissism|U
-Nostalgic Dreams|R
-Obsessive Search|C
-Organ Grinder|C
-Overmaster|R
-Parallel Evolution|R
-Pardic Arsonist|U
-Pardic Collaborator|U
-Pardic Lancer|C
-Pay No Heed|C
-Petradon|R
-Petravark|C
-Pitchstone Wall|U
-Plagiarize|R
-Possessed Aven|R
-Possessed Barbarian|R
-Possessed Centaur|R
-Possessed Nomad|R
-Psychotic Haze|C
-Putrid Imp|C
-Pyromania|U
-Radiate|R
-Rancid Earth|C
-Reborn Hero|R
-Restless Dreams|C
-Retraced Image|R
-Sengir Vampire|R
-Seton's Scout|U
-Shade's Form|C
-Shambling Swarm|R
-Sickening Dreams|U
-Skullscorch|R
-Skywing Aven|C
-Slithery Stalker|U
+Kamahl's Sledge|C
 Sonic Seizure|C
 Soul Scourge|C
-Spirit Flare|C
 Stern Judge|U
+Spirit Flare|C
 Strength of Isolation|U
 Strength of Lunacy|U
 Stupefying Touch|U
 Tainted Field|U
 Tainted Isle|U
 Tainted Peak|U
-Tainted Wood|U
 Temporary Insanity|U
+Tainted Wood|U
 Teroh's Faithful|C
 Teroh's Vanguard|U
-Transcendence|R
+Waste Away|C
 Turbulent Dreams|R
+Transcendence|R
 Unhinge|C
 Vengeful Dreams|R
 Violent Eruption|U
-Waste Away|C
 Zombie Trailblazer|U
+Krosan Restorer|C
+Laquatus's Champion|R
+Llawan, Cephalid Empress|R
+Liquify|C
+Last Laugh|R
+Longhorn Firebeast|C
+Major Teroh|R
+Mesmeric Fiend|C
+Militant Monk|C
+Morningtide|R
+Mind Sludge|U
+Mortiphobia|U
+Mortal Combat|R
+Mutilate|R
+Mystic Familiar|C
+Nantuko Blightcutter|R
+Nantuko Calmer|C
+Nantuko Cultivator|R
+Nantuko Shade|R
+Obsessive Search|C
+Nostalgic Dreams|R
+Narcissism|U
+Organ Grinder|C
+Parallel Evolution|R
+Overmaster|R
+Pardic Arsonist|U
+Pardic Collaborator|U
+Pardic Lancer|C
+Petradon|R
+Pay No Heed|C
+Petravark|C
+Pitchstone Wall|U
+Possessed Aven|R
+Plagiarize|R
+Possessed Barbarian|R
+Possessed Centaur|R
+Possessed Nomad|R
+Putrid Imp|C
+Psychotic Haze|C
+Radiate|R
+Pyromania|U
+Reborn Hero|R
+Rancid Earth|C
+Restless Dreams|C
+Retraced Image|R
+Sengir Vampire|R
+Seton's Scout|U
+Shade's Form|C
+Sickening Dreams|U
+Shambling Swarm|R
+Skullscorch|R
+Skywing Aven|C
+Slithery Stalker|U

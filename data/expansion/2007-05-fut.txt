@@ -1,74 +1,74 @@
 Akroma's Memorial|R
 Angel of Salvation|R
-Arc Blade|U
 Arcanum Wings|U
+Arc Blade|U
 Augur il-Vec|C
 Augur of Skulls|C
 Aven Augur|C
 Aven Mindcensor|U
-Barren Glory|R
 Baru, Fist of Krosa|R
-Bitter Ordeal|R
+Barren Glory|R
 Blade of the Sixth Pride|C
+Bitter Ordeal|R
 Blind Phantasm|C
 Bloodshot Trainee|U
 Bogardan Lancer|C
 Boldwyr Intimidator|U
 Bonded Fetch|U
 Bound in Silence|U
-Bridge from Below|R
 Centaur Omenreader|U
+Bridge from Below|R
 Char-Rumbler|U
-Chronomantic Escape|U
 Cloud Key|R
+Chronomantic Escape|U
 Cloudseeder|U
 Coalition Relic|R
 Cryptic Annelid|U
 Cutthroat il-Dal|C
 Cyclical Evolution|U
-Dakmor Salvage|U
 Darksteel Garrison|R
+Dakmor Salvage|U
 Daybreak Coronet|R
 Death Rattle|C
 Deepcavern Imp|C
-Delay|U
 Dryad Arbor|U
+Delay|U
 Dust of Moments|U
-Edge of Autumn|C
 Emberwilde Augur|C
+Edge of Autumn|C
 Emblem of the Warmind|U
+Fatal Attraction|C
 Epochrasite|R
 Even the Odds|U
-Fatal Attraction|C
 Festering March|U
 Fleshwrither|U
 Flowstone Embrace|C
 Fomori Nomad|C
 Force of Savagery|R
-Foresee|C
 Frenzy Sliver|C
+Foresee|C
 Gathan Raiders|C
-Ghostfire|C
 Gibbering Descent|R
+Ghostfire|C
 Gift of Granite|C
-Glittering Wish|R
 Goldmeadow Lookout|U
-Grave Peril|C
+Glittering Wish|R
 Grave Scrabbler|C
+Grave Peril|C
 Graven Cairns|R
 Grinning Ignus|C
 Grove of the Burnwillows|R
-Haze of Rage|U
 Heartwood Storyteller|R
+Haze of Rage|U
 Henchfiend of Ukor|C
 Homing Sliver|C
-Horizon Canopy|R
 Ichor Slick|C
-Imperial Mask|R
+Horizon Canopy|R
 Imperiosaur|U
+Imperial Mask|R
 Infiltrator il-Kor|C
-Intervention Pact|R
 Jhoira of the Ghitu|R
+Intervention Pact|R
 Judge Unworthy|C
 Kavu Primarch|C
 Keldon Megaliths|U
@@ -79,60 +79,60 @@ Linessa, Zephyr Mage|R
 Llanowar Augur|C
 Llanowar Empath|C
 Llanowar Mentor|U
-Llanowar Reborn|U
 Logic Knot|C
+Llanowar Reborn|U
+Lucent Liminid|C
 Lost Auramancers|U
 Lost Hours|C
-Lucent Liminid|C
 Lumithread Field|C
 Lymph Sliver|C
 Maelstrom Djinn|R
 Magus of the Abyss|R
-Magus of the Future|R
 Magus of the Moat|R
+Magus of the Future|R
 Magus of the Moon|R
 Magus of the Vineyard|R
 Marshaling Cry|C
 Mass of Ghouls|C
 Mesmeric Sliver|C
-Minions' Murmurs|U
 Mistmeadow Skulk|U
-Molten Disaster|R
+Minions' Murmurs|U
 Muraganda Petroglyphs|R
+Molten Disaster|R
 Mystic Speculation|U
-Nacatl War-Pride|U
 Narcomoeba|U
+Nacatl War-Pride|U
 Nessian Courser|C
-New Benalia|U
 Nihilith|R
-Nimbus Maze|R
+New Benalia|U
 Nix|R
+Nimbus Maze|R
 Oblivion Crown|C
 Oriss, Samite Guardian|R
-Pact of Negation|R
 Pact of the Titan|R
+Pact of Negation|R
 Patrician's Scorn|C
 Petrified Plating|C
-Phosphorescent Feast|U
 Pooling Venom|U
+Phosphorescent Feast|U
 Putrid Cyclops|C
-Pyromancer's Swath|R
 Quagnoth|R
+Pyromancer's Swath|R
 Quiet Disrepair|C
 Ramosian Revivalist|U
 Ravaging Riftwurm|U
-Reality Strobe|U
 Riddle of Lightning|C
+Reality Strobe|U
 Rift Elemental|C
 Riftsweeper|U
 Rites of Flourishing|R
-River of Tears|R
 Saltskitter|C
+River of Tears|R
 Samite Censer-Bearer|C
 Sarcomite Myr|C
 Scourge of Kher Ridges|R
-Scout's Warning|R
 Second Wind|U
+Scout's Warning|R
 Seht's Tiger|R
 Shah of Naar Isle|R
 Shapeshifter's Marrow|R
@@ -140,9 +140,9 @@ Shimian Specter|R
 Shivan Sand-Mage|U
 Skirk Ridge Exhumer|U
 Skizzik Surger|U
+Sliversmith|U
 Slaughter Pact|R
 Sliver Legion|R
-Sliversmith|U
 Snake Cult Initiation|U
 Soultether Golem|U
 Sparkspitter|U
@@ -151,29 +151,29 @@ Spellwild Ouphe|U
 Spin into Myth|U
 Spirit en-Dal|U
 Sporoloth Ancient|C
-Sprout Swarm|C
 Steamflogger Boss|R
+Sprout Swarm|C
 Storm Entity|U
 Street Wraith|U
 Stronghold Rats|U
-Summoner's Pact|R
 Sword of the Meek|U
+Summoner's Pact|R
 Take Possession|R
+Thornweald Archer|C
 Tarmogoyf|R
 Tarox Bladewing|R
-Thornweald Archer|C
 Thunderblade Charge|R
-Tolaria West|U
 Tombstalker|R
+Tolaria West|U
 Unblinking Bleb|C
 Utopia Mycon|U
 Vedalken Aethermage|C
-Veilstone Amulet|R
 Venser's Diffusion|C
+Veilstone Amulet|R
 Venser, Shaper Savant|R
 Virulent Sliver|C
-Whetwheel|R
 Whip-Spine Drake|C
+Whetwheel|R
 Witch's Mist|U
 Wrap in Vigor|C
 Yixlid Jailer|U

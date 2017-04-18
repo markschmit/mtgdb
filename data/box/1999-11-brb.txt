@@ -1,3 +1,4 @@
+Plated Rootwalla|S
 Abyssal Specter|S
 Advance Scout|S
 Air Elemental|S
@@ -7,99 +8,98 @@ Argothian Elder|S
 Armored Pegasus|S
 Azure Drake|S
 Blinking Spirit|S
-Broken Fall|S
 Cackling Fiend|S
+Broken Fall|S
 Catastrophe|S
 Cinder Marsh|S
 Control Magic|S
-Counterspell|S
 Crazed Skirge|S
-Curfew|S
+Counterspell|S
 Dark Ritual|S
 Dirtcowl Wurm|S
-Disenchant|S
+Curfew|S
 Disruptive Student|S
 Drifting Meadow|S
+Disenchant|S
 Elvish Lyrist|S
+Fertile Ground|S
 Exhume|S
 Fecundity|S
-Fertile Ground|S
+Forest|S
 Fire Ants|S
 Flood|S
-Forest|S
 Giant Growth|S
 Gorilla Warrior|S
-Healing Salve|S
 Heat Ray|S
-Hurricane|S
-Infantry Veteran|S
-Island|S
-Land Tax|S
 Lhurgoyf|S
+Infantry Veteran|S
+Healing Salve|S
+Hurricane|S
+Land Tax|S
+Island|S
 Lightning Elemental|S
 Living Death|S
 Llanowar Elves|S
 Man-o'-War|S
 Mana Leak|S
 Maniacal Rage|S
-Manta Riders|S
 Master Decoy|S
-Mogg Hollows|S
-Mountain|S
-Nekrataal|S
-Opportunity|S
-Pacifism|S
-Pestilence|S
+Manta Riders|S
 Phyrexian Ghoul|S
+Mountain|S
+Mogg Hollows|S
+Nekrataal|S
+Pacifism|S
+Opportunity|S
+Pestilence|S
 Pincher Beetles|S
-Plains|S
-Plated Rootwalla|S
-Polluted Mire|S
 Prodigal Sorcerer|S
+Plains|S
 Raging Goblin|S
+Polluted Mire|S
 Ray of Command|S
 Reanimate|S
-Remote Isle|S
 River Boa|S
+Remote Isle|S
 Rolling Thunder|S
-Sadistic Glee|S
 Sanctum Custodian|S
+Sadistic Glee|S
 Sanctum Guardian|S
-Sandstorm|S
 Scaled Wurm|S
 Scryb Sprites|S
-Seasoned Marshal|S
+Sandstorm|S
 Seeker of Skybreak|S
+Seasoned Marshal|S
 Sengir Vampire|S
 Sewer Rats|S
 Shower of Sparks|S
 Skyshroud Elite|S
-Slippery Karst|S
 Soltari Foot Soldier|S
+Slippery Karst|S
 Songstitcher|S
 Soul Warden|S
 Spike Colony|S
 Spike Feeder|S
 Spike Weaver|S
 Spike Worker|S
-Steam Blast|S
-Subversion|S
 Sun Clasp|S
-Swamp|S
+Steam Blast|S
 Swords to Plowshares|S
+Subversion|S
 Symbiosis|S
-Syphon Soul|S
 Terror|S
+Swamp|S
+Syphon Soul|S
 Thalakos Lowlands|S
-Tranquility|S
-Trumpeting Armodon|S
 Unnerve|S
+Trumpeting Armodon|S
+Tranquility|S
 Uthden Troll|S
 Vec Townships|S
 Village Elder|S
 Wall of Heat|S
 Weakness|S
-Wildfire Emissary|S
 Wind Drake|S
+Wildfire Emissary|S
 Windfall|S
 Wrath of God|S

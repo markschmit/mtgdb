@@ -1,27 +1,27 @@
 Abyssal Gatekeeper|C
+Barren Moor|C
 Abyssal Specter|U
 Akroma, Angel of Wrath|M
 Angel of Mercy|U
-Angel's Feather|U
 Angelic Benediction|U
+Angel's Feather|U
 Angelic Page|C
 Angelic Protector|U
 Angelsong|C
-Barren Moor|C
 Barter in Blood|U
 Breeding Pit|U
 Cackling Imp|C
 Charging Paladin|C
-Consume Spirit|U
 Corrupt|U
+Consume Spirit|U
 Cruel Edict|U
 Daggerclaw Imp|U
-Dark Banishing|C
 Dark Ritual|C
+Dark Banishing|C
 Demon's Horn|U
 Demon's Jester|C
-Demonic Tutor|U
 Duress|C
+Demonic Tutor|U
 Dusk Imp|C
 Faith's Fetters|C
 Fallen Angel|R
@@ -35,19 +35,19 @@ Marble Diamond|U
 Oni Possession|U
 Otherworldly Journey|U
 Overeager Apprentice|C
-Pacifism|C
 Plains|L
+Pacifism|C
+Reya Dawnbringer|R
 Promise of Power|R
 Reiver Demon|R
-Reya Dawnbringer|R
 Righteous Cause|U
 Secluded Steppe|C
 Serra Advocate|U
 Serra Angel|R
 Serra's Boon|U
 Serra's Embrace|U
-Soot Imp|U
 Souldrinker|U
+Soot Imp|U
 Stinkweed Imp|C
 Sustainer of the Realm|U
 Swamp|L

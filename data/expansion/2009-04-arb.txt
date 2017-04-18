@@ -1,145 +1,145 @@
+Breath of Malfegor|C
 Anathemancer|U
 Architects of Will|C
-Ardent Plea|U
-Arsenal Thresher|C
 Aven Mimeomancer|R
-Bant Sojourners|C
-Bant Sureblade|C
+Arsenal Thresher|C
+Ardent Plea|U
 Behemoth Sledge|U
+Bant Sureblade|C
 Bituminous Blast|U
 Blitz Hellion|R
 Bloodbraid Elf|U
-Brainbite|C
-Breath of Malfegor|C
+Bant Sojourners|C
 Captured Sunlight|C
-Cerodon Yearling|C
-Cloven Casting|R
-Colossal Might|C
-Crystallization|C
-Dauntless Escort|R
-Deadshot Minotaur|C
-Deathbringer Thoctar|R
-Defiler of Souls|M
-Demonic Dread|C
-Demonspine Whip|U
-Deny Reality|C
-Double Negative|U
-Dragon Appeasement|U
-Dragon Broodmother|M
+Sphinx of the Steel Wind|M
+Soul Manipulation|C
+Slave of Bolas|U
+Sovereigns of Lost Alara|R
+Spellbound Dragon|R
+Soulquake|R
+Spellbreaker Behemoth|R
+Stormcaller's Boon|C
+Stun Sniper|U
+Tainted Sigil|U
+Talon Trooper|C
+Thought Hemorrhage|R
+Terminate|C
+Thopter Foundry|U
+Time Sieve|R
+Thraximundar|M
+Trace of Abundance|C
+Unbender Tine|U
+Uril, the Miststalker|M
+Unscythe, Killer of Kings|R
+Valley Rannet|C
+Vectis Dominator|C
+Vedalken Ghoul|C
+Vengeful Rebirth|U
+Vedalken Heretic|R
+Veinfire Borderpost|C
+Violent Outburst|C
+Vithian Renegades|U
+Wall of Denial|U
+Winged Coatl|C
+Wildfield Borderpost|C
+Wargate|R
+Zealous Persecution|U
 Drastic Revelation|U
+Dragon Appeasement|U
 Enigma Sphinx|R
 Enlisted Wurm|U
 Esper Sojourners|C
-Esper Stormblade|C
 Ethercaste Knight|C
+Esper Stormblade|C
 Etherium Abomination|C
-Ethersworn Shieldmage|C
-Etherwrought Page|U
-Fieldmist Borderpost|C
-Fight to the Death|R
 Filigree Angel|R
+Fieldmist Borderpost|C
+Ethersworn Shieldmage|C
 Finest Hour|R
-Firewild Borderpost|C
-Flurry of Wings|U
-Giant Ambush Beetle|U
-Glassdust Hulk|C
-Glory of Warfare|R
-Gloryscale Viashino|U
-Godtracker of Jund|C
-Gorger Wurm|C
-Grixis Grimblade|C
-Grixis Sojourners|C
-Grizzled Leotau|C
-Identity Crisis|R
-Igneous Pouncer|C
-Illusory Demon|U
-Intimidation Bolt|U
-Jenara, Asura of War|M
-Jhessian Zombies|C
-Jund Hackblade|C
-Jund Sojourners|C
+Etherwrought Page|U
+Fight to the Death|R
+Brainbite|C
+Cerodon Yearling|C
+Cloven Casting|R
+Dauntless Escort|R
+Colossal Might|C
+Deadshot Minotaur|C
+Crystallization|C
+Deathbringer Thoctar|R
+Defiler of Souls|M
+Demonspine Whip|U
+Demonic Dread|C
+Dragon Broodmother|M
+Deny Reality|C
+Double Negative|U
 Karrthus, Tyrant of Jund|M
 Kathari Bomber|C
 Kathari Remnant|U
 Knight of New Alara|R
 Knotvine Paladin|R
+Lightning Reaver|R
+Lich Lord of Unx|R
 Lavalanche|R
 Leonin Armorguard|C
-Lich Lord of Unx|R
-Lightning Reaver|R
 Lord of Extinction|M
 Lorescale Coatl|U
 Madrush Cyclops|R
-Maelstrom Nexus|M
 Maelstrom Pulse|R
+Maelstrom Nexus|M
 Mage Slayer|U
 Magefire Wings|C
-Marisi's Twinclaws|U
 Marrow Chomper|U
+Marisi's Twinclaws|U
 Mask of Riddles|U
 Mayael's Aria|R
 Meddling Mage|R
 Messenger Falcons|U
-Mind Funeral|U
 Mistvein Borderpost|C
+Mind Funeral|U
 Monstrous Carabid|C
-Morbid Bloom|U
-Mycoid Shepherd|R
-Naya Hushblade|C
-Naya Sojourners|C
-Necromancer's Covenant|R
-Nemesis of Reason|R
-Nulltread Gargantuan|U
-Offering to Asha|C
-Pale Recluse|C
 Predatory Advantage|R
 Putrid Leech|C
 Qasali Pridemage|C
-Reborn Hope|U
 Retaliator Griffin|R
 Rhox Brute|C
+Reborn Hope|U
 Sages of the Anima|R
 Sanctum Plowbeast|C
 Sangrite Backlash|C
 Sanity Gnawers|U
 Sen Triplets|M
-Sewn-Eye Drake|C
 Shield of the Righteous|U
-Sigil Captain|U
+Sewn-Eye Drake|C
 Sigil of the Nayan Gods|C
+Sigil Captain|U
 Sigiled Behemoth|C
 Singe-Mind Ogre|C
 Skyclaw Thrash|U
-Slave of Bolas|U
-Soul Manipulation|C
-Soulquake|R
-Sovereigns of Lost Alara|R
-Spellbound Dragon|R
-Spellbreaker Behemoth|R
-Sphinx of the Steel Wind|M
-Stormcaller's Boon|C
-Stun Sniper|U
-Tainted Sigil|U
-Talon Trooper|C
-Terminate|C
-Thopter Foundry|U
-Thought Hemorrhage|R
-Thraximundar|M
-Time Sieve|R
-Trace of Abundance|C
-Unbender Tine|U
-Unscythe, Killer of Kings|R
-Uril, the Miststalker|M
-Valley Rannet|C
-Vectis Dominator|C
-Vedalken Ghoul|C
-Vedalken Heretic|R
-Veinfire Borderpost|C
-Vengeful Rebirth|U
-Violent Outburst|C
-Vithian Renegades|U
-Wall of Denial|U
-Wargate|R
-Wildfield Borderpost|C
-Winged Coatl|C
-Zealous Persecution|U
+Morbid Bloom|U
+Mycoid Shepherd|R
+Naya Hushblade|C
+Necromancer's Covenant|R
+Naya Sojourners|C
+Nulltread Gargantuan|U
+Nemesis of Reason|R
+Offering to Asha|C
+Pale Recluse|C
+Firewild Borderpost|C
+Flurry of Wings|U
+Giant Ambush Beetle|U
+Glassdust Hulk|C
+Godtracker of Jund|C
+Glory of Warfare|R
+Gloryscale Viashino|U
+Grixis Sojourners|C
+Gorger Wurm|C
+Grixis Grimblade|C
+Grizzled Leotau|C
+Igneous Pouncer|C
+Identity Crisis|R
+Illusory Demon|U
+Jenara, Asura of War|M
+Intimidation Bolt|U
+Jhessian Zombies|C
+Jund Hackblade|C
+Jund Sojourners|C

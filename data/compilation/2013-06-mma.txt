@@ -1,229 +1,229 @@
+Auriok Salvagers|R
+Blind-Spot Giant|C
+Avian Changeling|C
+Blightspeaker|C
 Absorb Vis|C
 Academy Ruins|R
-Adarkar Valkyrie|R
-Aether Spellbomb|C
-Aether Vial|R
 Aethersnipe|C
+Adarkar Valkyrie|R
+Aether Vial|R
+Aether Spellbomb|C
 Amrou Scout|C
 Amrou Seekers|C
-Angel's Grace|R
 Arcbound Ravager|R
 Arcbound Stinger|C
+Angel's Grace|R
 Arcbound Wanderer|C
 Arcbound Worker|C
 Auntie's Snitch|U
-Auriok Salvagers|R
-Avian Changeling|C
-Blightspeaker|C
-Blind-Spot Giant|C
 Blinding Beam|C
 Blinkmoth Nexus|R
-Blood Moon|R
-Bonesplitter|C
 Bound in Silence|C
-Bridge from Below|R
 Brute Force|C
-Careful Consideration|U
+Bridge from Below|R
 Cenn's Enlistment|C
+Careful Consideration|U
 Chalice of the Void|R
 Citanul Woodreaders|C
-City of Brass|R
 Cloudgoat Ranger|U
-Cold-Eyed Selkie|R
+City of Brass|R
 Countryside Crusher|R
+Cold-Eyed Selkie|R
 Court Homunculus|C
 Crush Underfoot|C
-Cryptic Command|R
 Dakmor Salvage|U
+Cryptic Command|R
 Dampen Thought|C
 Dark Confidant|M
-Death Cloud|R
 Death Denied|C
-Death Rattle|U
-Deepcavern Imp|C
-Demigod of Revenge|R
-Desperate Ritual|U
-Dispeller's Capsule|C
+Bonesplitter|C
+Blood Moon|R
 Divinity of Pride|R
-Doubling Season|R
+Dispeller's Capsule|C
 Drag Down|C
-Dragonstorm|R
+Doubling Season|R
 Dreamspoiler Witches|C
+Dragonstorm|R
 Durkwood Baloth|C
 Earwig Squad|R
 Echoing Courage|C
-Echoing Truth|C
 Electrolyze|U
+Echoing Truth|C
+Engineered Explosives|R
 Elspeth, Knight-Errant|M
 Empty the Warrens|C
-Engineered Explosives|R
 Epochrasite|U
 Errant Ephemeron|C
-Erratic Mutation|C
 Esperzoa|U
+Erratic Mutation|C
 Etched Oracle|U
 Eternal Witness|U
 Etherium Sculptor|C
 Ethersworn Canonist|R
-Executioner's Capsule|U
 Extirpate|R
-Facevaulter|C
+Executioner's Capsule|U
 Faerie Macabre|C
+Facevaulter|C
 Faerie Mechanist|C
 Festering Goblin|C
 Feudkiller's Verdict|U
-Fiery Fall|C
 Figure of Destiny|R
 Flickerwisp|U
+Fiery Fall|C
 Frogmite|C
-Fury Charm|C
 Giant Dustwasp|C
-Gifts Ungiven|R
+Fury Charm|C
 Glacial Ray|C
-Gleam of Resistance|C
+Gifts Ungiven|R
 Glen Elendra Archmage|R
-Glimmervoid|R
+Gleam of Resistance|C
 Grand Arbiter Augustin IV|R
-Grapeshot|C
+Glimmervoid|R
 Greater Gargadon|R
+Grapeshot|C
 Greater Mossdog|C
 Grinning Ignus|U
 Hammerheim Deadeye|C
-Hana Kami|C
 Hillcomber Giant|C
+Hana Kami|C
 Horobi's Whisper|U
+Ivory Giant|C
 Imperiosaur|C
 Incremental Growth|U
-Ivory Giant|C
 Jhoira of the Ghitu|R
-Jugan, the Rising Star|M
 Kataki, War's Wage|R
+Jugan, the Rising Star|M
 Keiga, the Tide Star|M
-Kiki-Jiki, Mirror Breaker|M
 Kira, Great Glass-Spinner|R
-Kitchen Finks|U
+Kiki-Jiki, Mirror Breaker|M
 Kithkin Greatheart|C
+Kitchen Finks|U
 Knight of the Reliquary|R
 Kodama's Reach|C
 Kokusho, the Evening Star|M
-Krosan Grip|U
 Latchkey Faerie|C
+Krosan Grip|U
 Lava Spike|C
 Life from the Loam|R
-Lightning Helix|U
 Logic Knot|C
-Lotus Bloom|R
+Lightning Helix|U
 Mad Auntie|U
+Lotus Bloom|R
 Maelstrom Pulse|R
-Manamorphose|U
 Marsh Flitter|U
+Manamorphose|U
 Masked Admirers|U
-Meadowboon|U
 Meloku the Clouded Mirror|R
-Mind Funeral|U
+Meadowboon|U
 Mogg War Marshal|C
+Mind Funeral|U
 Moldervine Cloak|C
-Molten Disaster|R
 Mothdust Changeling|C
+Molten Disaster|R
 Mulldrifter|U
 Murderous Redcap|U
 Myr Enforcer|C
 Myr Retriever|U
 Nantuko Shaman|C
-Narcomoeba|U
 Oona, Queen of the Fae|R
+Narcomoeba|U
 Otherworldly Journey|C
 Pact of Negation|R
 Pallid Mycoderm|C
 Paradise Mantle|U
 Pardic Dragon|U
-Path to Exile|U
 Peer Through Depths|C
+Path to Exile|U
 Penumbra Spider|C
+Death Cloud|R
+Death Rattle|U
+Deepcavern Imp|C
+Demigod of Revenge|R
+Desperate Ritual|U
+Pestermite|C
 Peppersmoke|C
 Perilous Research|C
-Pestermite|C
 Petals of Insight|C
-Phthisis|U
-Plumeveil|U
 Progenitus|M
-Pyrite Spellbomb|C
 Pyromancer's Swath|R
+Plumeveil|U
+Phthisis|U
+Pyrite Spellbomb|C
 Rathi Trapper|C
-Raven's Crime|C
 Reach of Branches|U
+Raven's Crime|C
 Reach Through Mists|C
-Relic of Progenitus|U
 Reveillark|R
-Rift Bolt|C
+Relic of Progenitus|U
 Rift Elemental|C
-Riftsweeper|U
+Rift Bolt|C
 Riftwing Cloudskate|U
-Rude Awakening|R
+Riftsweeper|U
 Runed Stalactite|C
+Rude Awakening|R
 Ryusei, the Falling Star|M
 Saltfield Recluse|C
 Sanctum Gargoyle|C
-Sandsower|U
 Sarkhan Vol|M
+Sandsower|U
 Scion of Oona|R
 Search for Tomorrow|C
-Shrapnel Blast|U
 Skeletal Vampire|R
+Shrapnel Blast|U
 Skyreach Manta|C
-Slaughter Pact|R
 Spell Snare|U
-Spellstutter Sprite|C
+Slaughter Pact|R
 Sporesower Thallid|U
+Spellstutter Sprite|C
 Sporoloth Ancient|C
 Squee, Goblin Nabob|R
 Stingscourger|C
 Stinkdrinker Daredevil|C
 Stinkweed Imp|C
-Stir the Pride|U
 Stonehewer Giant|R
+Stir the Pride|U
 Street Wraith|C
 Sudden Shock|U
-Summoner's Pact|R
 Sword of Fire and Ice|M
+Summoner's Pact|R
 Sword of Light and Shadow|M
-Sylvan Bounty|C
 Syphon Life|C
+Sylvan Bounty|C
 Take Possession|U
-Tar Pitcher|U
 Tarmogoyf|M
+Tar Pitcher|U
 Terashi's Grasp|U
 Terramorphic Expanse|C
-Test of Faith|C
 Thallid|C
+Test of Faith|C
 Thallid Germinator|C
 Thallid Shell-Dweller|C
 Thieving Sprite|C
-Thirst for Knowledge|U
 Thundercloud Shaman|U
+Thirst for Knowledge|U
 Thundering Giant|C
 Tidehollow Sculler|U
+Torrent of Stone|C
 Tombstalker|R
 Tooth and Nail|R
-Torrent of Stone|C
 Traumatic Visions|C
-Tribal Flames|U
 Tromp the Domains|U
+Tribal Flames|U
 Trygon Predator|U
 Vedalken Dismisser|C
-Vedalken Shackles|M
 Vendilion Clique|M
+Vedalken Shackles|M
 Verdeloth the Ancient|R
 Veteran Armorer|C
-Vivid Crag|U
-Vivid Creek|U
 Vivid Grove|U
+Vivid Creek|U
+Vivid Crag|U
 Vivid Marsh|U
-Vivid Meadow|U
 Walker of the Grove|C
+Vivid Meadow|U
 War-Spike Changeling|C
 Warren Pilferers|C
 Warren Weirding|C
 Woodfall Primus|R
-Worm Harvest|U
 Yosei, the Morning Star|M
+Worm Harvest|U

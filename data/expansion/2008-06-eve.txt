@@ -1,3 +1,4 @@
+Deathbringer Liege|R
 Aerie Ouphes|C
 Altar Golem|R
 Antler Skulkin|C
@@ -7,69 +8,68 @@ Balefire Liege|R
 Ballynock Trapper|C
 Banishing Knack|C
 Battlegate Mimic|C
-Batwing Brume|U
-Beckon Apparition|C
 Belligerent Hatchling|U
+Beckon Apparition|C
+Batwing Brume|U
 Bloodied Ghost|U
 Bloom Tender|R
 Cache Raiders|U
-Call the Skybreaker|R
-Canker Abomination|U
 Cankerous Thirst|U
+Canker Abomination|U
+Call the Skybreaker|R
 Cascade Bluffs|R
-Cauldron Haze|U
 Cenn's Enlistment|C
-Chaotic Backlash|U
 Cinder Pyromancer|C
-Clout of the Dominus|C
+Cauldron Haze|U
+Chaotic Backlash|U
 Cold-Eyed Selkie|R
+Clout of the Dominus|C
 Crackleburr|R
-Crag Puca|U
 Creakwood Ghoul|U
+Crag Puca|U
 Creakwood Liege|R
 Crumbling Ashes|U
-Deathbringer Liege|R
 Deity of Scars|R
-Desecrator Hag|C
 Divinity of Pride|R
+Desecrator Hag|C
 Dominus of Fealty|R
 Doomgape|R
 Double Cleave|C
-Drain the Well|C
 Dream Fracture|U
+Drain the Well|C
 Dream Thief|C
-Duergar Assailant|C
 Duergar Cave-Guard|U
-Duergar Hedge-Mage|U
+Duergar Assailant|C
 Duergar Mine-Captain|U
+Duergar Hedge-Mage|U
 Duskdale Wurm|U
-Edge of the Divinity|C
 Endless Horizons|R
+Edge of the Divinity|C
 Endure|U
 Evershrike|R
 Fable of Wolf and Owl|R
 Fang Skulkin|C
-Favor of the Overbeing|C
 Fetid Heath|R
+Favor of the Overbeing|C
 Fiery Bombardment|R
 Figure of Destiny|R
-Fire at Will|C
 Flame Jab|C
+Fire at Will|C
 Flickerwisp|U
 Flooded Grove|R
 Gift of the Deity|C
-Gilder Bairn|U
 Glamerdye|R
+Gilder Bairn|U
+Groundling Pouncer|U
 Glen Elendra Archmage|R
 Grazing Kelpie|C
-Groundling Pouncer|U
 Gwyllion Hedge-Mage|U
 Hag Hedge-Mage|U
 Hallowed Burial|R
 Harvest Gwyllion|C
 Hatchet Bully|U
-Hateflayer|R
 Hearthfire Hobgoblin|U
+Hateflayer|R
 Heartlash Cinder|C
 Helix Pinnacle|R
 Hobgoblin Dragoon|C
@@ -78,103 +78,103 @@ Hotheaded Giant|C
 Idle Thoughts|U
 Impelled Giant|U
 Indigo Faerie|U
-Inside Out|C
-Inundate|R
 Invert the Skies|U
+Inundate|R
+Inside Out|C
 Jawbone Skulkin|C
 Kithkin Spellduster|C
 Kithkin Zealot|C
 Leering Emblem|R
-Light from Within|R
 Lingering Tormentor|U
+Light from Within|R
 Loyal Gyrfalcon|U
 Marshdrinker Giant|U
 Merrow Bonegnawer|C
 Merrow Levitator|C
 Mindwrack Liege|R
-Mirror Sheen|R
 Monstrify|C
-Moonhold|U
+Mirror Sheen|R
 Murkfiend Liege|R
+Moonhold|U
 Necroskitter|R
 Needle Specter|R
 Nettle Sentinel|C
 Nightmare Incursion|R
 Nightsky Mimic|C
+Suture Spirit|U
+Swirling Spriggan|U
+Talara's Battalion|R
+Syphon Life|U
+Talara's Bane|C
+Tilling Treefolk|C
+Talonrend|U
+Thunderblust|R
+Trapjaw Kelpie|C
+Twinblade Slasher|U
+Twilight Mire|R
+Unmake|C
+Umbra Stalker|R
+Voracious Hatchling|U
+Unwilling Recruit|U
+Unnerving Assault|U
+Wake Thrasher|R
+Wickerbough Elder|C
+Ward of Bones|R
+Wilderness Hypnotist|C
+Waves of Aggression|R
+Wistful Selkie|U
+Woodlurker Mimic|C
+Worm Harvest|R
 Nip Gwyllion|C
 Nobilis of War|R
-Noggle Bandit|C
 Noggle Bridgebreaker|C
-Noggle Hedge-Mage|U
+Noggle Bandit|C
 Noggle Ransacker|U
-Noxious Hatchling|U
+Noggle Hedge-Mage|U
 Nucklavee|U
+Noxious Hatchling|U
 Odious Trow|C
 Oona's Grace|C
-Outrage Shaman|U
 Overbeing of Myth|R
+Outrage Shaman|U
 Patrol Signaler|U
 Phosphorescent Feast|U
 Primalcrux|R
 Puncture Blast|C
 Pyrrhic Revival|R
+Razorfin Abolisher|U
 Quillspike|U
 Raven's Crime|C
-Razorfin Abolisher|U
 Recumbent Bliss|C
+Restless Apparition|U
 Regal Force|R
 Rekindled Flame|R
 Rendclaw Trow|C
-Restless Apparition|U
 Rise of the Hobgoblins|R
 Riverfall Mimic|C
 Rugged Prairie|R
+Savage Conception|U
 Sanity Grinding|R
 Sapling of Colfenor|R
-Savage Conception|U
 Scarecrone|R
-Scourge of the Nobilis|C
 Selkie Hedge-Mage|U
+Scourge of the Nobilis|C
 Shell Skulkin|C
-Shorecrasher Mimic|C
 Shrewd Hatchling|U
-Slippery Bogle|C
+Shorecrasher Mimic|C
 Smoldering Butcher|C
-Snakeform|C
-Soot Imp|U
+Slippery Bogle|C
 Soul Reap|C
+Snakeform|C
 Soul Snuffers|U
+Soot Imp|U
 Spirit of the Hearth|R
-Spitemare|U
-Spitting Image|R
 Springjack Pasture|R
-Springjack Shepherd|U
+Spitemare|U
 Stalker Hag|U
+Spitting Image|R
+Springjack Shepherd|U
+Sturdy Hatchling|U
 Stigma Lasher|R
 Stillmoon Cavalier|R
 Stream Hopper|C
-Sturdy Hatchling|U
-Suture Spirit|U
-Swirling Spriggan|U
-Syphon Life|U
-Talara's Bane|C
-Talara's Battalion|R
-Talonrend|U
-Thunderblust|R
-Tilling Treefolk|C
-Trapjaw Kelpie|C
-Twilight Mire|R
-Twinblade Slasher|U
-Umbra Stalker|R
-Unmake|C
-Unnerving Assault|U
-Unwilling Recruit|U
-Voracious Hatchling|U
-Wake Thrasher|R
-Ward of Bones|R
-Waves of Aggression|R
-Wickerbough Elder|C
-Wilderness Hypnotist|C
-Wistful Selkie|U
-Woodlurker Mimic|C
-Worm Harvest|R
