@@ -14,40 +14,25 @@ ID_LOAD     = 110
 
 ID_EXIT     = 120
 
-fmc_setconv = {
-  'UN':'U', 
-  '4E':'4th',
-  '5E':'5th',
-  '6E':'6th',
-  '7E':'7th',
-  '8E':'8th', 
-  'MI':'MD', 
-  'TR':'TO', 
-  'PR':'PY', 
-  'TP':'TE', 
-  'MR':'MI', 
-  'P':'PR', 
-  'P3K':'P3', 
-  'PO2':'P2', 
-}
-
-fileOracleText = "oracle_allcards.txt"
-fileCardSetList = "cardlist.txt"
-fileFormats = "formats.txt"
 filePrices = "fmc_prices.txt"
 
+NONE_STR = "None"
 CUSTOM_STR = "Custom..."
 FRAME_TITLE_STR = "Inventory Editor"
 UNTITLED_FILE_NAME_STR = "Untitled Inventory"
 
-cardTypes = ['Artifact','Creature','Enchant','Instant','Land','Sorcery','Planeswalker']
-
-
+RARITIES_MAP = {
+  "M": "Mythic",
+  "R": "Rare",
+  "U": "Uncommon",
+  "C": "Common",
+  "X": "Other",
+}
 
 class InventoryEditorFrame(wx.Frame):
   FRAME_WIDTH = 640
   FRAME_MARGIN = 16
-  FRAME_HEIGHT = 700
+  FRAME_HEIGHT = 780
   BOX_WIDTH = FRAME_WIDTH - 2 * FRAME_MARGIN
 
   def __init__(self, parent, ID, title):
@@ -117,8 +102,8 @@ class InventoryEditorFrame(wx.Frame):
     dy = 20
     self.rarityBox = wx.StaticBox(p, -1, "Rarity", (self.FRAME_MARGIN, 16), (196, y_max - dy / 2))
 
-    rarities = [("M", "Mythic"), ("R", "Rare"), ("U", "Uncommon"), ("C", "Common"), ("X", "Other")]
-    for letter, rarity in rarities:
+    for letter in ["M", "R", "U", "C", "X"]:
+      rarity = RARITIES_MAP[letter]
       self.cbRarity[letter] = wx.CheckBox(p, -1, rarity, (x, y))
       y += dy
       if y >= 100:
@@ -150,7 +135,7 @@ class InventoryEditorFrame(wx.Frame):
   def InitSetFilterArea(self,  p):
     boxY = 124
 
-    self.formatBox = wx.StaticBox(p, -1, "Sets", (self.FRAME_MARGIN, boxY), (self.BOX_WIDTH, 232))
+    self.formatBox = wx.StaticBox(p, -1, "Sets", (self.FRAME_MARGIN, boxY), (self.BOX_WIDTH, 284))
 
     self.txtFormatLabel = wx.StaticText(p, -1, "Format:", (32, boxY+28), (64, 24))
     SetFontBold(self.txtFormatLabel)
@@ -217,7 +202,7 @@ class InventoryEditorFrame(wx.Frame):
 
   def InitCardLists(self, p):
 
-    listY = 372
+    listY = 424
     BUTTON_WIDTH = 100
     LIST_WIDTH = (self.BOX_WIDTH - BUTTON_WIDTH - 32) / 2
 
@@ -259,6 +244,8 @@ class InventoryEditorFrame(wx.Frame):
         sets = set()
         for pair in parts[1:]:
           set_code, rarity = pair.split("-")
+          if rarity not in RARITIES_MAP.keys():
+            rarity = "X"
           self.CardList.append((name, set_code, rarity))
           sets.add(set_code)
         self.CardSetsMap[name] = sets
@@ -289,6 +276,8 @@ class InventoryEditorFrame(wx.Frame):
         self.FormatList.append(parts[0])
         self.Formats[parts[0]] = parts[1:]
 
+    self.FormatList.append(NONE_STR)
+    self.Formats[NONE_STR] = []
     self.FormatList.append(CUSTOM_STR)
     self.Formats[CUSTOM_STR] = []
 
@@ -361,10 +350,10 @@ class InventoryEditorFrame(wx.Frame):
 
 
   def OnSelectFormat(self, event):
-    format = event.GetString()
+    fmt = event.GetString()
 
     for s, widget in self.sets.iteritems():
-      widget.Enable(s in self.Formats[format])
+      widget.Enable(s in self.Formats[fmt])
 
     self.OnVisTainted(None)
 
@@ -372,6 +361,7 @@ class InventoryEditorFrame(wx.Frame):
   def OnAddCard(self, event):
 
     cardname, set_code = self.GetSelectedCard()
+    print "adding card '%s'" % cardname
 
     key = self.CardKey(cardname, set_code)
 
@@ -496,8 +486,9 @@ class InventoryEditorFrame(wx.Frame):
     self.RefreshInvList()
 
   def CheckSaveChanges(self):
+    """Returns whether the user wants to save; returns True on cancellation."""
     if not self.dirtyinventory:
-      return 0
+      return False
 
     if len(self.current_file_name):
       str = "The Inventory file "+self.current_file_name+" has"
@@ -512,11 +503,11 @@ class InventoryEditorFrame(wx.Frame):
 
     if result == wx.ID_YES:
       self.SaveInventory(None)
-      return 0
+      return False
     elif result == wx.ID_NO:
-      return 0
+      return False
     elif result == wx.ID_CANCEL:
-      return 1
+      return True
 
   def NewInventory(self, event):
     if self.CheckSaveChanges():
@@ -569,6 +560,7 @@ class InventoryEditorFrame(wx.Frame):
       f.write("|".join(["Name", "Set", "Quantity"]) + "\n")
       for k in keys:
         name, set_code = self.DecodeCardKey(k)
+        print 'writing name', name
         f.write("|".join([name, set_code, str(self.inventory[k])]) + "\n")
     self.dirtyinventory = 0
     self.UpdateTitle()
@@ -691,6 +683,9 @@ class InventoryEditorFrame(wx.Frame):
               cardNameMatchMap[name] and
               rarity in self.allowedRarities and
               (set_code in self.allowedSets or self.showAllVersions))
+
+          if rarity not in self.cbRarity.keys():
+            print "UNKNOWN Rarity: %s" % rarity
 
           self.visiblecards[key] = visible
           if visible:
