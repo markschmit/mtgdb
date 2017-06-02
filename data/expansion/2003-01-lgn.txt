@@ -1,9 +1,9 @@
-Daru Stinger|C
+Crested Craghorn|C
+Akroma's Devoted|U
 Aphetto Exterminator|U
 Akroma, Angel of Wrath|R
-Aven Envoy|C
 Aven Redeemer|C
-Akroma's Devoted|U
+Aven Envoy|C
 Aven Warhawk|U
 Bane of the Living|R
 Beacon of Destiny|R
@@ -23,18 +23,18 @@ Cloudreach Cavalry|U
 Clickslither|R
 Corpse Harvester|U
 Covert Operative|C
-Crested Craghorn|C
 Crookclaw Elder|U
 Crypt Sliver|C
 Dark Supplicant|U
 Daru Sanctifier|C
 Daru Mender|U
+Daru Stinger|C
 Deathmark Prelate|U
 Defender of the Order|R
-Defiant Elf|C
 Deftblade Elite|C
-Dermoplasm|R
+Defiant Elf|C
 Dreamborn Muse|R
+Dermoplasm|R
 Drinker of Sorrow|R
 Dripping Dead|C
 Earthblighter|U
@@ -42,9 +42,9 @@ Elvish Soultiller|R
 Echo Tracer|C
 Embalmed Brawler|C
 Enormous Baloth|U
-Flamewave Invoker|C
 Essence Sliver|R
 Feral Throwback|R
+Flamewave Invoker|C
 Frenetic Raptor|U
 Fugitive Wizard|C
 Gempalm Avenger|C
@@ -55,27 +55,27 @@ Gempalm Strider|U
 Ghastly Remains|R
 Glintwing Invoker|C
 Glowering Rogon|C
-Glowrider|R
 Goblin Assassin|U
+Glowrider|R
 Goblin Clearcutter|U
 Goblin Dynamo|U
 Goblin Firebug|C
-Goblin Goon|R
 Goblin Grappler|C
+Goblin Goon|R
 Goblin Lookout|C
 Goblin Turncoat|C
 Graveborn Muse|R
-Havoc Demon|R
 Hollow Specter|R
-Hundroog|C
+Havoc Demon|R
 Hunter Sliver|C
+Hundroog|C
 Imperial Hellkite|R
 Infernal Caretaker|C
 Keeneye Aven|C
 Keeper of the Nine Gales|R
 Kilnmouth Dragon|R
-Krosan Cloudscraper|R
 Krosan Vorine|C
+Krosan Cloudscraper|R
 Lavaborn Muse|R
 Liege of the Axe|U
 Lowland Tracker|C
@@ -91,8 +91,8 @@ Nantuko Vigilante|C
 Needleshot Gourna|C
 Noxious Ghoul|U
 Patron of the Wild|C
-Phage the Untouchable|R
 Planar Guide|R
+Phage the Untouchable|R
 Plated Sliver|C
 Primal Whisperer|R
 Primoc Escapee|U
@@ -101,13 +101,13 @@ Ridgetop Raptor|U
 Riptide Director|R
 Riptide Mangler|R
 Rockshard Elemental|R
+Seedborn Muse|R
 Root Sliver|U
 Scion of Darkness|R
-Seedborn Muse|R
 Shaleskin Plower|C
 Shifting Sliver|U
-Skinthinner|C
 Skirk Alarmist|R
+Skinthinner|C
 Skirk Drill Sergeant|U
 Skirk Marauder|C
 Skirk Outrider|C
@@ -136,8 +136,8 @@ Ward Sliver|U
 Weaver of Lies|R
 Whipgrass Entangler|C
 White Knight|U
-Willbender|U
 Windborn Muse|R
+Willbender|U
 Wingbeat Warrior|C
 Wirewood Channeler|U
 Wirewood Hivemaster|U

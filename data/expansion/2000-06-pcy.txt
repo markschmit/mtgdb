@@ -1,110 +1,104 @@
-Abolish|U
+Mirror Strike|U
+Mana Vapors|U
+Mungha Wurm|R
+Mine Bearer|C
 Agent of Shauku|C
-Outbreak|U
-Panic Attack|C
-Pit Raptor|U
 Pygmy Razorback|C
-Plague Fiend|C
-Plague Wind|R
 Psychic Theft|R
+Plague Wind|R
 Quicksilver Wall|U
 Rebel Informer|R
 Reveille Squad|U
 Rethink|C
+Rhystic Circle|C
+Rhystic Cave|U
+Rhystic Deluge|C
+Rhystic Lightning|C
+Rhystic Scrying|U
 Rhystic Shield|C
 Rhystic Study|C
 Rhystic Syphon|U
 Rhystic Tutor|R
 Rib Cage Spider|C
 Ribbon Snake|C
-Search for Survivors|R
+Thresher Beast|C
 Ridgeline Rager|C
+Task Mage Assembly|R
+Samite Sanctuary|R
 Scoria Cat|U
 Root Cage|U
-Samite Sanctuary|R
+Searing Wind|R
+Search for Survivors|R
 Sheltering Prayers|R
 Shield Dancer|U
-Searing Wind|R
 Silt Crawler|C
-Soul Charmer|C
-Shrouded Serpent|R
-Soul Strings|C
-Spiketail Drake|U
-Spiketail Hatchling|C
 Snag|U
-Rhystic Scrying|U
-Rhystic Cave|U
-Rhystic Circle|C
-Rhystic Lightning|C
-Rhystic Deluge|C
+Shrouded Serpent|R
+Soul Charmer|C
+Spiketail Drake|U
+Soul Strings|C
+Spiketail Hatchling|C
 Spitting Spider|U
-Spore Frog|C
 Spur Grappler|C
+Spore Frog|C
 Squirrel Wrangler|R
 Stormwatch Eagle|C
 Steal Strength|C
 Sunken Field|U
-Task Mage Assembly|R
 Sword Dancer|U
-Thresher Beast|C
-Trenching Steed|C
-Thrive|C
-Vintara Snapper|U
-Troubled Healer|C
-Troublesome Spirit|R
-Verdant Field|U
-Veteran Brawlers|R
-Vintara Elephant|C
+Abolish|U
 Alexi's Cloak|C
 Alexi, Zephyr Mage|R
-Aura Fracture|C
 Avatar of Fury|R
+Aura Fracture|C
 Avatar of Hope|R
 Avatar of Might|R
 Avatar of Will|R
 Avatar of Woe|R
 Barbed Field|U
-Blessed Wind|R
 Bog Elemental|R
+Blessed Wind|R
 Branded Brawlers|C
 Bog Glider|C
+Calming Verse|C
 Brutal Suppression|U
 Celestial Convergence|R
-Calming Verse|C
 Chilling Apparition|U
+Citadel of Pain|U
 Chimeric Idol|U
 Coastal Hornclaw|C
-Citadel of Pain|U
 Coffin Puppets|R
 Copper-Leaf Angel|R
-Darba|U
 Death Charmer|C
+Darba|U
 Despoil|C
 Denying Wind|R
-Devastate|C
 Diving Griffin|C
+Devastate|C
 Endbringer's Revel|U
 Elephant Resurgence|R
 Dual Nature|R
 Entangler|U
 Excise|C
-Excavation|U
 Fault Riders|C
-Fen Stalker|C
+Excavation|U
 Fickle Efreet|R
+Fen Stalker|C
+Flowering Field|U
 Flay|C
 Flameshot|U
-Flowering Field|U
+Glittering Lion|U
 Forgotten Harvest|R
 Foil|U
-Glittering Lion|U
 Glittering Lynx|C
 Greel's Caress|C
 Greel, Mind Raker|R
-Gulf Squid|C
 Hazy Homunculus|C
-Heightened Awareness|R
+Marsh Boa|C
+Mercenary Informer|R
+Gulf Squid|C
 Hollow Warrior|U
+Heightened Awareness|R
 Inflame|C
 Infernal Genesis|R
 Jeweled Spirit|R
@@ -120,24 +114,30 @@ Lesser Gargadon|U
 Living Terrain|U
 Mageta the Lion|R
 Mageta's Boon|C
-Mercenary Informer|R
-Marsh Boa|C
-Mana Vapors|U
-Mungha Wurm|R
-Mine Bearer|C
-Mirror Strike|U
 Nakaya Shade|U
+Panic Attack|C
 Noxious Field|U
 Overburden|R
+Pit Raptor|U
+Outbreak|U
+Plague Fiend|C
+Trenching Steed|C
+Thrive|C
+Troubled Healer|C
+Troublesome Spirit|R
+Veteran Brawlers|R
+Vintara Elephant|C
+Verdant Field|U
+Vintara Snapper|U
 Vitalizing Wind|R
 Wall of Vipers|U
-Well of Discovery|R
 Well of Life|U
+Well of Discovery|R
 Whip Sergeant|U
 Wild Might|C
 Whipstitched Zombie|C
-Windscouter|U
 Withdraw|C
-Wing Storm|U
+Windscouter|U
 Wintermoon Mesa|R
+Wing Storm|U
 Zerapa Minotaur|C

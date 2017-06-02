@@ -1,28 +1,41 @@
-Boreal Shelf|U
+Chilling Shade|C
 Adarkar Valkyrie|R
 Adarkar Windform|U
 Allosaurus Rider|R
-Arctic Flats|U
 Arctic Nishoba|U
+Arctic Flats|U
 Arcum Dagsson|R
 Aurochs Herd|C
 Balduvian Fallen|U
 Balduvian Frostwaker|U
 Balduvian Warlord|U
+Vexing Sphinx|R
+Vanish into Memory|U
+Thrumming Stone|R
+Tresserhorn Skyknight|U
+Tresserhorn Sinks|U
+Wall of Shards|U
+Ursine Fylgja|U
+Void Maw|R
+White Shield Crusader|U
+Wilderness Elemental|U
+Woolly Razorback|R
+Zombie Musher|C
+Zur the Enchanter|R
 Balduvian Rage|U
 Blizzard Specter|U
 Boreal Centaur|C
 Boreal Druid|C
 Boreal Griffin|C
-Brooding Saurian|R
 Braid of Fire|R
+Boreal Shelf|U
+Brooding Saurian|R
 Bull Aurochs|C
 Chill to the Bone|C
-Chilling Shade|C
 Coldsteel Heart|U
+Counterbalance|U
 Controvert|U
 Commandeer|R
-Counterbalance|U
 Cover of Winter|R
 Deepfire Elemental|U
 Darien, King of Kjeldor|R
@@ -33,8 +46,8 @@ Deathmark|U
 Diamond Faerie|R
 Earthen Goo|U
 Drelnoch|C
-Feast of Flesh|C
 Field Marshal|R
+Feast of Flesh|C
 Frost Marsh|U
 Freyalise's Radiance|U
 Flashfreeze|U
@@ -49,46 +62,46 @@ Glacial Plating|U
 Goblin Furrier|C
 Goblin Rimerunner|C
 Greater Stone Spirit|U
-Grim Harvest|C
 Gristle Grinner|U
+Grim Harvest|C
 Gutless Ghoul|C
 Haakon, Stromgald Scourge|R
 Heidar, Rimewind Master|R
 Herald of Leshrac|R
+Highland Weald|U
 Hibernation's End|R
 Icefall|C
-Highland Weald|U
 Jester's Scepter|R
 Into the North|C
-Karplusan Minotaur|R
-Jötun Grunt|U
+Jotun Grunt|U
+Jotun Owl Keeper|U
 Jokulmorder|R
-Jötun Owl Keeper|U
 Juniper Order Ranger|U
+Karplusan Minotaur|R
 Karplusan Strider|U
 Karplusan Wolverine|C
 Kjeldoran Gargoyle|U
 Kjeldoran Javelineer|C
 Kjeldoran Outrider|C
-Kjeldoran War Cry|C
 Krovikan Mist|C
+Kjeldoran War Cry|C
 Krovikan Scoundrel|C
 Krovikan Rot|U
 Krovikan Whispers|U
 Lightning Serpent|R
-Lightning Storm|U
 Lovisa Coldeyes|R
-Luminesce|U
-Magmatic Core|U
+Lightning Storm|U
 Martyr of Ashes|C
+Magmatic Core|U
+Luminesce|U
 Martyr of Bones|C
 Martyr of Frost|C
 Martyr of Sands|C
 Martyr of Spores|C
-Mishra's Bauble|U
 Mouth of Ronom|U
-Ohran Viper|R
+Mishra's Bauble|U
 Mystic Melting|U
+Ohran Viper|R
 Ohran Yeti|C
 Orcish Bloodpainter|C
 Panglacial Wurm|R
@@ -98,9 +111,9 @@ Phyrexian Ironfoot|U
 Phyrexian Etchings|R
 Phyrexian Snowcrusher|U
 Phyrexian Soulgorger|R
+Rimebound Dead|C
 Rime Transfusion|U
 Resize|U
-Rimebound Dead|C
 Rimefeather Owl|R
 Rimehorn Aurochs|U
 Rimescale Dragon|R
@@ -111,26 +124,26 @@ Rite of Flame|C
 Ronom Serpent|C
 Ronom Unicorn|C
 Shape of the Wiitigo|R
-Rune Snag|C
 Scrying Sheets|R
+Rune Snag|C
 Sek'Kuar, Deathkeeper|R
 Sheltering Ancient|U
 Simian Brawler|C
-Snow-Covered Mountain|C
-Snow-Covered Forest|C
 Snow-Covered Island|C
+Snow-Covered Forest|C
 Skred|C
+Snow-Covered Mountain|C
 Snow-Covered Plains|C
 Snow-Covered Swamp|C
-Soul Spike|R
 Squall Drifter|C
 Sound the Call|C
+Soul Spike|R
 Stalking Yeti|U
 Steam Spitter|U
 Stromgald Crusader|U
 Sunscour|R
-Surging Dementia|C
 Sun's Bounty|C
+Surging Dementia|C
 Surging Aether|C
 Surging Flame|C
 Surging Might|C
@@ -140,16 +153,3 @@ Tamanoa|R
 Swift Maneuver|C
 Thermopod|C
 Thermal Flux|C
-Thrumming Stone|R
-Tresserhorn Skyknight|U
-Tresserhorn Sinks|U
-Ursine Fylgja|U
-Vanish into Memory|U
-Vexing Sphinx|R
-Void Maw|R
-Wall of Shards|U
-Wilderness Elemental|U
-White Shield Crusader|U
-Woolly Razorback|R
-Zombie Musher|C
-Zur the Enchanter|R

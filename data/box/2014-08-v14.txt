@@ -1,15 +1,15 @@
 Cataclysm|M
 Burning of Xinye|M
 Armageddon|M
-Decree of Annihilation|M
 Child of Alara|M
-Firespout|M
+Decree of Annihilation|M
 Fracturing Gust|M
+Firespout|M
 Living Death|M
-Rolling Earthquake|M
-Terminus|M
 Martial Coup|M
+Rolling Earthquake|M
 Smokestack|M
 Upheaval|M
+Terminus|M
 Virtue's Ruin|M
 Wrath of God|M

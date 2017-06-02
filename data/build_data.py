@@ -30,7 +30,7 @@ if __name__ == "__main__":
       "Modern": [],
   }  # Dict from format name to list of expansions
   card_map = {}
-  for fname in getChronologicalFilenames(["expansion", "core", "supplemental", "compilation", "starter"]):
+  for fname in getChronologicalFilenames(["box", "expansion", "core", "supplemental", "compilation", "starter", "un-set"]):
     (set_type, basename) = fname.split(os.path.sep)
     (year, month, set_code) = os.path.splitext(basename.upper())[0].split("-")
 

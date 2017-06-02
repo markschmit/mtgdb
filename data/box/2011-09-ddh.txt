@@ -1,36 +1,24 @@
-Titanic Ultimatum|R
-Vapor Snag|C
-Vitu-Ghazi, the City-Tree|U
 Ageless Entity|R
-Ajani's Pridemate|U
-Agonizing Demise|C
 Ajani Vengeant|M
+Agonizing Demise|C
+Ajani's Pridemate|U
 Ajani's Mantra|C
-Blazing Specter|R
 Behemoth Sledge|U
+Blazing Specter|R
 Brackwater Elemental|C
 Briarhorn|U
-Canyon Wildcat|C
 Crumbling Necropolis|U
+Canyon Wildcat|C
 Countersquall|U
-Pride of Lions|U
-Recoil|C
-Qasali Pridemage|C
-Recumbent Bliss|C
-Profane Command|R
-Rupture Spire|C
-Rise/Fall|U
-Searing Meditation|R
-Sapseep Forest|U
-Shriekmaw|U
+Dimir Cutpurse|R
 Cruel Ultimatum|R
 Deep Analysis|U
-Dimir Cutpurse|R
 Essence Warden|C
 Elder Mastery|U
+Fire-Field Ogre|U
 Evolving Wilds|C
 Firemane Angel|R
-Fire-Field Ogre|U
+Sapseep Forest|U
 Fleetfoot Panther|U
 Grazing Gladehart|C
 Forest|L
@@ -38,40 +26,52 @@ Graypelt Refuge|U
 Griffin Guide|U
 Hellfire Mongrel|U
 Grixis Charm|U
-Icy Manipulator|U
 Igneous Pouncer|C
+Icy Manipulator|U
 Jade Mage|U
-Island|L
 Jhessian Zombies|C
-Jungle Shrine|U
-Kird Ape|U
+Island|L
 Kazandu Refuge|U
+Jungle Shrine|U
 Lightning Helix|U
+Kird Ape|U
 Lead the Stampede|U
 Loam Lion|U
 Loxodon Hierarch|R
 Morgue Toad|C
-Spitemare|U
-Undermine|R
-Pain/Suffering|U
-Swamp|L
-Sylvan Bounty|C
+Marisi's Twinclaws|U
+Moroii|U
+Mountain|L
+Nacatl Hunt-Pride|U
+Nicol Bolas, Planeswalker|M
+Naya Charm|U
+Ogre Savant|C
+Obelisk of Grixis|C
+Plains|L
+Nightscape Familiar|C
 Sylvan Ranger|C
-Wild Nacatl|C
-Terramorphic Expanse|C
+Pride of Lions|U
+Qasali Pridemage|C
+Profane Command|R
+Recumbent Bliss|C
+Recoil|C
+Rupture Spire|C
+Rise/Fall|U
+Searing Meditation|R
+Shriekmaw|U
 Slavering Nulls|U
 Slave of Bolas|U
 Steamcore Weird|C
 Spite/Malice|U
-Woolly Thoctar|U
-Marisi's Twinclaws|U
-Moroii|U
-Mountain|L
-Nicol Bolas, Planeswalker|M
-Nacatl Hunt-Pride|U
-Ogre Savant|C
-Nightscape Familiar|C
-Naya Charm|U
-Obelisk of Grixis|C
-Plains|L
+Spitemare|U
 Surveilling Sprite|C
+Swamp|L
+Pain/Suffering|U
+Sylvan Bounty|C
+Undermine|R
+Terramorphic Expanse|C
+Wild Nacatl|C
+Titanic Ultimatum|R
+Vitu-Ghazi, the City-Tree|U
+Vapor Snag|C
+Woolly Thoctar|U

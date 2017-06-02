@@ -1,300 +1,240 @@
-Bellowing Fiend|R
-Abandon Hope|U
 Advance Scout|C
+Abandon Hope|U
 Aluren|R
 Altar of Dementia|R
 Aftershock|C
+Ancient Tomb|U
 Ancient Runes|U
 Angelic Protector|U
-Ancient Tomb|U
 Apes of Rath|U
 Anoint|C
+Armored Pegasus|C
 Apocalypse|R
 Armor Sliver|U
-Armored Pegasus|C
-Auratog|R
 Avenging Angel|R
+Auratog|R
 Barbed Sliver|U
 Bayou Dragonfly|C
+Bellowing Fiend|R
+Blood Frenzy|C
 Benthic Behemoth|R
 Blood Pet|C
-Blood Frenzy|C
 Booby Trap|R
-Boil|U
 Bottle Gnomes|U
+Boil|U
 Bounty Hunter|R
-Broken Fall|C
-Caldera Lake|R
 Canopy Spider|C
+Caldera Lake|R
+Broken Fall|C
 Canyon Drake|R
 Canyon Wildcat|C
+Charging Rhino|U
 Carrionette|R
 Capsize|C
 Chaotic Goo|R
-Charging Rhino|U
-Choke|U
-Chill|U
-Cinder Marsh|U
-Circle of Protection: Black|C
-Circle of Protection: Blue|C
-Circle of Protection: Green|C
-Circle of Protection: White|C
-Circle of Protection: Red|C
-Circle of Protection: Shadow|C
-Dark Banishing|C
-Darkling Stalker|C
-Dauthi Horror|C
-Dauthi Embrace|U
-Dauthi Ghoul|U
-Dauthi Marauder|C
-Dauthi Mindripper|U
-Dauthi Mercenary|U
-Dauthi Slayer|C
-Deadshot|R
-Death Pits of Rath|R
-Dirtcowl Wurm|R
-Diabolic Edict|C
-Disturbed Burial|C
-Dismiss|U
-Clergy en-Vec|C
-Cloudchaser Eagle|C
-Clot Sliver|C
-Coffin Queen|R
-Coercion|C
-Coiled Tinviper|C
-Cold Storage|R
-Commander Greven il-Vec|R
-Corpse Dance|R
-Counterspell|C
-Crazed Armodon|R
-Crown of Flames|C
-Cursed Scroll|R
-Dark Ritual|C
-Dregs of Sorrow|R
-Eladamri's Vineyard|R
-Earthcraft|R
-Echo Chamber|R
-Eladamri, Lord of Leaves|R
-Elite Javelineer|C
-Elven Warhounds|R
-Emerald Medallion|R
-Endless Scream|C
-Elvish Fury|C
-Emmessi Tome|R
-Energizer|R
-Ertai's Meddling|R
-Enraging Licid|U
-Enfeeblement|C
-Escaped Shapeshifter|R
+Puppet Strings|U
+Nature's Revolt|R
+Needle Storm|U
+Natural Spring|C
+No Quarter|R
+Nurturing Licid|U
+Oracle en-Vec|R
+Opportunist|U
+Orim, Samite Healer|R
+Orim's Prayer|U
+Pegasus Refuge|R
+Patchwork Gnomes|U
+Pacifism|C
+Overrun|U
+Pallimud|R
+Pearl Medallion|R
+Perish|U
+Phyrexian Hulk|U
+Phyrexian Grimoire|R
+Pincher Beetles|C
+Phyrexian Splicer|U
+Pit Imp|C
+Pine Barrens|R
+Power Sink|C
+Precognition|R
+Plains|L
+Propaganda|U
+Quickening Licid|U
+Rampant Growth|C
+Rootwalla|C
+Rain of Tears|U
+Rathi Dragon|R
+Ranger en-Vec|U
+Rats of Rath|C
+Reanimate|U
+Reality Anchor|C
+Reckless Spite|U
+Reap|U
+Recycle|R
+Renegade Warlord|U
+Reflecting Pool|R
+Rolling Thunder|C
+Respite|C
+Repentance|U
+Root Maze|R
+Rootbreaker Wurm|C
+Rootwater Diver|U
 Evincar's Justice|C
 Essence Bottle|U
 Excavator|U
 Fevered Convulsions|R
-Extinction|R
-Fighting Drake|U
 Field of Souls|R
+Fighting Drake|U
+Extinction|R
 Fireslinger|C
 Firefly|U
 Flailing Drake|U
-Disenchant|C
-Dracoplasm|R
-Dread of Night|U
-Dream Cache|C
-Duplicity|R
 Flickering Ward|U
 Flowstone Giant|C
 Flowstone Salamander|U
 Flowstone Sculpture|R
 Flowstone Wyvern|R
 Frog Tongue|C
-Forest|L
 Fool's Tome|R
+Forest|L
 Fugitive Druid|R
-Gaseous Form|C
 Fylamarid|U
+Gaseous Form|C
 Furnace of Rath|R
 Gallantry|U
-Gerrard's Battle Cry|R
 Ghost Town|U
-Giant Strength|C
-Goblin Bombardment|U
+Gerrard's Battle Cry|R
 Giant Crab|C
-Gravedigger|C
-Grindstone|R
-Hanna's Custody|R
-Hand to Hand|R
-Harrow|U
-Havoc|U
-Heart Sliver|C
-Heartwood Dryad|C
-Heartwood Giant|R
-Heartwood Treefolk|U
-Helm of Possession|R
-Hero's Resolve|C
-Horned Sliver|U
-Horned Turtle|C
-Insight|U
-Humility|R
-Imps' Taunt|U
-Interdict|U
-Intuition|R
-Island|L
-Invulnerability|U
-Jet Medallion|R
-Jackal Pup|U
 Jinxed Idol|R
+Jackal Pup|U
 Kezzerdrix|R
 Knight of Dawn|U
 Kindle|C
+Giant Strength|C
+Gravedigger|C
+Goblin Bombardment|U
+Hand to Hand|R
+Hanna's Custody|R
+Grindstone|R
+Harrow|U
+Heart Sliver|C
+Havoc|U
+Heartwood Dryad|C
+Heartwood Giant|R
+Heartwood Treefolk|U
+Hero's Resolve|C
+Helm of Possession|R
+Horned Sliver|U
+Horned Turtle|C
+Imps' Taunt|U
+Humility|R
+Interdict|U
+Insight|U
+Intuition|R
+Invulnerability|U
+Island|L
+Jet Medallion|R
+Leeching Licid|U
 Knight of Dusk|U
 Krakilin|U
-Leeching Licid|U
 Legerdemain|U
 Legacy's Allure|U
-Lightning Elemental|C
-Light of Day|U
 Lightning Blast|C
-Living Death|R
+Light of Day|U
+Lightning Elemental|C
 Lobotomy|U
+Living Death|R
 Lowland Giant|C
 Lotus Petal|C
 Maddening Imp|R
+Mana Severance|R
 Magmasaur|R
 Magnetic Web|R
 Manakin|C
-Mana Severance|R
 Manta Riders|C
 Marble Titan|R
 Marsh Lurker|C
-Mawcor|R
 Master Decoy|C
 Meditate|R
-Metallic Sliver|C
+Mawcor|R
 Maze of Shadows|U
+Metallic Sliver|C
 Mindwhip Sliver|U
-Minion of the Wastes|R
 Mirri's Guile|R
+Minion of the Wastes|R
 Mnemonic Sliver|U
 Mogg Conscripts|C
 Mogg Cannon|U
 Mogg Fanatic|C
 Mogg Raider|C
 Mogg Hollows|U
-Mounted Archers|C
 Mogg Squad|U
 Mongrel Pack|R
-Mountain|L
+Mounted Archers|C
 Muscle Sliver|C
-Natural Spring|C
-Nature's Revolt|R
-No Quarter|R
-Needle Storm|U
-Nurturing Licid|U
-Opportunist|U
-Oracle en-Vec|R
-Orim, Samite Healer|R
-Orim's Prayer|U
-Pacifism|C
-Ranger en-Vec|U
-Rain of Tears|U
-Rampant Growth|C
-Rathi Dragon|R
-Rats of Rath|C
-Reanimate|U
-Reality Anchor|C
-Reap|U
-Recycle|R
-Reckless Spite|U
-Renegade Warlord|U
-Repentance|U
-Reflecting Pool|R
-Respite|C
-Root Maze|R
-Rolling Thunder|C
-Rootwalla|C
-Rootbreaker Wurm|C
-Rootwater Depths|U
-Rootwater Diver|U
+Mountain|L
 Rootwater Hunter|C
-Rootwater Shaman|R
 Rootwater Matriarch|R
-Ruby Medallion|R
 Sacred Guide|R
+Rootwater Shaman|R
+Ruby Medallion|R
 Sadistic Glee|C
 Sandstone Warrior|C
-Salt Flats|R
-Sapphire Medallion|R
 Safeguard|R
+Salt Flats|R
 Sarcomancy|R
-Scabland|R
-Scragnoth|U
+Sapphire Medallion|R
 Scalding Tongs|R
-Screeching Harpy|U
+Scabland|R
 Scorched Earth|R
-Sea Monster|C
-Scroll Rack|R
-Seeker of Skybreak|C
+Screeching Harpy|U
+Scragnoth|U
 Searing Touch|U
-Segmented Wurm|U
+Scroll Rack|R
+Sea Monster|C
+Seeker of Skybreak|C
 Selenia, Dark Angel|R
+Segmented Wurm|U
 Servant of Volrath|C
 Serene Offering|U
 Shatter|C
-Shocker|R
-Shadow Rift|C
 Shadowstorm|U
+Shadow Rift|C
 Shimmering Wings|C
 Sky Spirit|U
-Skyshroud Condor|U
 Skyshroud Elf|C
-Skyshroud Forest|R
+Shocker|R
+Skyshroud Condor|U
 Skyshroud Ranger|C
+Skyshroud Forest|R
 Skyshroud Vampire|U
 Skyshroud Troll|C
+Soltari Emissary|R
 Soltari Crusader|U
 Soltari Foot Soldier|C
-Soltari Emissary|R
 Soltari Guerrillas|R
 Soltari Lancer|C
-Patchwork Gnomes|U
-Overrun|U
-Pallimud|R
-Pearl Medallion|R
-Perish|U
-Pegasus Refuge|R
-Phyrexian Grimoire|R
-Phyrexian Hulk|U
-Phyrexian Splicer|U
-Pincher Beetles|C
-Pit Imp|C
-Pine Barrens|R
-Power Sink|C
-Plains|L
-Propaganda|U
-Precognition|R
-Quickening Licid|U
-Puppet Strings|U
 Soltari Monk|U
 Soltari Priest|U
 Soltari Trooper|C
 Spike Drone|C
 Souldrinker|U
-Spinal Graft|C
 Spell Blast|C
+Spinal Graft|C
 Spontaneous Combustion|U
 Spirit Mirror|R
-Squee's Toy|C
 Starke of Rath|R
+Squee's Toy|C
 Stalking Stones|U
 Steal Enchantment|U
 Staunch Defenders|U
 Static Orb|R
-Stinging Licid|U
 Stun|C
+Stinging Licid|U
 Storm Front|U
 Stone Rain|C
-Swamp|L
 Sudden Impact|U
+Swamp|L
 Tahngarth's Rage|U
 Talon Sliver|C
 Thalakos Dreamsower|U
@@ -303,33 +243,93 @@ Thalakos Mistfolk|C
 Thalakos Lowlands|U
 Thalakos Seer|C
 Thalakos Sentry|C
-Time Ebb|C
 Time Warp|R
+Time Ebb|C
 Thumbscrews|R
 Tooth and Claw|R
 Torture Chamber|R
 Tradewind Rider|R
 Trained Armodon|C
-Verdigris|U
-Tranquility|C
 Trumpeting Armodon|U
+Tranquility|C
 Unstable Shapeshifter|R
-Twitch|C
+Verdigris|U
 Vec Townships|U
-Vhati il-Dal|R
+Twitch|C
 Verdant Force|R
 Volrath's Curse|C
-Wasteland|U
-Watchdog|U
+Vhati il-Dal|R
 Wall of Diffusion|C
+Watchdog|U
+Wasteland|U
 Warmth|U
-Whispers of the Muse|U
+Rootwater Depths|U
 Whim of Volrath|R
-Wild Wurm|U
+Whispers of the Muse|U
 Wind Dancer|U
+Wild Wurm|U
 Wind Drake|C
-Winds of Rath|R
 Winged Sliver|C
+Winds of Rath|R
 Wood Sage|R
 Winter's Grasp|U
 Worthy Cause|U
+Cinder Marsh|U
+Choke|U
+Chill|U
+Circle of Protection: Black|C
+Circle of Protection: Blue|C
+Circle of Protection: Green|C
+Circle of Protection: Red|C
+Circle of Protection: Shadow|C
+Circle of Protection: White|C
+Clergy en-Vec|C
+Cloudchaser Eagle|C
+Clot Sliver|C
+Coffin Queen|R
+Coercion|C
+Coiled Tinviper|C
+Corpse Dance|R
+Cold Storage|R
+Commander Greven il-Vec|R
+Counterspell|C
+Crazed Armodon|R
+Crown of Flames|C
+Dark Banishing|C
+Cursed Scroll|R
+Dark Ritual|C
+Dauthi Ghoul|U
+Darkling Stalker|C
+Dauthi Embrace|U
+Dauthi Horror|C
+Dauthi Marauder|C
+Dauthi Mercenary|U
+Dauthi Mindripper|U
+Dauthi Slayer|C
+Diabolic Edict|C
+Death Pits of Rath|R
+Deadshot|R
+Dirtcowl Wurm|R
+Disturbed Burial|C
+Dismiss|U
+Disenchant|C
+Dracoplasm|R
+Dream Cache|C
+Dread of Night|U
+Duplicity|R
+Dregs of Sorrow|R
+Echo Chamber|R
+Earthcraft|R
+Eladamri's Vineyard|R
+Eladamri, Lord of Leaves|R
+Elite Javelineer|C
+Elven Warhounds|R
+Emmessi Tome|R
+Emerald Medallion|R
+Elvish Fury|C
+Endless Scream|C
+Enfeeblement|C
+Energizer|R
+Enraging Licid|U
+Escaped Shapeshifter|R
+Ertai's Meddling|R

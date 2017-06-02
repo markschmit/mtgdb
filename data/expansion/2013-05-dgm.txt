@@ -1,126 +1,127 @@
-Azorius Guildgate|C
-Bane Alley Blackguard|C
+Ascended Lawmage|U
+Deputy of Acquittals|C
 Aetherling|R
 Advent of the Wurm|R
-Wind Drake|C
 Armored Wolf-Rider|C
-Deputy of Acquittals|C
-Ascended Lawmage|U
+Wind Drake|C
 Awe for the Guilds|C
 Azorius Cluestone|C
+Feral Animist|U
+Azorius Guildgate|C
 Battering Krasis|C
+Bane Alley Blackguard|C
 Beetleform Mage|C
-Blast of Genius|U
+Carnage Gladiator|U
 Blaze Commando|U
+Blast of Genius|U
 Blood Baron of Vizkopa|M
-Goblin Test Pilot|U
 Blood Scrivener|R
+Teysa, Envoy of Ghosts|R
 Boros Battleshaper|R
-Boros Cluestone|C
 Boros Guildgate|C
+Boros Cluestone|C
 Boros Mastiff|C
 Bred for the Hunt|U
 Exava, Rakdos Blood Witch|R
 Bronzebeak Moa|U
-Beck/Call|R
-Ubul Sar Gatekeepers|C
-Carnage Gladiator|U
-Council of the Absolute|M
+Renegade Krasis|R
 Clear a Path|C
+Ubul Sar Gatekeepers|C
+Beck/Call|R
+Council of the Absolute|M
+Armed/Dangerous|U
 Crypt Incursion|C
 Deadbridge Chant|M
-Armed/Dangerous|U
+Dimir Guildgate|C
 Debt to the Deathless|U
 Dimir Cluestone|C
-Dimir Guildgate|C
-Down/Dirty|U
-Dragonshift|R
 Drown in Filth|C
+Dragonshift|R
 Emmara Tandris|R
+Down/Dirty|U
 Fatal Fumes|C
 Breaking/Entering|R
 Far/Away|U
-Feral Animist|U
 Fluxcharger|U
+Goblin Test Pilot|U
 Flesh/Blood|R
-Teysa, Envoy of Ghosts|R
 Gaze of Granite|R
 Gleam of Battle|U
 Golgari Guildgate|C
 Golgari Cluestone|C
-Gruul Cluestone|C
 Gruul Guildgate|C
+Gruul Cluestone|C
 Haazda Snare Squad|C
 Gruul War Chant|U
 Haunter of Nightveil|U
-Hidden Strings|C
 Hired Torturer|C
-Izzet Cluestone|C
+Hidden Strings|C
 Izzet Guildgate|C
+Izzet Cluestone|C
 Jelenn Sphinx|U
 Korozda Gorgon|U
 Krasis Incubation|U
 Kraul Warrior|C
 Lavinia of the Tenth|R
-Progenitor Mimic|M
+Maw of the Obzedat|U
 Legion's Initiative|M
 Lyev Decree|C
-Maw of the Obzedat|U
+Progenitor Mimic|M
 Master of Cruelties|M
 Maze Abomination|C
-Maze Glider|C
 Maze Behemoth|C
 Maze Rusher|C
+Maze Glider|C
 Maze Sentinel|C
 Mindstatic|C
 Melek, Izzet Paragon|R
 Maze's End|M
 Mending Touch|C
-Murmuring Phantasm|C
 Mirko Vosk, Mind Drinker|R
 Morgue Burst|C
-Mutant's Prey|C
+Murmuring Phantasm|C
 Nivix Cyclops|C
+Mutant's Prey|C
 Notion Thief|R
 Opal Lake Gatekeepers|C
 Obzedat's Aid|R
 Orzhov Guildgate|C
 Orzhov Cluestone|C
 Pontiff of Blight|R
-Phytoburst|C
 Pilfered Plans|C
-Profit/Loss|U
+Phytoburst|C
+Simic Guildgate|C
 Plasm Capture|R
 Possibility Storm|R
 Punish the Enemy|C
+Profit/Loss|U
 Putrefy|U
 Pyrewild Shaman|R
-Rakdos Cluestone|C
 Rakdos Drake|C
+Rakdos Cluestone|C
 Rakdos Guildgate|C
-Ral Zarek|M
 Catch/Release|R
+Ral Zarek|M
+Woodlot Crawler|U
 Reap Intellect|M
 Render Silent|R
-Renegade Krasis|R
 Restore the Peace|U
 Renounce the Guilds|R
-Riot Piker|C
 Riot Control|C
+Riot Piker|C
 Rot Farm Skeleton|U
-Rubblebelt Maaka|C
 Runner's Bane|C
+Rubblebelt Maaka|C
 Ruric Thar, the Unbowed|R
 Saruli Gatekeepers|C
 Savageborn Hydra|M
 Scab-Clan Giant|U
 Scion of Vitu-Ghazi|R
-Selesnya Cluestone|C
 Selesnya Guildgate|C
+Selesnya Cluestone|C
 Showstopper|U
 Protect/Serve|U
 Simic Cluestone|C
-Simic Guildgate|C
 Sin Collector|U
 Sinister Possession|C
 Sire of Insanity|R
@@ -131,26 +132,25 @@ Spike Jester|U
 Sunspire Gatekeepers|C
 Steeple Roc|C
 Tajic, Blade of the Legion|R
-Give/Take|U
 Thrashing Mossdog|C
+Ready/Willing|R
+Give/Take|U
 Tithe Drinker|C
+Trait Doctoring|R
 Unflinching Courage|U
 Trostani's Summoner|U
-Trait Doctoring|R
-Turn/Burn|U
-Toil/Trouble|U
 Uncovered Clues|C
+Toil/Trouble|U
+Turn/Burn|U
 Varolz, the Scar-Striped|R
 Viashino Firstblade|C
 Voice of Resurgence|M
 Vorel of the Hull Clade|R
 Warleader's Helix|U
 Wake the Reflections|C
-Weapon Surge|C
 Warped Physique|U
-Wear/Tear|U
+Weapon Surge|C
 Alive/Well|U
-Ready/Willing|R
-Woodlot Crawler|U
+Wear/Tear|U
 Zhur-Taa Ancient|R
 Zhur-Taa Druid|C

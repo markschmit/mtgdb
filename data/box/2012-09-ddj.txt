@@ -1,78 +1,78 @@
+Brain Weevil|C
+Dakmor Salvage|U
 Boneyard Wurm|U
 Barren Moor|C
-Brain Weevil|C
-Brainstorm|C
 Call to Heel|C
-Dakmor Salvage|U
+Brainstorm|C
+Lonely Sandbar|C
 Dissipate|U
 Djinn Illuminatus|R
 Doomgape|R
 Dreg Mangler|U
 Elves of Deep Shadow|C
 Eternal Witness|U
-Island|L
 Forgotten Cave|C
 Feast or Famine|C
 Force Spike|C
+Island|L
 Forest|L
 Galvanoth|R
 Gelectrode|U
-Ghoul's Feast|U
 Gleancrawler|R
-Goblin Electromancer|C
+Ghoul's Feast|U
 Golgari Grave-Troll|R
 Golgari Germination|U
-Golgari Rot Farm|C
 Golgari Rotwurm|C
-Golgari Signet|C
+Goblin Electromancer|C
+Golgari Rot Farm|C
 Golgari Thug|U
-Grim Flowering|U
+Golgari Signet|C
 Greater Mossdog|C
 Invoke the Firemind|R
-Fire/Ice|U
-Izzet Charm|U
+Grim Flowering|U
 Isochron Scepter|U
+Fire/Ice|U
 Izzet Boilerworks|C
+Izzet Charm|U
 Izzet Chronarch|C
-Kiln Fiend|C
-Izzet Guildmage|U
 Izzet Signet|C
+Izzet Guildmage|U
+Kiln Fiend|C
 Jarad, Golgari Lich Lord|M
-Korozda Guildmage|U
 Life from the Loam|R
-Life/Death|U
+Korozda Guildmage|U
 Magma Spray|C
-Mountain|L
-Lonely Sandbar|C
-Nivix, Aerie of the Firemind|U
+Life/Death|U
 Nightmare Void|U
-Niv-Mizzet, the Firemind|M
+Mountain|L
+Nivix, Aerie of the Firemind|U
 Ogre Savant|C
-Overwhelming Intellect|U
-Putrefy|U
 Plagued Rusalka|U
+Niv-Mizzet, the Firemind|M
+Putrefy|U
+Overwhelming Intellect|U
 Prophetic Bolt|R
 Putrid Leech|C
-Quicksilver Dagger|C
-Pyromatics|C
 Ravenous Rats|C
+Pyromatics|C
+Quicksilver Dagger|C
 Reassembling Skeleton|U
-Sadistic Hypnotist|U
 Shambling Shell|C
+Sadistic Hypnotist|U
 Reminisce|U
 Sphinx-Bone Wand|R
-Shrewd Hatchling|U
 Steamcore Weird|C
+Shrewd Hatchling|U
 Stingerfling Spider|U
 Stinkweed Imp|C
 Svogthos, the Restless Tomb|U
-Thunderheads|U
-Swamp|L
 Street Spasm|U
+Swamp|L
 Train of Thought|C
+Thunderheads|U
 Tranquil Thicket|C
-Vacuumelt|U
 Twilight's Call|R
-Vigor Mortis|U
+Vacuumelt|U
 Wee Dragonauts|C
+Vigor Mortis|U
 Yoke of the Damned|C

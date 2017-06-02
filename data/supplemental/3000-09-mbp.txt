@@ -1,0 +1,146 @@
+Alhammarret, High Arbiter|S
+Ajani Steadfast|S
+Acquire|S
+Aeronaut Tinkerer|S
+Ajani, Caller of the Pride|S
+Angelic Skirmisher|S
+Arashin Sovereign|S
+Ankle Shanker|S
+Angel of Glory's Rise|S
+Archfiend of Depravity|S
+Barrage Tyrant|S
+Arrest|S
+Arena|S
+Avalanche Tusker|S
+Birds of Paradise|S
+Boltwing Marauder|S
+Bloodthrone Vampire|S
+Blue Elemental Blast|S
+Bonescythe Sliver|S
+Brion Stoutarm|S
+Breath of Malfegor|S
+Cathedral of War|S
+Broodmate Dragon|S
+Celestial Colonnade|S
+Chandra's Fury|S
+Chandra's Phoenix|S
+Chandra, Pyromaster|S
+Corrupt|S
+Consume Spirit|S
+Deepfathom Skulker|S
+Day of Judgment|S
+Defiant Bloodlord|S
+Devil's Play|S
+Dragon Fodder|S
+Dragonlord's Servant|S
+Dragonscale General|S
+Dread Defiler|S
+Dreg Mangler|S
+Dromoka, the Eternal|S
+Drowner of Hope|S
+Eidolon of Blossoms|S
+Duress|S
+Faithless Looting|S
+Dwynen, Gilt-Leaf Daen|S
+Evolving Wilds|S
+Electrolyze|S
+Feast of Blood|S
+Fated Conflagration|S
+Fireball|S
+Siege Rhino|S
+Silverblade Paladin|S
+Soul of Ravnica|S
+Soul of Zendikar|S
+Stealer of Secrets|S
+Steward of Valeron|S
+Standstill|S
+Sunblast Angel|S
+Spined Wurm|S
+Sultai Charm|S
+Sylvan Caryatid|S
+Supreme Verdict|S
+Surgical Extraction|S
+Temur War Shaman|S
+Terastodon|S
+Turnabout|S
+Treasure Hunt|S
+Tyrant of Valakut|S
+Valorous Stance|S
+Vampire Nocturnus|S
+Windseeker Centaur|S
+Voidmage Husher|S
+Warmonger|S
+Xathrid Necromancer|S
+Wash Out|S
+Flamerush Rider|S
+Foe-Razer Regent|S
+Garruk Wildspeaker|S
+Frost Titan|S
+Garruk, Apex Predator|S
+Garruk, Caller of Beasts|S
+Genesis Hydra|S
+Gaze of Granite|S
+Giant Badger|S
+Gladehart Cavalry|S
+Goblin Dark-Dwellers|S
+Goblin Rabblemaster|S
+Gravecrawler|S
+Grave Titan|S
+Guul Draz Assassin|S
+Hamletback Goliath|S
+Harbinger of the Hunt|S
+Hero of Goma Fada|S
+Honored Hierarch|S
+Hixus, Prison Warden|S
+High Tide|S
+Honor of the Pure|S
+Inferno Titan|S
+Jace Beleren|S
+Ivorytusk Fortress|S
+Jace, Memory Adept|S
+Jace, the Living Guildpact|S
+Jaya Ballard, Task Mage|S
+Knight Exemplar|S
+Karametra's Acolyte|S
+Kor Skyfisher|S
+Kothophed, Soul Hoarder|S
+Lightning Hounds|S
+Liliana of the Dark Realms|S
+Liliana Vess|S
+Magister of Worth|S
+Merfolk Mesmerist|S
+Memoricide|S
+Mirran Crusader|S
+Mana Crypt|S
+Munda's Vanguard|S
+Nalathni Dragon|S
+Necromaster Dragon|S
+Nissa Revane|S
+Nissa, Worldwaker|S
+Ogre Arsonist|S
+Nightveil Specter|S
+Oran-Rief Hydra|S
+Ogre Battledriver|S
+Ojutai's Command|S
+Phyrexian Rager|S
+Pia and Kiran Nalaar|S
+Primordial Hydra|S
+Pristine Skywise|S
+Ratchet Bomb|S
+Rakshasa Vizier|S
+Rattleclaw Mystic|S
+Relic Seeker|S
+Ruinous Path|S
+Render Silent|S
+Retaliator Griffin|S
+Sage-Eye Avengers|S
+Sage of the Inward Eye|S
+Scavenging Ooze|S
+Sandsteppe Citadel|S
+Scythe Leopard|S
+Scent of Cinder|S
+Sewers of Estark|S
+Seeker of the Way|S
+Serra Avatar|S
+Shamanic Revelation|S
+Silver Drake|S

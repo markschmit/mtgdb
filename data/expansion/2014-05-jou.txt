@@ -1,6 +1,6 @@
 Aegis of the Gods|R
-Aerial Formation|C
 Agent of Erebos|U
+Aerial Formation|C
 Ajani, Mentor of Heroes|M
 Ajani's Presence|C
 Akroan Line Breaker|U
@@ -20,9 +20,9 @@ Brain Maggot|U
 Cast into Darkness|C
 Chariot of Victory|U
 Cloaked Siren|C
+Consign to Dust|U
 Colossal Heroics|U
 Countermand|C
-Consign to Dust|U
 Crystalline Nautilus|U
 Cruel Feeding|C
 Cyclops of Eternal Fury|U
@@ -32,8 +32,8 @@ Dawnbringer Charioteers|R
 Deserter's Quarters|U
 Desecration Plague|C
 Deicide|R
-Dictate of Erebos|R
 Desperate Stand|U
+Dictate of Erebos|R
 Dictate of Heliod|R
 Dictate of Karametra|R
 Dictate of Kruphix|R
@@ -45,26 +45,111 @@ Eagle of the Watch|C
 Eidolon of Blossoms|R
 Eidolon of Rhetoric|U
 Eidolon of the Great Revel|R
+Feast of Dreams|C
 Extinguish All Hope|R
 Felhide Petrifier|U
-Feast of Dreams|C
 Flamespeaker's Will|C
 Fleetfeather Cockatrice|U
 Font of Fertility|C
 Flurry of Horns|C
 Font of Fortunes|C
 Font of Ire|C
-Font of Return|C
-Forgeborn Oreads|U
 Font of Vigor|C
+Font of Return|C
+Knowledge and Power|U
+Kiora's Dismissal|U
+Kruphix, God of Horizons|M
+Lagonna-Band Trailblazer|C
+Kruphix's Insight|C
+Leonin Iconoclast|U
+Launch the Fleet|R
+Lightning Diadem|C
+Market Festival|C
+Mana Confluence|R
+Magma Spray|C
+Master of the Feast|R
+Mogis's Warhound|U
+Forgeborn Oreads|U
+Nightmarish End|U
+Nyx Infusion|C
+Mortal Obstinacy|C
+Nessian Game Warden|U
+Nature's Panoply|C
+Nyx-Fleece Ram|U
+Nyx Weaver|U
+Oakheart Dryads|C
+Oppressive Rays|C
+Oreskos Swiftclaw|C
+Pensive Minotaur|C
+Pharika's Chosen|C
+Phalanx Formation|U
 Gluttonous Cyclops|C
 Gnarled Scarhide|U
 Godhunter Octopus|C
 Gold-Forged Sentinel|U
 Godsend|M
-Golden Hind|C
 Goldenhide Ox|U
+Golden Hind|C
 Grim Guardian|C
+Pheres-Band Thunderhoof|C
+Pharika, God of Affliction|M
+Pheres-Band Warchief|R
+Prophetic Flamespeaker|M
+Polymorphous Rush|R
+Pin to the Earth|C
+Quarry Colossus|U
+Pull from the Deep|U
+Ravenous Leucrocota|C
+Renowned Weaver|C
+Returned Reveler|C
+Reprisal|U
+Reviving Melody|U
+Riddle of Lightning|U
+Riptide Chimera|U
+Revel of the Fallen God|R
+Ritual of the Returned|U
+Rise of Eagles|C
+Rollick of Abandon|U
+Rotted Hulk|C
+Sage of Hours|M
+Rouse the Mob|C
+Satyr Grovedancer|C
+Scourge of Fleets|R
+Sightless Brawler|U
+Setessan Tactics|R
+Sigiled Skink|C
+Satyr Hoplite|C
+Sigiled Starfish|C
+Skybind|R
+Spawn of Thraxes|R
+Silence the Believers|R
+Skyspear Cavalry|U
+Solidarity of Heroes|U
+Spiteful Blow|U
+Spirespine|U
+Spite of Mogis|U
+Squelching Leeches|U
+Stormchaser Chimera|U
+Starfall|C
+Stonewise Fortifier|C
+Supply-Line Cranes|C
+Swarmborn Giant|U
+Strength from the Fallen|U
+Temple of Malady|R
+Tethmos High Priest|U
+Thassa's Devourer|C
+Thoughtrender Lamia|U
+Thassa's Ire|U
+Temple of Epiphany|R
+Triton Cavalry|U
+Whitewater Naiads|U
+Wildfire Cerberus|U
+Worst Fears|M
+Tormented Thoughts|U
+Triton Shorestalker|C
+War-Wing Siren|C
+Underworld Coinsmith|U
+Twinflame|R
 Hall of Triumph|R
 Harvestguard Alseids|C
 Harness by Force|R
@@ -78,88 +163,3 @@ Iroas, God of Victory|M
 Interpret the Signs|U
 Keranos, God of Storms|M
 King Macar, the Gold-Cursed|R
-Knowledge and Power|U
-Kiora's Dismissal|U
-Kruphix's Insight|C
-Kruphix, God of Horizons|M
-Magma Spray|C
-Master of the Feast|R
-Mana Confluence|R
-Market Festival|C
-Mortal Obstinacy|C
-Mogis's Warhound|U
-Nessian Game Warden|U
-Nature's Panoply|C
-Nightmarish End|U
-Nyx Infusion|C
-Nyx Weaver|U
-Nyx-Fleece Ram|U
-Oakheart Dryads|C
-Lagonna-Band Trailblazer|C
-Leonin Iconoclast|U
-Launch the Fleet|R
-Lightning Diadem|C
-Oppressive Rays|C
-Pharika's Chosen|C
-Pensive Minotaur|C
-Oreskos Swiftclaw|C
-Phalanx Formation|U
-Pheres-Band Warchief|R
-Pharika, God of Affliction|M
-Pheres-Band Thunderhoof|C
-Polymorphous Rush|R
-Pin to the Earth|C
-Prophetic Flamespeaker|M
-Renowned Weaver|C
-Pull from the Deep|U
-Quarry Colossus|U
-Ravenous Leucrocota|C
-Reviving Melody|U
-Returned Reveler|C
-Reprisal|U
-Riddle of Lightning|U
-Revel of the Fallen God|R
-Riptide Chimera|U
-Ritual of the Returned|U
-Rise of Eagles|C
-Rollick of Abandon|U
-Rotted Hulk|C
-Satyr Hoplite|C
-Satyr Grovedancer|C
-Rouse the Mob|C
-Sage of Hours|M
-Sightless Brawler|U
-Scourge of Fleets|R
-Setessan Tactics|R
-Sigiled Starfish|C
-Sigiled Skink|C
-Spawn of Thraxes|R
-Skybind|R
-Silence the Believers|R
-Skyspear Cavalry|U
-Solidarity of Heroes|U
-Spirespine|U
-Spite of Mogis|U
-Squelching Leeches|U
-Spiteful Blow|U
-Stormchaser Chimera|U
-Stonewise Fortifier|C
-Supply-Line Cranes|C
-Starfall|C
-Strength from the Fallen|U
-Swarmborn Giant|U
-Temple of Epiphany|R
-Temple of Malady|R
-Tethmos High Priest|U
-Thassa's Devourer|C
-Thoughtrender Lamia|U
-Thassa's Ire|U
-Underworld Coinsmith|U
-Triton Cavalry|U
-Tormented Thoughts|U
-Triton Shorestalker|C
-War-Wing Siren|C
-Twinflame|R
-Whitewater Naiads|U
-Wildfire Cerberus|U
-Worst Fears|M

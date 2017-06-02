@@ -1,28 +1,28 @@
-Carrion Wall|U
-Blinding Angel|R
-Bola Warrior|C
-Accumulated Knowledge|C
-Ancient Hydra|U
+Animate Land|U
 Air Bladder|C
+Ancient Hydra|U
 Aether Barrier|R
+Accumulated Knowledge|C
 Angelic Favor|U
 Arc Mage|U
-Animate Land|U
 Ascendant Evincar|R
 Avenger en-Dal|R
 Battlefield Percher|U
-Belbe's Armor|U
 Belbe's Percher|C
+Belbe's Armor|U
 Blastoderm|C
 Belbe's Portal|R
+Blinding Angel|R
+Bola Warrior|C
+Carrion Wall|U
 Chieftain en-Dal|U
 Coiling Woodworm|U
 Cloudskate|C
 Complex Automaton|R
 Daze|C
 Dark Triumph|U
-Death Pit Offering|R
 Defender en-Vec|C
+Death Pit Offering|R
 Defiant Falcon|C
 Defiant Vanguard|U
 Divining Witch|R
@@ -32,22 +32,22 @@ Dominate|U
 Fanatical Devotion|C
 Eye of Yawgmoth|R
 Flame Rift|C
-Flint Golem|U
 Flowstone Crusher|C
+Flint Golem|U
 Flowstone Armor|U
+Flowstone Slide|R
 Flowstone Overseer|R
 Flowstone Thopter|U
 Flowstone Strike|C
-Flowstone Slide|R
 Flowstone Surge|U
 Flowstone Wall|C
 Harvest Mage|C
 Fog Patch|C
 Jolting Merfolk|U
 Infiltrate|C
-Laccolith Grunt|C
 Kor Haven|R
 Kill Switch|R
+Laccolith Grunt|C
 Laccolith Rig|C
 Laccolith Titan|R
 Laccolith Warrior|U
@@ -61,12 +61,12 @@ Massacre|U
 Mana Cache|R
 Mind Swords|C
 Mogg Alarm|U
-Mogg Toady|C
 Mogg Salvage|U
+Mogg Toady|C
 Moggcatcher|R
 Mossdog|C
-Murderous Betrayal|R
 Nesting Wurm|U
+Murderous Betrayal|R
 Netter en-Dal|C
 Oracle's Attendants|R
 Off Balance|C
@@ -76,11 +76,11 @@ Oraxid|C
 Overlaid Terrain|R
 Parallax Dementia|C
 Pale Moon|R
-Parallax Inhibitor|R
 Parallax Nexus|R
+Parallax Inhibitor|R
 Parallax Tide|R
-Phyrexian Driver|C
 Parallax Wave|R
+Phyrexian Driver|C
 Phyrexian Prowler|U
 Plague Witch|C
 Predator, Flagship|R
@@ -101,16 +101,16 @@ Rupture|U
 Saproling Cluster|R
 Saproling Burst|R
 Seahunter|R
-Seal of Cleansing|C
 Seal of Doom|C
+Seal of Cleansing|C
 Seal of Fire|C
-Seal of Strength|C
 Seal of Removal|C
+Seal of Strength|C
 Shrieking Mogg|R
 Silkenfist Fighter|C
 Silkenfist Order|U
-Sivvi's Ruse|U
 Sivvi's Valor|R
+Sivvi's Ruse|U
 Skyshroud Behemoth|R
 Skyshroud Cutter|C
 Skyshroud Claim|C
@@ -120,8 +120,8 @@ Skyshroud Sentinel|C
 Sliptide Serpent|R
 Sneaky Homunculus|C
 Spineless Thug|C
-Spiritual Asylum|R
 Spiteful Bully|C
+Spiritual Asylum|R
 Stampede Driver|U
 Stronghold Biologist|U
 Stronghold Gambit|R
@@ -137,7 +137,7 @@ Trickster Mage|C
 Viseling|U
 Vicious Hunger|C
 Voice of Truth|U
-Volrath the Fallen|R
 Wandering Eye|C
+Volrath the Fallen|R
 Wild Mammoth|U
 Woodripper|U

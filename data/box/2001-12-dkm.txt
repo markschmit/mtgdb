@@ -1,4 +1,4 @@
-Woolly Spider|S
+Soul Burn|S
 Abyssal Specter|S
 Balduvian Bears|S
 Balduvian Horde|S
@@ -7,12 +7,12 @@ Barbed Sextant|S
 Contagion|S
 Dark Ritual|S
 Dark Banishing|S
+Elkin Bottle|S
 Death Spark|S
 Elvish Bard|S
-Elkin Bottle|S
 Folk of the Pines|S
-Forest|S
 Foul Familiar|S
+Forest|S
 Fyndhorn Elves|S
 Giant Trap Door Spider|S
 Giant Growth|S
@@ -34,11 +34,11 @@ Phyrexian War Beast|S
 Shatter|S
 Pyroclasm|S
 Pillage|S
-Soul Burn|S
 Storm Shaman|S
 Swamp|S
 Sulfurous Springs|S
-Underground River|S
 Walking Wall|S
+Underground River|S
+Woolly Spider|S
 Yavimaya Ancients|S
 Yavimaya Ants|S

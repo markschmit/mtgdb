@@ -1,23 +1,36 @@
-Sarkhan's Rage|C
-Sarkhan's Triumph|U
-Ambuscade Shaman|U
+Ancestral Statue|C
 Acid-Spewer Dragon|U
 Aerie Bowmasters|C
-Ainok Artillerist|C
 Ainok Survivalist|U
+Ambuscade Shaman|U
+Ainok Artillerist|C
+Anafenza, Kin-Tree Spirit|R
+Ancient Carp|C
+Arashin Sovereign|R
+Arashin Foremost|R
+Anticipate|C
+Assault Formation|R
+Artful Maneuver|C
+Atarka Beastbreaker|C
+Atarka Efreet|C
+Atarka Pummeler|U
+Atarka Monument|U
+Avatar of the Resolute|R
+Atarka's Command|R
+Aven Sunstriker|U
 Naturalize|C
 Obscuring Aether|R
 Negate|C
 Ojutai Interceptor|C
+Ojutai's Breath|C
 Ojutai Monument|U
 Ojutai's Command|R
-Ojutai's Breath|C
 Ojutai's Summons|C
 Orator of Ojutai|U
-Pacifism|C
 Palace Familiar|C
-Pinion Feast|C
+Pacifism|C
 Pitiless Horde|R
+Pinion Feast|C
 Pristine Skywise|R
 Plains|L
 Press the Advantage|U
@@ -42,55 +55,38 @@ Salt Road Quartermasters|U
 Sandcrafter Mage|C
 Sandsteppe Scavenger|C
 Sandstorm Charger|C
+Sarkhan's Rage|C
+Sarkhan Unbroken|M
+Sarkhan's Triumph|U
+Savage Ventmaw|U
 Scaleguard Sentinels|U
-Scale Blessing|U
-Segmented Krotiq|C
 Scion of Ugin|U
 Screamreach Brawler|C
+Segmented Krotiq|C
 Secure the Wastes|R
 Self-Inflicted Wound|U
 Seismic Rupture|U
 Servant of the Scale|C
 Shaman of Forgotten Ways|M
 Shambling Goblin|C
-Sarkhan Unbroken|M
-Savage Ventmaw|U
-Student of Ojutai|C
-Summit Prowler|C
-Sunscorch Regent|R
-Sunbringer's Touch|R
-Surrak, the Hunt Caller|R
-Surge of Righteousness|U
-Swamp|L
-Swift Warkite|U
-Tail Slash|C
-Taigam's Strike|C
-Tapestry of the Ages|U
-Territorial Roc|C
-Thunderbreak Regent|R
-Tread Upon|C
-Twin Bolt|C
-Tormenting Voice|C
-Ukud Cobra|U
-Updraft Elemental|C
-Ultimate Price|U
-Shape the Sands|C
 Sheltered Aerie|C
-Shorecrasher Elemental|M
+Shape the Sands|C
 Shieldhide Dragon|U
+Shorecrasher Elemental|M
 Sibsig Icebreakers|C
 Sidisi's Faithful|C
 Sidisi, Undead Vizier|R
 Sight of the Scalelords|U
+Scale Blessing|U
 Sight Beyond Sight|U
-Silumgar Butcher|C
-Silumgar Monument|U
 Silkwrap|U
+Silumgar Butcher|C
 Silumgar Assassin|R
 Silumgar Sorcerer|U
+Silumgar Monument|U
 Silumgar Spell-Eater|U
-Silumgar's Command|R
 Silumgar's Scorn|U
+Silumgar's Command|R
 Skywise Teachings|U
 Spidersilk Net|C
 Sprinting Warbrute|C
@@ -100,21 +96,37 @@ Stormrider Rig|U
 Stormwing Dragon|U
 Stratus Dancer|R
 Strongarm Monk|U
-Anafenza, Kin-Tree Spirit|R
-Ancestral Statue|C
-Ancient Carp|C
-Arashin Sovereign|R
-Arashin Foremost|R
-Anticipate|C
-Assault Formation|R
-Artful Maneuver|C
-Atarka Beastbreaker|C
-Atarka Efreet|C
-Atarka Monument|U
-Avatar of the Resolute|R
-Atarka Pummeler|U
-Atarka's Command|R
-Aven Sunstriker|U
+Student of Ojutai|C
+Summit Prowler|C
+Sunscorch Regent|R
+Surrak, the Hunt Caller|R
+Surge of Righteousness|U
+Sunbringer's Touch|R
+Swift Warkite|U
+Swamp|L
+Tail Slash|C
+Taigam's Strike|C
+Territorial Roc|C
+Tapestry of the Ages|U
+Tread Upon|C
+Thunderbreak Regent|R
+Tormenting Voice|C
+Ukud Cobra|U
+Twin Bolt|C
+Ultimate Price|U
+Updraft Elemental|C
+Virulent Plague|U
+Vial of Dragonfire|C
+Vandalize|C
+Void Squall|U
+Volcanic Vision|R
+Volcanic Rush|C
+Vulturous Aven|C
+Wandering Tombshell|C
+Youthful Scholar|U
+Warbringer|U
+Zephyr Scribe|C
+Zurgo Bellstriker|R
 Aven Tactician|C
 Battle Mastery|U
 Belltoll Dragon|U
@@ -127,27 +139,15 @@ Center Soul|C
 Butcher's Glee|C
 Circle of Elders|U
 Champion of Arashin|C
+Coat with Venom|C
 Clone Legion|M
 Collected Company|R
-Coat with Venom|C
 Colossodon Yearling|C
-Commune with Lava|R
 Conifer Strider|C
+Commune with Lava|R
 Crater Elemental|R
 Corpseweft|R
 Contradict|C
-Void Squall|U
-Vial of Dragonfire|C
-Vandalize|C
-Virulent Plague|U
-Volcanic Rush|C
-Volcanic Vision|R
-Vulturous Aven|C
-Wandering Tombshell|C
-Youthful Scholar|U
-Warbringer|U
-Zephyr Scribe|C
-Zurgo Bellstriker|R
 Cunning Breezedancer|U
 Custodian of the Trove|C
 Dance of the Skywise|U
@@ -158,31 +158,31 @@ Deathmist Raptor|M
 Deathbringer Regent|R
 Den Protector|R
 Defeat|C
-Descent of the Dragons|M
 Dirgur Nemesis|C
-Display of Dominance|U
+Descent of the Dragons|M
 Draconic Roar|U
+Display of Dominance|U
 Dragon Fodder|C
 Dragon Hunter|U
 Dragon Whisperer|M
-Dragon's Eye Sentry|C
 Dragon Tempest|R
+Dragon's Eye Sentry|C
 Dragon-Scarred Bear|C
 Dragonloft Idol|U
 Dragonlord Atarka|M
 Dragonlord Dromoka|M
-Dragonlord Ojutai|M
 Dragonlord Kolaghan|M
+Dragonlord Ojutai|M
 Dragonlord Silumgar|M
 Dragonlord's Servant|U
 Dragonlord's Prerogative|R
 Dromoka Captain|U
 Dromoka Dunecaster|C
-Dromoka Monument|U
 Dromoka Warrior|C
+Dromoka Monument|U
+Dromoka's Gift|U
 Dromoka's Command|R
 Duress|C
-Dromoka's Gift|U
 Elusive Spellfist|C
 Dutiful Attendant|C
 Echoes of the Kin Tree|U
@@ -190,27 +190,27 @@ Encase in Ice|U
 Enduring Scalelord|U
 Epic Confrontation|C
 Enduring Victory|C
-Explosive Vegetation|U
 Evolving Wilds|C
-Flatten|C
+Explosive Vegetation|U
 Fate Forgotten|C
+Flatten|C
 Foul-Tongue Invocation|U
-Forest|L
 Foe-Razer Regent|R
+Forest|L
 Foul Renewal|R
 Foul-Tongue Shriek|C
 Gate Smasher|U
 Glade Watcher|C
 Glaring Aegis|C
 Gleam of Authority|R
-Graceblade Artisan|U
 Guardian Shield-Bearer|C
+Graceblade Artisan|U
 Glint|C
 Great Teacher's Decree|U
 Gravepurge|C
 Gudul Lurker|U
-Hand of Silumgar|C
 Gurmag Drowner|C
+Hand of Silumgar|C
 Harbinger of the Hunt|R
 Hardened Berserker|C
 Hedonist's Trove|R
@@ -220,9 +220,9 @@ Herdchaser Dragon|U
 Hidden Dragonslayer|R
 Icefall Regent|R
 Illusory Gains|R
+Inspiring Call|U
 Impact Tremors|C
 Ire Shaman|R
-Inspiring Call|U
 Island|L
 Keeper of the Lens|C
 Kolaghan Aspirant|C
@@ -230,25 +230,25 @@ Kindled Fury|C
 Kolaghan Forerunners|U
 Kolaghan Skirmisher|C
 Kolaghan Monument|U
-Kolaghan Stormsinger|C
 Learn from the Past|U
+Kolaghan Stormsinger|C
 Kolaghan's Command|R
-Living Lore|R
-Marang River Skeleton|U
 Lightning Berserker|U
+Living Lore|R
 Lightwalker|C
 Lurking Arynx|U
 Lose Calm|C
+Marang River Skeleton|U
 Magmatic Chasm|C
 Minister of Pain|U
 Marsh Hulk|C
-Mind Rot|C
 Mirror Mockery|R
+Mind Rot|C
 Misthoof Kirin|C
 Monastery Loremaster|C
+Myth Realized|R
 Mountain|L
 Mystic Meditation|C
 Narset Transcendent|M
-Myth Realized|R
 Ojutai Exemplars|M
 Necromaster Dragon|R

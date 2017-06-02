@@ -1,84 +1,84 @@
-Armageddon Clock|U
-Argivian Archaeologist|R
+Bronze Tablet|R
 Amulet of Kroog|C
+Argivian Archaeologist|R
 Argivian Blacksmith|C
-Argothian Treefolk|C
 Argothian Pixies|C
+Argothian Treefolk|C
+Armageddon Clock|U
 Artifact Possession|C
 Artifact Blast|C
 Artifact Ward|C
-Ashnod's Battle Gear|U
 Ashnod's Altar|U
+Ashnod's Battle Gear|U
 Ashnod's Transmogrant|U
-Atog|C
 Battering Ram|C
-Bronze Tablet|R
+Atog|C
 Candelabra of Tawnos|R
-Citanul Druid|U
 Circle of Protection: Artifacts|U
-Clay Statue|C
+Citanul Druid|U
 Clockwork Avian|R
+Clay Statue|C
 Colossus of Sardia|R
 Cursed Rack|U
 Coral Helm|R
+Damping Field|U
 Crumble|C
 Detonate|U
-Damping Field|U
 Dragon Engine|C
-Drafna's Restoration|C
 Dwarven Weaponsmith|U
+Drafna's Restoration|C
 Feldon's Cane|U
 Energy Flux|U
-Goblin Artisans|U
 Gaea's Avenger|R
+Goblin Artisans|U
 Gate to Phyrexia|U
 Golgothian Sylex|R
 Grapeshot Catapult|C
+Hurkyl's Recall|R
 Haunting Wind|U
 Ivory Tower|U
-Hurkyl's Recall|R
 Jalum Tome|U
 Millstone|U
-Martyrs of Korlis|U
 Mightstone|U
+Martyrs of Korlis|U
+Mishra's Factory|U
 Mishra's War Machine|R
 Obelisk of Undoing|R
-Mishra's Factory|U
-Phyrexian Gremlins|C
 Mishra's Workshop|R
-Orcish Mechanics|C
 Onulet|U
+Phyrexian Gremlins|C
 Ornithopter|C
+Orcish Mechanics|C
 Power Artifact|U
-Reverse Polarity|C
-Priest of Yawgmoth|C
 Rakalite|U
 Powerleech|U
 Primal Clay|U
+Reverse Polarity|C
+Priest of Yawgmoth|C
 Reconstruction|C
 Rocket Launcher|U
 Sage of Lat-Nam|C
-Shapeshifter|R
-Shatterstorm|R
 Staff of Zegon|C
-Strip Mine|U
-Su-Chi|U
-Tablet of Epityr|C
+Shatterstorm|R
+Shapeshifter|R
 Tawnos's Coffin|R
-Tetravus|R
+Su-Chi|U
+Strip Mine|U
+Tablet of Epityr|C
 Tawnos's Wand|U
 Tawnos's Weaponry|U
 The Rack|U
+Tetravus|R
 Transmute Artifact|U
 Titania's Song|U
 Triskelion|R
 Urza's Avenger|R
 Urza's Chalice|C
-Urza's Mine|C
 Urza's Miter|R
+Urza's Mine|C
+Urza's Tower|C
 Wall of Spears|U
 Urza's Power Plant|C
-Urza's Tower|C
 Xenic Poltergeist|U
 Weakstone|U
 Yawgmoth Demon|R

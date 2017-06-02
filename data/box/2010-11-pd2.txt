@@ -1,31 +1,31 @@
-Mogg Flunkies|C
-Price of Progress|U
-Mogg Fanatic|U
 Ball Lightning|R
-Barbarian Ring|U
 Boggart Ram-Gang|U
+Barbarian Ring|U
 Cinder Pyromancer|C
 Chain Lightning|C
 Browbeat|U
-Figure of Destiny|R
 Fire Servant|U
+Figure of Destiny|R
 Fireblast|C
 Flames of the Blood Hand|U
 Fireball|U
 Ghitu Encampment|U
 Grim Lavamancer|R
 Hellspark Elemental|U
-Jaya Ballard, Task Mage|R
 Hammer of Bogardan|R
-Keldon Marauders|C
+Jaya Ballard, Task Mage|R
 Jackal Pup|U
 Keldon Champion|U
+Keldon Marauders|C
+Mogg Fanatic|U
 Lightning Bolt|C
-Reverberate|R
+Mogg Flunkies|C
+Price of Progress|U
 Mountain|L
+Reverberate|R
 Pillage|U
-Spark Elemental|U
 Sudden Impact|U
-Thunderbolt|C
+Spark Elemental|U
 Teetering Peaks|C
+Thunderbolt|C
 Vulshok Sorcerer|C

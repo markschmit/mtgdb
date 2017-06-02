@@ -1,46 +1,46 @@
+Ambition's Cost|U
 Altar's Reap|C
 Abundance|R
-Briarhorn|U
 Bala Ged Scorpion|C
-Ambition's Cost|U
-Blistergrub|C
+Briarhorn|U
 Cadaver Imp|C
+Blistergrub|C
 Carrier Thrall|U
 Citanul Woodreaders|C
 Civic Wayfinder|C
+Crop Rotation|C
 Cloudthresher|R
 Demon|C
-Crop Rotation|C
 Desecration Demon|R
 Demon's Grasp|C
 Despoiler of Souls|R
-Elemental|C
-Disfigure|C
-Doom Blade|U
 Eldrazi Scion|C
+Doom Blade|U
+Disfigure|C
 Elvish Visionary|C
+Elemental|C
 Fertilid|C
 Fertile Thicket|C
 Fetid Imp|C
 Forest|L
+Gaea's Blessing|U
 Foul Imp|C
 Giant Scorpion|C
-Gaea's Blessing|U
-Gilt-Leaf Seer|C
 Hideous End|C
+Gilt-Leaf Seer|C
 Grim Discovery|C
 Jaddi Lifestrider|U
 Indulgent Tormentor|R
 Innocent Blood|C
 Leechridden Swamp|U
 Khalni Garden|C
-Mire's Toll|C
 Natural Connection|C
+Mire's Toll|C
 Mosswort Bridge|R
 Nissa's Chosen|C
+Oakgnarl Warrior|C
 Nissa, Voice of Zendikar|M
 Ob Nixilis Reignited|M
-Oakgnarl Warrior|C
 Oran-Rief Hydra|R
 Oran-Rief Invoker|C
 Plant|C
@@ -49,19 +49,19 @@ Priest of the Blood Rite|R
 Renegade Demon|C
 Quest for the Gravelord|U
 Saddleback Lagac|C
-Shadows of the Past|U
 Scythe Leopard|U
-Seek the Horizon|U
-Tendrils of Corruption|C
-Thicket Elemental|R
+Shadows of the Past|U
 Smallpox|U
+Seek the Horizon|U
+Thicket Elemental|R
 Squelching Leeches|U
 Swamp|L
+Tendrils of Corruption|C
 Thornweald Archer|C
 Unhallowed Pact|C
 Treetop Village|U
 Walker of the Grove|U
 Vines of the Recluse|C
-Woodborn Behemoth|U
 Wood Elves|C
 Zombie Giant|C
+Woodborn Behemoth|U

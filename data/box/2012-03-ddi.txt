@@ -1,14 +1,15 @@
+Anger|U
+Bloodfire Kavu|U
 Aether Membrane|U
-Angelic Shield|U
 Augury Owl|C
+Angelic Shield|U
 Armillary Sphere|C
 Azorius Chancery|C
 Bloodfire Colossus|R
-Bloodfire Kavu|U
-Clone|R
 Cache Raiders|U
 Chartooth Cougar|C
 Coral Fighters|U
+Clone|R
 Cosi's Ravager|C
 Cryptic Annelid|U
 Earth Servant|U
@@ -23,48 +24,47 @@ Island|L
 Jaws of Stone|U
 Kor Cartographer|C
 Journeyer's Kite|R
-Koth of the Hammer|M
+Scroll Thief|C
+Seismic Strike|C
+Searing Blaze|C
+Sejiri Refuge|U
+Sigil of Sleep|C
+Slith Strider|U
+Sky Spirit|U
+Sphinx of Uthuun|R
+Soaring Seacliff|C
+Spire Barrage|C
+Steel of the Godhead|C
+Sunblast Angel|R
+Torchling|R
+Venser, the Sojourner|M
+Vanish into Memory|U
+Vulshok Battlegear|U
+Volley of Boulders|R
+Vulshok Berserker|C
+Vulshok Morningstar|U
+Vulshok Sorcerer|C
+Wall of Denial|U
+Whitemane Lion|C
+Wayfarer's Bauble|C
+Windreaver|R
+Stone Giant|U
 Minamo Sightbender|U
-Anger|U
+Koth of the Hammer|M
 Lithophage|R
 Mountain|L
 Mistmeadow Witch|U
 Neurok Invisimancer|C
 Overrule|C
-New Benalia|U
 Oblivion Ring|U
-Path to Exile|U
+New Benalia|U
 Pilgrim's Eye|C
-Plains|L
+Path to Exile|U
 Plated Geopede|C
+Plains|L
 Primal Plasma|C
 Preordain|C
 Pygmy Pyrosaur|C
-Vulshok Morningstar|U
-Vulshok Sorcerer|C
-Revoke Existence|C
 Safe Passage|C
+Revoke Existence|C
 Sawtooth Loon|U
-Scroll Thief|C
-Searing Blaze|C
-Seismic Strike|C
-Sejiri Refuge|U
-Sigil of Sleep|C
-Sky Spirit|U
-Slith Strider|U
-Sphinx of Uthuun|R
-Soaring Seacliff|C
-Stone Giant|U
-Spire Barrage|C
-Steel of the Godhead|C
-Sunblast Angel|R
-Venser, the Sojourner|M
-Torchling|R
-Vanish into Memory|U
-Vulshok Battlegear|U
-Volley of Boulders|R
-Vulshok Berserker|C
-Wall of Denial|U
-Wayfarer's Bauble|C
-Whitemane Lion|C
-Windreaver|R

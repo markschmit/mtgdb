@@ -1,116 +1,116 @@
-Ghazbán Ogre|C
+Dakkon Blackblade|R
+Cyclone|R
 Akron Legionnaire|R
 Abu Ja'far|U
 Arena of the Ancients|R
-Angelic Voices|R
 Active Volcano|C
+Angelic Voices|R
 Aladdin|R
 Arcades Sabboth|R
 Argothian Pixies|C
 Ashnod's Transmogrant|C
 Ashnod's Altar|C
-Axelrod Gunnarson|R
 Ayesha Tanaka|R
+Axelrod Gunnarson|R
 Azure Drake|U
 Banshee|U
-Bog Rats|C
 Beasts of Bogardan|U
-Barl's Cage|R
+Bog Rats|C
 Blood of the Martyr|U
 Blood Moon|R
 Boomerang|C
-Bronze Horse|R
+Barl's Cage|R
 Book of Rass|R
+Bronze Horse|R
 Cat Warriors|C
 Cocoon|U
 City of Brass|R
 Chromium|R
 Concordant Crossroads|R
+Dance of Many|R
 Cuombajj Witches|C
 Craw Giant|U
-Cyclone|R
 D'Avenant Archer|C
-Dakkon Blackblade|R
-Dance of Many|R
-Dandân|C
+Dandan|C
 Emerald Dragonfly|C
 Divine Offering|C
-Enchantment Alteration|U
 Erhnam Djinn|U
+Enchantment Alteration|U
 Fallen Angel|U
 Fire Drake|U
 Feldon's Cane|C
-Gauntlets of Chaos|R
 Fishliver Oil|C
+Gauntlets of Chaos|R
 Fountain of Youth|C
 Flash Flood|C
 Gabriel Angelfire|R
+Ghazban Ogre|C
 Giant Slug|C
-Goblin Artisans|U
-Goblin Shrine|C
 Goblin Digging Team|C
+Goblin Shrine|C
+Goblin Artisans|U
 Goblins of the Flarg|C
 Hasran Ogress|C
 Hell's Caretaker|R
-Horn of Deafening|R
 Indestructible Aura|C
-Juxtapose|R
+Horn of Deafening|R
 Ivory Guardians|U
-Kei Takahashi|U
-Jalum Tome|R
+Juxtapose|R
 Jeweled Bird|R
-Johan|R
+Jalum Tome|R
 Keepers of the Faith|C
+Kei Takahashi|U
+Johan|R
+Metamorphosis|C
 Living Armor|C
-Land's Edge|R
 Marhault Elsdragon|U
 Mountain Yeti|C
-Metamorphosis|C
+Land's Edge|R
 Nebuchadnezzar|R
+Petra Sphinx|R
 Obelisk of Undoing|R
 Nicol Bolas|R
 Palladia-Mors|R
-Petra Sphinx|R
 Primordial Ooze|U
 Puppet Master|U
 Rabid Wombat|U
-Rakalite|R
 Remove Soul|C
+Rakalite|R
 Recall|U
-Runesword|C
 Repentant Blacksmith|C
-Rubinia Soulsinger|R
+Runesword|C
 Revelation|R
+Rubinia Soulsinger|R
 Safe Haven|R
-Shield Wall|U
 Scavenger Folk|C
+Shield Wall|U
 Sentinel|R
 Serpent Generator|R
+Sivitri Scarzam|U
 Shimian Night Stalker|U
 Stangg|R
-Sivitri Scarzam|U
 Sol'kanar the Swamp King|R
 Takklemaggot|U
 Storm Seeker|U
 The Fallen|U
-Teleport|R
 The Wretched|R
-Tor Wauki|U
-Tobias Andrion|U
-Urza's Mine|C
-Tormod's Crypt|C
-Urza's Power Plant|C
+Teleport|R
 Transmutation|C
+Tobias Andrion|U
+Tormod's Crypt|C
+Tor Wauki|U
 Triassic Egg|R
+Urza's Mine|C
 Urza's Tower|C
+Urza's Power Plant|C
 Voodoo Doll|R
-Wall of Heat|C
 Vaevictis Asmadi|R
+Wall of Heat|C
 Wall of Opposition|U
-Wall of Wonder|U
-Wall of Shadows|C
 Wall of Vapor|C
+Wall of Shadows|C
+Wall of Wonder|U
 War Elephant|C
 Witch Hunter|U
-Xira Arien|R
 Yawgmoth Demon|R
+Xira Arien|R

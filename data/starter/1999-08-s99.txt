@@ -1,8 +1,35 @@
 Abyssal Horror|R
 Air Elemental|U
-Alluring Scent|R
 Ancient Craving|R
+Alluring Scent|R
 Angel of Light|U
+Path of Peace|C
+Hulking Ogre|U
+Ingenious Thief|C
+Knight Errant|C
+Jagged Lightning|U
+Island|L
+Lone Wolf|C
+Lava Axe|C
+Last Chance|R
+Loyal Sentry|R
+Man-o'-War|U
+Lynx|U
+Merfolk of the Pearl Trident|S
+Mons's Goblin Raiders|S
+Moon Sprite|U
+Mind Rot|C
+Muck Rats|C
+Mountain|L
+Natural Spring|U
+Monstrous Growth|C
+Nature's Cloak|R
+Nature's Lore|C
+Norwood Archers|C
+Norwood Ranger|C
+Ogre Warrior|C
+Owl Familiar|U
+Phantom Warrior|R
 Angel of Mercy|U
 Archangel|R
 Angelic Blessing|C
@@ -10,8 +37,8 @@ Ardent Militia|U
 Barbtooth Wurm|C
 Armageddon|R
 Bog Imp|C
-Bargain|U
 Blinding Light|R
+Bargain|U
 Bog Raiders|C
 Bog Wraith|U
 Border Guard|C
@@ -19,36 +46,36 @@ Bull Hippo|U
 Breath of Life|U
 Champion Lancer|R
 Charging Paladin|U
+Cinder Storm|U
 Chorus of Woe|C
 Coercion|U
-Cinder Storm|U
-Coral Eel|C
 Counterspell|U
+Coral Eel|C
 Dakmor Ghoul|U
 Dakmor Lancer|R
-Dakmor Plague|U
 Dakmor Scorpion|C
+Dakmor Plague|U
 Dakmor Sorceress|R
 Denizen of the Deep|R
 Dark Offering|U
 Devoted Hero|C
 Devastation|R
+Durkwood Boars|C
 Devout Monk|C
 Dread Reaper|R
-Durkwood Boars|C
-Eager Cadet|S
 Earth Elemental|U
+Eager Cadet|S
 Eye Spy|U
 Extinguish|C
 Exhaustion|U
 False Peace|U
 Feral Shadow|C
 Fire Elemental|U
-Fire Tempest|R
 Foot Soldiers|C
+Fire Tempest|R
+Giant Octopus|C
 Gerrard's Wisdom|R
 Forest|L
-Giant Octopus|C
 Goblin Cavaliers|C
 Goblin Chariot|C
 Goblin Commando|U
@@ -56,103 +83,76 @@ Goblin General|U
 Goblin Glider|U
 Goblin Mountaineer|C
 Goblin Hero|S
-Goblin Lore|U
 Goblin Settler|U
 Gorilla Warrior|C
-Gravedigger|U
+Goblin Lore|U
 Grizzly Bears|C
+Gravedigger|U
 Grim Tutor|R
 Hollow Dogs|C
 Hand of Death|C
-Howling Fury|U
 Hulking Goblin|C
-Hulking Ogre|U
-Ingenious Thief|C
-Knight Errant|C
-Jagged Lightning|U
-Island|L
-Lone Wolf|C
-Last Chance|R
-Lava Axe|C
-Loyal Sentry|R
-Man-o'-War|U
-Lynx|U
-Merfolk of the Pearl Trident|S
-Moon Sprite|U
-Monstrous Growth|C
-Mons's Goblin Raiders|S
-Mind Rot|C
-Mountain|L
-Muck Rats|C
-Natural Spring|U
-Nature's Cloak|R
-Nature's Lore|C
-Norwood Archers|C
-Norwood Ranger|C
-Ogre Warrior|C
+Howling Fury|U
+Pride of Lions|U
+Plains|L
+Piracy|R
+Psychic Transfer|R
+Ravenous Rats|U
+Ransack|R
+Raging Goblin|C
+Raise Dead|C
+Remove Soul|C
+Relearn|U
+Relentless Assault|R
+Righteous Charge|U
+Renewing Touch|U
+Righteous Fury|R
+Royal Falcon|S
 Royal Trooper|U
-Sea Eagle|S
-Sacred Nectar|C
 Scathe Zombies|S
-Shrieking Specter|U
+Sacred Nectar|C
+Sea Eagle|S
 Scorching Spear|C
 Serpent Warrior|C
-Sleight of Hand|C
+Shrieking Specter|U
 Silverback Ape|U
 Snapping Drake|C
+Sleight of Hand|C
 Squall|C
 Southern Elephant|C
 Soul Feast|U
 Spitting Earth|U
 Stone Rain|C
 Steadfastness|C
-Storm Crow|C
 Stream of Acid|U
-Swamp|L
+Storm Crow|C
 Summer Bloom|R
+Swamp|L
 Sylvan Basilisk|R
 Thorn Elemental|R
 Sylvan Yeti|R
-Time Warp|R
 Thunder Dragon|R
+Time Warp|R
+Tidings|U
 Touch of Brilliance|C
 Time Ebb|C
-Tidings|U
-Tremor|C
 Trained Orgg|R
-Undo|U
 Untamed Wilds|U
+Undo|U
+Tremor|C
 Venerable Monk|C
-Veteran Cavalier|U
-Volcanic Hammer|C
+Volcanic Dragon|R
 Vengeance|U
 Vizzerdrix|R
-Volcanic Dragon|R
+Veteran Cavalier|U
 Water Elemental|U
+Volcanic Hammer|C
 Whiptail Wurm|U
-Whirlwind|R
-Wicked Pact|R
-Willow Elf|S
 Wild Griffin|C
+Wicked Pact|R
+Whirlwind|R
+Willow Elf|S
 Wild Ox|U
-Wood Elves|U
 Wind Drake|C
+Wood Elves|U
 Wind Sail|U
-Owl Familiar|U
-Path of Peace|C
-Phantom Warrior|R
-Plains|L
-Piracy|R
-Pride of Lions|U
-Psychic Transfer|R
-Raging Goblin|C
-Ransack|R
-Raise Dead|C
-Ravenous Rats|U
-Remove Soul|C
-Relentless Assault|R
-Relearn|U
-Righteous Charge|U
-Renewing Touch|U
-Righteous Fury|R
-Royal Falcon|S

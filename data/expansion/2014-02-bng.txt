@@ -1,4 +1,4 @@
-Divination|C
+Ephara, God of the Polis|M
 Aerie Worshippers|U
 Acolyte's Reward|U
 Akroan Conscriptor|U
@@ -12,30 +12,30 @@ Archetype of Finality|U
 Archetype of Imagination|U
 Ashiok's Adept|U
 Asphyxiate|C
-Brimaz, King of Oreskos|M
 Aspect of Hydra|C
 Bile Blight|U
+Brimaz, King of Oreskos|M
 Astral Cornucopia|R
 Black Oak of Odunos|U
 Bolt of Keranos|C
 Champion of Stray Souls|M
 Charging Badger|C
 Chorus of the Tides|C
-Chromanticore|M
 Claim of Erebos|C
+Chromanticore|M
 Courser of Kruphix|R
 Cyclops of One-Eyed Pass|C
-Crypsis|C
 Culling Mark|C
+Crypsis|C
 Deepwater Hypnotist|C
 Dawn to Dusk|U
-Drown in Sorrow|U
 Eater of Hope|R
+Drown in Sorrow|U
+Divination|C
 Eidolon of Countless Battles|R
 Elite Skirmisher|C
 Ephara's Enlightenment|U
 Ephara's Radiance|C
-Ephara, God of the Polis|M
 Epiphany Storm|C
 Eternity Snare|U
 Evanescent Intellect|C
@@ -45,12 +45,12 @@ Eye Gouge|C
 Excoriate|C
 Fanatic of Xenagos|U
 Fate Unraveler|R
+Fated Return|R
 Fated Infatuation|R
 Fated Conflagration|R
 Fated Retribution|R
 Fated Intervention|R
 Fearsome Temper|C
-Fated Return|R
 Felhide Brawler|C
 Felhide Spiritbinder|R
 Flame-Wreathed Phoenix|M
@@ -58,8 +58,8 @@ Flitterstep Eidolon|U
 Floodtide Serpent|C
 Forgestoker Dragon|R
 Forlorn Pseudamma|U
-Ghostblade Eidolon|U
 Forsaken Drifters|C
+Ghostblade Eidolon|U
 God-Favored General|U
 Glimpse the Sun God|U
 Gild|R
@@ -81,13 +81,13 @@ Kiora's Follower|U
 Kiora, the Crashing Wave|M
 Kragma Butcher|C
 Kraken of the Straits|U
-Lightning Volley|U
 Loyal Pegasus|C
-Mischief and Mayhem|U
+Lightning Volley|U
 Marshmist Titan|C
 Meletis Astronomer|U
 Mogis, God of Slaughter|M
 Mindreaver|R
+Mischief and Mayhem|U
 Mortal's Resolve|C
 Mortal's Ardor|C
 Necrobite|C
@@ -123,16 +123,16 @@ Revoke Existence|C
 Retraction Helix|C
 Rise to the Challenge|C
 Sanguimancy|U
-Satyr Firedancer|R
 Satyr Nyx-Smith|U
+Satyr Firedancer|R
 Satyr Wayfinder|C
 Scourge of Skola Vale|R
+Searing Blood|U
 Scouring Sands|C
 Servant of Tymaret|C
-Setessan Starbreaker|C
-Searing Blood|U
 Setessan Oathsworn|C
 Shrike Harpy|U
+Setessan Starbreaker|C
 Silent Sentinel|R
 Siren of the Fanged Coast|U
 Siren of the Silent Song|U

@@ -1,3 +1,4 @@
+Befoul|C
 Akki Avalanchers|C
 Akki Coalflinger|U
 Akki Lavarunner|R
@@ -9,9 +10,8 @@ Autumn-Tail, Kitsune Sage|R
 Azusa, Lost but Seeking|R
 Azami, Lady of Scrolls|R
 Battle-Mad Ronin|C
-Ben-Ben, Akki Hermit|R
-Befoul|C
 Blessed Breath|C
+Ben-Ben, Akki Hermit|R
 Blind with Anger|U
 Blood Speaker|U
 Blood Rites|U
@@ -35,8 +35,8 @@ Counsel of the Soratami|C
 Cruel Deceiver|C
 Crushing Pain|C
 Cursed Ronin|C
-Cut the Tethers|U
 Dampen Thought|U
+Cut the Tethers|U
 Dance of Shadows|U
 Deathcurse Ogre|C
 Desperate Ritual|C
@@ -61,10 +61,10 @@ Floating-Dream Zubera|C
 Forest|L
 Forbidden Orchard|R
 Frostwielder|C
+Gibbering Kami|C
 General's Kabuto|R
 Gale Force|U
 Ghostly Prison|U
-Gibbering Kami|C
 Glacial Ray|C
 Gifts Ungiven|R
 Godo, Bandit Warlord|R
@@ -84,9 +84,9 @@ Hearth Kami|C
 Heartbeat of Spring|R
 Hideous Laughter|U
 Hikari, Twilight Guardian|R
+Hisoka's Guard|C
 Hisoka's Defiance|C
 Hinder|U
-Hisoka's Guard|C
 Hisoka, Minamo Sensei|R
 Honden of Cleansing Fire|U
 Hold the Line|R
@@ -94,8 +94,8 @@ Honden of Infinite Rage|U
 Honden of Life's Web|U
 Honden of Night's Reach|U
 Honden of Seeing Winds|U
-Honor-Worn Shaku|U
 Horizon Seed|U
+Honor-Worn Shaku|U
 Horobi, Death's Wail|R
 Humble Budoka|C
 Hundred-Talon Kami|C
@@ -108,10 +108,11 @@ Innocence Kami|U
 Isamaru, Hound of Konda|R
 Journeyer's Kite|R
 Island|L
-Jade Idol|U
 Joyous Respite|C
-Jugan, the Rising Star|R
+Jade Idol|U
 Jukai Messenger|C
+Keiga, the Tide Star|R
+Jugan, the Rising Star|R
 Kami of Ancient Law|C
 Jushi Apprentice|R
 Junkyo Bell|R
@@ -120,100 +121,51 @@ Kami of Fire's Roar|C
 Kami of Lunacy|U
 Kami of Old Stone|U
 Kami of the Hunt|C
-Kami of the Painted Road|C
 Kami of the Palace Fields|U
 Kami of the Waning Moon|C
 Kami of Twisted Reflection|C
 Kashi-Tribe Reaver|U
 Kashi-Tribe Warriors|C
-Keiga, the Tide Star|R
 Kenzo the Hardhearted|U
-Kiki-Jiki, Mirror Breaker|R
 Kiku, Night's Flower|R
+Kiki-Jiki, Mirror Breaker|R
+Kami of the Painted Road|C
 Kitsune Blademaster|C
 Kitsune Diviner|C
 Kitsune Healer|C
 Kitsune Mystic|R
-Kodama of the South Tree|R
 Kitsune Riftwalker|C
+Kodama of the South Tree|R
 Kodama of the North Tree|R
 Kodama's Might|C
 Kodama's Reach|C
-Konda, Lord of Eiganjo|R
 Kokusho, the Evening Star|R
 Konda's Banner|R
 Konda's Hatamoto|U
-Kumano, Master Yamabushi|R
 Kumano's Pupils|U
+Konda, Lord of Eiganjo|R
 Kusari-Gama|R
-Lava Spike|C
 Kuro, Pitlord|R
 Lantern Kami|C
+Kumano, Master Yamabushi|R
+Lava Spike|C
 Lantern-Lit Graveyard|U
-Lure|U
 Lifted by Clouds|C
-Mana Seism|U
 Long-Forgotten Gohei|R
 Marrow-Gnawer|R
-Masako the Humorless|R
-Matsu-Tribe Decoy|C
-Midnight Covenant|C
-Minamo, School at Water's Edge|R
-Meloku the Clouded Mirror|R
-Moss Kami|C
-Mindblaze|R
-Moonring Mirror|R
-Mothrider Samurai|C
-Myojin of Infinite Rage|R
-Mountain|L
-Mystic Restraints|C
-Myojin of Night's Reach|R
-Myojin of Cleansing Fire|R
-Myojin of Life's Web|R
-Myojin of Seeing Winds|R
-Nagao, Bound by Honor|U
-Nezumi Bone-Reader|U
-Nature's Will|R
-Nezumi Ronin|C
-Nezumi Graverobber|U
-Nezumi Cutthroat|C
-Night of Souls' Betrayal|R
-Nezumi Shortfang|R
-Nighteyes the Desecrator|U
-Night Dealings|R
-No-Dachi|U
-Nine-Ringed Bo|U
-Oathkeeper, Takeno's Daisho|R
-Numai Outcast|U
-Okina, Temple to the Grandfathers|R
-Oni Possession|U
-Order of the Sacred Bell|C
-Orbweaver Kumo|U
-Swallowing Plague|U
-Takeno, Samurai General|R
-Orochi Eggwatcher|U
-Swirl the Mists|R
-Swamp|L
-Ore Gorger|U
-Orochi Leafcaller|C
-Orochi Hatchery|R
-Orochi Ranger|C
-Orochi Sustainer|C
-Otherworldly Journey|U
-Pain Kami|U
-Painwracker Oni|U
-Part the Veil|R
+Lure|U
 Peer Through Depths|C
 Petals of Insight|U
-Pinecrest Ridge|U
+Part the Veil|R
 Pious Kitsune|C
+Pinecrest Ridge|U
 Psychic Puppetry|C
 Plains|L
-Pull Under|C
 Quiet Purity|C
+Pull Under|C
 Rag Dealer|C
-Ragged Veins|C
 Reach Through Mists|C
+Ragged Veins|C
 Rend Flesh|C
 Reciprocate|U
 Reito Lantern|U
@@ -226,9 +178,9 @@ Ryusei, the Falling Star|R
 Rootrunner|U
 Sachi, Daughter of Seshiro|U
 Sakura-Tribe Elder|C
-Samurai Enforcers|U
 Samurai of the Pale Curtain|U
 Scuttling Death|C
+Samurai Enforcers|U
 Seizan, Perverter of Truth|R
 Sensei Golden-Tail|R
 Sensei's Divining Top|U
@@ -238,8 +190,52 @@ Shell of the Last Kappa|R
 Shidako, Broodmistress|U
 Shimatsu the Bloodcloaked|R
 Shinka, the Bloodsoaked Keep|R
-Shisato, Whispering Hunter|R
 Shizo, Death's Storehouse|R
+Shisato, Whispering Hunter|R
+Mana Seism|U
+Masako the Humorless|R
+Matsu-Tribe Decoy|C
+Meloku the Clouded Mirror|R
+Midnight Covenant|C
+Minamo, School at Water's Edge|R
+Moss Kami|C
+Moonring Mirror|R
+Mindblaze|R
+Mothrider Samurai|C
+Myojin of Infinite Rage|R
+Mountain|L
+Myojin of Cleansing Fire|R
+Myojin of Life's Web|R
+Myojin of Night's Reach|R
+Myojin of Seeing Winds|R
+Mystic Restraints|C
+Nagao, Bound by Honor|U
+Nezumi Bone-Reader|U
+Nature's Will|R
+Nezumi Cutthroat|C
+Nezumi Graverobber|U
+Nezumi Ronin|C
+Nezumi Shortfang|R
+Night of Souls' Betrayal|R
+Night Dealings|R
+Nighteyes the Desecrator|U
+No-Dachi|U
+Nine-Ringed Bo|U
+Numai Outcast|U
+Oathkeeper, Takeno's Daisho|R
+Okina, Temple to the Grandfathers|R
+Oni Possession|U
+Orbweaver Kumo|U
+Order of the Sacred Bell|C
+Orochi Eggwatcher|U
+Ore Gorger|U
+Orochi Leafcaller|C
+Orochi Hatchery|R
+Orochi Ranger|C
+Orochi Sustainer|C
+Otherworldly Journey|U
+Painwracker Oni|U
+Pain Kami|U
 Silent-Chant Zubera|C
 Sift Through Sands|C
 Sideswipe|U
@@ -263,18 +259,22 @@ Strange Inversion|U
 Stone Rain|C
 Student of Elements|U
 Struggle for Sanity|U
+Swallowing Plague|U
+Takeno, Samurai General|R
+Swamp|L
+Swirl the Mists|R
 Tatsumasa, the Dragon's Fang|R
 Teller of Tales|C
 Tenza, Godo's Maul|U
 Terashi's Cry|C
+Thief of Hope|U
 The Unspeakable|R
 Through the Breach|R
-Thief of Hope|U
 Thousand-legged Kami|U
 Thoughtbind|C
 Time Stop|R
-Tide of War|R
 Time of Need|U
+Tide of War|R
 Tok-Tok, Volcano Born|R
 Tobita, Master of Winds|U
 Tomoya the Revealer|R
@@ -285,10 +285,10 @@ Uncontrollable Anger|C
 Unnatural Speed|C
 Untaidake, the Cloud Keeper|R
 Uyo, Silent Prophet|R
-Vassal's Duty|R
 Venerable Kumo|C
-Vigilance|C
+Vassal's Duty|R
 Villainous Ogre|C
+Vigilance|C
 Waking Nightmare|C
 Vine Kami|C
 Wandering Ones|C

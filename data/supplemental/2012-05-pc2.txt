@@ -1,136 +1,136 @@
-Brutalizer Exarch|U
-Brindle Shoat|U
+Baleful Strix|U
+Armored Griffin|U
 Armillary Sphere|C
 Arc Trail|U
-Armored Griffin|U
-Aura Gnarlid|C
-Augury Owl|C
 Assassinate|C
+Augury Owl|C
+Aura Gnarlid|C
 Auratouched Mage|U
 Auramancer|C
-Baleful Strix|U
 Awakening Zone|R
 Beetleback Chief|U
 Beast Within|U
 Bloodbraid Elf|U
-Boar Umbra|U
 Bituminous Blast|U
 Bramble Elemental|C
-Cadaver Imp|C
+Boar Umbra|U
+Brindle Shoat|U
+Brutalizer Exarch|U
 Cage of Hands|C
+Cadaver Imp|C
 Celestial Ancient|R
-Cultivate|C
-Cancel|C
-Concentrate|U
 Dark Hatchling|R
+Cancel|C
+Cultivate|C
+Concentrate|U
+Dimir Aqueduct|C
 Deny Reality|C
 Dimir Infiltrator|C
-Dimir Aqueduct|C
 Dowsing Shaman|U
-Dragonlair Spider|R
-Dreampod Druid|U
-Elderwood Scion|R
-Enlisted Wurm|U
-Enigma Sphinx|R
-Erratic Explosion|C
-Etherium-Horn Sorcerer|R
-Farsight Mask|U
-Exotic Orchard|R
-Felidar Umbra|U
-Fiery Fall|C
-Fiery Conclusion|C
-Fires of Yavimaya|U
-Flayer Husk|C
-Forest|L
-Fractured Powerstone|C
-Fusion Elemental|U
-Fling|C
-Ghostly Prison|U
-Glen Elendra Liege|R
-Gruul Turf|C
-Gluttonous Slime|U
-Graypelt Refuge|U
-Hellion Eruption|R
-Guard Gomazoa|U
-Hellkite Hatchling|U
-Higure, the Still Wind|R
-Hyena Umbra|C
-Hissing Iguanar|C
-Illusory Angel|U
-Indrik Umbra|R
-Island|L
-Ink-Eyes, Servant of Oni|R
-Inkfathom Witch|U
-Jwar Isle Refuge|U
-Kathari Remnant|U
-Kazandu Refuge|U
-Kor Spiritdancer|R
-Mudbutton Torchrunner|C
-Mountain|L
-Mycoloth|R
-Nest Invader|C
-Ninja of the Deep Hours|C
-Noggle Ransacker|U
-Nullmage Advocate|C
-Okiba-Gang Shinobi|C
-Penumbra Spider|C
-Ondu Giant|C
 Overrun|U
-Peregrine Drake|U
-Predatory Urge|R
 Pollenbright Wings|U
 Plains|L
+Predatory Urge|R
 Preyseizer Dragon|R
 Primal Plasma|C
 Quiet Disrepair|C
 Quietus Spike|R
+Rupture Spire|C
 Rancor|C
 Rivals' Duel|U
 Sai of the Shinobi|U
-Rupture Spire|C
 Sakashima's Student|R
 Selesnya Sanctuary|C
-Shardless Agent|U
 See Beyond|C
+Shardless Agent|U
+Sigil of the Empty Throne|R
+Silhana Ledgewalker|C
 Silent-Blade Oni|R
 Shimmering Grotto|C
-Sigil of the Empty Throne|R
-Skarrg, the Rage Pits|U
-Silhana Ledgewalker|C
-Spirit Mantle|U
 Skullsnatcher|C
-Sunken Hope|R
+Skarrg, the Rage Pits|U
 Snake Umbra|C
-Swamp|L
-Thorn-Thrash Viashino|C
-Terramorphic Expanse|C
+Spirit Mantle|U
 Tainted Isle|U
-Lumberknot|U
-Last Stand|R
-Maelstrom Wanderer|M
-Mammoth Umbra|U
-Mass Mutiny|R
-Mark of Mutiny|U
-Mistblade Shinobi|C
-Mitotic Slime|R
-Thran Golem|U
-Thromok the Insatiable|M
-Three Dreams|R
+Swamp|L
+Sunken Hope|R
+Terramorphic Expanse|C
+Thorn-Thrash Viashino|C
 Throat Slitter|U
+Thran Golem|U
+Three Dreams|R
+Thromok the Insatiable|M
 Thunder-Thrash Elder|U
 Tormented Soul|C
 Tukatongue Thallid|C
 Vela the Night-Clad|M
 Viridian Emissary|C
-Wall of Blossoms|U
 Vivid Creek|U
-Vitu-Ghazi, the City-Tree|U
-Wall of Frost|U
+Wall of Blossoms|U
 Walker of Secret Ways|U
+Wall of Frost|U
+Vitu-Ghazi, the City-Tree|U
 Whirlpool Warrior|R
 Warstorm Surge|R
 Whispersilk Cloak|U
+Dreampod Druid|U
+Dragonlair Spider|R
+Elderwood Scion|R
+Enlisted Wurm|U
+Enigma Sphinx|R
+Etherium-Horn Sorcerer|R
+Farsight Mask|U
+Erratic Explosion|C
+Exotic Orchard|R
+Felidar Umbra|U
+Fiery Fall|C
+Fiery Conclusion|C
+Flayer Husk|C
+Fires of Yavimaya|U
+Forest|L
+Fractured Powerstone|C
+Fling|C
+Ghostly Prison|U
+Fusion Elemental|U
+Mammoth Umbra|U
+Glen Elendra Liege|R
+Gruul Turf|C
+Gluttonous Slime|U
+Graypelt Refuge|U
+Guard Gomazoa|U
+Hellkite Hatchling|U
+Hellion Eruption|R
+Higure, the Still Wind|R
+Hissing Iguanar|C
+Illusory Angel|U
+Hyena Umbra|C
+Indrik Umbra|R
+Ink-Eyes, Servant of Oni|R
+Inkfathom Witch|U
+Island|L
+Kathari Remnant|U
+Jwar Isle Refuge|U
+Kazandu Refuge|U
 Khalni Garden|C
-Liliana's Specter|C
+Kor Spiritdancer|R
 Krosan Verge|U
+Liliana's Specter|C
 Krond the Dawn-Clad|M
+Mistblade Shinobi|C
+Mitotic Slime|R
+Mudbutton Torchrunner|C
+Mountain|L
+Mycoloth|R
+Nest Invader|C
+Ninja of the Deep Hours|C
+Nullmage Advocate|C
+Noggle Ransacker|U
+Okiba-Gang Shinobi|C
+Ondu Giant|C
+Penumbra Spider|C
+Peregrine Drake|U
+Lumberknot|U
+Last Stand|R
+Maelstrom Wanderer|M
+Mass Mutiny|R
+Mark of Mutiny|U

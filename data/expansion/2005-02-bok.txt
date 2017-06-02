@@ -1,12 +1,12 @@
-Crack the Earth|C
+Crawling Filth|C
 Akki Blizzard-Herder|C
 Ashen Monstrosity|U
 Akki Raider|U
 Azamuki, Treachery Incarnate|U
 Aura Barbs|U
-Blademane Baku|C
 Bile Urchin|C
 Baku Altar|R
+Blademane Baku|C
 Blazing Shoal|R
 Blessing of Leeches|C
 Blinding Powder|U
@@ -16,8 +16,8 @@ Call for Blood|C
 Callow Jushi|U
 Child of Thorns|C
 Chisei, Heart of Oceans|R
+Crack the Earth|C
 Clash of Realities|R
-Crawling Filth|C
 Cunning Bandit|U
 Day of Destiny|R
 Disrupting Shoal|R
@@ -25,10 +25,10 @@ Empty-Shrine Kannushi|U
 Eradicate|U
 Enshrined Memories|R
 Faithful Squire|U
-Final Judgment|R
 First Volley|C
-Flames of the Blood Hand|U
+Final Judgment|R
 Floodbringer|C
+Flames of the Blood Hand|U
 Forked-Branch Garami|U
 Frostling|C
 Frost Ogre|C
@@ -74,18 +74,18 @@ Kitsune Palliator|U
 Kodama of the Center Tree|R
 Kumano's Blessing|C
 Kyoki, Sanity's Eclipse|R
-Loam Dweller|U
 Lifespinner|U
 Lifegift|R
+Loam Dweller|U
 Mannichi, the Fevered Dream|R
 Mark of Sakiko|U
 Mark of the Oni|U
 Matsu-Tribe Sniper|C
 Minamo Sightbender|U
 Mending Hands|C
+Mirror Gallery|R
 Minamo's Meddling|C
 Mistblade Shinobi|C
-Mirror Gallery|R
 Moonlit Strider|C
 Nezumi Shadow-Watcher|U
 Neko-Te|R
@@ -95,9 +95,9 @@ Ogre Marauder|U
 Ogre Recluse|U
 Okiba-Gang Shinobi|C
 Opal-Eye, Konda's Yojimbo|R
+Ornate Kanzashi|R
 Orb of Dreams|R
 Overblaze|U
-Ornate Kanzashi|R
 Oyobi, Who Split the Heavens|R
 Patron of the Akki|R
 Patron of the Kitsune|R
@@ -136,17 +136,17 @@ Soratami Mindsweeper|U
 Slumbering Tora|R
 Sowing Salt|U
 Sosuke's Summons|U
-Splinter|U
 Split-Tail Miko|C
+Splinter|U
 Stream of Consciousness|U
 Stir the Grave|C
 Takeno's Cavalry|C
 Sway of the Stars|R
 Takenuma Bleeder|C
-Tallowisp|U
 Teardrop Kami|C
-Tendo Ice Bridge|R
+Tallowisp|U
 Terashi's Grasp|C
+Tendo Ice Bridge|R
 Terashi's Verdict|U
 That Which Was Taken|R
 Threads of Disloyalty|R
@@ -157,11 +157,11 @@ Tomorrow, Azami's Familiar|R
 Torrent of Stone|C
 Toshiro Umezawa|R
 Traproot Kami|C
-Twist Allegiance|R
 Umezawa's Jitte|R
+Twist Allegiance|R
 Unchecked Growth|U
-Uproot|C
 Veil of Secrecy|C
+Uproot|C
 Walker of Secret Ways|U
 Vital Surge|C
 Ward of Piety|U

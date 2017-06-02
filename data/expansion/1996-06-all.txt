@@ -1,119 +1,119 @@
 Aesthir Glider|C
-Arcane Denial|C
+Agent of Stromgald|C
 Ashnod's Cylix|R
-Awesome Presence|C
 Astrolabe|C
+Arcane Denial|C
+Awesome Presence|C
 Balduvian Dead|U
 Balduvian Horde|R
-Benthic Explorers|C
 Balduvian War-Makers|C
 Balduvian Trading Post|R
-Browse|U
+Benthic Explorers|C
 Bestial Fury|C
+Browse|U
 Bounty of the Hunt|U
-Burnout|U
 Carrier Pigeons|C
-Diminishing Returns|R
+Burnout|U
 Casting of Bones|C
 Chaos Harlequin|R
 Deadly Insect|C
 Contagion|U
+Diminishing Returns|R
 Diseased Vermin|U
-Dystopia|R
 Death Spark|U
-Elvish Ranger|C
 Elvish Bard|U
-False Demise|C
+Elvish Ranger|C
+Dystopia|R
 Elvish Spirit Guide|U
 Enslaved Scout|C
 Energy Arc|U
 Exile|R
-Fatal Lore|R
 Errand of Duty|C
+False Demise|C
 Fevered Strength|C
 Feast or Famine|C
-Foresight|C
+Fatal Lore|R
 Floodwater Dam|R
 Force of Will|U
+Foresight|C
 Fyndhorn Druid|C
-Gorilla Berserkers|C
 Gift of the Woods|C
 Gargantuan Gorilla|R
+Gorilla Berserkers|C
 Gorilla Chieftain|C
-Gorilla War Cry|C
 Gorilla Shaman|C
-Agent of Stromgald|C
 Guerrilla Tactics|C
-Gustha's Scepter|R
 Helm of Obedience|R
+Gorilla War Cry|C
 Hail Storm|U
+Gustha's Scepter|R
 Heart of Yavimaya|R
 Inheritance|U
-Insidious Bookworms|C
 Ivory Gargoyle|R
+Insidious Bookworms|C
 Juniper Order Advocate|U
-Kjeldoran Escort|C
 Keeper of Tresserhorn|R
 Kaysa|R
+Kjeldoran Escort|C
 Kjeldoran Home Guard|U
 Kjeldoran Outpost|R
 Kjeldoran Pride|C
 Krovikan Horror|R
-Lodestone Bauble|R
-Lim-Dûl's Vault|U
 Krovikan Plague|U
 Lake of the Dead|R
-Lat-Nam's Legacy|C
 Library of Lat-Nam|R
 Lim-Dûl's High Guard|C
+Lim-Dûl's Vault|U
+Lat-Nam's Legacy|C
+Lodestone Bauble|R
 Lim-Dûl's Paladin|U
 Martyrdom|C
-Nature's Blessing|U
+Mystic Compass|U
 Lord of Tresserhorn|R
-Mishra's Groundbreaker|U
 Misinformation|U
 Misfortune|R
-Mystic Compass|U
+Nature's Blessing|U
+Mishra's Groundbreaker|U
 Nature's Chosen|U
-Nature's Wrath|R
 Noble Steeds|C
-Phantasmal Fiend|C
+Nature's Wrath|R
 Omen of Fire|R
+Phantasmal Fiend|C
 Phantasmal Sphere|R
 Phyrexian Boon|C
 Phelddagrif|R
-Phyrexian Portal|R
 Phyrexian Devourer|R
 Phyrexian War Beast|C
+Phyrexian Portal|R
 Pyrokinesis|U
 Primitive Justice|U
 Pillage|U
-Reinforcements|C
 Reprisal|C
+Reinforcements|C
 Rogue Skycaptain|R
-Royal Decree|R
 Ritual of the Machine|R
 Royal Herbalist|C
-School of the Unseen|U
+Royal Decree|R
 Scars of the Veteran|U
 Scarab of the Unseen|U
+School of the Unseen|U
 Seasoned Tactician|U
-Sheltered Valley|R
 Shield Sphere|U
+Sheltered Valley|R
 Soldevi Adnate|C
 Sol Grail|U
 Soldevi Excavations|R
 Soldevi Digger|R
 Soldevi Heretic|C
 Soldevi Sage|C
+Soldevi Sentry|C
 Soldevi Steam Beast|C
 Soldier of Fortune|U
-Soldevi Sentry|C
 Spiny Starfish|U
-Splintering Wind|R
 Stench of Decay|C
-Storm Crow|C
+Splintering Wind|R
 Storm Cauldron|R
+Storm Crow|C
 Storm Elemental|U
 Storm Shaman|C
 Stromgald Spy|U
@@ -125,8 +125,8 @@ Sworn Defender|R
 Thawing Glaciers|R
 Taste of Paradise|C
 Thought Lash|R
-Tornado|R
 Tidal Control|R
+Tornado|R
 Unlikely Alliance|U
 Undergrowth|C
 Urza's Engine|U
@@ -136,9 +136,9 @@ Veteran's Voice|C
 Viscerid Armor|C
 Viscerid Drone|U
 Wandering Mage|R
+Wild Aesthir|C
 Whip Vine|C
 Whirling Catapult|U
-Wild Aesthir|C
 Winter's Night|R
 Yavimaya Ancients|C
 Yavimaya Ants|U

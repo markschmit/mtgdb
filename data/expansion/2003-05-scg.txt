@@ -1,19 +1,19 @@
-Aven Farseer|C
-Ageless Sentinels|R
 Accelerated Mutation|C
 Alpha Status|U
+Ageless Sentinels|R
 Ambush Commander|R
 Ancient Ooze|R
 Aphetto Runecaster|U
-Ark of Blight|U
 Astral Steel|C
+Ark of Blight|U
+Aven Farseer|C
 Aven Liberator|C
 Bladewing's Thrall|U
 Bladewing the Risen|R
 Bonethorn Valesk|C
+Break Asunder|C
 Brain Freeze|U
 Cabal Conditioning|R
-Break Asunder|C
 Cabal Interrogator|U
 Carbonize|U
 Call to the Grave|R
@@ -28,9 +28,9 @@ Daru Spiritualist|C
 Daru Warchief|U
 Day of the Dragons|R
 Dawn Elemental|R
+Decree of Pain|R
 Death's-Head Buzzard|C
 Decree of Annihilation|R
-Decree of Pain|R
 Decree of Justice|R
 Decree of Savagery|R
 Decree of Silence|R
@@ -39,70 +39,70 @@ Dispersal Shield|C
 Divergent Growth|C
 Dragon Breath|C
 Dragon Fangs|C
-Dragon Mage|R
 Dragon Scales|C
+Dragon Mage|R
 Dragon Shadow|C
 Dragon Tyrant|R
 Dragon Wings|C
 Dragonspeaker Shaman|U
 Dragonstalker|U
-Eternal Dragon|R
 Edgewalker|U
 Dragonstorm|R
 Elvish Aberration|U
+Eternal Dragon|R
 Enrage|U
 Exiled Doomsayer|R
+Fatal Mutation|U
 Extra Arms|U
 Faces of the Past|R
-Fatal Mutation|U
 Fierce Empath|C
+Force Bubble|R
 Final Punishment|R
 Forgotten Ancient|R
-Force Bubble|R
+Frozen Solid|C
 Frontline Strategist|C
 Form of the Dragon|R
-Frozen Solid|C
-Gilded Light|U
 Goblin Brigand|C
+Gilded Light|U
 Goblin Psychopath|U
-Goblin War Strike|C
 Goblin Warchief|U
+Goblin War Strike|C
 Guilty Conscience|C
 Grip of Chaos|R
-Hindering Touch|C
 Hunting Pack|U
+Hindering Touch|C
 Karona's Zealot|U
-Karona, False God|R
 Krosan Drover|C
+Karona, False God|R
 Krosan Warchief|U
+Lingering Death|C
 Kurgadon|U
 Lethal Vapors|R
-Lingering Death|C
-Long-Term Plans|U
 Mercurial Kite|C
+Long-Term Plans|U
+Mind's Desire|R
 Metamorphose|U
 Mischievous Quanar|R
-Mind's Desire|R
 Mistform Warchief|U
 Misguided Rage|C
-Nefashu|R
 Noble Templar|C
+Nefashu|R
 One with Nature|U
-Parallel Thoughts|R
 Pemmin's Aura|U
-Primitive Etchings|R
+Parallel Thoughts|R
 Proteus Machine|U
+Primitive Etchings|R
 Putrid Raptor|U
+Rain of Blades|U
 Pyrostatic Pillar|U
 Raven Guild Initiate|C
-Rain of Blades|U
 Raven Guild Master|R
 Recuperate|C
 Reaping the Graves|C
 Riptide Survivor|U
 Reward the Faithful|U
-Rock Jockey|C
 Root Elemental|R
+Rock Jockey|C
 Scattershot|C
 Rush of Knowledge|C
 Shoreline Ranger|C
@@ -110,15 +110,15 @@ Scornful Egotist|C
 Siege-Gang Commander|R
 Silver Knight|U
 Skirk Volcanist|U
-Skulltap|C
 Sliver Overlord|R
 Soul Collector|R
+Skulltap|C
 Stabilizer|R
-Spark Spray|C
 Sprouting Vines|C
+Spark Spray|C
+Sulfuric Vortex|R
 Stifle|R
 Temple of the False God|U
-Sulfuric Vortex|R
 Temporal Fissure|C
 Tendrils of Agony|U
 Thundercloud Elemental|U
@@ -127,9 +127,9 @@ Trap Digger|R
 Torrent of Fire|C
 Treetop Scout|C
 Twisted Abomination|C
+Undead Warchief|U
 Uncontrolled Infestation|C
 Unburden|C
-Undead Warchief|U
 Upwelling|R
 Unspeakable Symbol|U
 Vengeful Dead|C
@@ -137,7 +137,7 @@ Wirewood Guardian|C
 Wipe Clean|C
 Wing Shards|U
 Wirewood Symbiote|U
-Woodcloaker|C
 Xantid Swarm|R
+Woodcloaker|C
 Zealous Inquisitor|C
 Zombie Cutthroat|C

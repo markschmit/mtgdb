@@ -1,9 +1,9 @@
 Abomination|U
 Air Elemental|U
-Alabaster Potion|C
 Aladdin's Lamp|R
-Ali Baba|U
+Alabaster Potion|C
 Aladdin's Ring|R
+Ali Baba|U
 Amrou Kithkin|C
 Angry Mob|U
 Amulet of Kroog|C
@@ -12,15 +12,15 @@ Animate Dead|U
 Animate Wall|R
 Apprentice Wizard|C
 Ankh of Mishra|R
+Ashes to Ashes|U
 Armageddon Clock|R
 Armageddon|R
 Ashnod's Battle Gear|U
-Ashes to Ashes|U
 Aspect of Wolf|R
 Balance|R
 Backfire|U
-Bad Moon|R
 Ball Lightning|R
+Bad Moon|R
 Battering Ram|C
 Benalish Hero|C
 Birds of Paradise|R
@@ -45,10 +45,10 @@ Bronze Tablet|R
 Carnivorous Plant|C
 Burrowing|U
 Carrion Ants|U
-Channel|U
+Celestial Prism|U
 Cave People|U
 Castle|U
-Celestial Prism|U
+Channel|U
 Circle of Protection: Artifacts|U
 Chaoslace|R
 Circle of Protection: Black|C
@@ -63,11 +63,11 @@ Colossus of Sardia|R
 Cockatrice|R
 Control Magic|U
 Conservator|U
+Counterspell|U
 Coral Helm|R
 Conversion|U
 Cosmic Horror|R
 Craw Wurm|C
-Counterspell|U
 Creature Bond|C
 Crimson Manticore|R
 Crystal Rod|U
@@ -81,242 +81,56 @@ Deathgrip|U
 Death Ward|C
 Dark Ritual|C
 Deathlace|R
-Detonate|U
 Desert Twister|U
+Detonate|U
+Disintegrate|C
 Diabolic Machine|U
 Disenchant|C
 Dingus Egg|R
-Disrupting Scepter|R
-Disintegrate|C
-Divine Transformation|U
-Drudge Skeletons|C
-Durkwood Boars|C
-Dragon Whelp|U
-Drain Power|R
-Drain Life|C
-Dwarven Warriors|C
-Earth Elemental|U
-Ebony Horse|R
-Earthquake|R
-El-Hajjâj|R
-Dragon Engine|R
-Thoughtlace|R
-Throne of Bone|U
-Timber Wolves|R
-Time Elemental|R
-Tranquility|C
-Titania's Song|R
-Tundra Wolves|C
-Triskelion|R
-Tsunami|U
-Twiddle|C
-Tunnel|U
-Uncle Istvan|U
-Unholy Strength|C
-Unstable Mutation|C
-Unsummon|C
-Untamed Wilds|U
-Urza's Avenger|R
-Uthden Troll|U
-Vampire Bats|C
-Verduran Enchantress|R
-Venom|C
-Wall of Bone|U
-Wall of Air|U
-Visions|U
-Volcanic Eruption|R
-Wall of Brambles|U
-Wall of Dust|U
-Wall of Fire|U
-Wall of Ice|U
-Wall of Spears|C
-Wall of Stone|U
-Wall of Swords|U
-Wall of Water|U
-Wall of Wood|C
-War Mammoth|C
-Wanderlust|U
-Warp Artifact|R
-Water Elemental|U
-Web|R
-Weakness|C
-Whirling Dervish|U
-White Knight|U
-White Ward|U
-White Mana Battery|R
-Wild Growth|C
-Will-O'-The-Wisp|R
-Winds of Change|R
-Winter Orb|R
-Winter Blast|U
-Wooden Sphere|U
-Word of Binding|C
-Xenic Poltergeist|R
-Wrath of God|R
-Yotian Soldier|C
-Zephyr Falcon|C
-Zombie Master|R
-Plains|L
-Power Surge|R
-Power Sink|C
-Pradesh Gypsies|C
-Prodigal Sorcerer|C
-Primal Clay|R
-Psionic Entity|R
-Psychic Venom|C
-Purelace|R
-Pyrotechnics|U
-Radjan Spirit|U
-Red Elemental Blast|C
-Rag Man|R
-Red Ward|U
-Raise Dead|C
-Red Mana Battery|R
-Rebirth|R
-Regeneration|C
-Relic Bind|R
-Reverse Damage|R
-Rod of Ruin|U
-Righteousness|R
-Royal Assassin|R
-Samite Healer|C
-Savannah Lions|R
-Sandstorm|C
-Scathe Zombies|C
-Scavenging Ghoul|U
-Scryb Sprites|C
-Seeker|C
-Sea Serpent|C
-Segovian Leviathan|U
-Sengir Vampire|U
-Serra Angel|U
-Shanodin Dryads|C
-Shapeshifter|U
-Shivan Dragon|R
-Shatter|C
-Sindbad|U
-Simulacrum|U
-Sisters of the Flame|C
-Siren's Call|U
-Smoke|R
-Sleight of Mind|R
-Sorceress Queen|R
-Spirit Link|U
-Spell Blast|C
-Soul Net|U
-Spirit Shackle|U
-Steal Artifact|U
-Stasis|R
-Stone Giant|U
-Strip Mine|U
-Stone Rain|C
-Stream of Life|C
-Sunken City|C
-Sunglasses of Urza|R
-Swords to Plowshares|U
-Swamp|L
-Sylvan Library|R
-Tawnos's Weaponry|U
-Tawnos's Wand|U
-Terror|C
-Tempest Efreet|R
-The Rack|U
-Tetravus|R
-The Brute|C
-Thicket Basilisk|U
-The Hive|R
-Erg Raiders|C
-Elven Riders|U
-Elvish Archers|R
-Energy Tap|C
-Energy Flux|U
-Erosion|C
-Evil Presence|U
-Eternal Warrior|C
-Fear|C
-Eye for an Eye|R
-Feedback|U
-Fire Elemental|U
-Fellwar Stone|U
-Firebreathing|C
-Flight|C
-Fissure|C
-Fireball|C
-Flashfires|U
-Fog|C
-Flood|C
-Forest|L
-Flying Carpet|R
-Force of Nature|R
-Fortified Area|C
-Frozen Shade|C
-Fungusaur|R
-Gaea's Liege|R
-Gaseous Form|C
-Ghost Ship|U
-Giant Growth|C
-Giant Spider|C
-Giant Strength|C
-Giant Tortoise|C
-Gloom|U
-Glasses of Urza|U
-Goblin Rock Sled|C
-Goblin Balloon Brigade|U
-Grapeshot Catapult|C
-Goblin King|R
-Green Mana Battery|R
-Gray Ogre|C
-Green Ward|U
-Greed|R
-Grizzly Bears|C
 Healing Salve|C
 Hill Giant|C
-Holy Armor|C
-Helm of Chatzuk|R
 Holy Strength|C
-Howl from Beyond|C
+Holy Armor|C
 Howling Mine|R
-Hurloon Minotaur|C
 Hurkyl's Recall|R
+Howl from Beyond|C
+Hurloon Minotaur|C
 Hypnotic Specter|U
 Hurr Jackal|R
-Hurricane|U
 Immolation|C
 Instill Energy|U
+Hurricane|U
 Inferno|R
-Ivory Cup|U
 Ironclaw Orcs|C
 Iron Star|U
 Ironroot Treefolk|C
-Island Fish Jasconius|R
 Island Sanctuary|R
 Island|L
+Island Fish Jasconius|R
+Ivory Cup|U
 Ivory Tower|R
-Elder Land Wurm|R
-Jandor's Saddlebags|R
 Jade Monolith|R
-Jump|C
+Jandor's Saddlebags|R
 Jayemdae Tome|R
+Jump|C
+Junun Efreet|U
 Keldon Warlord|U
-Junún Efreet|U
-Power Leak|C
-Plague Rats|C
 Karma|U
-Kormus Bell|R
 Killer Bees|U
-Kismet|U
 Land Leeches|C
+Kormus Bell|R
+Kismet|U
 Leviathan|R
 Ley Druid|U
 Land Tax|R
-Lifeforce|U
 Library of Leng|U
+Lifeforce|U
 Lifetap|U
 Lifelace|R
-Lightning Bolt|C
 Living Artifact|R
-Living Lands|R
+Lightning Bolt|C
 Llanowar Elves|C
+Living Lands|R
 Lord of Atlantis|R
 Lost Soul|C
 Lord of the Pit|R
@@ -326,25 +140,84 @@ Magical Hack|R
 Mahamoti Djinn|R
 Mana Short|R
 Mana Flare|R
-Mana Clash|R
 Mana Vault|R
+Mana Clash|R
 Manabarbs|R
 Marsh Gas|C
 Marsh Viper|C
+Mesa Pegasus|C
 Merfolk of the Pearl Trident|C
 Meekstone|R
-Mesa Pegasus|C
 Mind Twist|R
 Mind Bomb|U
 Millstone|R
+Disrupting Scepter|R
+Divine Transformation|U
+Dragon Engine|R
+Dragon Whelp|U
+Drudge Skeletons|C
+Drain Power|R
+Drain Life|C
+Durkwood Boars|C
+Dwarven Warriors|C
+Earth Elemental|U
+El-Hajjaj|R
+Ebony Horse|R
+Earthquake|R
+Elven Riders|U
+Elder Land Wurm|R
+Elvish Archers|R
+Erg Raiders|C
+Energy Tap|C
+Energy Flux|U
+Eternal Warrior|C
+Erosion|C
+Evil Presence|U
+Fear|C
+Eye for an Eye|R
+Feedback|U
+Fire Elemental|U
+Fellwar Stone|U
+Firebreathing|C
+Fireball|C
+Flight|C
+Flashfires|U
+Fissure|C
+Fog|C
+Flying Carpet|R
+Flood|C
+Forest|L
+Force of Nature|R
+Frozen Shade|C
+Fortified Area|C
+Gaseous Form|C
+Fungusaur|R
+Gaea's Liege|R
+Giant Spider|C
+Ghost Ship|U
+Giant Growth|C
+Giant Strength|C
+Giant Tortoise|C
+Gloom|U
+Glasses of Urza|U
+Goblin Rock Sled|C
+Goblin Balloon Brigade|U
+Goblin King|R
+Grapeshot Catapult|C
+Green Mana Battery|R
+Gray Ogre|C
+Green Ward|U
+Greed|R
+Grizzly Bears|C
+Helm of Chatzuk|R
 Mishra's Factory|U
 Mishra's War Machine|R
 Mons's Goblin Raiders|C
+Murk Dwellers|C
 Mountain|L
 Morale|C
-Murk Dwellers|C
-Nafs Asp|C
 Nether Shadow|R
+Nafs Asp|C
 Nightmare|R
 Nevinyrral's Disk|R
 Northern Paladin|R
@@ -355,14 +228,141 @@ Onulet|R
 Ornithopter|U
 Orcish Oriflamme|U
 Osai Vultures|U
-Paralyze|C
 Pearled Unicorn|C
-Pestilence|C
 Personal Incarnation|R
+Pestilence|C
+Paralyze|C
 Phantasmal Terrain|C
-Phantasmal Forces|U
 Phantom Monster|U
+Phantasmal Forces|U
+Pit Scorpion|C
 Pikemen|C
 Piety|C
 Pirate Ship|R
-Pit Scorpion|C
+Power Leak|C
+Plains|L
+Plague Rats|C
+Pradesh Gypsies|C
+Power Surge|R
+Power Sink|C
+Prodigal Sorcerer|C
+Primal Clay|R
+Psionic Entity|R
+Psychic Venom|C
+Radjan Spirit|U
+Purelace|R
+Pyrotechnics|U
+Red Elemental Blast|C
+Rag Man|R
+Red Ward|U
+Red Mana Battery|R
+Rebirth|R
+Raise Dead|C
+Relic Bind|R
+Righteousness|R
+Reverse Damage|R
+Regeneration|C
+Royal Assassin|R
+Samite Healer|C
+Rod of Ruin|U
+Savannah Lions|R
+Scathe Zombies|C
+Sandstorm|C
+Scryb Sprites|C
+Scavenging Ghoul|U
+Seeker|C
+Sea Serpent|C
+Segovian Leviathan|U
+Sengir Vampire|U
+Shanodin Dryads|C
+Serra Angel|U
+Shapeshifter|U
+Shivan Dragon|R
+Shatter|C
+Sindbad|U
+Simulacrum|U
+Siren's Call|U
+Smoke|R
+Sleight of Mind|R
+Sisters of the Flame|C
+Sorceress Queen|R
+Spell Blast|C
+Soul Net|U
+Spirit Link|U
+Spirit Shackle|U
+Steal Artifact|U
+Stasis|R
+Stream of Life|C
+Stone Giant|U
+Stone Rain|C
+Strip Mine|U
+Sunken City|C
+Sunglasses of Urza|R
+Swords to Plowshares|U
+Wall of Swords|U
+Wall of Water|U
+Wall of Wood|C
+War Mammoth|C
+Wanderlust|U
+Warp Artifact|R
+Water Elemental|U
+Web|R
+Weakness|C
+White Knight|U
+Whirling Dervish|U
+White Ward|U
+White Mana Battery|R
+Wild Growth|C
+Will-O'-The-Wisp|R
+Winter Blast|U
+Winds of Change|R
+Winter Orb|R
+Word of Binding|C
+Wooden Sphere|U
+Wrath of God|R
+Xenic Poltergeist|R
+Yotian Soldier|C
+Zephyr Falcon|C
+Zombie Master|R
+Swamp|L
+Sylvan Library|R
+Tawnos's Wand|U
+Tawnos's Weaponry|U
+Terror|C
+Tempest Efreet|R
+The Rack|U
+Tetravus|R
+The Brute|C
+Thicket Basilisk|U
+The Hive|R
+Timber Wolves|R
+Throne of Bone|U
+Thoughtlace|R
+Time Elemental|R
+Tranquility|C
+Titania's Song|R
+Triskelion|R
+Tundra Wolves|C
+Tsunami|U
+Unholy Strength|C
+Twiddle|C
+Tunnel|U
+Uncle Istvan|U
+Unstable Mutation|C
+Urza's Avenger|R
+Untamed Wilds|U
+Unsummon|C
+Uthden Troll|U
+Vampire Bats|C
+Verduran Enchantress|R
+Venom|C
+Wall of Air|U
+Visions|U
+Volcanic Eruption|R
+Wall of Bone|U
+Wall of Brambles|U
+Wall of Dust|U
+Wall of Fire|U
+Wall of Spears|C
+Wall of Ice|U
+Wall of Stone|U

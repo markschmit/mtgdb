@@ -1,15 +1,15 @@
-Kokusho, the Evening Star|R
-Draco|R
+Bladewing the Risen|R
 Dragon Whelp|R
+Draco|R
+Bogardan Hellkite|R
 Hellkite Overlord|R
 Ebon Dragon|R
 Dragonstorm|R
-Bogardan Hellkite|R
-Bladewing the Risen|R
+Kokusho, the Evening Star|R
+Form of the Dragon|R
 Rith, the Awakener|R
 Niv-Mizzet, the Firemind|R
 Nicol Bolas|R
 Shivan Dragon|R
 Thunder Dragon|R
 Two-Headed Dragon|R
-Form of the Dragon|R

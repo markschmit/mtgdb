@@ -1,4 +1,4 @@
-# coding=utf8
+# vim:fileencoding=latin-1
 
 # Script to download/generate all the checklists based on magiccards.info
 
@@ -41,7 +41,7 @@ def parseSets(filename):
     parts = line.strip().split("\t")
 
     if len(parts) < 5:
-      #print "Skipping line %d without much data: %s" % (i, str(parts))
+      #print "Skipping line %d without much data: %s" je
       continue
 
     (date_str, name, code, set_type) = (parts[0], parts[1], parts[3], parts[4])
@@ -73,9 +73,18 @@ def normalizeName(name):
   if match:
     # Split card: use what's in the parentheses
     name = match.group(1)
-  name = name.replace(u"\xc6", "Ae")
-  name = name.replace(u"\u201c", '"')
-  name = name.replace(u"\u201d", '"')
+  for k, v in [
+      (u"Æ", "Ae"),  # A million cards
+      (u"\u201c", '"'),
+      (u"\u201d", '"'),  
+      (u"ö", 'o'),  # Jötun Grunt
+      (u"á", 'a'),  # Ghazbán Ogre, Juzám Djinn
+      (u"â", 'a'),  # El-Hajjâj
+      (u"í", 'i'),  # Ifh-Bíff Efreet
+      (u"ú", 'u'),  # Junún Efreet
+      ]:
+    name = name.replace(k, v)
+
   try:
     name.encode("ascii")
   except UnicodeEncodeError, e:
@@ -101,6 +110,7 @@ def fetchMagicCardsInfoPage(code):
   try:
     response = urllib2.urlopen(url)
   except urllib2.URLError:
+    print "Error parsing URL: %s" % url
     return None
   return response.read().decode("utf8")
 
@@ -206,11 +216,13 @@ class CardCategorizer(object):
       return self.LAND
 
     if not manaCost:
+      # TODO(mschmit): Figure out how to avoid UNKNOWN for Lotus Bloom
       return self.UNKNOWN
 
     if "/" in manaCost:
       if re.match("^\d*\{.*\}$", manaCost):
         # All symbols are hybrid, so this is a hybrid card
+        # TODO(mschmit): Keep mono-colored hybrid out (e.g. spectral procession)
         return self.HYBRID
       return self.GOLD  # Only some symbols are hybrid, so this is gold
   
@@ -302,15 +314,14 @@ if __name__ == "__main__":
       os.mkdir("fetched")
     htmlname = "fetched/%s-mci.html" % s.code.lower()
     html = None
+    downloaded_html = False
     if os.path.exists(htmlname):
       with codecs.open(htmlname, "r", encoding='utf8') as f:
         html = f.read()
 
     if not html:
+      downloaded_html = True
       html = fetchMagicCardsInfoPage(s.code)
-      if html:
-        with codecs.open(htmlname, "w", encoding='utf8') as f:
-          f.write(html)
 
     if not html:
       maybePrintLine(True)
@@ -322,6 +333,10 @@ if __name__ == "__main__":
       maybePrintLine(True)
       print "ERROR: Unable to parse html for set:", s
       continue
+
+    if downloaded_html:
+      with codecs.open(htmlname, "w", encoding='utf8') as f:
+        f.write(html)
 
     textname = "%s/%s-%s.txt" % (folder, s.date_str, s.code.lower())
     with codecs.open(textname, "w", encoding='utf8') as f:

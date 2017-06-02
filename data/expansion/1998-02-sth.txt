@@ -1,9 +1,9 @@
-Hibernation Sliver|U
+Gliding Licid|U
+Heat of Battle|U
+Hermit Druid|R
 Hammerhead Shark|C
 Grave Pact|R
 Heartstone|U
-Heat of Battle|U
-Hermit Druid|R
 Acidic Sliver|U
 Bandage|C
 Awakening|R
@@ -11,15 +11,15 @@ Amok|R
 Bottomless Pit|U
 Brush with Death|C
 Bullwhip|U
-Burgeoning|R
 Calming Licid|U
+Burgeoning|R
+Change of Heart|C
 Carnassid|R
 Cannibalize|C
-Change of Heart|C
 Cloud Spirit|C
+Contemplation|U
 Constant Mists|U
 Contempt|C
-Contemplation|U
 Conviction|C
 Convulsing Licid|U
 Corrupting Licid|U
@@ -27,16 +27,6 @@ Craven Giant|C
 Crovax the Cursed|R
 Crossbow Ambush|C
 Crystalline Sliver|U
-Volrath's Stronghold|R
-Walking Dream|U
-Wall of Blossoms|U
-Wall of Essence|U
-Wall of Razors|U
-Wall of Souls|U
-Wall of Tears|U
-Warrior Angel|R
-Warrior en-Kor|U
-Youthful Knight|C
 Dauthi Trapper|U
 Dream Halls|R
 Death Stroke|C
@@ -49,24 +39,24 @@ Elven Rite|U
 Ensnaring Bridge|R
 Fling|C
 Fanning the Flames|U
+Flowstone Blade|C
 Flowstone Hellion|U
 Flame Wave|U
-Flowstone Blade|C
 Flowstone Mauler|R
 Flowstone Shambler|C
-Foul Imp|C
 Furnace Spirit|C
-Gliding Licid|U
+Foul Imp|C
 Honor Guard|C
+Hibernation Sliver|U
 Hesitation|U
 Hidden Retreat|R
-Horn of Greed|R
 Hornet Cannon|U
+Horn of Greed|R
 Intruder Alarm|R
-Jinxed Ring|R
 Invasion Plans|R
-Lab Rats|C
+Jinxed Ring|R
 Lancers en-Kor|U
+Lab Rats|C
 Megrim|U
 Lowland Basilisk|C
 Leap|C
@@ -92,52 +82,62 @@ Portcullis|R
 Pursuit of Knowledge|R
 Rabid Rats|C
 Rebound|U
+Reins of Power|R
 Ransack|U
 Revenant|R
-Reins of Power|R
-Ruination|R
 Rolling Stones|R
-Sacred Ground|R
+Ruination|R
 Samite Blessing|C
-Scapegoat|U
-Seething Anger|C
+Sacred Ground|R
 Serpent Warrior|C
+Seething Anger|C
+Scapegoat|U
 Shaman en-Kor|R
 Shard Phoenix|R
 Shifting Wall|U
+Silver Wyvern|R
 Sift|C
 Shock|C
-Silver Wyvern|R
 Skeleton Scavengers|R
 Skyshroud Archer|C
 Skyshroud Falcon|C
 Skyshroud Troopers|C
 Smite|C
 Sliver Queen|R
-Soltari Champion|R
 Spike Breeder|R
+Soltari Champion|R
 Spike Colony|C
 Spike Feeder|U
 Spike Soldier|U
 Spike Worker|C
 Spindrift Drake|C
 Spined Sliver|U
-Spined Wurm|C
 Spirit en-Kor|C
+Spined Wurm|C
 Spitting Hydra|R
 Stronghold Assassin|R
 Stronghold Taskmaster|U
 Sword of the Chosen|R
 Tempting Licid|U
 Temper|U
-Thalakos Deceiver|R
 Tidal Warrior|C
+Thalakos Deceiver|R
 Tidal Surge|C
+Venerable Monk|C
 Torment|C
 Tortured Existence|C
-Venerable Monk|C
-Verdant Touch|R
 Victual Sliver|U
+Verdant Touch|R
 Volrath's Laboratory|R
+Volrath's Stronghold|R
 Volrath's Gardens|R
 Volrath's Shapeshifter|R
+Walking Dream|U
+Wall of Blossoms|U
+Wall of Essence|U
+Wall of Razors|U
+Wall of Souls|U
+Wall of Tears|U
+Warrior Angel|R
+Warrior en-Kor|U
+Youthful Knight|C

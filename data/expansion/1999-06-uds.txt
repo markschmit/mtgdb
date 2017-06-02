@@ -1,4 +1,4 @@
-Goblin Marshal|R
+Fledgling Osprey|C
 Academy Rector|R
 Ancient Silverback|R
 Aether Sting|U
@@ -19,53 +19,53 @@ Bubbling Muck|C
 Capashen Knight|C
 Capashen Standard|C
 Capashen Templar|C
-Carnival of Souls|R
 Chime of Night|C
-Cinder Seer|U
+Carnival of Souls|R
 Colos Yearling|C
+Cinder Seer|U
 Covetous Dragon|R
 Compost|U
 Disease Carriers|C
 Disappear|U
-Elvish Lookout|C
 Dying Wail|C
 Donate|R
+Elvish Lookout|C
 Elvish Piper|R
 Emperor Crocodile|R
 Extruder|U
 Eradicate|U
 Encroach|U
 False Prophet|R
+Festering Wound|U
 Fend Off|C
 Fatigue|C
-Festering Wound|U
 Field Surgeon|C
 Gamekeeper|U
-Fledgling Osprey|C
 Flame Jet|C
-Flicker|R
 Fodder Cannon|U
+Flicker|R
 Goblin Berserker|U
-Goblin Festival|R
 Goblin Gardener|C
+Goblin Festival|R
+Goblin Marshal|R
 Goblin Masons|C
 Goliath Beetle|C
 Heart Warden|C
 Hulking Ogre|C
 Illuminated Wings|C
 Hunting Moa|U
+Jasmine Seer|U
 Incendiary|U
 Impatience|R
 Iridescent Drake|U
 Ivy Seer|U
-Jasmine Seer|U
-Junk Diver|R
 Keldon Champion|U
+Junk Diver|R
 Keldon Vandals|C
+Lurking Jackals|U
 Kingfisher|C
 Magnify|C
 Landslide|U
-Lurking Jackals|U
 Mantis Engine|U
 Mark of Fury|C
 Marker Beetles|C
@@ -76,39 +76,39 @@ Masticore|R
 Mental Discipline|C
 Metathran Elite|U
 Metathran Soldier|C
+Nightshade Seer|U
 Momentum|U
 Multani's Decree|C
-Nightshade Seer|U
 Pattern of Rebirth|R
 Opposition|R
 Opalescence|R
 Phyrexian Monitor|C
 Phyrexian Negator|R
-Plague Dogs|U
 Plated Spider|C
+Plague Dogs|U
 Private Research|U
 Powder Keg|R
 Plow Under|R
+Ravenous Rats|C
 Rapid Decay|R
 Quash|U
-Ravenous Rats|C
 Rayne, Academy Chancellor|R
-Reckless Abandon|C
 Reliquary Monk|C
+Reckless Abandon|C
 Replenish|R
 Repercussion|R
+Rofellos's Gift|C
 Rescue|C
 Rofellos, Llanowar Emissary|R
-Rofellos's Gift|C
-Sanctimony|U
-Scent of Brine|C
 Scent of Cinder|C
-Scent of Jasmine|C
+Scent of Brine|C
+Sanctimony|U
 Scent of Ivy|C
+Scent of Jasmine|C
 Scent of Nightshade|C
 Scour|U
-Scrying Glass|R
 Serra Advocate|U
+Scrying Glass|R
 Sigil of Sleep|C
 Skittering Horror|C
 Slinking Skirge|C
@@ -117,27 +117,27 @@ Soul Feast|U
 Solidarity|C
 Splinter|U
 Squirming Mass|C
-Storage Matrix|R
 Taunting Elf|C
+Storage Matrix|R
 Telepathic Spies|C
 Temporal Adept|R
 Tethered Griffin|R
 Thieving Magpie|U
 Thorn Elemental|R
+Thran Foundry|U
 Thran Dynamo|U
 Thran Golem|R
-Thran Foundry|U
 Tormented Angel|C
 Twisted Experiment|C
 Treachery|R
 Trumpet Blast|C
-Urza's Incubator|R
 Voice of Duty|U
+Urza's Incubator|R
 Voice of Reason|U
 Wall of Glare|C
 Wake of Destruction|R
-Wild Colos|C
 Yavimaya Elder|C
+Wild Colos|C
 Yavimaya Enchantress|U
 Yavimaya Hollow|R
 Yawgmoth's Bargain|R

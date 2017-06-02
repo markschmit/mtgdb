@@ -1,3 +1,11 @@
+# Top lines added manually
+3000-01	Prerelease Foil		PTC	Supplemental set	Technically part of other sets
+3000-06	Grand Prix Foil		GPX	Supplemental set	Not technically a set
+3000-12	Magic Player Rewards		MPRP	Supplemental set	Not technically a set
+3000-09	Media Inserts		MBP	Supplemental set	Not technically a set
+3000-03	Champs Rewards		CP	Supplemental set	Not technically a set
+3000-04	Release Event Rewards		REP	Supplemental set	Not technically a set
+
 # From http://mtg.gamepedia.com/Template:List_of_Magic_sets, tweaked for TSP, masterpiece series
 1993-08	Alpha (Limited Edition)		LEA (A)	Core set	Core set #1 (1st printing); Cards do not show the expansion symbol.
 1993-10	Beta (Limited Edition)		LEB (B)	Core set	Core set #1 (2nd printing); Cards do not show the expansion symbol.

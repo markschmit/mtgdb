@@ -1,52 +1,73 @@
-Sentinel Spider|C
-Blightsoil Druid|C
-Ancestral Mask|U
-Animate Dead|U
-Abundant Growth|C
+Twisted Abomination|C
+Sphinx of the Steel Wind|M
+Timberwatch Elf|U
+Tidal Wave|C
+Toxic Deluge|R
+Tooth and Claw|U
+Ticking Gnomes|U
+Squadron Hawk|C
+Stingscourger|C
+Stupefying Touch|C
+Swiftwater Cliffs|C
+Sulfuric Vortex|R
+Sylvan Library|R
+Sylvan Might|C
+Swords to Plowshares|U
+Thornwood Falls|C
+Thornweald Archer|C
+Sprite Noble|U
+Thunderclap Wyvern|U
+Tragic Slip|C
+Torrent of Souls|U
+Trygon Predator|U
+Tranquil Cove|C
+Undying Rage|C
+Urborg Uprising|C
+Vampiric Tutor|M
+Unexpectedly Absent|R
+Victimize|U
+Vindicate|R
+Void|R
+Visara the Dreadful|R
+Wall of Omens|U
+Wake of Vultures|C
+Wakedancer|C
+Warden of Evos Isle|C
+War Priest of Thune|U
+Wee Dragonauts|U
+Wasteland|R
+Welkin Guide|C
+Whitemane Lion|C
+Werebear|C
+Wildfire Emissary|C
+Winter Orb|R
+Wind-Scarred Crag|C
+Worn Powerstone|U
+Wirewood Symbiote|U
+Wonder|U
+Worldgorger Dragon|M
+Wrath of God|R
+Xantid Swarm|R
+Zealous Persecution|U
+Yavimaya Enchantress|C
+Young Pyromancer|U
 Arcanis the Omnipotent|R
+Abundant Growth|C
+Animate Dead|U
 Argothian Enchantress|M
-Annihilate|U
+Ancestral Mask|U
 Armadillo Cloak|U
+Annihilate|U
+Ashnod's Altar|U
 Avarax|C
 Aven Riftwatcher|C
-Ashnod's Altar|U
 Baleful Strix|R
 Balance|M
 Ballynock Cohort|C
 Battle Squadron|U
 Beetleback Chief|U
 Benevolent Bodyguard|C
-Seismic Stomp|C
-Sengir Autocrat|U
-Sensei's Divining Top|R
-Second Thoughts|C
-Serra Angel|U
-Shaman of the Pack|U
-Shardless Agent|R
-Serendib Efreet|R
-Shoreline Ranger|C
-Sinkhole|R
-Siege-Gang Commander|R
-Shelter|C
-Silent Departure|C
-Silvos, Rogue Elemental|R
-Skulking Ghost|C
-Soulcatcher|U
-Sneak Attack|M
-Squadron Hawk|C
-Sprite Noble|U
-Sphinx of the Steel Wind|M
-Stingscourger|C
-Sulfuric Vortex|R
-Stupefying Touch|C
-Swiftwater Cliffs|C
-Swords to Plowshares|U
-Sylvan Library|R
-Thornweald Archer|C
-Sylvan Might|C
-Thunderclap Wyvern|U
-Thornwood Falls|C
-Ticking Gnomes|U
+Blightsoil Druid|C
 Blood Artist|U
 Bloodbraid Elf|U
 Blossoming Sands|C
@@ -57,8 +78,8 @@ Braids, Cabal Minion|R
 Burning Vengeance|U
 Brawn|U
 Brainstorm|U
-Calciderm|U
 Cabal Therapy|U
+Calciderm|U
 Centaur Chieftain|U
 Carbonize|C
 Call the Skybreaker|R
@@ -68,16 +89,16 @@ Chrome Mox|M
 Chain Lightning|U
 Civic Wayfinder|C
 Coalition Honor Guard|C
-Commune with the Gods|C
 Control Magic|R
-Counterspell|C
+Commune with the Gods|C
 Crater Hellion|R
+Counterspell|C
 Deadbridge Shaman|C
 Dack Fayden|M
+Deep Analysis|C
 Daze|U
 Deathrite Shaman|R
 Desperate Ravings|C
-Deep Analysis|C
 Diminishing Returns|R
 Dismal Backwater|C
 Dragon Egg|C
@@ -85,8 +106,8 @@ Dualcaster Mage|R
 Dream Twist|C
 Eight-and-a-Half-Tails|R
 Duplicant|R
-Duress|C
 Elephant Guide|C
+Duress|C
 Elite Vanguard|C
 Elvish Vanguard|C
 Emperor Crocodile|C
@@ -95,43 +116,43 @@ Entomb|R
 Enlightened Tutor|R
 Eyeblight's Ending|C
 Extract from Darkness|U
-Fact or Fiction|U
 Faith's Fetters|U
-Faithless Looting|C
+Fact or Fiction|U
 Fervent Cathar|C
+Faithless Looting|C
 Firebolt|C
 Field of Souls|U
 Flinthoof Boar|U
 Flame Jab|U
 Flame-Kin Zealot|U
-Fog|C
 Force of Will|M
+Fog|C
 Gaea's Blessing|U
 Future Sight|R
 Gamble|R
 Gaseous Form|C
 Ghitu Slinger|U
-Giant Solifuge|R
 Giant Tortoise|C
+Giant Solifuge|R
 Glacial Wall|C
 Glimmerpoint Stag|U
 Glare of Subdual|R
+Goblin Trenches|R
 Goblin Charbelcher|R
 Gravedigger|C
-Goblin Trenches|R
 Harmonize|U
 Green Sun's Zenith|R
-Heritage Druid|R
 Havoc Demon|U
+Heritage Druid|R
 Honden of Cleansing Fire|U
 Honden of Infinite Rage|U
 Honden of Life's Web|U
 Honden of Night's Reach|U
 Honden of Seeing Winds|U
+Hymn to Tourach|U
 Hydroblast|U
 Humble|C
 Ichorid|R
-Hymn to Tourach|U
 Imperious Perfect|R
 Inkwell Leviathan|R
 Intangible Virtue|U
@@ -147,8 +168,8 @@ Jungle Hollow|C
 Karmic Guide|R
 Keldon Champion|U
 Keldon Marauders|C
-Kird Ape|C
 Kor Hookmaster|C
+Kird Ape|C
 Llanowar Elves|C
 Lys Alana Huntmaster|C
 Lys Alana Scarblade|U
@@ -156,94 +177,73 @@ Malicious Affliction|R
 Maelstrom Wanderer|M
 Man-o'-War|C
 Maze of Ith|R
-Mana Crypt|M
 Memory Lapse|C
-Mesa Enchantress|U
+Mana Crypt|M
 Merfolk Looter|U
+Mesa Enchantress|U
 Mindless Automaton|U
 Millikin|U
-Mishra's Factory|U
 Mistral Charger|C
+Mishra's Factory|U
 Mogg Fanatic|C
 Mogg War Marshal|C
 Monk Idealist|C
 Mother of Runes|R
-Nausea|C
-Mystical Tutor|R
 Natural Order|M
+Mystical Tutor|R
 Nature's Claim|C
+Nausea|C
 Nekrataal|U
 Necropotence|M
-Nevinyrral's Disk|R
 Night's Whisper|C
+Nevinyrral's Disk|R
 Nimble Mongoose|C
 Orcish Oriflamme|C
 Oona's Grace|C
 Pacifism|C
 Peregrine Drake|C
-Phyrexian Ingester|U
 Phantom Monster|C
-Phyrexian Gargantua|U
+Phyrexian Ingester|U
 Phyrexian Rager|C
+Phyrexian Gargantua|U
 Pilgrim's Eye|C
 Plague Witch|C
-Price of Progress|U
-Prowling Pangolin|C
-Prodigal Sorcerer|U
 Prismatic Lens|U
+Price of Progress|U
+Prodigal Sorcerer|U
+Prowling Pangolin|C
 Quiet Speculation|U
 Pyrokinesis|R
 Pyroblast|U
-Rally the Peasants|C
 Raise the Alarm|C
-Rancor|U
+Rally the Peasants|C
 Relic of Progenitus|U
 Reckless Charge|C
+Rancor|U
 Roar of the Wurm|U
 Regal Force|R
 Roots|C
 Rugged Highlands|C
 Rorix Bladewing|R
-Screeching Skaab|C
 Scoured Barrens|C
+Screeching Skaab|C
 Seal of Strength|C
 Seal of Cleansing|C
-Timberwatch Elf|U
-Tidal Wave|C
-Tooth and Claw|U
-Toxic Deluge|R
-Torrent of Souls|U
-Tragic Slip|C
-Tranquil Cove|C
-Trygon Predator|U
-Twisted Abomination|C
-Undying Rage|C
-Unexpectedly Absent|R
-Urborg Uprising|C
-Void|R
-Victimize|U
-Vampiric Tutor|M
-Vindicate|R
-Visara the Dreadful|R
-Wake of Vultures|C
-Wall of Omens|U
-Wakedancer|C
-Warden of Evos Isle|C
-War Priest of Thune|U
-Wee Dragonauts|U
-Wasteland|R
-Welkin Guide|C
-Whitemane Lion|C
-Werebear|C
-Wildfire Emissary|C
-Winter Orb|R
-Wind-Scarred Crag|C
-Wirewood Symbiote|U
-Wonder|U
-Worldgorger Dragon|M
-Worn Powerstone|U
-Wrath of God|R
-Xantid Swarm|R
-Yavimaya Enchantress|C
-Young Pyromancer|U
-Zealous Persecution|U
+Second Thoughts|C
+Seismic Stomp|C
+Sengir Autocrat|U
+Sentinel Spider|C
+Sensei's Divining Top|R
+Serendib Efreet|R
+Shaman of the Pack|U
+Serra Angel|U
+Shardless Agent|R
+Siege-Gang Commander|R
+Shoreline Ranger|C
+Shelter|C
+Sinkhole|R
+Silent Departure|C
+Silvos, Rogue Elemental|R
+Skulking Ghost|C
+Soulcatcher|U
+Sneak Attack|M

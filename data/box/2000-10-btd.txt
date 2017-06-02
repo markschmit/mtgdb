@@ -1,4 +1,6 @@
-Hulking Cyclops|S
+Fog Elemental|S
+Fog|S
+Fireball|S
 Air Elemental|S
 Balduvian Horde|S
 Ball Lightning|S
@@ -8,26 +10,23 @@ Brainstorm|S
 Bone Harvest|S
 Clockwork Avian|S
 Clockwork Beast|S
-Cloud Djinn|S
 Cloud Elemental|S
-Coercion|S
-Counterspell|S
+Cloud Djinn|S
 Crash of Rhinos|S
+Counterspell|S
+Coercion|S
 Crashing Boars|S
 Deadly Insect|S
 Dark Ritual|S
-Death Stroke|S
 Diabolic Edict|S
-Drain Life|S
+Death Stroke|S
 Diabolic Vision|S
-Dwarven Ruins|S
+Drain Life|S
 Ebon Stronghold|S
+Dwarven Ruins|S
 Erhnam Djinn|S
 Fallen Angel|S
 Feral Shadow|S
-Fog|S
-Fireball|S
-Fog Elemental|S
 Forest|L
 Force of Nature|S
 Gaseous Form|S
@@ -36,13 +35,14 @@ Giant Crab|S
 Giant Growth|S
 Hollow Dogs|S
 Havenwood Battleground|S
+Hulking Cyclops|S
+Killer Whale|S
 Island|L
 Impulse|S
-Killer Whale|S
+Lightning Bolt|S
 Kird Ape|S
 Leviathan|S
 Lava Axe|S
-Lightning Bolt|S
 Llanowar Elves|S
 Lowland Giant|S
 Mahamoti Djinn|S
@@ -54,13 +54,13 @@ Quirion Elves|S
 Raging Goblin|S
 Remote Isle|S
 Rampant Growth|S
-Segmented Wurm|S
 Scaled Wurm|S
+Segmented Wurm|S
 Sengir Vampire|S
 Shambling Strider|S
 Shivan Dragon|S
-Skittering Skirge|S
 Skittering Horror|S
+Skittering Skirge|S
 Shock|S
 Smoldering Crater|S
 Slippery Karst|S
@@ -68,8 +68,8 @@ Snapping Drake|S
 Swamp|L
 Svyelunite Temple|S
 Sonic Burst|S
-Talruum Minotaur|S
 Tar Pit Warrior|S
+Talruum Minotaur|S
 Thundering Giant|S
 Thunderbolt|S
 Terror|S
@@ -77,6 +77,6 @@ Viashino Warrior|S
 Tolarian Winds|S
 Vigilant Drake|S
 Wayward Soul|S
-Wild Growth|S
 Woolly Spider|S
+Wild Growth|S
 Yavimaya Wurm|S

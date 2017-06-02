@@ -1,15 +1,15 @@
+Black Vise|M
+Aether Vial|M
+Ivory Tower|M
+Isochron Scepter|M
 Jester's Cap|M
-Memory Jar|M
-Masticore|M
+Karn, Silver Golem|M
 Mirari|M
+Masticore|M
 Sol Ring|M
+Memory Jar|M
 Nevinyrral's Disk|M
 Mox Diamond|M
 Sundering Titan|M
 Sword of Body and Mind|M
 Zuran Orb|M
-Karn, Silver Golem|M
-Aether Vial|M
-Ivory Tower|M
-Isochron Scepter|M
-Black Vise|M

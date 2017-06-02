@@ -1,165 +1,165 @@
-Beastmaster's Magemark|C
-Culling Sun|R
+Cry of Contrition|C
 Absolver Thrull|C
-Agent of Masks|U
 Aetherplasm|U
 Abyssal Nocturnus|R
-Angel of Despair|R
+Agent of Masks|U
 Battering Wurm|U
+Angel of Despair|R
+Beastmaster's Magemark|C
 Belfry Spirit|U
-Benediction of Moons|C
 Bioplasm|R
+Benediction of Moons|C
 Blind Hunter|C
 Bloodscale Prowler|C
 Burning-Tree Shaman|R
 Burning-Tree Bloodscale|C
+Wild Cantor|C
+Witch-Maw Nephilim|R
+Wurmweaver Coil|R
+Wreak Havoc|U
+Yore-Tiller Nephilim|R
 Borborygmos|R
-Castigate|C
-Caustic Rain|U
 Cerebral Vortex|R
+Caustic Rain|U
+Castigate|C
 Conjurer's Ban|U
 Crash Landing|U
 Cremate|C
-Cry of Contrition|C
 Cryptwailing|U
 Crystal Seer|C
-Daggerclaw Imp|U
-Djinn Illuminatus|R
-Debtors' Knell|R
 Douse in Gloom|C
+Culling Sun|R
+Daggerclaw Imp|U
+Debtors' Knell|R
+Djinn Illuminatus|R
 Droning Bureaucrats|U
 Drowned Rusalka|U
 Dryad Sophisticate|U
 Earth Surge|R
 Dune-Brood Nephilim|R
-Electrolyze|U
 Exhumer Thrull|U
-Fencer's Magemark|C
+Electrolyze|U
 Feral Animist|U
-Gatherer of Graces|U
+Fencer's Magemark|C
 Ghor-Clan Bloodscale|U
 Frazzle|U
+Gatherer of Graces|U
 Gelectrode|U
 Ghor-Clan Savage|C
-Ghost Council of Orzhova|R
 Ghost Warden|C
-Glint-Eye Nephilim|R
-Gigadrowse|C
-Ghostway|R
+Ghost Council of Orzhova|R
 Giant Solifuge|R
+Gigadrowse|C
+Glint-Eye Nephilim|R
+Ghostway|R
 Goblin Flectomancer|U
 Godless Shrine|R
 Graven Dominator|R
+Gruul Nodorog|C
 Gristleback|U
 Gruul Guildmage|U
-Gruul Nodorog|C
 Gruul Scrapper|C
 Gruul Turf|C
 Gruul Signet|C
 Guardian's Magemark|C
 Gruul War Plow|R
-Hatching Plans|R
 Harrier Griffin|U
-Hypervolt Grasp|U
+Hatching Plans|R
 Hissing Miasma|U
-Invoke the Firemind|R
-Izzet Chronarch|C
+Hypervolt Grasp|U
 Infiltrator's Magemark|C
 Ink-Treader Nephilim|R
+Invoke the Firemind|R
 Izzet Boilerworks|C
-Izzet Guildmage|U
+Izzet Chronarch|C
 Izzet Signet|C
+Izzet Guildmage|U
 Killer Instinct|R
-Leyline of Lightning|R
-Leyline of Lifeforce|R
 Leap of Flame|C
-Leyline of the Meek|R
+Leyline of Lifeforce|R
+Leyline of Lightning|R
 Leyline of Singularity|R
+Leyline of the Meek|R
 Leyline of the Void|R
 Lionheart Maverick|C
 Living Inferno|R
 Martyred Rusalka|U
-Mimeofacture|R
 Mizzium Transreliquat|R
+Mimeofacture|R
 Moratorium Stone|R
-Mortify|U
 Mourning Thrull|C
+Mortify|U
 Necromancer's Magemark|C
-Orzhov Euthanist|C
 Nivix, Aerie of the Firemind|U
-Niv-Mizzet, the Firemind|R
 Ogre Savant|C
 Order of the Stars|U
+Orzhov Euthanist|C
+Niv-Mizzet, the Firemind|R
 Orzhov Basilica|C
 Orzhov Guildmage|U
-Orzhova, the Church of Deals|U
 Orzhov Pontiff|R
+Orzhova, the Church of Deals|U
 Orzhov Signet|C
 Ostiary Thrull|C
-Parallectric Feedback|R
 Pillory of the Sleepless|C
 Petrified Wood-Kin|R
+Parallectric Feedback|R
+Plagued Rusalka|U
 Petrahydrox|C
 Poisonbelly Ogre|C
-Plagued Rusalka|U
+Primeval Light|U
 Pyromatics|C
 Predatory Focus|U
-Rabble-Rouser|U
-Primeval Light|U
 Quicken|R
+Rabble-Rouser|U
 Restless Bones|C
 Repeal|C
 Revenant Patriarch|U
 Runeboggle|C
-Scab-Clan Mauler|C
 Rumbling Slum|R
+Scab-Clan Mauler|C
 Sanguine Praetor|R
-Scorched Rusalka|U
 Savage Twister|U
-Seize the Soul|R
+Scorched Rusalka|U
 Schismotivate|U
 Shadow Lance|U
+Seize the Soul|R
 Shrieking Grotesque|C
-Silhana Ledgewalker|C
 Shattering Spree|U
+Silhana Ledgewalker|C
 Siege of Towers|R
-Sinstriker's Will|U
 Silhana Starfletcher|C
+Sinstriker's Will|U
 Skarrgan Firebird|R
 Skarrg, the Rage Pits|U
-Skeletal Vampire|R
 Skarrgan Pit-Skulk|C
+Skeletal Vampire|R
 Skarrgan Skybreaker|U
-Skyrider Trainee|C
 Sky Swallower|R
-Souls of the Faultless|U
+Skyrider Trainee|C
 Smogsteed Rider|U
+Souls of the Faultless|U
 Spelltithe Enforcer|R
 Starved Rusalka|U
-Steam Vents|R
 Steamcore Weird|C
-Sword of the Paruns|R
-Stitch in Time|R
+Steam Vents|R
 Stomping Ground|R
+Stitch in Time|R
 Stratozeppelid|U
 Storm Herd|R
 Streetbreaker Wurm|C
+Sword of the Paruns|R
 Teysa, Orzhov Scion|R
 Tibor and Lumia|R
 Thunderheads|U
 Train of Thought|C
-Tin Street Hooligan|C
 Torch Drake|C
-To Arms!|U
+Tin Street Hooligan|C
 Ulasht, the Hate Seed|R
+To Arms!|U
+Vertigo Spawn|U
 Vedalken Plotter|U
 Vacuumelt|U
-Vertigo Spawn|U
 Wee Dragonauts|C
 Wildsize|C
 Withstand|C
-Wreak Havoc|U
-Witch-Maw Nephilim|R
-Wild Cantor|C
-Wurmweaver Coil|R
-Yore-Tiller Nephilim|R

@@ -4,8 +4,8 @@ Arcanum Wings|U
 Arc Blade|U
 Augur il-Vec|C
 Augur of Skulls|C
-Aven Augur|C
 Aven Mindcensor|U
+Aven Augur|C
 Baru, Fist of Krosa|R
 Barren Glory|R
 Blade of the Sixth Pride|C
@@ -21,45 +21,45 @@ Bridge from Below|R
 Char-Rumbler|U
 Cloud Key|R
 Chronomantic Escape|U
-Cloudseeder|U
 Coalition Relic|R
+Cloudseeder|U
 Cryptic Annelid|U
 Cutthroat il-Dal|C
+Dakmor Salvage|U
 Cyclical Evolution|U
 Darksteel Garrison|R
-Dakmor Salvage|U
 Daybreak Coronet|R
-Death Rattle|C
 Deepcavern Imp|C
+Death Rattle|C
+Dust of Moments|U
 Dryad Arbor|U
 Delay|U
-Dust of Moments|U
-Emberwilde Augur|C
 Edge of Autumn|C
+Emberwilde Augur|C
 Emblem of the Warmind|U
 Fatal Attraction|C
 Epochrasite|R
 Even the Odds|U
-Festering March|U
 Fleshwrither|U
+Festering March|U
 Flowstone Embrace|C
 Fomori Nomad|C
 Force of Savagery|R
 Frenzy Sliver|C
 Foresee|C
 Gathan Raiders|C
+Gift of Granite|C
 Gibbering Descent|R
 Ghostfire|C
-Gift of Granite|C
 Goldmeadow Lookout|U
 Glittering Wish|R
 Grave Scrabbler|C
 Grave Peril|C
-Graven Cairns|R
 Grinning Ignus|C
+Graven Cairns|R
+Haze of Rage|U
 Grove of the Burnwillows|R
 Heartwood Storyteller|R
-Haze of Rage|U
 Henchfiend of Ukor|C
 Homing Sliver|C
 Ichor Slick|C
@@ -69,10 +69,10 @@ Imperial Mask|R
 Infiltrator il-Kor|C
 Jhoira of the Ghitu|R
 Intervention Pact|R
-Judge Unworthy|C
 Kavu Primarch|C
-Keldon Megaliths|U
+Judge Unworthy|C
 Knight of Sursi|C
+Keldon Megaliths|U
 Korlash, Heir to Blackblade|R
 Leaden Fists|C
 Linessa, Zephyr Mage|R
@@ -84,16 +84,16 @@ Llanowar Reborn|U
 Lucent Liminid|C
 Lost Auramancers|U
 Lost Hours|C
-Lumithread Field|C
 Lymph Sliver|C
+Lumithread Field|C
 Maelstrom Djinn|R
 Magus of the Abyss|R
 Magus of the Moat|R
 Magus of the Future|R
 Magus of the Moon|R
 Magus of the Vineyard|R
-Marshaling Cry|C
 Mass of Ghouls|C
+Marshaling Cry|C
 Mesmeric Sliver|C
 Mistmeadow Skulk|U
 Minions' Murmurs|U
@@ -103,11 +103,11 @@ Mystic Speculation|U
 Narcomoeba|U
 Nacatl War-Pride|U
 Nessian Courser|C
+Oblivion Crown|C
 Nihilith|R
 New Benalia|U
 Nix|R
 Nimbus Maze|R
-Oblivion Crown|C
 Oriss, Samite Guardian|R
 Pact of the Titan|R
 Pact of Negation|R
@@ -124,10 +124,10 @@ Ravaging Riftwurm|U
 Riddle of Lightning|C
 Reality Strobe|U
 Rift Elemental|C
+River of Tears|R
 Riftsweeper|U
 Rites of Flourishing|R
 Saltskitter|C
-River of Tears|R
 Samite Censer-Bearer|C
 Sarcomite Myr|C
 Scourge of Kher Ridges|R
@@ -135,8 +135,8 @@ Second Wind|U
 Scout's Warning|R
 Seht's Tiger|R
 Shah of Naar Isle|R
-Shapeshifter's Marrow|R
 Shimian Specter|R
+Shapeshifter's Marrow|R
 Shivan Sand-Mage|U
 Skirk Ridge Exhumer|U
 Skizzik Surger|U
@@ -148,8 +148,8 @@ Soultether Golem|U
 Sparkspitter|U
 Spellweaver Volute|R
 Spellwild Ouphe|U
-Spin into Myth|U
 Spirit en-Dal|U
+Spin into Myth|U
 Sporoloth Ancient|C
 Steamflogger Boss|R
 Sprout Swarm|C
@@ -162,9 +162,9 @@ Take Possession|R
 Thornweald Archer|C
 Tarmogoyf|R
 Tarox Bladewing|R
+Tolaria West|U
 Thunderblade Charge|R
 Tombstalker|R
-Tolaria West|U
 Unblinking Bleb|C
 Utopia Mycon|U
 Vedalken Aethermage|C
@@ -172,9 +172,9 @@ Venser's Diffusion|C
 Veilstone Amulet|R
 Venser, Shaper Savant|R
 Virulent Sliver|C
+Wrap in Vigor|C
 Whip-Spine Drake|C
 Whetwheel|R
 Witch's Mist|U
-Wrap in Vigor|C
 Yixlid Jailer|U
 Zoetic Cavern|U

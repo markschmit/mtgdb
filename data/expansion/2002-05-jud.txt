@@ -1,28 +1,27 @@
-Book Burning|C
-Border Patrol|C
+Benevolent Bodyguard|C
 Ancestor's Chosen|U
-Anger|U
 Anurid Barkripper|C
-Anurid Swarmsnapper|U
+Anger|U
 Anurid Brushhopper|R
+Anurid Swarmsnapper|U
 Arcane Teachings|C
 Aven Fogbringer|C
-Wormfang Newt|C
-Wormfang Turtle|U
 Balthor the Defiled|R
 Aven Warcraft|U
-Battle Screech|U
 Barbarian Bully|C
 Battlefield Scrounger|C
 Battlewise Aven|C
-Benevolent Bodyguard|C
+Battle Screech|U
+Border Patrol|C
+Book Burning|C
+Browbeat|U
 Brawn|U
 Breaking Point|R
-Burning Wish|R
 Cabal Therapy|U
+Burning Wish|R
 Cabal Trainee|C
-Cagemail|C
 Centaur Rootcaster|C
+Cagemail|C
 Canopy Claws|C
 Cephalid Constable|R
 Cephalid Inkshrouder|U
@@ -32,94 +31,16 @@ Cunning Wish|R
 Crush of Wurms|R
 Death Wish|R
 Dwarven Bloodboiler|R
-Defy Gravity|C
-Dwarven Driller|U
-Dwarven Scorcher|C
-Earsplitting Rats|C
-Elephant Guide|U
-Browbeat|U
-Envelop|C
-Ember Shot|C
-Epic Struggle|R
+Lost in Thought|C
 Masked Gorgon|R
 Mirror Wall|C
-Erhnam Djinn|R
-Exoskeletal Armor|U
-Filth|U
-Firecat Blitz|U
-Flash of Insight|U
-Flaring Pain|C
-Fledgling Dragon|R
-Forcemage Advocate|U
-Folk Medicine|C
-Genesis|R
-Funeral Pyre|C
-Giant Warthog|C
-Goretusk Firebeast|C
-Glory|R
-Golden Wish|R
-Grave Consequences|U
-Grip of Amnesia|C
-Grizzly Fate|U
-Guiltfeeder|R
-Guided Strike|C
-Hapless Researcher|C
-Harvester Druid|C
-Hunting Grounds|R
-Infectious Rage|U
-Ironshell Beetle|C
-Jeska, Warrior Adept|R
-Krosan Reclamation|U
-Keep Watch|C
-Krosan Verge|U
-Krosan Wayfarer|C
-Lava Dart|C
-Laquatus's Disdain|U
-Lead Astray|C
-Liberated Dwarf|C
-Living Wish|R
-Lightning Surge|R
-Lost in Thought|C
 Mental Note|C
 Mirari's Wake|R
+Morality Shift|R
 Mist of Stagnation|R
 Nantuko Monastery|U
-Morality Shift|R
 Nantuko Tracer|C
 Nomad Mythmaker|R
-Silver Seraph|R
-Soulcatchers' Aerie|U
-Soulgorger Orgg|U
-Spellgorger Barbarian|C
-Spurnmage Advocate|U
-Spirit Cairn|U
-Spelljack|R
-Stitch Together|U
-Sudden Strength|C
-Suntail Hawk|C
-Swelter|U
-Sutured Ghoul|R
-Sylvan Safekeeper|R
-Swirling Sandstorm|C
-Trained Pronghorn|C
-Test of Endurance|R
-Telekinetic Bonds|R
-Thriss, Nantuko Primus|R
-Toxic Stench|C
-Treacherous Vampire|U
-Treacherous Werewolf|C
-Tunneler Wurm|U
-Unquestioned Authority|U
-Valor|U
-Venomous Vines|C
-Vigilant Sentry|C
-Wonder|U
-Web of Inertia|U
-Wormfang Behemoth|R
-Worldgorger Dragon|R
-Wormfang Crab|U
-Wormfang Drake|C
-Wormfang Manta|R
 Nullmage Advocate|C
 Phantom Centaur|U
 Phantom Flock|U
@@ -135,9 +56,88 @@ Quiet Speculation|U
 Riftstone Portal|U
 Ray of Revelation|C
 Scalpelexis|R
+Suntail Hawk|C
+Swelter|U
+Sutured Ghoul|R
+Sylvan Safekeeper|R
+Swirling Sandstorm|C
+Thriss, Nantuko Primus|R
+Test of Endurance|R
+Telekinetic Bonds|R
 Selfless Exorcist|R
+Shaman's Trance|R
 Seedtime|R
 Serene Sunset|U
 Shieldmage Advocate|C
-Shaman's Trance|R
 Solitary Confinement|R
+Silver Seraph|R
+Soulcatchers' Aerie|U
+Soulgorger Orgg|U
+Spellgorger Barbarian|C
+Spurnmage Advocate|U
+Spirit Cairn|U
+Spelljack|R
+Sudden Strength|C
+Stitch Together|U
+Defy Gravity|C
+Dwarven Driller|U
+Dwarven Scorcher|C
+Earsplitting Rats|C
+Elephant Guide|U
+Epic Struggle|R
+Envelop|C
+Ember Shot|C
+Erhnam Djinn|R
+Exoskeletal Armor|U
+Flaring Pain|C
+Filth|U
+Firecat Blitz|U
+Flash of Insight|U
+Fledgling Dragon|R
+Forcemage Advocate|U
+Folk Medicine|C
+Genesis|R
+Funeral Pyre|C
+Giant Warthog|C
+Goretusk Firebeast|C
+Glory|R
+Grip of Amnesia|C
+Golden Wish|R
+Grave Consequences|U
+Grizzly Fate|U
+Guided Strike|C
+Guiltfeeder|R
+Hapless Researcher|C
+Harvester Druid|C
+Infectious Rage|U
+Hunting Grounds|R
+Ironshell Beetle|C
+Jeska, Warrior Adept|R
+Krosan Verge|U
+Krosan Reclamation|U
+Keep Watch|C
+Krosan Wayfarer|C
+Lava Dart|C
+Laquatus's Disdain|U
+Liberated Dwarf|C
+Lead Astray|C
+Living Wish|R
+Lightning Surge|R
+Trained Pronghorn|C
+Toxic Stench|C
+Treacherous Vampire|U
+Treacherous Werewolf|C
+Tunneler Wurm|U
+Unquestioned Authority|U
+Vigilant Sentry|C
+Valor|U
+Venomous Vines|C
+Wonder|U
+Web of Inertia|U
+Wormfang Behemoth|R
+Worldgorger Dragon|R
+Wormfang Crab|U
+Wormfang Drake|C
+Wormfang Manta|R
+Wormfang Newt|C
+Wormfang Turtle|U

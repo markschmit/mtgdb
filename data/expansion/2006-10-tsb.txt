@@ -1,29 +1,29 @@
+Cockatrice|S
+Consecrate Land|S
 Arena|S
 Akroma, Angel of Wrath|S
 Auratog|S
+Celestial Dawn|S
 Avalanche Riders|S
 Avatar of Woe|S
+Assault/Battery|U
 Bad Moon|S
 Avoid Fate|S
-Assault/Battery|U
 Browbeat|S
 Call of the Herd|S
-Celestial Dawn|S
-Cockatrice|S
 Claws of Gix|S
-Consecrate Land|S
 Coalition Victory|S
 Craw Giant|S
+Dandan|S
 Conspiracy|S
 Dauthi Slayer|S
-Dandân|S
 Darkness|S
 Defiant Vanguard|S
 Dodecapod|S
 Desolation Giant|S
 Desert|S
-Disenchant|S
 Disintegrate|S
+Disenchant|S
 Dragon Whelp|S
 Eron the Relentless|S
 Enduring Renewal|S
@@ -31,16 +31,16 @@ Dragonstorm|S
 Essence Sliver|S
 Evil Eye of Orms-by-Gore|S
 Faceless Butcher|S
-Feldon's Cane|S
 Fiery Justice|S
-Fire Whip|S
+Feldon's Cane|S
 Fiery Temper|S
+Fire Whip|S
 Flying Men|S
-Funeral Charm|S
 Gaea's Blessing|S
+Funeral Charm|S
+Gemstone Mine|S
 Gaea's Liege|S
 Ghost Ship|S
-Gemstone Mine|S
 Giant Oyster|S
 Goblin Snowman|S
 Hail Storm|S
@@ -66,56 +66,56 @@ Nicol Bolas|S
 Mystic Snake|S
 Ovinomancer|S
 Orcish Librarian|S
-Withered Wretch|S
-Zhalfirin Commander|S
 Orgg|S
 Pendelhaven|S
 Prodigal Sorcerer|S
 Pandemonium|S
 Pirate Ship|S
+Resurrection|S
 Psionic Blast|S
 Sacred Mesa|S
-Resurrection|S
 Scragnoth|S
 Safe Haven|S
 Sengir Autocrat|S
 Shadow Guildmage|S
 Serrated Arrows|S
 Shadowmage Infiltrator|S
+Soltari Priest|S
 Sindbad|S
 Sol'kanar the Swamp King|S
-Soltari Priest|S
 Soul Collector|S
 Spike Feeder|S
 Spined Sliver|S
 Spitting Slug|S
 Stormscape Familiar|S
-Stupor|S
-Suq'Ata Lancer|S
-Squire|S
 Stormbind|S
+Suq'Ata Lancer|S
+Stupor|S
 Swamp Mosquito|S
+Squire|S
 Thallid|S
 Teferi's Moat|S
 Thornscape Battlemage|S
+Tribal Flames|S
 The Rack|S
 Tormod's Crypt|S
 Twisted Abomination|S
-Tribal Flames|S
-Uncle Istvan|S
 Undead Warchief|S
+Uncle Istvan|S
 Unstable Mutation|S
 Undertaker|S
 Uthden Troll|S
 Verdeloth the Ancient|S
 Valor|S
 Vhati il-Dal|S
-Voidmage Prodigy|S
 Wall of Roots|S
+Voidmage Prodigy|S
 Void|S
 Wildfire Emissary|S
 Whirling Dervish|S
 War Barge|S
 Whispers of the Muse|S
-Willbender|S
 Witch Hunter|S
+Willbender|S
+Withered Wretch|S
+Zhalfirin Commander|S

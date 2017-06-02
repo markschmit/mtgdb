@@ -1,8 +1,4 @@
-Farmstead|R
-Earthbind|C
-Elvish Archers|R
-Earthquake|R
-Evil Presence|U
+Death Ward|C
 Air Elemental|U
 Animate Artifact|U
 Ancestral Recall|R
@@ -17,9 +13,9 @@ Bad Moon|R
 Basalt Monolith|U
 Benalish Hero|C
 Bayou|R
+Black Knight|U
 Birds of Paradise|R
 Berserk|U
-Black Knight|U
 Black Vise|U
 Black Lotus|R
 Black Ward|U
@@ -29,10 +25,10 @@ Blue Ward|U
 Blue Elemental Blast|C
 Bog Wraith|U
 Burrowing|U
+Celestial Prism|U
 Braingeyser|R
 Castle|U
 Camouflage|U
-Celestial Prism|U
 Circle of Protection: Blue|C
 Chaos Orb|R
 Channel|U
@@ -45,31 +41,30 @@ Clockwork Beast|R
 Cockatrice|R
 Clone|U
 Consecrate Land|U
+Control Magic|U
 Conservator|U
 Contract from Below|R
-Control Magic|U
 Copper Tablet|U
 Conversion|U
+Counterspell|U
 Copy Artifact|R
 Craw Wurm|C
-Counterspell|U
 Creature Bond|C
+Cyclopean Tomb|R
 Crystal Rod|U
 Crusade|R
 Cursed Land|U
-Cyclopean Tomb|R
-Death Ward|C
 Darkpact|R
 Dark Ritual|C
 Deathgrip|U
 Deathlace|R
 Demonic Attorney|R
+Demonic Tutor|U
 Demonic Hordes|R
 Dingus Egg|R
-Demonic Tutor|U
+Disintegrate|C
 Disrupting Scepter|R
 Disenchant|C
-Disintegrate|C
 Dragon Whelp|U
 Drudge Skeletons|C
 Drain Power|R
@@ -77,11 +72,16 @@ Drain Life|C
 Dwarven Demolition Team|U
 Dwarven Warriors|C
 Earth Elemental|U
+Elvish Archers|R
+Earthbind|C
+Earthquake|R
+Evil Presence|U
+Farmstead|R
 False Orders|C
 Fear|C
+Fire Elemental|U
 Fastbond|R
 Feedback|U
-Fire Elemental|U
 Firebreathing|C
 Fireball|C
 Fog|C
@@ -90,13 +90,13 @@ Flashfires|U
 Forcefield|R
 Force of Nature|R
 Fork|R
-Forest|L
 Frozen Shade|C
+Forest|L
 Gauntlet of Might|R
 Fungusaur|R
 Gaea's Liege|R
-Giant Growth|C
 Giant Spider|C
+Giant Growth|C
 Glasses of Urza|U
 Granite Gargoyle|R
 Goblin Balloon Brigade|U
@@ -105,24 +105,24 @@ Goblin King|R
 Green Ward|U
 Gray Ogre|C
 Grizzly Bears|C
-Guardian Angel|C
 Healing Salve|C
+Guardian Angel|C
 Helm of Chatzuk|R
 Holy Armor|C
 Hill Giant|C
 Holy Strength|C
-Howl from Beyond|C
 Howling Mine|R
+Howl from Beyond|C
 Hurloon Minotaur|C
-Icy Manipulator|U
 Hypnotic Specter|U
 Hurricane|U
+Icy Manipulator|U
 Ice Storm|U
 Illusionary Mask|R
 Instill Energy|U
 Invisibility|C
-Iron Star|U
 Ironclaw Orcs|C
+Iron Star|U
 Ironroot Treefolk|C
 Ivory Cup|U
 Island Sanctuary|R
@@ -132,33 +132,34 @@ Jayemdae Tome|R
 Jade Statue|U
 Karma|U
 Juggernaut|U
-Jump|C
 Keldon Warlord|U
+Jump|C
 Kudzu|R
 Kormus Bell|R
 Lance|U
 Ley Druid|U
 Library of Leng|U
 Lifelace|R
+Lightning Bolt|C
 Lifeforce|U
 Lich|R
 Lifetap|U
-Lightning Bolt|C
 Living Artifact|R
 Living Wall|U
+Living Lands|R
 Llanowar Elves|C
 Lord of Atlantis|R
 Lure|U
 Lord of the Pit|R
-Magical Hack|R
 Mahamoti Djinn|R
+Magical Hack|R
 Mana Vault|R
 Mana Short|R
 Mana Flare|R
+Mesa Pegasus|C
 Meekstone|R
 Manabarbs|R
 Merfolk of the Pearl Trident|C
-Mesa Pegasus|C
 Mox Pearl|R
 Mons's Goblin Raiders|C
 Mind Twist|R
@@ -167,8 +168,8 @@ Mountain|L
 Mox Jet|R
 Mox Ruby|R
 Mox Sapphire|R
-Natural Selection|R
 Nether Shadow|R
+Natural Selection|R
 Nettling Imp|U
 Nevinyrral's Disk|R
 Northern Paladin|R
@@ -191,19 +192,18 @@ Plains|L
 Prodigal Sorcerer|C
 Power Surge|R
 Power Sink|C
-Psionic Blast|U
 Psychic Venom|C
+Psionic Blast|U
 Raise Dead|C
-Purelace|R
 Raging River|R
-Red Ward|U
+Purelace|R
 Red Elemental Blast|C
 Regeneration|C
-Regrowth|U
-Resurrection|U
 Reverse Damage|R
-Roc of Kher Ridges|R
+Resurrection|U
+Regrowth|U
 Righteousness|R
+Roc of Kher Ridges|R
 Rod of Ruin|U
 Rock Hydra|R
 Royal Assassin|R
@@ -213,51 +213,51 @@ Savannah Lions|R
 Savannah|R
 Scathe Zombies|C
 Scavenging Ghoul|U
-Living Lands|R
 Scryb Sprites|C
+Red Ward|U
 Scrubland|R
 Sedge Troll|R
 Sea Serpent|C
 Sengir Vampire|U
-Serra Angel|U
 Shanodin Dryads|C
+Serra Angel|U
 Shivan Dragon|R
 Shatter|C
+Siren's Call|U
 Sinkhole|C
 Simulacrum|U
-Siren's Call|U
-Smoke|R
 Sleight of Mind|R
+Smoke|R
 Stasis|R
 Sol Ring|U
 Soul Net|U
-Spell Blast|C
 Steal Artifact|U
+Spell Blast|C
+Stream of Life|C
 Stone Giant|U
 Sunglasses of Urza|R
 Stone Rain|C
-Stream of Life|C
 Taiga|R
 Swords to Plowshares|U
 Swamp|L
 The Hive|R
 Terror|C
-Throne of Bone|U
 Thicket Basilisk|U
+Throne of Bone|U
 Thoughtlace|R
 Timber Wolves|R
 Timetwister|R
 Time Vault|R
 Tranquility|C
 Time Walk|R
-Tsunami|U
 Tropical Island|R
+Tsunami|U
 Tunnel|U
 Tundra|R
 Twiddle|C
 Two-Headed Giant of Foriys|R
-Underground Sea|R
 Unholy Strength|C
+Underground Sea|R
 Uthden Troll|U
 Unsummon|C
 Verduran Enchantress|R
@@ -269,8 +269,8 @@ Wall of Air|U
 Wall of Bone|U
 Wall of Brambles|U
 Wall of Fire|U
-Wall of Ice|U
 Wall of Stone|U
+Wall of Ice|U
 Wall of Swords|U
 Wall of Water|U
 Wall of Wood|C
@@ -280,13 +280,13 @@ Warp Artifact|R
 Water Elemental|U
 Web|R
 Weakness|C
-Wheel of Fortune|R
 White Knight|U
+Wheel of Fortune|R
 Wild Growth|C
 White Ward|U
 Will-O'-The-Wisp|R
-Winter Orb|R
 Wooden Sphere|U
-Word of Command|R
+Winter Orb|R
 Wrath of God|R
+Word of Command|R
 Zombie Master|R

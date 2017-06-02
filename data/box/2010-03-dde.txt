@@ -1,9 +1,56 @@
-Bone Shredder|U
-Allied Strategies|U
+Gerrard Capashen|R
+Evasive Action|U
 Armadillo Cloak|C
+Allied Strategies|U
+Bone Shredder|U
+Carrion Feeder|C
+Charging Troll|U
+Darigaaz's Charm|U
+Coalition Relic|R
+Dark Ritual|C
+Darigaaz, the Igniter|R
+Elfhame Palace|U
+Exotic Curse|C
+Fertile Ground|C
+Yavimaya Elder|C
+Verduran Emissary|U
+Whispersilk Cloak|U
+Voltaic Key|U
+Worn Powerstone|U
+Forest|L
+Gerrard's Command|C
+Harrow|C
+Hideous End|C
+Hornet Cannon|U
+Island|L
+Lightning Greaves|U
+Mountain|L
+Living Death|R
+Nomadic Elf|C
+Narrow Escape|C
+Order of Yawgmoth|U
+Phyrexian Arena|R
+Phyrexian Battleflies|C
+Phyrexian Broodlings|C
+Phyrexian Colossus|R
+Phyrexian Defiler|U
+Phyrexian Debaser|C
+Phyrexian Denouncer|C
+Phyrexian Gargantua|U
+Phyrexian Ghoul|C
+Phyrexian Plaguelord|R
+Phyrexian Totem|U
+Phyrexian Negator|M
+Priest of Gix|U
+Phyrexian Processor|R
+Plains|L
+Phyrexian Vault|U
+Power Armor|U
+Quirion Elves|C
+Puppet Strings|U
+Sanguine Guard|U
 Rith's Charm|U
 Rith, the Awakener|R
-Sanguine Guard|U
 Slay|U
 Shivan Oasis|U
 Terramorphic Expanse|C
@@ -12,56 +59,9 @@ Swamp|L
 Tendrils of Corruption|C
 Thornscape Apprentice|C
 Thornscape Battlemage|U
-Thunderscape Battlemage|U
+Tribal Flames|C
 Treva's Charm|U
+Thunderscape Battlemage|U
 Treva, the Renewer|R
 Urza's Rage|M
-Tribal Flames|C
-Verduran Emissary|U
-Whispersilk Cloak|U
-Voltaic Key|U
-Worn Powerstone|U
-Yavimaya Elder|C
-Carrion Feeder|C
-Darigaaz's Charm|U
-Charging Troll|U
-Dark Ritual|C
-Darigaaz, the Igniter|R
-Elfhame Palace|U
-Coalition Relic|R
-Evasive Action|U
-Gerrard Capashen|R
-Exotic Curse|C
-Gerrard's Command|C
-Fertile Ground|C
-Forest|L
-Harrow|C
-Hideous End|C
-Island|L
-Hornet Cannon|U
-Lightning Greaves|U
-Mountain|L
-Nomadic Elf|C
-Living Death|R
-Order of Yawgmoth|U
-Phyrexian Battleflies|C
-Narrow Escape|C
-Phyrexian Gargantua|U
-Phyrexian Broodlings|C
-Phyrexian Arena|R
-Phyrexian Debaser|C
 Phyrexian Hulk|U
-Phyrexian Colossus|R
-Phyrexian Ghoul|C
-Phyrexian Defiler|U
-Phyrexian Denouncer|C
-Phyrexian Negator|M
-Phyrexian Plaguelord|R
-Phyrexian Processor|R
-Plains|L
-Phyrexian Totem|U
-Phyrexian Vault|U
-Power Armor|U
-Priest of Gix|U
-Quirion Elves|C
-Puppet Strings|U

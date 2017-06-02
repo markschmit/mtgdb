@@ -1,4 +1,4 @@
-Guided Passage|R
+Fervent Charge|R
 Ana Disciple|C
 Aether Mutation|U
 Anavolver|R
@@ -9,56 +9,59 @@ Battlefield Forge|R
 Bloodfire Dwarf|C
 Bloodfire Infusion|C
 Bloodfire Kavu|U
-Bog Gnarr|C
 Brass Herald|U
-Captain's Maneuver|U
+Bog Gnarr|C
 Caves of Koilos|R
+Captain's Maneuver|U
 Ceta Disciple|C
 Cetavolver|R
 Ceta Sanctuary|U
-Overgrown Estate|R
 Coalition Flag|U
+Overgrown Estate|R
 Coalition Honor Guard|C
 Coastal Drake|C
-Consume Strength|C
-Cromat|R
-Dead Ringers|C
-Death Grasp|R
-Death Mutation|U
 Dega Disciple|C
+Consume Strength|C
+Dead Ringers|C
+Cromat|R
+Orim's Thunder|C
+Death Grasp|R
+Living Airship|C
+Death Mutation|U
 Degavolver|R
 Dega Sanctuary|U
 Desolation Angel|R
 Desolation Giant|R
+Divine Light|C
 Diversionary Tactics|U
 Dodecapod|U
-Divine Light|C
 Dwarven Landslide|C
-Dragon Arch|U
 Dwarven Patrol|U
+Dragon Arch|U
 Ebony Treefolk|U
 Emblazoned Golem|U
 Enlistment Officer|U
 False Dawn|R
 Evasive Action|U
-Fervent Charge|R
+Savage Gorilla|C
 Flowstone Charger|U
 Foul Presence|U
-Fungal Shambler|R
 Gaea's Balance|U
+Fungal Shambler|R
 Gaea's Skyfolk|C
 Gerrard Capashen|R
 Glade Gnarr|C
 Gerrard's Verdict|U
 Goblin Legionnaire|C
 Goblin Ringleader|U
-Goblin Trenches|R
 Grave Defiler|U
+Goblin Trenches|R
 Haunted Angel|U
+Guided Passage|R
 Ice Cave|R
 Helionaut|C
-Fire/Ice|U
 Illuminate|U
+Fire/Ice|U
 Index|C
 Jilt|C
 Jaded Response|C
@@ -68,33 +71,31 @@ Kavu Glider|C
 Kavu Mauler|R
 Lay of the Land|C
 Last Caress|C
-Last Stand|R
 Legacy Weapon|R
-Life/Death|U
+Last Stand|R
 Lightning Angel|R
-Living Airship|C
+Life/Death|U
 Llanowar Dead|C
 Manacles of Decay|C
 Llanowar Wastes|R
 Mask of Intolerance|R
 Martyrs' Tomb|U
-Minotaur Illusionist|U
 Mind Extraction|C
+Minotaur Illusionist|U
 Minotaur Tactician|C
 Mournful Zombie|C
-Mystic Snake|R
 Necra Disciple|C
+Mystic Snake|R
 Necravolver|R
 Necra Sanctuary|U
 Order/Chaos|U
 Night/Day|U
-Orim's Thunder|C
 Penumbra Bobcat|C
 Penumbra Kavu|U
 Penumbra Wurm|R
+Phyrexian Arena|R
 Pernicious Deed|R
 Phyrexian Gargantua|U
-Phyrexian Arena|R
 Phyrexian Rager|C
 Powerstone Minefield|R
 Planar Despair|R
@@ -108,7 +109,6 @@ Raka Sanctuary|U
 Razorfin Hunter|C
 Reef Shaman|C
 Illusion/Reality|U
-Savage Gorilla|C
 Shield of Duty and Reason|C
 Shivan Reef|R
 Shimmering Mirage|C
@@ -117,8 +117,8 @@ Smash|C
 Spectral Lynx|R
 Spiritmonger|R
 Squee's Embrace|C
-Squee's Revenge|U
 Standard Bearer|C
+Squee's Revenge|U
 Suppress|U
 Strength of Night|C
 Symbiotic Deployment|R
@@ -137,7 +137,7 @@ Vodalian Mystic|U
 Whirlpool Drake|U
 Whirlpool Rider|C
 Whirlpool Warrior|R
+Yavimaya Coast|R
 Wild Research|R
 Zombie Boa|C
-Yavimaya Coast|R
 Yavimaya's Embrace|R

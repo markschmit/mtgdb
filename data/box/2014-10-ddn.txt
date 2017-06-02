@@ -1,12 +1,12 @@
 Banefire|R
-Aquamorph Entity|C
 Act of Treason|C
+Aquamorph Entity|C
 Arcanis the Omnipotent|M
 Arrow Volley Trap|U
 Arc Trail|U
+Coral Trickster|C
 Beetleback Chief|U
 Bone Splinters|C
-Coral Trickster|C
 Dregscape Zombie|C
 Dauntless Onslaught|U
 Faerie Impostor|U
@@ -26,46 +26,46 @@ Goblin Deathraiders|C
 Goblin Warchief|U
 Hell's Thunder|R
 Hellraiser Goblin|U
+Hussar Patrol|C
 Hold the Line|R
 Island|L
-Hussar Patrol|C
 Infantry Veteran|C
 Impulse|C
 Inferno Trap|U
-Jeskai Elder|U
 Kathari Bomber|C
 Kor Hookmaster|C
+Jeskai Elder|U
 Krenko, Mob Boss|R
 Krenko's Command|C
 Leonin Snarecaster|C
-Lightning Angel|R
 Lightning Helix|U
+Lightning Angel|R
 Lone Missionary|C
-Mardu Heart-Piercer|U
-Mountain|L
-Mana Leak|C
 Master Decoy|C
-Oni of Wild Places|U
-Ogre Battledriver|R
-Mystic Monastery|U
+Mardu Heart-Piercer|U
+Mana Leak|C
 Nomad Outpost|U
+Mountain|L
+Mystic Monastery|U
+Oni of Wild Places|U
 Plains|L
+Ogre Battledriver|R
 Orcish Cannonade|C
 Repeal|C
 Reckless Abandon|C
 Scourge Devil|U
-Sphinx of Uthuun|R
 Shambling Remains|U
+Sphinx of Uthuun|R
 Sparkmage Apprentice|C
+Stonecloaker|U
+Steam Augury|R
 Shock|C
 Stave Off|C
-Steam Augury|R
-Stonecloaker|U
-Swamp|L
 Terramorphic Expanse|C
+Swamp|L
 Swift Justice|C
 Thousand Winds|R
+Whiplash Trap|C
 Traumatic Visions|C
 Willbender|U
-Whiplash Trap|C
 Zurgo Helmsmasher|M

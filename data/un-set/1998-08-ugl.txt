@@ -1,52 +1,52 @@
-Double Play|C
-Ashnod's Coupon|R
-Blacker Lotus|R
-Bureaucracy|R
-Bronze Calendar|U
-Cardboard Carapace|R
-Burning Cinder Fury of Crimson Chaos Fire|R
-Censorship|U
-B.F.M. (Big Furry Monster)|R
-Chaos Confetti|C
-Charm School|U
+Clay Pigeon|U
 Chicken à la King|R
 Checks and Balances|U
 Chicken Egg|C
 Clam Session|C
-Clam-I-Am|C
 Clambassadors|C
+Clam-I-Am|C
 Deadhead|C
-Clay Pigeon|U
+B.F.M. (Big Furry Monster)|R
+Ashnod's Coupon|R
+Bronze Calendar|U
+Blacker Lotus|R
+Bureaucracy|R
+Cardboard Carapace|R
+Burning Cinder Fury of Crimson Chaos Fire|R
+Charm School|U
+Chaos Confetti|C
+Censorship|U
 Common Courtesy|U
+Double Cross|C
 Double Deal|C
 Denied!|C
-Double Cross|C
+Double Play|C
 Double Dip|C
 Double Take|C
 Elvish Impersonators|C
 Forest|L
 Flock of Rabid Sheep|U
+Free-for-All|R
 Fowl Play|C
 Free-Range Chicken|C
-Free-for-All|R
 Get a Life|U
 Gerrymandering|U
+Ghazban Ogress|C
 Goblin Bookie|C
-Ghazbán Ogress|C
 Giant Fan|R
 Goblin Bowling Team|C
+Growth Spurt|C
 Goblin Tutor|U
 Gus|C
-Growth Spurt|C
-Hungry Hungry Heifer|U
 Hurloon Wrangler|C
+Hungry Hungry Heifer|U
 Handcuffs|U
 Infernal Spawn of Evil|R
 I'm Rubber, You're Glue|R
+Jalum Grifter|R
 Island|L
 Incoming!|R
 Jack-in-the-Mox|R
-Jalum Grifter|R
 Jumbo Imp|U
 Jester's Sombrero|R
 Knight of the Hokey Pokey|C
@@ -55,8 +55,8 @@ Krazy Kow|C
 Look at Me, I'm the DCI|R
 Landfill|R
 Mesa Chicken|C
-Mine, Mine, Mine!|R
 Mirror Mirror|R
+Mine, Mine, Mine!|R
 Miss Demeanor|U
 Organ Harvest|C
 Mountain|L
@@ -65,17 +65,17 @@ Ow|R
 Paper Tiger|C
 Poultrygeist|C
 Plains|L
+Psychic Network|R
 Prismatic Wardrobe|C
 Ricochet|U
-Psychic Network|R
 Rock Lobster|C
 Scissors Lizard|C
 Spark Fiend|R
 Sorry|U
 Sex Appeal|C
 Spatula of the Ages|U
-Strategy, Schmategy|R
 Squirrel Farm|R
+Strategy, Schmategy|R
 Swamp|L
 Temp of the Damned|C
 Team Spirit|C

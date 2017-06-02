@@ -1,0 +1,56 @@
+Ambassador Oak|C
+Beacon of Tomorrows|R
+Beacon of Destruction|R
+Boldwyr Intimidator|U
+Call of the Herd|R
+Beast Attack|U
+Burning-Tree Emissary|U
+Cloudcrown Oak|C
+Desperate Ritual|U
+Coat of Arms|R
+Deep-Sea Kraken|R
+Firebolt|C
+Empty the Warrens|C
+Forest|L
+Firemind's Foresight|R
+Goblin Electromancer|C
+Gorehorn Minotaurs|C
+Jhoira of the Ghitu|M
+Harmonize|U
+Grapeshot|C
+Guttural Response|U
+Island|L
+Increasing Savagery|R
+Jori En, Ruin Diver|R
+Kamahl, Pit Fighter|R
+Kruin Striker|C
+Lovisa Coldeyes|M
+Mountain|L
+Mind's Desire|R
+Nivix Cyclops|C
+Reach Through Mists|C
+Peer Through Depths|C
+Nucklavee|U
+Radha, Heir to Keld|R
+Quicken|R
+Rampant Growth|C
+Relentless Hunter|U
+Rubblebelt Raiders|R
+Roar of the Wurm|U
+Rift Bolt|C
+Sage-Eye Avengers|R
+Rugged Highlands|C
+Sift Through Sands|C
+Shivan Meteor|U
+Skarrgan Pit-Skulk|C
+Sylvan Might|C
+Spellheart Chimera|U
+Snap|C
+Swiftwater Cliffs|C
+Talara's Battalion|R
+Talrand, Sky Summoner|R
+Volcanic Vision|R
+Temporal Fissure|C
+The Unspeakable|R
+Young Pyromancer|U
+Zo-Zu the Punisher|R

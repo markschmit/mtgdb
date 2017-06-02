@@ -1,142 +1,12 @@
-Hyena Umbra|C
-Ikiral Outrider|C
-Inquisition of Kozilek|U
-Induce Despair|C
-Irresistible Prey|U
-Island|L
-It That Betrays|R
-Jaddi Lifestrider|U
-Joraga Treespeaker|U
-Jwari Scuttler|C
-Kabira Vindicator|U
-Kargan Dragonlord|M
-Kazandu Tuskcaller|R
-Kiln Fiend|C
-Keening Stone|R
-Khalni Hydra|M
-Knight of Cliffhaven|C
-Kor Line-Slinger|C
-Kor Spiritdancer|R
-Kozilek's Predator|C
-Kozilek, Butcher of Truth|M
-Lagac Lizard|C
-Lighthouse Chronologist|M
-Lavafume Invoker|C
-Last Kiss|C
-Lay Bare|C
-Leaf Arrow|C
-Linvala, Keeper of Silence|M
-Lightmine Field|R
-Living Destiny|C
-Lone Missionary|C
-Lord of Shatterskull Pass|R
-Luminous Wake|U
-Lust for War|U
-All Is Dust|M
 Affa Guard Hound|U
 Akoum Boulderfoot|U
-Magmaw|R
-Makindi Griffin|C
-Mammoth Umbra|U
-Merfolk Observer|C
-Merfolk Skyscout|U
-Might of the Masses|C
-Mnemonic Wall|C
-Mortician Beetle|R
-Momentous Fall|R
-Mul Daya Channelers|R
-Mountain|L
-Narcolepsy|C
-Nema Siltlurker|C
-Naturalize|C
-Near-Death Experience|R
-Nest Invader|C
-Nirkana Revenant|M
-Nirkana Cutthroat|U
-Nighthaze|C
-Not of This World|U
-Nomads' Assembly|R
-Null Champion|C
-Ogre Sentry|C
-Ogre's Cleaver|U
-Overgrown Battlement|C
-Ondu Giant|C
-Pathrazer of Ulamog|U
-Oust|U
-Pawn of Ulamog|U
-Pelakka Wurm|U
-Pennon Blade|U
-Phantasmal Abomination|U
-Perish the Thought|C
-Pestilence Demon|R
-Plains|L
-Prey's Vengeance|U
-Puncturing Light|C
-Prophetic Prism|C
-Rage Nimbus|R
-Raid Bombardment|C
-Rapacious One|U
-Realms Uncharted|R
-Reality Spasm|U
-Recurring Insight|R
-Regress|C
-Renegade Doppelganger|R
-Reinforced Bulwark|C
-Repel the Darkness|C
-Repay in Kind|R
-Runed Servitor|U
-Sarkhan the Mad|M
-Sea Gate Oracle|C
-Shrivel|C
-Shared Discovery|C
-See Beyond|C
-Skeletal Wurm|U
-Skittering Invasion|U
-Skywatcher Adept|C
-Soulbound Guardians|U
-Snake Umbra|C
-Smite|C
-Soul's Attendant|C
-Soulsurge Elemental|U
-Spawnsire of Ulamog|R
-Spawning Breath|C
-Sphinx-Bone Wand|R
-Sphinx of Magosi|R
-Spider Umbra|C
-Splinter Twin|R
-Sporecap Spider|C
-Stalwart Shield-Bearers|C
-Staggershock|C
-Student of Warfare|R
-Stomper Cub|C
-Surrakar Spellblade|R
-Suffer the Past|U
-Surreal Memoir|U
-Swamp|L
-Survival Cache|U
-Tajuru Preserver|R
-Thought Gorger|R
-Totem-Guide Hartebeest|C
-Time of Heroes|U
-Traitorous Instinct|U
-Training Grounds|R
-Transcendent Master|M
-Tuktuk the Explorer|R
-Ulamog's Crusher|C
-Ulamog, the Infinite Gyre|M
-Umbra Mystic|R
-Valakut Fireboar|U
-Unified Will|U
-Venerated Teacher|C
-Vendetta|C
-Vengevine|M
-Vent Sentinel|C
+Angelheart Vial|R
+All Is Dust|M
 Ancient Stirrings|C
 Arrogant Bloodlord|U
-Angelheart Vial|R
 Artisan of Kozilek|U
-Aura Finesse|C
 Aura Gnarlid|C
+Aura Finesse|C
 Bala Ged Scorpion|C
 Awakening Zone|R
 Battle Rampart|C
@@ -167,12 +37,97 @@ Daggerback Basilisk|C
 Dawnglare Invoker|C
 Death Cultist|C
 Deathless Angel|R
+Khalni Hydra|M
+Knight of Cliffhaven|C
+Kor Line-Slinger|C
+Kor Spiritdancer|R
+Kozilek's Predator|C
+Kozilek, Butcher of Truth|M
+Lagac Lizard|C
+Lighthouse Chronologist|M
+Lavafume Invoker|C
+Last Kiss|C
+Leaf Arrow|C
+Lay Bare|C
+Linvala, Keeper of Silence|M
+Lightmine Field|R
+Lone Missionary|C
+Living Destiny|C
+Lord of Shatterskull Pass|R
+Luminous Wake|U
+Lust for War|U
+Makindi Griffin|C
+Magmaw|R
+Mammoth Umbra|U
+Merfolk Observer|C
+Merfolk Skyscout|U
+Mnemonic Wall|C
+Might of the Masses|C
+Mortician Beetle|R
+Momentous Fall|R
+Mul Daya Channelers|R
+Mountain|L
+Nema Siltlurker|C
+Narcolepsy|C
+Naturalize|C
+Near-Death Experience|R
+Nest Invader|C
+Nirkana Revenant|M
+Nirkana Cutthroat|U
+Nighthaze|C
+Not of This World|U
+Nomads' Assembly|R
+Null Champion|C
+Ogre's Cleaver|U
+Ogre Sentry|C
+Overgrown Battlement|C
+Ondu Giant|C
+Pathrazer of Ulamog|U
+Oust|U
+Pawn of Ulamog|U
+Pennon Blade|U
+Pelakka Wurm|U
+Phantasmal Abomination|U
+Perish the Thought|C
+Pestilence Demon|R
+Prophetic Prism|C
+Plains|L
+Prey's Vengeance|U
+Puncturing Light|C
+Rage Nimbus|R
+Rapacious One|U
+Raid Bombardment|C
+Realms Uncharted|R
+Reality Spasm|U
+Recurring Insight|R
+Regress|C
+Renegade Doppelganger|R
+Reinforced Bulwark|C
+Repel the Darkness|C
+Repay in Kind|R
+Runed Servitor|U
+Sarkhan the Mad|M
+Sea Gate Oracle|C
+Shrivel|C
+Shared Discovery|C
+See Beyond|C
+Skeletal Wurm|U
+Skittering Invasion|U
+Skywatcher Adept|C
+Soulbound Guardians|U
+Snake Umbra|C
+Smite|C
+Soul's Attendant|C
+Soulsurge Elemental|U
+Spawnsire of Ulamog|R
+Spawning Breath|C
+Sphinx-Bone Wand|R
 Demonic Appetite|C
 Devastating Summons|R
 Deprive|C
 Demystify|C
-Distortion Strike|C
 Disaster Radius|R
+Distortion Strike|C
 Domestication|U
 Dormant Gomazoa|R
 Drana, Kalastria Bloodchief|R
@@ -182,14 +137,6 @@ Dread Drone|C
 Dreamstone Hedron|U
 Eel Umbra|C
 Eland Umbra|C
-Virulent Swipe|U
-Wall of Omens|U
-Warmonger's Chariot|U
-Wildheart Invoker|C
-World at War|R
-Zof Shade|C
-Wrap in Flames|C
-Zulaport Enforcer|C
 Eldrazi Conscription|R
 Emerge Unscathed|U
 Eldrazi Temple|R
@@ -198,11 +145,11 @@ Emrakul, the Aeons Torn|M
 Enclave Cryptologist|U
 Enatu Golem|U
 Escaped Null|U
+Evolving Wilds|C
 Essence Feed|C
 Explosive Revelation|U
-Evolving Wilds|C
-Flame Slash|C
 Fissure Vent|C
+Flame Slash|C
 Forest|L
 Fleeting Distraction|C
 Frostwind Invoker|C
@@ -210,13 +157,51 @@ Gideon Jura|M
 Forked Bolt|U
 Gelatinous Genesis|R
 Gigantomancer|R
-Gloomhunter|C
 Glory Seeker|C
+Gloomhunter|C
 Goblin Arsonist|C
+Sphinx of Magosi|R
+Spider Umbra|C
+Splinter Twin|R
+Sporecap Spider|C
+Stalwart Shield-Bearers|C
+Staggershock|C
+Student of Warfare|R
+Stomper Cub|C
+Surrakar Spellblade|R
+Suffer the Past|U
+Survival Cache|U
+Surreal Memoir|U
+Swamp|L
+Tajuru Preserver|R
+Thought Gorger|R
+Totem-Guide Hartebeest|C
+Time of Heroes|U
+Traitorous Instinct|U
+Training Grounds|R
+Transcendent Master|M
+Tuktuk the Explorer|R
+Ulamog's Crusher|C
+Ulamog, the Infinite Gyre|M
+Umbra Mystic|R
+Valakut Fireboar|U
+Unified Will|U
+Vent Sentinel|C
+Venerated Teacher|C
+Vendetta|C
+Vengevine|M
+Wall of Omens|U
+Virulent Swipe|U
+Warmonger's Chariot|U
+Wildheart Invoker|C
+Wrap in Flames|C
+World at War|R
+Zof Shade|C
+Zulaport Enforcer|C
 Goblin Tunneler|C
+Gravity Well|U
 Gravitational Shift|R
 Grotag Siege-Runner|C
-Gravity Well|U
 Guard Duty|C
 Growth Spasm|C
 Guard Gomazoa|U
@@ -231,3 +216,18 @@ Heat Ray|C
 Hedron-Field Purists|R
 Hellion Eruption|R
 Hellcarver Demon|M
+Hyena Umbra|C
+Ikiral Outrider|C
+Inquisition of Kozilek|U
+Induce Despair|C
+Irresistible Prey|U
+Island|L
+It That Betrays|R
+Jaddi Lifestrider|U
+Joraga Treespeaker|U
+Jwari Scuttler|C
+Kabira Vindicator|U
+Kargan Dragonlord|M
+Kazandu Tuskcaller|R
+Kiln Fiend|C
+Keening Stone|R

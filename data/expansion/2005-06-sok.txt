@@ -1,18 +1,19 @@
-Ayumi, the Last Visitor|R
-Arashi, the Sky Asunder|R
+Burning-Eye Zubera|U
+Adamaro, First to Desire|R
 Akki Drillmaster|C
 Aether Shockwave|U
 Akki Underling|C
 Akuta, Born of Ash|R
 Araba Mothrider|C
+Arashi, the Sky Asunder|R
+Ayumi, the Last Visitor|R
 Ashes of the Fallen|R
 Barrel Down Sokenzan|C
 Bounteous Kirin|R
 Blood Clock|R
 Briarknit Kami|U
-Burning-Eye Zubera|U
-Captive Flame|U
 Celestial Kirin|R
+Captive Flame|U
 Charge Across the Araba|U
 Choice of Damnations|R
 Cloudhoof Kirin|R
@@ -25,11 +26,10 @@ Deathknell Kami|C
 Deathmask Nezumi|C
 Descendant of Kiyomaro|U
 Dense Canopy|U
-Adamaro, First to Desire|R
 Descendant of Masumaro|U
 Descendant of Soramaro|C
-Dosan's Oldest Chant|C
 Dreamcatcher|C
+Dosan's Oldest Chant|C
 Eiganjo Free-Riders|U
 Ebony Owl Netsuke|U
 Elder Pine of Jukai|C
@@ -37,8 +37,8 @@ Enduring Ideal|R
 Endless Swarm|R
 Erayo's Essence|R
 Erayo, Soratami Ascendant|R
-Evermind|U
 Exile into Darkness|U
+Evermind|U
 Eternal Dominion|R
 Fiddlehead Kami|C
 Feral Lightning|U
@@ -53,51 +53,30 @@ Ghost-Lit Warder|U
 Gnat Miser|C
 Glitterfang|C
 Godo's Irregulars|U
-Hail of Arrows|U
 Hand of Cruelty|U
+Hail of Arrows|U
 Hand of Honor|U
 Homura's Essence|R
 Haru-Onna|U
-Minamo Scrollkeeper|C
+Hidetsugu's Second Rite|R
 Miren, the Moaning Well|R
 Moonbow Illusionist|C
 Molting Skin|U
 Moonwing Moth|C
 Murmurs from Beyond|C
-Neverending Torment|R
 Nightsoil Kami|C
+Neverending Torment|R
 O-Naginata|U
 Nikko-Onna|U
-Oboro Breezecaller|C
-Oboro, Palace in the Clouds|R
-Oboro Envoy|U
-Okina Nightwatch|C
-Oni of Wild Places|U
-One with Nothing|R
-Overwhelming Intellect|U
-Oppressive Will|C
-Path of Anger's Flame|C
-Pain's Reward|R
-Plow Through Reito|C
-Pithing Needle|R
-Promise of Bunrei|R
-Presence of the Wise|U
-Promised Kannushi|C
-Pure Intentions|R
-Raving Oni-Slave|C
-Rally the Horde|R
-Razorjaw Oni|U
-Reki, the History of Kamigawa|R
-Hidetsugu's Second Rite|R
 Homura, Human Ascendant|R
 Ideas Unbound|C
 Iizuka the Ruthless|R
-Iname as One|R
 Infernal Kirin|R
+Iname as One|R
 Inner Calm, Outer Strength|C
+Into the Fray|C
 Inner-Chamber Guard|U
 Inner Fire|C
-Into the Fray|C
 Jiwari, the Earth Aflame|R
 Ivory Crane Netsuke|U
 Kagemaro's Clutch|C
@@ -119,20 +98,41 @@ Kuon's Essence|R
 Kuon, Ogre Ascendant|R
 Kuro's Taken|C
 Locust Miser|U
-Maga, Traitor to Mortals|R
 Manriki-Gusari|U
+Maga, Traitor to Mortals|R
 Matsu-Tribe Birdstalker|C
 Masumaro, First to Live|R
 Michiko Konda, Truth Seeker|R
 Measure of Wickedness|U
 Meishin, the Mind Cage|R
 Mikokoro, Center of the Sea|R
-Scroll of Origins|R
+Minamo Scrollkeeper|C
+Plow Through Reito|C
+Pithing Needle|R
+Promise of Bunrei|R
+Presence of the Wise|U
+Promised Kannushi|C
+Pure Intentions|R
+Raving Oni-Slave|C
+Rally the Horde|R
+Razorjaw Oni|U
+Reki, the History of Kamigawa|R
+Rending Vines|C
+Rune-Tail's Essence|R
+Ronin Cavekeeper|C
+Reverence|R
+Rune-Tail, Kitsune Ascendant|R
+Rushing-Tide Zubera|U
+Sakashima the Impostor|R
+Sakura-Tribe Scout|C
+Sasaya's Essence|R
+Sasaya, Orochi Ascendant|R
 Secretkeeper|U
+Scroll of Origins|R
 Seek the Horizon|U
 Seed the Land|R
-Sekki, Seasons' Guide|R
 Shape Stealer|U
+Sekki, Seasons' Guide|R
 Shifting Borders|U
 Shinen of Fear's Chill|C
 Shinen of Flight's Wings|C
@@ -150,21 +150,21 @@ Soratami Cloud Chariot|U
 Spiritual Visit|C
 Stampeding Serow|U
 Sunder from Within|U
-Thoughts of Ruin|R
 Tomb of Urami|R
+Thoughts of Ruin|R
 Torii Watchward|C
 Trusted Advisor|U
 Wine of Blood and Iron|R
-Rending Vines|C
-Rune-Tail's Essence|R
-Ronin Cavekeeper|C
-Reverence|R
-Rune-Tail, Kitsune Ascendant|R
-Rushing-Tide Zubera|U
-Sakashima the Impostor|R
-Sakura-Tribe Scout|C
-Sasaya's Essence|R
-Sasaya, Orochi Ascendant|R
-Twincast|R
+Oboro Breezecaller|C
+Oboro, Palace in the Clouds|R
+Oboro Envoy|U
+Okina Nightwatch|C
+Oni of Wild Places|U
+One with Nothing|R
+Overwhelming Intellect|U
+Oppressive Will|C
 Undying Flames|R
+Pain's Reward|R
+Twincast|R
+Path of Anger's Flame|C
 Yuki-Onna|U

@@ -1,20 +1,20 @@
+Green Sun's Zenith|M
+Gilded Lotus|M
+Hymn to Tourach|M
+Impulse|M
+Jace, the Mind Sculptor|M
 Ink-Eyes, Servant of Oni|M
 Swords to Plowshares|M
 Kessig Wolf Run|M
-Venser, Shaper Savant|M
 Tangle Wire|M
-Akroma's Vengeance|M
-Chameleon Colossus|M
-Chainer's Edict|M
-Fact or Fiction|M
-Dark Ritual|M
-Char|M
-Cruel Ultimatum|M
-Fyndhorn Elves|M
-Green Sun's Zenith|M
-Gilded Lotus|M
-Impulse|M
-Jace, the Mind Sculptor|M
-Hymn to Tourach|M
+Venser, Shaper Savant|M
 Thran Dynamo|M
 Wall of Blossoms|M
+Chainer's Edict|M
+Akroma's Vengeance|M
+Chameleon Colossus|M
+Fact or Fiction|M
+Dark Ritual|M
+Cruel Ultimatum|M
+Char|M
+Fyndhorn Elves|M

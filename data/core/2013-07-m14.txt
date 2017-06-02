@@ -1,128 +1,12 @@
-Burning Earth|R
-Cancel|C
-Armored Cancrix|C
-Artificer's Hex|U
-Auramancer|C
-Awaken the Ancient|R
-Banisher Priest|U
-Academy Raider|C
-Accorder's Shield|U
-Accursed Spirit|C
-Advocate of the Beast|C
-Air Servant|U
-Act of Treason|C
-Ajani's Chosen|R
-Ajani, Caller of the Pride|M
-Altar's Reap|C
-Angelic Accord|U
-Angelic Wall|C
-Archaeomancer|C
-Archangel of Thune|M
-Barrage of Expendables|U
-Battle Sliver|U
-Blood Bairn|C
-Blessing|U
-Blightcaster|U
-Blur Sliver|C
-Bogbrew Witch|R
-Bonescythe Sliver|R
-Brave the Elements|U
-Bramblecrush|U
-Briarpack Alpha|U
-Brindle Boar|C
-Bubbling Cauldron|U
-Canyon Minotaur|C
-Capashen Knight|C
-Chandra's Outrage|C
-Celestial Flare|C
-Chandra's Phoenix|R
-Chandra, Pyromaster|M
-Charging Griffin|C
-Claustrophobia|C
-Child of Night|C
-Clone|R
-Colossal Whale|R
-Coral Merfolk|C
-Congregate|U
-Corpse Hauler|C
-Cyclops Tyrant|C
-Corrupt|U
-Dark Favor|C
-Dark Prophecy|R
-Darksteel Forge|M
-Dawnstrike Paladin|C
-Darksteel Ingot|U
-Deadly Recluse|C
-Deathgaze Cockatrice|C
-Devout Invocation|M
-Demolish|C
-Dismiss into Dream|R
-Diabolic Tutor|U
-Disperse|C
-Divination|C
-Divine Favor|C
-Domestication|R
-Dragon Egg|U
-Door of Destinies|R
-Doom Blade|U
-Dragon Hatchling|C
-Elite Arcanist|R
-Duress|C
-Elixir of Immortality|U
-Encroaching Wastes|U
-Elvish Mystic|C
-Enlarge|U
-Essence Scatter|C
-Festering Newt|C
-Fiendslayer Paladin|R
-Fireshrieker|U
-Fleshpulper Giant|U
-Flames of the Firebrand|U
-Forest|L
-Fog|C
-Galerider Sliver|R
-Fortify|C
-Frost Breath|C
-Garruk's Horde|R
-Garruk, Caller of Beasts|M
-Giant Growth|C
-Giant Spider|C
-Gladecover Scout|C
-Glimpse the Future|U
-Gnawing Zombie|U
-Goblin Diplomats|R
-Goblin Shortcutter|C
-Griffin Sentinel|C
-Guardian of the Ages|R
-Groundshaker Sliver|C
-Grim Return|R
-Haunted Plate Mail|R
-Howl of the Night Pack|U
-Hive Stirrings|C
-Illusionary Armor|U
-Hunt the Weak|C
-Imposing Sovereign|R
-Island|L
-Indestructibility|R
-Into the Wilds|R
-Jace's Mindseeker|R
-Jace, Memory Adept|M
-Kalonian Hydra|M
-Kalonian Tusker|U
-Lava Axe|C
-Lay of the Land|C
-Lifebane Zombie|R
-Lightning Talons|C
-Liliana of the Dark Realms|M
 Liliana's Reaver|R
-Liturgy of Blood|C
 Manaweft Sliver|U
+Liturgy of Blood|C
 Marauding Maulhorn|C
 Mark of the Vampire|C
 Master of Diversion|C
 Megantic Sliver|R
-Merfolk Spy|C
 Messenger Drake|C
+Merfolk Spy|C
 Mindsparker|R
 Mind Rot|C
 Millstone|U
@@ -133,59 +17,59 @@ Naturalize|C
 Negate|C
 Mutavault|R
 Nephalia Seakite|C
-Nightmare|R
 Nightwing Shade|C
+Nightmare|R
 Ogre Battledriver|R
 Oath of the Ancient Wood|R
+Path of Bravery|R
 Pacifism|C
 Opportunity|U
 Pay No Heed|C
-Path of Bravery|R
 Phantom Warrior|U
 Pillarfield Ox|C
 Pitchburn Devils|C
+Primeval Bounty|M
 Plains|L
 Plummet|C
 Planar Cleansing|R
 Pyromancer's Gauntlet|R
 Predatory Sliver|C
-Primeval Bounty|M
 Quag Sickness|C
-Quicken|R
-Ranger's Guile|C
-Regathan Firecat|C
 Ratchet Bomb|R
+Ranger's Guile|C
+Quicken|R
+Regathan Firecat|C
 Rise of the Dark Realms|M
 Ring of Three Wishes|M
 Rod of Ruin|U
-Rumbling Baloth|C
 Rootwalla|C
+Rumbling Baloth|C
 Savage Summoning|R
 Sanguine Bond|R
 Scavenging Ooze|R
-Scourge of Valkas|M
 Scroll Thief|C
+Scourge of Valkas|M
 Seacoast Drake|C
-Seismic Stomp|C
 Sengir Vampire|U
+Seismic Stomp|C
 Sensory Deprivation|C
 Sentinel Sliver|C
 Seraph of the Sword|R
 Shadowborn Apostle|C
 Serra Angel|U
 Shadowborn Demon|M
-Shimmering Grotto|U
 Shiv's Embrace|U
+Shimmering Grotto|U
 Shivan Dragon|R
 Shrivel|C
-Shock|C
 Show of Valor|C
+Shock|C
 Siege Mastodon|C
 Soulmender|C
 Sliver Construct|C
 Silence|R
-Smelt|C
 Solemn Offering|C
+Smelt|C
 Sporemound|C
 Staff of the Death Magus|U
 Spell Blast|U
@@ -196,26 +80,26 @@ Staff of the Wild Magus|U
 Steelform Sliver|U
 Stonehorn Chanter|U
 Striking Sliver|C
-Strionic Resonator|R
 Suntail Hawk|C
-Swamp|L
+Strionic Resonator|R
 Syphon Sliver|R
+Swamp|L
 Tenacious Dead|U
 Thorncaster Sliver|R
-Thunder Strike|C
 Tidebinder Mage|R
+Thunder Strike|C
+Trading Post|R
 Tome Scour|C
 Time Ebb|C
-Trading Post|R
 Trained Condor|C
-Undead Minotaur|C
 Trollhide|C
 Traumatize|R
+Undead Minotaur|C
 Vampire Warlord|U
 Vastwood Hydra|R
 Verdant Haven|C
-Vial of Poison|U
 Vile Rebirth|C
+Vial of Poison|U
 Volcanic Geyser|U
 Voracious Wurm|U
 Wall of Frost|U
@@ -223,8 +107,8 @@ Wall of Swords|U
 Warden of Evos Isle|U
 Water Servant|U
 Windreader Sphinx|M
-Wild Guess|C
 Wild Ricochet|R
+Wild Guess|C
 Witchstalker|R
 Windstorm|U
 Woodborn Behemoth|U
@@ -232,3 +116,119 @@ Young Pyromancer|U
 Xathrid Necromancer|R
 Wring Flesh|C
 Zephyr Charge|C
+Academy Raider|C
+Accorder's Shield|U
+Accursed Spirit|C
+Advocate of the Beast|C
+Act of Treason|C
+Ajani's Chosen|R
+Air Servant|U
+Ajani, Caller of the Pride|M
+Angelic Accord|U
+Altar's Reap|C
+Angelic Wall|C
+Archaeomancer|C
+Armored Cancrix|C
+Archangel of Thune|M
+Artificer's Hex|U
+Banisher Priest|U
+Auramancer|C
+Awaken the Ancient|R
+Battle Sliver|U
+Barrage of Expendables|U
+Blightcaster|U
+Blessing|U
+Blood Bairn|C
+Bogbrew Witch|R
+Bonescythe Sliver|R
+Brave the Elements|U
+Bramblecrush|U
+Briarpack Alpha|U
+Brindle Boar|C
+Blur Sliver|C
+Burning Earth|R
+Bubbling Cauldron|U
+Cancel|C
+Canyon Minotaur|C
+Capashen Knight|C
+Chandra's Outrage|C
+Celestial Flare|C
+Chandra's Phoenix|R
+Chandra, Pyromaster|M
+Charging Griffin|C
+Child of Night|C
+Claustrophobia|C
+Colossal Whale|R
+Clone|R
+Coral Merfolk|C
+Congregate|U
+Corpse Hauler|C
+Cyclops Tyrant|C
+Corrupt|U
+Darksteel Forge|M
+Dark Favor|C
+Dark Prophecy|R
+Darksteel Ingot|U
+Dawnstrike Paladin|C
+Deadly Recluse|C
+Deathgaze Cockatrice|C
+Diabolic Tutor|U
+Devout Invocation|M
+Demolish|C
+Dismiss into Dream|R
+Disperse|C
+Divine Favor|C
+Divination|C
+Domestication|R
+Dragon Egg|U
+Door of Destinies|R
+Doom Blade|U
+Dragon Hatchling|C
+Elite Arcanist|R
+Duress|C
+Elvish Mystic|C
+Elixir of Immortality|U
+Enlarge|U
+Festering Newt|C
+Essence Scatter|C
+Encroaching Wastes|U
+Fiendslayer Paladin|R
+Fireshrieker|U
+Fleshpulper Giant|U
+Flames of the Firebrand|U
+Forest|L
+Fog|C
+Frost Breath|C
+Galerider Sliver|R
+Fortify|C
+Garruk, Caller of Beasts|M
+Giant Spider|C
+Giant Growth|C
+Gladecover Scout|C
+Garruk's Horde|R
+Gnawing Zombie|U
+Glimpse the Future|U
+Goblin Diplomats|R
+Goblin Shortcutter|C
+Griffin Sentinel|C
+Guardian of the Ages|R
+Groundshaker Sliver|C
+Grim Return|R
+Haunted Plate Mail|R
+Howl of the Night Pack|U
+Hive Stirrings|C
+Hunt the Weak|C
+Illusionary Armor|U
+Imposing Sovereign|R
+Indestructibility|R
+Island|L
+Into the Wilds|R
+Jace's Mindseeker|R
+Jace, Memory Adept|M
+Kalonian Hydra|M
+Kalonian Tusker|U
+Lay of the Land|C
+Lava Axe|C
+Lifebane Zombie|R
+Lightning Talons|C
+Liliana of the Dark Realms|M

@@ -1,137 +1,69 @@
+Archaeological Dig|U
 Aether Rift|R
-Addle|U
 Agonizing Demise|C
 Aggressive Urge|C
-Absorb|R
 Alabaster Leech|R
-Alloy Golem|U
 Ancient Kavu|C
-Annihilate|U
-Ancient Spring|C
+Alloy Golem|U
+Addle|U
+Absorb|R
 Andradite Leech|R
-Angel of Mercy|U
-Ardent Soldier|C
+Ancient Spring|C
 Angelic Shield|U
-Archaeological Dig|U
-Armored Guardian|R
+Angel of Mercy|U
+Annihilate|U
+Ardent Soldier|C
 Armadillo Cloak|C
+Armored Guardian|R
+Benalish Emissary|U
 Artifact Mutation|R
 Atalya, Samite Master|R
-Benalish Emissary|U
 Aura Shards|U
 Aura Mutation|R
-Chromatic Sphere|U
-Cinder Shade|U
-Coastal Tower|U
-Backlash|U
-Coalition Victory|R
-Collapsing Borders|R
-Barrin's Unmaking|C
 Barrin's Spite|R
-Benalish Heralds|U
+Backlash|U
+Barrin's Unmaking|C
 Assault/Battery|U
+Benalish Heralds|U
 Benalish Lancer|C
 Benalish Trapper|C
 Bind|R
-Bloodstone Cameo|U
 Bend or Break|R
 Blazing Specter|R
+Bloodstone Cameo|U
 Blind Seer|R
 Blinding Light|U
 Blurred Mongoose|R
 Bog Initiate|C
 Breath of Darigaaz|U
 Breaking Wave|R
-Capashen Unicorn|C
 Callous Giant|R
+Capashen Unicorn|C
 Canopy Surge|U
 Captain Sisay|R
-Cauldron Dance|U
 Chaotic Strike|U
+Cauldron Dance|U
 Charging Troll|U
-Hunting Kavu|U
-Irrigation Ditch|C
-Hypnotic Cloud|C
-Island|L
-Kavu Aggressor|C
-Juntu Stakes|R
-Jade Leech|R
-Kangee, Aerie Keeper|R
-Kavu Chameleon|U
-Kavu Climber|C
-Kavu Monarch|R
-Llanowar Elite|C
-Llanowar Knight|C
-Llanowar Vanguard|C
-Loafing Giant|R
-Lotus Guardian|R
-Lobotomy|U
-Mages' Contest|R
-Mana Maze|R
-Stalking Assassin|R
-Maniacal Rage|C
-Marauding Knight|R
-Manipulate Fate|U
-Metathran Aerostat|R
-Metathran Transport|U
-Meteor Storm|R
-Metathran Zombie|C
-Obsidian Acolyte|C
-Mountain|L
-Might Weaver|U
-Molimo, Maro-Sorcerer|R
-Nightscape Master|R
-Nightscape Apprentice|C
-Noble Panther|R
-Ordered Migration|U
-Mourning|C
-Nomadic Elf|C
-Obliterate|R
-Opt|C
-Overabundance|R
-Orim's Touch|C
-Overload|C
-Phantasmal Terrain|C
-Sunscape Apprentice|C
-Kavu Lair|R
-Phyrexian Battleflies|C
-Kavu Scout|C
-Kavu Runner|U
-Kavu Titan|R
-Keldon Necropolis|R
-Llanowar Cavalry|C
-Liberate|U
-Lightning Dart|U
-Phyrexian Reaper|C
-Phyrexian Delver|R
-Phyrexian Altar|R
-Phyrexian Infiltrator|R
-Phyrexian Lens|R
-Phyrexian Slayer|C
-Pincer Spider|C
-Plague Spores|C
-Plague Spitter|U
-Plains|L
-Pledge of Loyalty|U
-Planar Portal|R
-Protective Sphere|C
-Pouncing Kavu|C
-Power Armor|U
-Prison Barricade|C
-Prohibit|C
+Cinder Shade|U
+Chromatic Sphere|U
+Coastal Tower|U
+Coalition Victory|R
+Collapsing Borders|R
+Collective Restraint|R
 Cremate|U
 Crimson Acolyte|C
+Crown of Flames|C
 Crosis's Attendant|U
 Crosis, the Purger|R
-Crown of Flames|C
 Crusading Knight|R
-Crypt Angel|R
-Crystal Spray|R
 Cursed Flesh|C
+Crypt Angel|R
+Death or Glory|R
+Crystal Spray|R
 Darigaaz's Attendant|U
 Darigaaz, the Igniter|R
-Death or Glory|R
 Defiling Tears|U
+Sterling Grove|U
 Desperate Research|R
 Dismantling Blow|C
 Devouring Strossus|R
@@ -139,92 +71,109 @@ Disrupt|U
 Divine Presence|R
 Distorting Wake|R
 Do or Die|R
-Drake-Skull Cameo|U
 Dream Thrush|C
+Drake-Skull Cameo|U
+Dueling Grounds|R
 Dromar's Attendant|U
 Dredge|U
-Dromar, the Banisher|R
 Duskwalker|C
-Dueling Grounds|R
+Dromar, the Banisher|R
 Elfhame Sanctuary|U
 Elfhame Palace|U
 Elvish Champion|R
 Empress Galina|R
 Essence Leak|U
 Exotic Curse|C
+Fact or Fiction|U
 Exclude|C
 Explosive Growth|C
-Fact or Fiction|U
 Faerie Squadron|C
 Fertile Ground|C
 Firebrand Ranger|U
 Fight or Flight|R
-Fires of Yavimaya|U
 Firescreamer|C
+Fires of Yavimaya|U
 Frenzied Tilling|C
 Forest|L
-Ghitu Fire|R
 Galina's Knight|C
+Ghitu Fire|R
 Geothermal Crevice|C
-Halam Djinn|U
 Glimmering Angel|C
 Goblin Spy|U
 Global Ruin|R
+Halam Djinn|U
 Goham Djinn|U
-Hanna, Ship's Navigator|R
 Hate Weaver|U
-Harrow|C
+Hanna, Ship's Navigator|R
 Harsh Judgment|R
-Holy Day|C
-Heroes' Reunion|U
-Horned Cheetah|U
-Hooded Kavu|C
-Collective Restraint|R
+Harrow|C
+Overabundance|R
+Overload|C
+Phantasmal Terrain|C
+Sunscape Apprentice|C
+Phyrexian Battleflies|C
+Phyrexian Altar|R
+Phyrexian Delver|R
+Phyrexian Infiltrator|R
+Phyrexian Reaper|C
+Phyrexian Lens|R
+Phyrexian Slayer|C
+Pincer Spider|C
+Plague Spitter|U
+Plains|L
+Plague Spores|C
+Pledge of Loyalty|U
+Planar Portal|R
+Pouncing Kavu|C
+Protective Sphere|C
+Prison Barricade|C
+Power Armor|U
+Prohibit|C
 Probe|C
-Pulse of Llanowar|U
 Psychic Battle|R
-Pyre Zombie|R
+Pulse of Llanowar|U
 Pure Reflection|R
+Pyre Zombie|R
 Quirion Elves|C
 Quirion Sentinel|C
-Raging Kavu|R
 Quirion Trailblazer|C
 Rage Weaver|U
 Rainbow Crow|U
+Raging Kavu|R
 Rampant Elephant|C
 Ravenous Rats|C
 Razorfoot Griffin|C
+Reckless Spite|U
 Reckless Assault|R
 Recoil|C
-Reckless Spite|U
 Repulse|C
 Recover|C
 Restock|R
 Restrain|C
+Reviving Vapors|U
 Reviving Dose|C
 Rewards of Diversity|U
-Reviving Vapors|U
-Reya Dawnbringer|R
 Riptide Crab|U
-Rith's Attendant|U
+Reya Dawnbringer|R
 Rogue Kavu|C
+Rith's Attendant|U
 Rith, the Awakener|R
-Rooting Kavu|U
-Sabertooth Nishoba|R
 Ruby Leech|R
+Sabertooth Nishoba|R
+Rooting Kavu|U
 Rout|R
-Ruham Djinn|U
 Samite Archer|U
+Ruham Djinn|U
 Salt Marsh|U
-Samite Ministration|U
 Sapphire Leech|R
 Saproling Symbiosis|R
 Saproling Infestation|R
 Savage Offensive|C
+Samite Ministration|U
 Scarred Puma|C
 Scavenged Weaponry|C
-Scorching Lava|C
 Scouting Trek|U
+Scorching Lava|C
 Searing Rays|U
 Seashell Cameo|U
 Seer's Vision|U
@@ -232,10 +181,62 @@ Serpentine Kavu|C
 Shimmering Wings|C
 Shackles|C
 Shivan Emissary|U
-Shivan Harvest|U
 Shivan Oasis|U
+Shivan Harvest|U
 Shivan Zombie|C
 Shoreline Raider|C
+Mourning|C
+Nightscape Apprentice|C
+Obsidian Acolyte|C
+Noble Panther|R
+Nomadic Elf|C
+Ordered Migration|U
+Obliterate|R
+Opt|C
+Orim's Touch|C
+Holy Day|C
+Heroes' Reunion|U
+Hooded Kavu|C
+Horned Cheetah|U
+Hunting Kavu|U
+Irrigation Ditch|C
+Hypnotic Cloud|C
+Island|L
+Juntu Stakes|R
+Jade Leech|R
+Kangee, Aerie Keeper|R
+Kavu Aggressor|C
+Kavu Chameleon|U
+Kavu Climber|C
+Kavu Monarch|R
+Kavu Lair|R
+Kavu Scout|C
+Kavu Runner|U
+Kavu Titan|R
+Keldon Necropolis|R
+Llanowar Cavalry|C
+Lightning Dart|U
+Liberate|U
+Llanowar Elite|C
+Llanowar Knight|C
+Llanowar Vanguard|C
+Loafing Giant|R
+Lotus Guardian|R
+Lobotomy|U
+Stalking Assassin|R
+Mages' Contest|R
+Mana Maze|R
+Maniacal Rage|C
+Marauding Knight|R
+Manipulate Fate|U
+Metathran Aerostat|R
+Metathran Transport|U
+Metathran Zombie|C
+Might Weaver|U
+Meteor Storm|R
+Mountain|L
+Molimo, Maro-Sorcerer|R
+Nightscape Master|R
 Skittish Kavu|U
 Simoon|U
 Sky Weaver|U
@@ -246,30 +247,29 @@ Slimy Kavu|C
 Soul Burn|C
 Smoldering Tar|U
 Sparring Golem|U
-Spirit Weaver|U
 Spirit of Resistance|R
 Spinal Embrace|R
+Spirit Weaver|U
 Spreading Plague|R
 Spite/Malice|U
-Stand/Deliver|U
 Stand or Fall|R
+Stand/Deliver|U
 Stormscape Apprentice|C
-Sterling Grove|U
 Stormscape Master|R
 Strength of Unity|C
 Sulam Djinn|U
-Stun|C
 Pain/Suffering|U
-Sulfur Vent|C
+Stun|C
 Sunscape Master|R
+Sulfur Vent|C
+Tainted Well|C
 Sway of Illusion|U
 Swamp|L
-Tainted Well|C
+Teferi's Care|U
 Tectonic Instability|R
 Tangle|U
-Teferi's Care|U
-Teferi's Response|R
 Teferi's Moat|R
+Teferi's Response|R
 Tek|R
 Thicket Elemental|R
 Temporal Distortion|R
@@ -283,28 +283,28 @@ Tigereye Cameo|U
 Traveler's Cloak|C
 Tolarian Emissary|U
 Tower Drake|C
-Tranquility|C
 Treefolk Healer|U
+Tranquility|C
 Treva's Attendant|U
 Trench Wurm|U
+Tribal Flames|C
 Treva, the Renewer|R
 Troll-Horn Cameo|U
-Tribal Flames|C
 Tsabo Tavoc|R
 Tsabo's Assassin|R
 Tsabo's Web|R
 Tsabo's Decree|R
+Twilight's Call|R
 Turf Wound|C
 Undermine|R
-Twilight's Call|R
 Urborg Drake|U
 Urborg Emissary|U
 Urborg Phantom|C
 Urborg Shambler|U
 Urborg Skeleton|C
+Urza's Filter|R
 Urborg Volcano|U
 Urza's Rage|R
-Urza's Filter|R
 Verduran Emissary|U
 Utopia Tree|R
 Verdeloth the Ancient|R
@@ -322,13 +322,13 @@ Wayfaring Giant|U
 Wandering Stream|C
 Wallop|U
 Wash Out|U
-Wax/Wane|U
 Whip Silk|C
+Wax/Wane|U
 Well-Laid Plans|R
 Wings of Hope|C
 Yavimaya Barbarian|C
-Winnow|R
 Worldly Counsel|C
+Winnow|R
 Yavimaya Kavu|U
 Zanam Djinn|U
 Yawgmoth's Agenda|R

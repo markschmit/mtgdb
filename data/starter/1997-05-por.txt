@@ -1,26 +1,26 @@
-Highland Giant|C
+Ebon Dragon|R
 Alabaster Dragon|R
 Anaconda|U
 Alluring Scent|R
+Ardent Militia|U
 Angelic Blessing|C
 Ancestral Memories|R
 Archangel|R
-Ardent Militia|U
 Armored Pegasus|C
 Armageddon|R
 Arrogant Vampire|U
 Balance of Power|R
 Assassin's Blade|U
-Bee Sting|U
 Baleful Stare|U
+Bee Sting|U
 Blessed Reversal|R
 Blaze|U
-Bog Imp|C
 Blinding Light|R
+Bog Imp|C
 Bog Raiders|C
 Bog Wraith|U
-Boiling Seas|U
 Border Guard|C
+Boiling Seas|U
 Bull Hippo|U
 Breath of Life|C
 Capricious Sorcerer|R
@@ -28,8 +28,8 @@ Burning Cloak|C
 Charging Bandits|U
 Charging Paladin|U
 Charging Rhino|R
-Cloak of Feathers|C
 Cloud Dragon|R
+Cloak of Feathers|C
 Cloud Pirates|C
 Cloud Spirit|U
 Coral Eel|C
@@ -43,54 +43,54 @@ Cruel Tutor|R
 Deep-Sea Serpent|U
 Devoted Hero|C
 Defiant Stand|U
-Déjà Vu|C
 Desert Drake|U
+Déjà Vu|C
 Devastation|R
 Djinn of the Lamp|R
 Dry Spell|U
 Dread Charge|R
 Dread Reaper|R
-Ebon Dragon|R
 Earthquake|R
-Elvish Ranger|C
 Elite Cat Warrior|C
+Elvish Ranger|C
 Elven Cache|C
 Endless Cockroaches|R
+Feral Shadow|C
 False Peace|C
 Exhaustion|R
-Feral Shadow|C
 Fire Imp|U
 Final Strike|R
 Flashfires|U
 Fire Dragon|R
 Fire Snake|C
 Fire Tempest|R
-Foot Soldiers|C
 Fleet-Footed Monk|C
+Foot Soldiers|C
 Flux|U
 Fruition|C
 Forked Lightning|R
 Forest|L
 Giant Octopus|C
 Giant Spider|C
-Gift of Estates|R
 Goblin Bully|C
+Gift of Estates|R
 Gorilla Warrior|C
-Gravedigger|U
 Grizzly Bears|C
-Hand of Death|C
+Gravedigger|U
 Harsh Justice|R
-Hill Giant|C
+Hand of Death|C
+Highland Giant|C
 Horned Turtle|C
-Howling Fury|C
+Hill Giant|C
 Hulking Cyclops|U
+Howling Fury|C
 Hulking Goblin|C
 Ingenious Thief|U
 Hurricane|R
+King's Assassin|R
 Jungle Lion|C
 Island|L
 Keen-Eyed Archers|C
-King's Assassin|R
 Knight Errant|C
 Lava Flow|U
 Lava Axe|C
@@ -107,9 +107,9 @@ Monstrous Growth|C
 Mobilize|C
 Mountain Goat|U
 Mountain|L
+Natural Order|R
 Muck Rats|C
 Mystic Denial|U
-Natural Order|R
 Natural Spring|U
 Nature's Cloak|R
 Nature's Lore|C
@@ -119,8 +119,8 @@ Noxious Toad|U
 Owl Familiar|C
 Omen|C
 Panther Warriors|C
-Path of Peace|C
 Personal Tutor|U
+Path of Peace|C
 Phantom Warrior|R
 Pillaging Horde|R
 Plant Elemental|U
@@ -132,18 +132,18 @@ Pyroclasm|R
 Raging Cougar|C
 Raging Goblin|C
 Raging Minotaur|C
+Rain of Tears|U
 Rain of Salt|U
 Raise Dead|C
-Rain of Tears|U
-Redwood Treefolk|C
 Regal Unicorn|C
-Renewing Dawn|U
+Redwood Treefolk|C
 Rowan Treefolk|C
+Renewing Dawn|U
 Sacred Knight|C
-Sacred Nectar|C
 Scorching Spear|C
-Seasoned Marshal|U
+Sacred Nectar|C
 Scorching Winds|U
+Seasoned Marshal|U
 Serpent Assassin|R
 Serpent Warrior|C
 Skeletal Crocodile|C
@@ -151,50 +151,50 @@ Skeletal Snake|C
 Snapping Drake|C
 Soul Shred|C
 Sorcerous Sight|C
+Spotted Griffin|C
 Spined Wurm|C
 Spiritual Guardian|R
 Spitting Earth|C
-Spotted Griffin|C
 Stalking Tiger|C
 Starlit Angel|U
 Starlight|U
-Steadfastness|C
 Stern Marshal|R
+Steadfastness|C
+Summer Bloom|R
 Storm Crow|C
 Stone Rain|C
 Swamp|L
-Summer Bloom|R
 Symbol of Unsummoning|C
 Sylvan Tutor|R
 Taunt|R
-Temporary Truce|R
 Theft of Dreams|U
-Thing from the Deep|R
+Temporary Truce|R
 Thundering Wurm|R
+Thing from the Deep|R
 Time Ebb|C
 Thundermare|R
 Touch of Brilliance|C
 Tidal Surge|C
 Treetop Defense|R
 Undying Beast|C
-Untamed Wilds|U
 Valorous Charge|U
+Untamed Wilds|U
 Vampiric Feast|U
 Vampiric Touch|C
 Venerable Monk|U
-Vengeance|U
-Virtue's Ruin|U
 Volcanic Dragon|R
-Volcanic Hammer|C
+Virtue's Ruin|U
+Vengeance|U
 Wall of Granite|U
+Volcanic Hammer|C
 Wall of Swords|U
-Warrior's Charge|C
 Whiptail Wurm|U
+Warrior's Charge|C
 Willow Dryad|C
 Wicked Pact|R
+Winter's Grasp|U
 Wind Drake|C
 Winds of Change|R
-Winter's Grasp|U
-Wood Elves|R
 Withering Gaze|U
+Wood Elves|R
 Wrath of God|R

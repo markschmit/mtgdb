@@ -1,4 +1,5 @@
 Adaptive Snapjaw|C
+Murder Investigation|U
 Act of Treason|C
 Aetherize|U
 Aerial Maneuver|C
@@ -10,10 +11,10 @@ Angelic Edict|C
 Armored Transport|C
 Assault Griffin|C
 Arrows of Justice|U
-Assemble the Legion|R
 Aurelia's Fury|M
-Aurelia, the Warleader|M
+Assemble the Legion|R
 Balustrade Spy|C
+Aurelia, the Warleader|M
 Bane Alley Broker|U
 Basilica Guards|C
 Basilica Screecher|C
@@ -21,24 +22,38 @@ Bioshift|C
 Biomass Mutation|R
 Beckon Apparition|C
 Biovisionary|R
-Blind Obedience|R
 Bomber Corps|C
+Nimbus Swimmer|U
+Mugging|C
+Naturalize|C
+Nightveil Specter|R
+Mystic Genesis|R
+Nav Squad Commandos|C
+Ogre Slumlord|R
+One Thousand Lashes|U
+Obzedat, Ghost Council|M
+Ooze Flux|R
+Orzhov Guildgate|C
+Ordruun Veteran|U
+Orzhov Charm|U
+Paranoid Delusions|C
+Orzhov Keyrune|U
+Predator's Rapport|C
+Primal Visitation|C
+Prophetic Prism|C
+Pit Fight|C
+Prime Speaker Zegana|M
+Blind Obedience|R
 Boros Charm|U
 Borborygmos Enraged|M
-Boros Guildgate|C
 Boros Elite|U
-Knight Watch|C
-Boros Keyrune|U
+Boros Guildgate|C
 Boros Reckoner|R
+Boros Keyrune|U
 Breeding Pool|R
 Burst of Strength|C
 Burning-Tree Emissary|U
 Call of the Nightwing|U
-Ivy Lane Denizen|C
-Keymaster Rogue|C
-Killing Glare|U
-Kingpin's Pet|C
-Knight of Obligation|U
 Cartel Aristocrat|U
 Cinder Elemental|U
 Clinging Anemones|C
@@ -48,35 +63,182 @@ Contaminated Ground|C
 Consuming Aberration|R
 Coerced Confession|U
 Corpse Blockade|C
-Crocanura|C
 Court Street Denizen|C
+Crocanura|C
 Crackling Perimeter|U
 Crowned Ceratok|U
-Crypt Ghast|R
 Daring Skyjek|C
+Crypt Ghast|R
 Death's Approach|C
-Deathcult Rogue|C
 Deathpact Angel|M
+Deathcult Rogue|C
 Debtor's Pulpit|U
 Diluvian Primordial|R
 Devour Flesh|C
 Dimir Guildgate|C
 Dimir Charm|U
+Dinrova Horror|U
 Dimir Keyrune|U
-Lazav, Dimir Mastermind|M
+Disciple of the Old Ways|C
+Drakewing Krasis|C
+Domri Rade|M
+Duskmantle Guildmage|U
+Duskmantle Seer|M
+Dutiful Thrull|C
+Elusive Krasis|U
+Dying Wish|U
+Ember Beast|C
+Executioner's Swing|C
+Enter the Infinite|M
+Experiment One|U
+Fathom Mage|R
+Firefist Striker|U
+Firemane Avenger|R
+Forced Adaptation|C
+Five-Alarm Fire|R
+Purge the Profane|C
+Rapid Hybridization|U
+Razortip Whip|C
+Realmwright|R
+Riot Gear|C
+Righteous Charge|U
+Ripscale Predator|U
+Rubblebelt Raiders|R
+Psychic Strike|C
+Ruination Wurm|C
+Sacred Foundry|R
+Rubblehulk|R
+Rust Scarab|U
+Sage's Row Denizen|C
+Sapphire Drake|U
+Scab-Clan Charger|C
+Scorchwalker|C
+Sepulchral Primordial|R
+Scatter Arc|C
+Shadow Alley Denizen|C
+Shambleshark|C
+Shadow Slice|C
+Serene Remembrance|U
+Shielded Passage|C
+Shattering Blow|C
+Simic Charm|U
+Signal the Clans|R
+Simic Fluxmage|U
+Simic Guildgate|C
+Thespian's Stage|R
+Tin Street Market|C
+Tower Defense|U
+Totally Lost|C
+Towering Thunderfist|C
+Treasury Thrull|R
+Truefire Paladin|U
+Undercity Informer|U
+Undercity Plague|R
+Urban Evolution|U
+Unexpected Results|R
+Urbis Protector|U
+Simic Manipulator|R
+Simic Keyrune|U
+Skarrg Goliath|R
+Skarrg Guildmage|U
+Skinbrand Goblin|C
+Skyknight Legionnaire|C
+Skyblinder Staff|C
+Skullcrack|U
+Skygames|C
+Slate Street Ruffian|C
+Slaughterhorn|C
+Smog Elemental|U
+Smite|C
+Spell Rupture|C
+Soul Ransom|R
+Spark Trooper|R
+Spire Tracer|C
+Stomping Ground|R
+Stolen Identity|R
+Sunhome Guildmage|U
+Structural Collapse|C
+Sylvan Primordial|R
+Syndic of Tithes|C
+Syndicate Enforcer|C
+Thrull Parasite|U
+Fortress Cyclops|U
+Foundry Champion|R
+Foundry Street Denizen|C
+Frilled Oculus|C
+Gruul Charm|U
+Frenzied Tilling|U
+Frontline Medic|R
+Gateway Shade|U
+Furious Resistance|C
+Ghor-Clan Rampager|U
+Giant Adephage|M
+Gideon, Champion of Justice|M
+Glaring Spotlight|R
+Gift of Orzhova|U
+Godless Shrine|R
+Greenside Watcher|C
+Ground Assault|U
+Grisly Spectacle|C
+Gridlock|U
+Gruul Guildgate|C
+Gruul Ragebeast|R
+Gruul Keyrune|U
+Guardian of the Gateless|U
+Guildscorn Ward|C
+Gutter Skulk|C
+Hellkite Tyrant|M
+Gyre Sage|R
+Hands of Binding|C
+Hellraiser Goblin|U
+High Priest of Penance|R
+Holy Mantle|U
+Hold the Gates|U
+Hindervines|U
+Horror of the Dim|C
+Homing Lightning|U
+Illusionist's Bracers|R
+Illness in the Ranks|U
+Hydroform|C
+Incursion Specialist|U
+Immortal Servitude|R
+Ivy Lane Denizen|C
+Keymaster Rogue|C
+Verdant Haven|C
+Viashino Shanktail|U
+Vizkopa Confessor|U
+Vizkopa Guildmage|U
+Wasteland Viper|U
+Warmind Infantry|C
+Voidwalk|U
+Watery Grave|R
+Way of the Thief|C
+Wight of Precinct Six|U
+Whispering Madness|R
+Wojek Halberdiers|C
+Wildwood Rebirth|C
+Wrecking Ogre|R
+Zameck Guildmage|U
+Zarichi Tiger|C
+Zhur-Taa Swine|C
+Kingpin's Pet|C
+Killing Glare|U
 Last Thoughts|C
+Knight of Obligation|U
+Knight Watch|C
 Legion Loyalist|R
+Lazav, Dimir Mastermind|M
 Leyline Phantom|C
+Luminate Primordial|R
 Lord of the Void|M
 Madcap Skills|C
-Luminate Primordial|R
-Mark for Death|U
 Martial Glory|C
-Master Biomancer|M
-Metropolis Sprite|C
+Mark for Death|U
 Massive Raid|C
+Master Biomancer|M
 Merciless Eviction|R
 Mental Vapors|U
+Metropolis Sprite|C
 Merfolk of the Depths|U
 Millennial Gargoyle|C
 Midnight Recovery|C
@@ -85,165 +247,3 @@ Miming Slime|U
 Mindeye Drake|U
 Molten Primordial|R
 Mortus Strider|C
-Murder Investigation|U
-Mugging|C
-Naturalize|C
-Mystic Genesis|R
-Nimbus Swimmer|U
-Nightveil Specter|R
-Nav Squad Commandos|C
-Ogre Slumlord|R
-Obzedat, Ghost Council|M
-Ripscale Predator|U
-Rubblebelt Raiders|R
-Ruination Wurm|C
-Rubblehulk|R
-Rust Scarab|U
-Sacred Foundry|R
-Scorchwalker|C
-Sage's Row Denizen|C
-Sapphire Drake|U
-Scab-Clan Charger|C
-Scatter Arc|C
-Shadow Alley Denizen|C
-Serene Remembrance|U
-Sepulchral Primordial|R
-Simic Charm|U
-Shadow Slice|C
-Shambleshark|C
-Signal the Clans|R
-Shielded Passage|C
-Shattering Blow|C
-Righteous Charge|U
-One Thousand Lashes|U
-Ordruun Veteran|U
-Ooze Flux|R
-Orzhov Guildgate|C
-Orzhov Charm|U
-Paranoid Delusions|C
-Orzhov Keyrune|U
-Predator's Rapport|C
-Primal Visitation|C
-Pit Fight|C
-Prime Speaker Zegana|M
-Prophetic Prism|C
-Purge the Profane|C
-Psychic Strike|C
-Rapid Hybridization|U
-Realmwright|R
-Razortip Whip|C
-Riot Gear|C
-Dinrova Horror|U
-Disciple of the Old Ways|C
-Drakewing Krasis|C
-Domri Rade|M
-Duskmantle Guildmage|U
-Duskmantle Seer|M
-Dutiful Thrull|C
-Dying Wish|U
-Elusive Krasis|U
-Experiment One|U
-Ember Beast|C
-Executioner's Swing|C
-Enter the Infinite|M
-Firefist Striker|U
-Fathom Mage|R
-Firemane Avenger|R
-Forced Adaptation|C
-Five-Alarm Fire|R
-Fortress Cyclops|U
-Foundry Champion|R
-Foundry Street Denizen|C
-Frenzied Tilling|U
-Frilled Oculus|C
-Frontline Medic|R
-Furious Resistance|C
-Gateway Shade|U
-Ghor-Clan Rampager|U
-Giant Adephage|M
-Gideon, Champion of Justice|M
-Glaring Spotlight|R
-Gift of Orzhova|U
-Godless Shrine|R
-Greenside Watcher|C
-Grisly Spectacle|C
-Gridlock|U
-Gruul Charm|U
-Ground Assault|U
-Gruul Guildgate|C
-Gruul Keyrune|U
-Gruul Ragebeast|R
-Guardian of the Gateless|U
-Guildscorn Ward|C
-Gutter Skulk|C
-Gyre Sage|R
-Hands of Binding|C
-Hellkite Tyrant|M
-Hellraiser Goblin|U
-High Priest of Penance|R
-Holy Mantle|U
-Hindervines|U
-Hold the Gates|U
-Horror of the Dim|C
-Simic Fluxmage|U
-Simic Guildgate|C
-Simic Manipulator|R
-Simic Keyrune|U
-Skarrg Goliath|R
-Skarrg Guildmage|U
-Skinbrand Goblin|C
-Skyknight Legionnaire|C
-Zameck Guildmage|U
-Zarichi Tiger|C
-Zhur-Taa Swine|C
-Skyblinder Staff|C
-Skullcrack|U
-Skygames|C
-Slate Street Ruffian|C
-Slaughterhorn|C
-Smog Elemental|U
-Smite|C
-Soul Ransom|R
-Spark Trooper|R
-Spell Rupture|C
-Spire Tracer|C
-Stolen Identity|R
-Stomping Ground|R
-Sunhome Guildmage|U
-Structural Collapse|C
-Sylvan Primordial|R
-Syndic of Tithes|C
-Syndicate Enforcer|C
-Thespian's Stage|R
-Thrull Parasite|U
-Tin Street Market|C
-Towering Thunderfist|C
-Totally Lost|C
-Tower Defense|U
-Treasury Thrull|R
-Truefire Paladin|U
-Undercity Informer|U
-Unexpected Results|R
-Undercity Plague|R
-Urbis Protector|U
-Urban Evolution|U
-Verdant Haven|C
-Viashino Shanktail|U
-Vizkopa Confessor|U
-Vizkopa Guildmage|U
-Warmind Infantry|C
-Voidwalk|U
-Wasteland Viper|U
-Watery Grave|R
-Way of the Thief|C
-Wight of Precinct Six|U
-Whispering Madness|R
-Wojek Halberdiers|C
-Wildwood Rebirth|C
-Wrecking Ogre|R
-Homing Lightning|U
-Illusionist's Bracers|R
-Illness in the Ranks|U
-Hydroform|C
-Incursion Specialist|U
-Immortal Servitude|R

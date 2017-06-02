@@ -1,8 +1,53 @@
-Dreamspoiler Witches|C
 Adder-Staff Boggart|C
+Elvish Harbinger|U
 Aethersnipe|C
+Ajani Goldmane|R
+Amoeboid Changeling|C
+Aquitect's Will|C
+Ancient Amphitheater|R
+Arbiter of Knollridge|R
+Ashling the Pilgrim|R
+Auntie's Hovel|R
+Ashling's Prerogative|R
+Austere Command|R
+Avian Changeling|C
+Axegrinder Giant|C
+Battle Mastery|U
+Battlewand Oak|C
+Black Poplar Shaman|C
+Benthicore|U
+Blades of Velis Vel|C
+Blind-Spot Giant|C
+Bog Hoodlums|C
+Bog-Strider Ash|C
+Boggart Birth Rite|C
+Boggart Forager|C
+Boggart Harbinger|U
+Boggart Loggers|C
+Boggart Shenanigans|U
+Boggart Mob|R
+Boggart Sprite-Chaser|C
+Brigid, Hero of Kinsbaile|R
+Briarhorn|U
+Brion Stoutarm|R
+Burrenton Forge-Tender|U
+Broken Ambitions|C
+Cairn Wanderer|R
+Captivating Glance|U
+Caterwauling Boggart|C
+Ceaseless Searblades|U
+Chandra Nalaar|R
+Cenn's Heir|C
+Changeling Berserker|U
+Changeling Hero|U
+Changeling Titan|U
+Cloudcrown Oak|C
+Cloudgoat Ranger|U
+Colfenor's Plans|R
+Cloudthresher|R
+Colfenor's Urn|R
+Consuming Bonfire|C
 Island|L
-Jace Beleren|R
 Jagged-Scar Archers|U
 Judge of Currents|C
 Kinsbaile Balloonist|C
@@ -14,19 +59,19 @@ Kithkin Healer|C
 Kithkin Mourncaller|U
 Knight of Meadowgrain|U
 Knucklebone Witch|R
-Lace with Moonglove|C
 Lairwatch Giant|C
+Lace with Moonglove|C
 Lash Out|C
 Lammastide Weave|U
+Liliana Vess|R
 Leaf Gilder|C
 Lignify|C
-Liliana Vess|R
 Lys Alana Huntmaster|C
 Lowland Oaf|C
 Lys Alana Scarblade|U
+Marsh Flitter|U
 Mad Auntie|R
 Makeshift Mannequin|U
-Marsh Flitter|U
 Masked Admirers|R
 Merrow Commerce|U
 Merrow Harbinger|U
@@ -50,11 +95,11 @@ Neck Snap|C
 Nightshade Stinger|C
 Nettlevine Blight|R
 Needle Drop|C
-Nova Chaser|R
 Oaken Brawler|C
+Nova Chaser|R
 Oakgnarl Warrior|C
-Oblivion Ring|C
 Oona's Prowler|R
+Oblivion Ring|C
 Paperfin Rascal|C
 Pestermite|C
 Peppersmoke|C
@@ -62,9 +107,9 @@ Plains|L
 Plover Knights|C
 Ponder|C
 Pollen Lullaby|U
+Profane Command|R
 Primal Command|R
 Protective Bubble|C
-Profane Command|R
 Prowess of the Fair|U
 Rebellion of the Flamekin|U
 Quill-Slinger Boggart|C
@@ -74,10 +119,10 @@ Rings of Brighthearth|R
 Rootgrapple|C
 Runed Stalactite|C
 Scarred Vinebreeder|C
-Scattering Stroke|U
 Scion of Oona|R
-Secluded Glen|R
+Scattering Stroke|U
 Seedguide Ash|U
+Secluded Glen|R
 Sentinels of Glen Elendra|C
 Shapesharer|R
 Sentry Oak|U
@@ -94,9 +139,9 @@ Soulbright Flamekin|C
 Sower of Temptation|R
 Spellstutter Sprite|C
 Spiderwig Boggart|C
+Spring Cleaning|C
 Spinerock Knoll|R
 Springjack Knight|C
-Spring Cleaning|C
 Squeaking Pie Sneak|U
 Springleaf Drum|C
 Stinkdrinker Daredevil|C
@@ -132,18 +177,18 @@ Vivid Grove|U
 Vivid Marsh|U
 Vivid Meadow|U
 Wanderer's Twig|C
-Wanderwine Prophets|R
 Wanderwine Hub|R
+Wanderwine Prophets|R
 Warren Pilferers|C
 Warren-Scourge Elf|C
 Wellgabber Apothecary|C
 Weed Strangle|C
+Wild Ricochet|R
 Whirlpool Whelm|C
 Windbrisk Heights|R
-Wild Ricochet|R
 Wings of Velis Vel|C
-Wispmare|C
 Wizened Cenn|U
+Wispmare|C
 Woodland Changeling|C
 Wort, Boggart Auntie|R
 Woodland Guidance|U
@@ -151,54 +196,8 @@ Wren's Run Packmaster|R
 Wren's Run Vanquisher|U
 Wydwen, the Biting Gale|R
 Zephyr Net|C
-Ajani Goldmane|R
-Amoeboid Changeling|C
-Ancient Amphitheater|R
-Aquitect's Will|C
-Arbiter of Knollridge|R
-Ashling the Pilgrim|R
-Ashling's Prerogative|R
-Auntie's Hovel|R
-Avian Changeling|C
-Austere Command|R
-Axegrinder Giant|C
-Battle Mastery|U
-Battlewand Oak|C
-Black Poplar Shaman|C
-Benthicore|U
-Blades of Velis Vel|C
-Blind-Spot Giant|C
-Bog Hoodlums|C
-Bog-Strider Ash|C
-Boggart Birth Rite|C
-Boggart Forager|C
-Boggart Harbinger|U
-Boggart Loggers|C
-Boggart Shenanigans|U
-Boggart Mob|R
-Boggart Sprite-Chaser|C
-Brigid, Hero of Kinsbaile|R
-Briarhorn|U
-Brion Stoutarm|R
-Burrenton Forge-Tender|U
-Broken Ambitions|C
-Cairn Wanderer|R
-Captivating Glance|U
-Caterwauling Boggart|C
-Ceaseless Searblades|U
-Cenn's Heir|C
-Chandra Nalaar|R
-Changeling Berserker|U
-Changeling Hero|U
-Changeling Titan|U
-Cloudcrown Oak|C
-Cloudgoat Ranger|U
-Colfenor's Plans|R
-Cloudthresher|R
-Consuming Bonfire|C
-Colfenor's Urn|R
-Crib Swap|U
 Crush Underfoot|U
+Crib Swap|U
 Deathrender|R
 Dauntless Dourbark|R
 Cryptic Command|R
@@ -207,12 +206,12 @@ Deeptread Merrow|C
 Drowner of Secrets|U
 Doran, the Siege Tower|R
 Dolmen Gate|R
+Dreamspoiler Witches|C
 Dread|R
 Elvish Branchbender|C
 Ego Erasure|U
 Elvish Eulogist|C
 Elvish Handservant|C
-Elvish Harbinger|U
 Elvish Promenade|U
 Epic Proportions|R
 Entangling Trap|U
@@ -224,9 +223,9 @@ Faerie Harbinger|U
 Facevaulter|C
 Faerie Tauntings|U
 Faerie Trickery|C
+Fathom Trawl|R
 Fallowsage|U
 Familiar's Ruse|U
-Fathom Trawl|R
 Faultgrinder|C
 Favor of the Mighty|R
 Fertile Ground|C
@@ -238,9 +237,9 @@ Flamekin Brawler|C
 Flamekin Harbinger|U
 Flamekin Spitfire|U
 Fodder Launch|U
+Forced Fruition|R
 Footbottom Feast|C
 Forest|L
-Forced Fruition|R
 Gaddock Teeg|R
 Galepowder Mage|R
 Garruk Wildspeaker|R
@@ -248,8 +247,8 @@ Ghostly Changeling|U
 Giant Harbinger|U
 Gilt-Leaf Ambush|C
 Giant's Ire|C
-Gilt-Leaf Palace|R
 Gilt-Leaf Seer|C
+Gilt-Leaf Palace|R
 Glarewielder|U
 Glen Elendra Pranksters|U
 Glimmerdust Nap|C
@@ -258,18 +257,18 @@ Goatnapper|U
 Goldmeadow Harrier|C
 Goldmeadow Stalwart|U
 Guardian of Cloverdell|U
+Harpoon Sniper|U
 Hamletback Goliath|R
 Guile|R
-Harpoon Sniper|U
 Hearthcage Giant|U
 Heal the Scars|C
+Herbal Poultice|C
 Heat Shimmer|R
 Hillcomber Giant|C
-Herbal Poultice|C
 Hoofprints of the Stag|R
 Hoarder's Greed|U
-Horde of Notions|R
 Hornet Harasser|C
+Horde of Notions|R
 Hunt Down|C
 Howltooth Hollow|R
 Hostility|R
@@ -284,3 +283,4 @@ Ingot Chewer|C
 Inkfathom Divers|C
 Inner-Flame Acolyte|C
 Inner-Flame Igniter|U
+Jace Beleren|R

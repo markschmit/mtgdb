@@ -3,35 +3,35 @@ Aerie Mystics|U
 Absorb Vis|C
 Apocalypse Hydra|M
 Ancient Ziggurat|U
-Armillary Sphere|C
 Asha's Favor|C
+Armillary Sphere|C
 Aven Trailblazer|C
 Aven Squire|C
 Beacon Behemoth|C
 Banefire|R
-Blood Tyrant|R
 Bloodhall Ooze|R
+Blood Tyrant|R
 Bone Saw|C
 Canyon Minotaur|C
+Child of Alara|M
 Celestial Purge|U
 Charnelhoard Wurm|R
 Cliffrunner Behemoth|R
-Child of Alara|M
 Controlled Instincts|U
+Corrupted Roots|U
 Constricting Tendrils|C
 Conflux|M
-Corrupted Roots|U
 Court Homunculus|C
 Countersquall|U
 Cylian Sunsinger|R
 Cumber Stone|U
+Ember Weaver|C
 Darklit Gargoyle|C
 Dark Temper|C
 Dragonsoul Knight|U
 Drag Down|C
 Dreadwing|U
 Elder Mastery|U
-Ember Weaver|C
 Esper Cormorants|C
 Ethersworn Adjudicator|M
 Esperzoa|U
@@ -42,18 +42,18 @@ Faerie Mechanist|C
 Fleshformer|U
 Filigree Fracture|U
 Fiery Fall|C
-Font of Mythos|R
 Frontline Sage|C
+Font of Mythos|R
 Giltspire Avenger|R
 Fusion Elemental|U
 Gluttonous Slime|U
 Gleam of Resistance|C
 Goblin Outlander|C
 Goblin Razerunners|R
-Hellkite Hatchling|U
 Grixis Illusionist|C
 Grixis Slavedriver|U
 Gwafa Hazid, Profiteer|R
+Hellkite Hatchling|U
 Hellspark Elemental|U
 Infectious Horror|C
 Ignite Disorder|U
@@ -63,27 +63,27 @@ Kederekt Parasite|R
 Kaleidostone|C
 Knight of the Reliquary|R
 Knotvine Mystic|U
+Magister Sphinx|R
 Kranioceros|C
 Lapse of Certainty|C
 Maelstrom Archangel|M
 Malfegor|M
-Magister Sphinx|R
-Mana Cylix|C
 Manaforce Mace|U
+Mana Cylix|C
 Maniacal Rage|C
+Martial Coup|R
 Mark of Asylum|R
 Master Transmuter|R
-Martial Coup|R
 Matca Rioters|C
 Mirror-Sigil Sergeant|M
-Meglonoth|R
 Might of Alara|C
+Meglonoth|R
 Nacatl Hunt-Pride|U
 Molten Frame|C
 Nacatl Outlander|C
 Nacatl Savage|C
-Nicol Bolas, Planeswalker|M
 Noble Hierarch|R
+Nicol Bolas, Planeswalker|M
 Paleoloth|R
 Nyxathid|R
 Obelisk of Alara|R
@@ -91,11 +91,11 @@ Paragon of the Amesha|U
 Parasitic Strix|C
 Pestilent Kathari|C
 Path to Exile|U
+Quenchable Fire|C
 Rakka Mar|R
 Progenitus|M
-Quenchable Fire|C
-Reliquary Tower|U
 Rhox Bodyguard|C
+Reliquary Tower|U
 Rhox Meditant|C
 Rotting Rats|C
 Sacellum Archers|U
@@ -111,22 +111,22 @@ Sedraxis Alchemist|C
 Shambling Remains|U
 Sigil of the Empty Throne|R
 Shard Convergence|U
-Skyward Eye Prophets|U
 Sludge Strider|U
+Skyward Eye Prophets|U
 Soul's Majesty|R
 Sphinx Summoner|R
-Spore Burst|U
-Suicidal Charge|C
-Telemin Performance|R
 Sylvan Bounty|C
+Suicidal Charge|C
+Spore Burst|U
+Telemin Performance|R
 Thornling|M
 Toxic Iguanar|C
 Tukatongue Thallid|C
 Traumatic Visions|C
 Unsummon|C
 Unstable Frontier|U
-Valeron Outlander|C
 Vagrant Plowbeasts|U
+Valeron Outlander|C
 Valiant Guard|C
 Vectis Agents|C
 Vedalken Outlander|C

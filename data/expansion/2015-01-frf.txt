@@ -1,3 +1,116 @@
+Torrent Elemental|M
+Thornwood Falls|C
+Typhoid Rats|C
+Tranquil Cove|C
+Ugin's Construct|U
+Vaultbreaker|U
+Ugin, the Spirit Dragon|M
+Valorous Stance|U
+Wandering Champion|U
+Wardscale Dragon|U
+Warden of the First Tree|M
+War Flare|C
+Whisperwood Elemental|M
+Whisperer of the Wilds|C
+Whisk Away|C
+Will of the Naga|C
+Wildcall|R
+Wind-Scarred Crag|C
+Winds of Qal Sisma|U
+Wild Slash|U
+Write into Being|C
+Yasova Dragonclaw|R
+Temur War Shaman|R
+Temur Sabertooth|U
+Gurmag Angler|C
+Grim Contest|C
+Harsh Sustenance|C
+Hero's Blade|U
+Hewed Stone Retainers|U
+Honor's Reward|U
+Hooded Assassin|C
+Humble Defector|U
+Hungering Yeti|U
+Island|L
+Hunt the Weak|C
+Jeskai Infiltrator|R
+Jeskai Barricade|U
+Jeskai Runemark|C
+Kolaghan, the Storm's Fury|R
+Jeskai Sage|C
+Jungle Hollow|C
+Lotus Path Djinn|C
+Lightning Shrieker|C
+Lightform|U
+Lotus-Eye Mystics|U
+Marang River Prowler|U
+Map the Wastes|C
+Mardu Runemark|C
+Mardu Shadowspear|U
+Mardu Scout|C
+Mardu Strike Leader|R
+Mardu Woe-Reaper|U
+Merciless Executioner|U
+Mastery of the Unseen|R
+Mindscour Dragon|U
+Mistfire Adept|U
+Mountain|L
+Monastery Mentor|M
+Mob Rule|R
+Monastery Siege|R
+Noxious Dragon|U
+Neutralizing Blast|U
+Ojutai, Soul of Winter|R
+Orc Sureshot|U
+Palace Siege|R
+Outpost Siege|R
+Pilgrim of the Fires|U
+Pyrotechnics|U
+Plains|L
+Pressure Point|C
+Rally the Ancestors|R
+Qarsi High Priest|U
+Rakshasa's Disdain|C
+Rageform|U
+Reach of Shadows|C
+Reality Shift|U
+Refocus|C
+Rite of Undoing|U
+Renowned Weaponsmith|U
+Return to the Earth|C
+Rugged Highlands|C
+Ruthless Instincts|U
+Sage's Reverie|U
+Sandsteppe Outcast|C
+Sandsteppe Mastodon|R
+Sage-Eye Avengers|R
+Sandblast|C
+Scroll of the Masters|R
+Scoured Barrens|C
+Shaman of the Great Hunt|M
+Shifting Loyalties|U
+Shamanic Revelation|R
+Shockmaw Dragon|U
+Shu Yun, the Silent Tempest|R
+Sibsig Host|C
+Sibsig Muckdraggers|U
+Silumgar, the Drifting Death|R
+Smoldering Efreet|C
+Soulfire Grand Master|M
+Soul Summons|C
+Sultai Emissary|C
+Soulflayer|R
+Sudden Reclamation|U
+Sultai Runemark|C
+Sultai Skullkeeper|C
+Swamp|L
+Tasigur's Cruelty|C
+Swiftwater Cliffs|C
+Supplant Form|R
+Temur Battle Rage|C
+Tasigur, the Golden Fang|R
+Temporal Trespass|M
+Temur Runemark|C
 Abzan Beastmaster|U
 Abzan Advantage|C
 Abzan Kin-Guard|U
@@ -5,176 +118,63 @@ Abzan Runemark|C
 Abzan Skycaptain|C
 Alesha's Vanguard|C
 Ainok Guide|C
-Archers of Qarsi|C
 Alesha, Who Smiles at Death|R
 Ambush Krotiq|C
 Ancestral Vengeance|C
 Arashin Cleric|C
 Arashin War Beast|U
-Archfiend of Depravity|R
+Archers of Qarsi|C
 Arcbond|R
 Atarka, World Render|R
+Archfiend of Depravity|R
 Aven Skirmisher|C
+Battle Brawler|U
 Aven Surveyor|C
 Bathe in Dragonfire|C
 Battlefront Krushok|U
-Battle Brawler|U
 Bloodfire Enforcers|U
 Bloodfell Caves|C
 Break Through the Line|U
 Blossoming Sands|C
 Brutal Hordechief|M
-Cached Defenses|U
 Channel Harm|U
-Cloudform|U
+Cached Defenses|U
 Citadel Siege|R
-Crucible of the Spirit Dragon|R
+Cloudform|U
 Collateral Damage|C
+Crucible of the Spirit Dragon|R
 Crux of Fate|R
-Defiant Ogre|C
 Daghatar the Adamant|R
 Cunning Strike|C
+Defiant Ogre|C
 Dark Deal|U
-Diplomacy of the Wastes|U
 Destructor Dragon|U
 Dismal Backwater|C
-Dromoka, the Eternal|R
-Dragon Bell Monk|C
+Diplomacy of the Wastes|U
 Douse in Gloom|C
+Dragon Bell Monk|C
+Dromoka, the Eternal|R
 Dragonscale General|R
-Dragonrage|U
 Elite Scaleguard|U
-Fascination|U
-Enhanced Awareness|C
+Dragonrage|U
 Ethereal Ambush|C
+Enhanced Awareness|C
+Fascination|U
 Feral Krushok|C
 Fearsome Awakening|U
 Flamerush Rider|R
 Fierce Invocation|C
 Flamewake Phoenix|R
+Friendly Fire|U
 Forest|L
 Formless Nurturing|C
-Fruit of the First Tree|U
 Frontier Mastodon|C
-Friendly Fire|U
-Frontier Siege|R
-Goblin Heelcutter|C
 Frost Walker|U
+Frontier Siege|R
+Fruit of the First Tree|U
 Ghastly Conscription|M
-Great-Horn Krushok|C
 Goblin Boom Keg|U
+Goblin Heelcutter|C
+Great-Horn Krushok|C
 Gore Swine|C
 Grave Strength|U
-Grim Contest|C
-Gurmag Angler|C
-Harsh Sustenance|C
-Hero's Blade|U
-Hewed Stone Retainers|U
-Honor's Reward|U
-Humble Defector|U
-Hooded Assassin|C
-Island|L
-Hungering Yeti|U
-Hunt the Weak|C
-Jeskai Barricade|U
-Jeskai Infiltrator|R
-Jeskai Runemark|C
-Kolaghan, the Storm's Fury|R
-Jeskai Sage|C
-Jungle Hollow|C
-Lightform|U
-Lotus Path Djinn|C
-Lightning Shrieker|C
-Lotus-Eye Mystics|U
-Marang River Prowler|U
-Map the Wastes|C
-Mardu Runemark|C
-Mardu Shadowspear|U
-Mardu Strike Leader|R
-Mardu Scout|C
-Mardu Woe-Reaper|U
-Merciless Executioner|U
-Mindscour Dragon|U
-Mastery of the Unseen|R
-Mistfire Adept|U
-Mountain|L
-Monastery Mentor|M
-Mob Rule|R
-Monastery Siege|R
-Neutralizing Blast|U
-Noxious Dragon|U
-Palace Siege|R
-Ojutai, Soul of Winter|R
-Orc Sureshot|U
-Outpost Siege|R
-Pilgrim of the Fires|U
-Plains|L
-Pressure Point|C
-Pyrotechnics|U
-Qarsi High Priest|U
-Rally the Ancestors|R
-Rakshasa's Disdain|C
-Rageform|U
-Reach of Shadows|C
-Refocus|C
-Rite of Undoing|U
-Reality Shift|U
-Renowned Weaponsmith|U
-Return to the Earth|C
-Rugged Highlands|C
-Ruthless Instincts|U
-Sage's Reverie|U
-Sage-Eye Avengers|R
-Sandsteppe Outcast|C
-Sandblast|C
-Sandsteppe Mastodon|R
-Scroll of the Masters|R
-Scoured Barrens|C
-Shifting Loyalties|U
-Shaman of the Great Hunt|M
-Shamanic Revelation|R
-Shockmaw Dragon|U
-Shu Yun, the Silent Tempest|R
-Sibsig Muckdraggers|U
-Sibsig Host|C
-Silumgar, the Drifting Death|R
-Smoldering Efreet|C
-Soulfire Grand Master|M
-Soul Summons|C
-Sultai Runemark|C
-Sudden Reclamation|U
-Soulflayer|R
-Sultai Emissary|C
-Supplant Form|R
-Sultai Skullkeeper|C
-Swamp|L
-Tasigur's Cruelty|C
-Tasigur, the Golden Fang|R
-Swiftwater Cliffs|C
-Temur Runemark|C
-Temur Battle Rage|C
-Temporal Trespass|M
-Temur Sabertooth|U
-Temur War Shaman|R
-Torrent Elemental|M
-Thornwood Falls|C
-Ugin's Construct|U
-Tranquil Cove|C
-Typhoid Rats|C
-Ugin, the Spirit Dragon|M
-Vaultbreaker|U
-Valorous Stance|U
-Wandering Champion|U
-Wardscale Dragon|U
-Warden of the First Tree|M
-Whisperwood Elemental|M
-War Flare|C
-Whisperer of the Wilds|C
-Whisk Away|C
-Will of the Naga|C
-Wild Slash|U
-Wildcall|R
-Yasova Dragonclaw|R
-Wind-Scarred Crag|C
-Winds of Qal Sisma|U
-Write into Being|C

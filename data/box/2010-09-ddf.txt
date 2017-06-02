@@ -1,12 +1,12 @@
 Angel of Salvation|R
-Aether Spellbomb|C
 Abolish|U
+Aether Spellbomb|C
 Arcbound Worker|C
-Argivian Restoration|U
 Assembly-Worker|U
 Burrenton Bombardier|C
-Catapult Master|R
 Blinding Beam|C
+Argivian Restoration|U
+Catapult Master|R
 Celestial Crusader|U
 Clockwork Condor|C
 Clockwork Hydra|U
@@ -14,60 +14,60 @@ Conclave Equenaut|C
 Conclave Phalanx|U
 Crusade|R
 Contagion Clasp|U
-Daru Encampment|U
-Darksteel Citadel|C
 Echoing Truth|C
+Darksteel Citadel|C
 Elite Vanguard|U
+Daru Encampment|U
 Elixir of Immortality|U
-Elspeth, Knight-Errant|M
 Esperzoa|U
+Elspeth, Knight-Errant|M
 Energy Chamber|U
 Faerie Mechanist|C
 Everflowing Chalice|U
-Glory Seeker|C
 Frogmite|C
+Glory Seeker|C
 Foil|U
 Goldmeadow Harrier|C
 Infantry Veteran|C
 Juggernaut|U
-Journey to Nowhere|C
 Island|L
 Kemba's Skyguard|C
 Kabira Crossroads|C
 Kor Aeronaut|U
-Kor Hookmaster|C
+Journey to Nowhere|C
 Kor Skyfisher|C
 Loyal Sentry|R
 Master of Etherium|R
-Moonglove Extract|C
 Mishra's Factory|U
+Moonglove Extract|C
 Mighty Leap|C
 Mosquito Guard|C
+Plains|L
 Pentavus|R
 Qumulox|U
+Razor Barrier|C
 Raise the Alarm|C
 Razormane Masticore|R
-Razor Barrier|C
 Runed Servitor|U
+Rustic Clachan|R
 Saltblast|U
 Seat of the Synod|C
-Rustic Clachan|R
 Seasoned Marshal|U
 Serrated Biskelion|U
 Silver Myr|C
-Swords to Plowshares|U
-Steel Overseer|R
 Stalking Stones|U
+Steel Overseer|R
 Stormfront Riders|U
 Steel Wall|C
+Swords to Plowshares|U
 Swell of Courage|U
-Temple Acolyte|C
 Sunlance|C
 Synod Centurion|U
+Temple Acolyte|C
 Tezzeret the Seeker|M
 Thoughtcast|C
 Thirst for Knowledge|U
 Trinket Mage|C
 Triskelion|R
 Trip Noose|U
-Plains|L
+Kor Hookmaster|C

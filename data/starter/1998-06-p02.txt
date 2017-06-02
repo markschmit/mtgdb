@@ -1,42 +1,42 @@
-Archangel|R
-Armored Galleon|U
-Armageddon|R
-Armored Griffin|U
-Abyssal Nightstalker|U
-Air Elemental|U
+Alaborn Veteran|R
 Alaborn Cavalier|U
 Alaborn Grenadier|C
 Alaborn Musketeer|C
 Alaborn Trooper|C
-Alaborn Veteran|R
+Abyssal Nightstalker|U
+Air Elemental|U
 Alaborn Zealot|U
-Alluring Scent|R
 Ancient Craving|R
+Alluring Scent|R
 Angel of Fury|R
 Angel of Mercy|U
-Angelic Blessing|C
 Angelic Wall|C
+Angelic Blessing|C
 Apprentice Sorcerer|U
+Armored Galleon|U
+Archangel|R
+Armageddon|R
+Armored Griffin|U
 Barbtooth Wurm|C
 Bloodcurdling Scream|U
 Bear Cub|C
 Bargain|U
 Blaze|U
 Bee Sting|U
-Brimstone Dragon|R
 Breath of Life|C
+Brimstone Dragon|R
 Brutal Nightstalker|U
-Chorus of Woe|C
 Coastal Wizard|R
+Chorus of Woe|C
+Cunning Giant|R
 Cruel Edict|C
 Coercion|U
-Cunning Giant|R
+Dakmor Scorpion|C
 Dakmor Bat|C
 Dakmor Plague|U
-Dakmor Scorpion|C
 Dakmor Sorceress|R
-Dark Offering|U
 Deathcoil Wurm|R
+Dark Offering|U
 Denizen of the Deep|R
 Exhaustion|R
 Deep Wood|U
@@ -44,8 +44,8 @@ Déjà Vu|C
 Extinguish|C
 Earthquake|R
 Eye Spy|U
-Festival of Trokin|C
 False Summoning|C
+Festival of Trokin|C
 Forest|L
 Goblin Firestarter|U
 Foul Spirit|U
@@ -62,10 +62,10 @@ Goblin War Cry|U
 Golden Bear|C
 Harmony of Nature|U
 Hand of Death|C
-Hurricane|R
 Hidden Horror|R
-Just Fate|R
 Ironhoof Ox|U
+Hurricane|R
+Just Fate|R
 Jagged Lightning|U
 Island|L
 Lava Axe|C
@@ -78,11 +78,11 @@ Moaning Spirit|C
 Mind Rot|C
 Mountain|L
 Monstrous Growth|C
-Muck Rats|C
 Mystic Denial|U
+Muck Rats|C
 Natural Spring|C
-Nightstalker Engine|R
 Nature's Lore|C
+Nightstalker Engine|R
 Norwood Archers|C
 Norwood Priestess|R
 Norwood Ranger|C
@@ -90,8 +90,9 @@ Norwood Riders|C
 Norwood Warrior|C
 Obsidian Giant|U
 Ogre Arsonist|U
-Ogre Taskmaster|U
 Ogre Berserker|C
+Ogre Taskmaster|U
+Ogre Warrior|C
 Piracy|R
 Path of Peace|C
 Plated Wurm|C
@@ -102,54 +103,53 @@ Raging Goblin|C
 Raiding Nightstalker|C
 Raise Dead|C
 Rain of Daggers|R
-Rally the Troops|U
 Ravenous Rats|C
+Rally the Troops|U
 Razorclaw Bear|R
 Remove|U
 Relentless Assault|R
 Return of the Nightstalkers|R
 Renewing Touch|U
 Righteous Charge|C
-River Bear|U
 Righteous Fury|R
+River Bear|U
 Screeching Drake|C
+Spitting Earth|C
 Salvage|C
 Sea Drake|U
 Sleight of Hand|C
-Spitting Earth|C
 Steam Catapult|R
 Steam Frigate|C
+Swarm of Rats|C
 Swamp|L
 Stone Rain|C
-Swarm of Rats|C
 Sylvan Basilisk|R
-Sylvan Yeti|R
 Talas Air Ship|C
+Sylvan Yeti|R
 Talas Explorer|C
 Talas Merchant|C
 Talas Researcher|R
-Talas Scout|C
 Talas Warrior|R
+Talas Scout|C
 Temple Acolyte|C
 Temple Elder|U
+Theft of Dreams|U
 Temporal Manipulation|R
 Tidal Surge|C
-Theft of Dreams|U
 Touch of Brilliance|C
 Time Ebb|C
 Town Sentry|C
 Tree Monkey|C
 Trokin High Guard|C
-Tremor|C
-Undo|U
-Untamed Wilds|U
 Vampiric Spirit|R
+Tremor|C
+Untamed Wilds|U
+Undo|U
 Volunteer Militia|C
-Ogre Warrior|C
-Vengeance|U
 Volcanic Hammer|C
-Warrior's Stand|U
+Vengeance|U
 Wild Griffin|C
+Warrior's Stand|U
 Wind Sail|C
 Wild Ox|U
 Wildfire|R

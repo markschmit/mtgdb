@@ -1,118 +1,6 @@
-Grixis Charm|U
-Guardians of Akrasa|C
-Grixis Panorama|C
-Gustrider Exuberant|C
-Hell's Thunder|R
-Hellkite Overlord|M
-Hindering Light|C
-Hissing Iguanar|C
-Immortal Coil|R
-Incurable Ogre|C
-Island|L
-Infest|U
-Invincible Hymn|R
-Jhessian Infiltrator|U
-Jhessian Lookout|C
-Jund Battlemage|U
-Jund Charm|U
-Jund Panorama|C
-Jungle Shrine|U
-Jungle Weaver|C
-Kathari Screecher|C
-Kederekt Creeper|C
-Kederekt Leviathan|R
-Keeper of Progenitus|R
-Knight of the Skyward Eye|C
-Kiss of the Amesha|U
-Knight of the White Orchid|R
-Knight-Captain of Eos|R
-Esper Charm|U
-Esper Panorama|C
-Etherium Sculptor|C
-Ethersworn Canonist|R
-Executioner's Capsule|C
-Excommunicate|C
-Exuberant Firestoker|U
-Fatestitcher|U
-Feral Hydra|R
-Filigree Sages|U
-Flameblast Dragon|R
-Fire-Field Ogre|U
-Fleshbag Marauder|U
-Goblin Deathraiders|C
-Forest|L
-Gift of the Gargantuan|C
-Gather Specimens|R
-Glaze Fiend|C
-Goblin Assault|R
-Goblin Mountaineer|C
-Godtoucher|C
-Godsire|M
-Grixis Battlemage|U
-Kresh the Bloodbraided|M
-Lightning Talons|C
-Lich's Mirror|M
-Manaplasm|R
-Lush Growth|C
-Magma Spray|C
-Master of Etherium|R
-Marble Chalice|C
-Mayael the Anima|M
-Memory Erosion|R
-Metallurgeon|U
-Mighty Emergence|U
-Naya Charm|U
-Naya Panorama|C
-Necrogenesis|U
-Obelisk of Esper|C
-Obelisk of Bant|C
-Obelisk of Grixis|C
-Obelisk of Jund|C
-Obelisk of Naya|C
-Onyx Goblet|C
-Oblivion Ring|C
-Outrider of Jhess|C
-Plains|L
-Ooze Garden|R
-Prince of Thralls|M
-Predator Dragon|R
-Protomatter Powder|U
-Puppet Conjurer|U
-Punish Ignorance|R
-Qasali Ambusher|U
-Quietus Spike|R
-Rakeclaw Gargantuan|C
-Rafiq of the Many|M
-Ranger of Eos|R
-Relic of Progenitus|C
-Realm Razer|R
-Resounding Scream|C
-Resounding Roar|C
-Resounding Silence|C
-Resounding Thunder|C
-Resounding Wave|C
-Rhox Charger|U
-Rhox War Monk|U
-Ridge Rannet|C
-Rip-Clan Crasher|C
-Rockcaster Platoon|U
-Rockslide Elemental|U
-Sacellum Godspeaker|R
-Salvage Titan|R
-Sanctum Gargoyle|C
-Sarkhan Vol|M
-Sangrite Surge|U
-Savage Hunger|C
-Minion Reflector|R
-Mindlock Orb|R
-Mosstodon|C
-Mountain|L
-Mycoloth|R
-Naya Battlemage|U
-Naturalize|C
+Ajani Vengeant|M
 Agony Warp|C
 Ad Nauseam|R
-Ajani Vengeant|M
 Akrasan Squire|C
 Algae Gharial|U
 Angel's Herald|U
@@ -123,29 +11,169 @@ Arcane Sanctum|U
 Banewasp Affliction|C
 Bant Battlemage|U
 Battlegrace Angel|R
-Bant Charm|U
 Bant Panorama|C
+Bant Charm|U
 Behemoth's Herald|U
 Blister Beetle|C
 Blightning|C
 Blood Cultist|U
+Fleshbag Marauder|U
+Goblin Deathraiders|C
+Forest|L
+Gift of the Gargantuan|C
+Gather Specimens|R
+Glaze Fiend|C
+Goblin Assault|R
+Goblin Mountaineer|C
+Grixis Panorama|C
+Godtoucher|C
+Godsire|M
+Grixis Battlemage|U
+Grixis Charm|U
+Guardians of Akrasa|C
+Gustrider Exuberant|C
+Hell's Thunder|R
+Hindering Light|C
+Hellkite Overlord|M
+Hissing Iguanar|C
+Incurable Ogre|C
+Immortal Coil|R
+Island|L
+Invincible Hymn|R
+Infest|U
+Jhessian Infiltrator|U
+Jhessian Lookout|C
+Jund Battlemage|U
+Jungle Shrine|U
+Jund Panorama|C
+Jund Charm|U
+Etherium Astrolabe|U
+Esper Panorama|C
+Esper Charm|U
+Etherium Sculptor|C
+Ethersworn Canonist|R
+Executioner's Capsule|C
+Excommunicate|C
+Exuberant Firestoker|U
+Fatestitcher|U
+Filigree Sages|U
+Feral Hydra|R
+Flameblast Dragon|R
+Fire-Field Ogre|U
 Bloodpyre Elemental|C
 Bloodthorn Taunter|C
+Branching Bolt|C
 Bone Splinters|C
 Broodmate Dragon|R
-Branching Bolt|C
-Brilliant Ultimatum|R
 Bull Cerodon|U
+Brilliant Ultimatum|R
 Caldera Hellion|R
 Cancel|C
 Call to Heel|C
 Carrion Thrash|C
 Cathartic Adept|C
 Cavern Thoctar|C
-Savage Lands|U
-Scavenger Drake|U
 Corpse Connoisseur|U
 Cloudheath Drake|C
+Clarion Ultimatum|R
+Coma Veil|C
+Court Archers|C
+Courier's Capsule|C
+Cradle of Vitality|R
+Covenant of Minds|R
+Crucible of Fire|R
+Crumbling Necropolis|U
+Dawnray Archer|U
+Cruel Ultimatum|R
+Cunning Lethemancer|R
+Cylian Elf|C
+Deathgreeter|C
+Death Baron|R
+Deft Duelist|C
+Demon's Herald|U
+Dragon Fodder|C
+Dispeller's Capsule|C
+Dragon's Herald|U
+Dregscape Zombie|C
+Dreg Reaver|C
+Druid of the Anima|C
+Kresh the Bloodbraided|M
+Lightning Talons|C
+Manaplasm|R
+Lush Growth|C
+Marble Chalice|C
+Magma Spray|C
+Master of Etherium|R
+Mayael the Anima|M
+Metallurgeon|U
+Memory Erosion|R
+Mindlock Orb|R
+Mighty Emergence|U
+Minion Reflector|R
+Mosstodon|C
+Mountain|L
+Mycoloth|R
+Naya Battlemage|U
+Naturalize|C
+Necrogenesis|U
+Naya Panorama|C
+Naya Charm|U
+Obelisk of Bant|C
+Obelisk of Esper|C
+Obelisk of Grixis|C
+Obelisk of Jund|C
+Obelisk of Naya|C
+Oblivion Ring|C
+Onyx Goblet|C
+Outrider of Jhess|C
+Ooze Garden|R
+Prince of Thralls|M
+Plains|L
+Predator Dragon|R
+Protomatter Powder|U
+Puppet Conjurer|U
+Punish Ignorance|R
+Qasali Ambusher|U
+Quietus Spike|R
+Rakeclaw Gargantuan|C
+Rafiq of the Many|M
+Ranger of Eos|R
+Resounding Roar|C
+Relic of Progenitus|C
+Realm Razer|R
+Resounding Scream|C
+Resounding Silence|C
+Resounding Thunder|C
+Resounding Wave|C
+Rhox Charger|U
+Rhox War Monk|U
+Ridge Rannet|C
+Rip-Clan Crasher|C
+Jungle Weaver|C
+Kathari Screecher|C
+Kederekt Creeper|C
+Kederekt Leviathan|R
+Keeper of Progenitus|R
+Knight of the Skyward Eye|C
+Kiss of the Amesha|U
+Knight of the White Orchid|R
+Knight-Captain of Eos|R
+Lich's Mirror|M
+Elspeth, Knight-Errant|M
+Rockcaster Platoon|U
+Rockslide Elemental|U
+Sacellum Godspeaker|R
+Salvage Titan|R
+Sanctum Gargoyle|C
+Sarkhan Vol|M
+Sangrite Surge|U
+Drumhunter|U
+Elvish Visionary|C
+Esper Battlemage|U
+Empyrial Archangel|M
+Savage Hunger|C
+Scavenger Drake|U
+Savage Lands|U
 Scourge Devil|U
 Sedraxis Specter|R
 Scourglass|R
@@ -153,8 +181,8 @@ Seaside Citadel|U
 Shadowfeed|C
 Sedris, the Traitor King|M
 Sharding Sphinx|R
-Sharuum the Hegemon|M
 Shore Snapper|C
+Sharuum the Hegemon|M
 Sighted-Caste Sorcerer|C
 Sigil of Distinction|R
 Sigil Blessing|C
@@ -163,13 +191,13 @@ Skeletal Kathari|C
 Skill Borrower|R
 Skeletonize|U
 Skullmulcher|R
-Soul's Fire|C
 Soul's Grace|C
-Spearbreaker Behemoth|R
 Soul's Might|C
+Soul's Fire|C
+Spearbreaker Behemoth|R
 Sphinx Sovereign|M
-Spell Snip|C
 Sphinx's Herald|U
+Spell Snip|C
 Sprouting Thrinax|U
 Steelclad Serpent|C
 Steward of Valeron|C
@@ -177,58 +205,30 @@ Tar Fiend|R
 Sunseed Nurturer|U
 Stoic Angel|R
 Swamp|L
-Thorn-Thrash Viashino|C
-Swerve|U
 Tezzeret the Seeker|M
+Swerve|U
+Thorn-Thrash Viashino|C
 Thoughtcutter Agent|U
 Thunder-Thrash Elder|U
 Tidehollow Sculler|U
 Tidehollow Strix|C
 Topan Ascetic|U
 Titanic Ultimatum|R
+Undead Leotau|C
 Tortoise Formation|C
 Tower Gargoyle|U
-Undead Leotau|C
 Vectis Silencers|C
 Vein Drinker|R
 Viashino Skeleton|C
-Vicious Shadows|R
 Viscera Dragger|C
+Vicious Shadows|R
 Violent Ultimatum|R
 Vithian Stinger|C
+Welkin Guide|C
 Volcanic Submersion|C
 Waveskimmer Aven|C
-Welkin Guide|C
 Wild Nacatl|C
 Where Ancients Tread|R
 Windwright Mage|C
 Woolly Thoctar|U
 Yoked Plowbeast|C
-Clarion Ultimatum|R
-Coma Veil|C
-Courier's Capsule|C
-Court Archers|C
-Cradle of Vitality|R
-Covenant of Minds|R
-Crucible of Fire|R
-Crumbling Necropolis|U
-Cruel Ultimatum|R
-Cunning Lethemancer|R
-Cylian Elf|C
-Dawnray Archer|U
-Death Baron|R
-Deathgreeter|C
-Deft Duelist|C
-Demon's Herald|U
-Dispeller's Capsule|C
-Dragon Fodder|C
-Dragon's Herald|U
-Dregscape Zombie|C
-Dreg Reaver|C
-Druid of the Anima|C
-Elspeth, Knight-Errant|M
-Drumhunter|U
-Elvish Visionary|C
-Esper Battlemage|U
-Empyrial Archangel|M
-Etherium Astrolabe|U

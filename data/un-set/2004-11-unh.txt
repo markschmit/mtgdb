@@ -1,5 +1,4 @@
-Bloodletter|C
-B-I-N-G-O|R
+Drawn Together|R
 Ambiguity|R
 _____|U
 Aesthetic Consultation|R
@@ -8,6 +7,8 @@ Assquatch|R
 Ass Whuppin'|R
 Atinlay Igpay|U
 Avatar of Me|R
+Bloodletter|C
+B-I-N-G-O|R
 AWOL|C
 Bad Ass|C
 Blast from the Past|R
@@ -21,13 +22,12 @@ Cheatyface|U
 Cheap Ass|C
 City of Ass|R
 Circle of Protection: Art|C
-Collector Protector|R
 Creature Guy|U
+Collector Protector|R
 Curse of the Fire Penguin|R
 Double Header|C
 Deal Damage|U
 Duh|C
-Drawn Together|R
 Dumb Ass|C
 Elvish House Party|U
 Erase (Not the Urza's Legacy One)|C
@@ -40,9 +40,9 @@ Fascist Art Director|C
 Flaccify|C
 Fat Ass|C
 First Come, First Served|U
-Fraction Jackson|R
-Forest|L
 Form of the Squirrel|R
+Forest|L
+Fraction Jackson|R
 Frankie Peanuts|R
 Framed!|C
 Frazzled Editor|C
@@ -59,19 +59,19 @@ Head to Head|U
 Johnny, Combo Player|R
 Island|L
 Keeper of the Sacred Word|C
-Kill! Destroy!|U
 Ladies' Knight|U
-Land Aid '04|C
+Kill! Destroy!|U
 Laughing Hyena|C
-Little Girl|C
+Land Aid '04|C
 Look at Me, I'm R&D|R
+Little Girl|C
 Letter Bomb|R
 Loose Lips|C
 Magical Hacker|U
 Man of Measure|C
+Meddling Kids|R
 Mana Screw|U
 Mana Flair|C
-Meddling Kids|R
 Moniker Mage|C
 Mise|U
 Monkey Monkey Monkey|C
@@ -80,12 +80,12 @@ Mother of Goons|C
 Mox Lotus|R
 Mountain|L
 Mouth to Mouth|U
-My First Tome|U
 Name Dropping|U
-Now I Know My ABC's|R
+My First Tome|U
 Necro-Impotence|R
-Old Fogey|R
+Now I Know My ABC's|R
 Number Crunch|C
+Old Fogey|R
 Orcish Paratroopers|C
 Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental|C
 Phyrexian Librarian|U
@@ -106,28 +106,28 @@ Rod of Spanking|U
 Save Life|U
 Shoe Tree|C
 Sauté|C
-Six-y Beast|U
 Side to Side|U
+Six-y Beast|U
 Smart Ass|C
+Standing Army|C
 Spell Counter|U
 Stone-Cold Basilisk|U
-Standing Army|C
 Staying Power|R
 Supersize|C
 Super Secret Tech|R
 Stop That|C
-Swamp|L
 Symbol Status|U
+Swamp|L
 Tainted Monkey|C
 The Fallen Apart|C
 Togglodyte|U
 Time Machine|R
+Touch and Go|C
 Toy Boat|U
 Topsy Turvy|R
-Touch and Go|C
+Urza's Hot Tub|U
 Vile Bile|C
 Uktabi Kong|R
-Urza's Hot Tub|U
 Wet Willie of the Damned|C
 Water Gun Balloon Game|R
 Wordmail|C

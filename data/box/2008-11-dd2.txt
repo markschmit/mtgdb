@@ -1,24 +1,24 @@
-Aethersnipe|C
-Firebolt|C
-Fathom Seer|C
-Errant Ephemeron|C
 Demonfire|R
-Fact or Fiction|U
-Fireblast|C
 Air Elemental|U
-Ancestral Vision|R
 Bottle Gnomes|U
+Aethersnipe|C
+Ancestral Vision|R
 Brine Elemental|U
 Chandra Nalaar|M
 Chartooth Cougar|C
-Condescend|C
-Cone of Flame|U
-Daze|C
 Counterspell|C
+Cone of Flame|U
+Condescend|C
+Daze|C
+Errant Ephemeron|C
+Fathom Seer|C
+Fact or Fiction|U
+Fireblast|C
+Firebolt|C
 Fireball|U
 Fireslinger|C
-Flamekin Brawler|C
 Flame Javelin|U
+Flamekin Brawler|C
 Flametongue Kavu|U
 Flamewave Invoker|U
 Fledgling Mawcor|U
@@ -29,12 +29,12 @@ Guile|R
 Hostility|R
 Ingot Chewer|C
 Inner-Flame Acolyte|C
-Island|L
 Jace Beleren|M
+Island|L
 Magma Jet|U
 Keldon Megaliths|U
-Martyr of Frost|C
 Man-o'-War|C
+Martyr of Frost|C
 Ophidian|C
 Mountain|L
 Mind Stone|U

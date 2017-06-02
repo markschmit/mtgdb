@@ -1,78 +1,4 @@
 Ambassador Oak|C
-Mutavault|R
-Murmuring Bosk|R
-Nevermaker|U
-Negate|C
-Nightshade Schemers|U
-Oona's Blackguard|U
-Notorious Throng|R
-Noggin Whack|U
-Obsidian Battle-Axe|U
-Offalsnout|U
-Orchard Warden|U
-Preeminent Captain|R
-Order of the Golden Cricket|C
-Pack's Disdain|C
-Prickly Boggart|C
-Primal Beyond|R
-Pyroclast Consul|U
-Pulling Teeth|C
-Reach of Branches|R
-Rage Forger|U
-Reins of the Vinesteed|C
-Recross the Paths|U
-Redeem the Lost|U
-Research the Deep|U
-Release the Ants|U
-Rhys the Exiled|R
-Reveillark|R
-Revive the Fallen|U
-Roar of the Crowd|C
-Rivals' Duel|U
-Rustic Clachan|R
-Sage of Fables|U
-Sage's Dousing|U
-Scarblade Elite|R
-Shared Animosity|R
-Scapeshift|R
-Seething Pathblazer|C
-Sensation Gorger|R
-Shinewend|C
-Shard Volley|C
-Sigil Tracer|R
-Stream of Unconsciousness|C
-Sunflare Shaman|C
-Taurean Mauler|R
-Supreme Exemplar|R
-Swell of Courage|U
-Thornbite Staff|U
-Thieves' Fortune|U
-Titan's Revenge|R
-Vendilion Clique|R
-Unstoppable Ash|R
-Vengeful Firebrand|R
-Veteran's Armaments|U
-Violet Pall|C
-Walker of the Grove|U
-Wandering Graybeard|U
-War-Spike Changeling|C
-Warren Weirding|U
-Waterspout Weavers|U
-Weed-Pruner Poplar|C
-Weight of Conscience|C
-Weirding Shaman|R
-Winnower Patrol|C
-Wolf-Skull Shaman|U
-Slithermuse|R
-Spitebellows|U
-Squeaking Pie Grubfellows|C
-Stenchskipper|R
-Stinkdrinker Bandit|U
-Stingmoggie|C
-Stonehewer Giant|R
-Stomping Slabs|U
-Stonybrook Banneret|C
-Stonybrook Schoolmaster|C
 Auntie's Snitch|R
 Ballyrush Banneret|C
 Battletide Alchemist|R
@@ -92,14 +18,14 @@ Changeling Sentinel|C
 Cloak and Dagger|U
 Countryside Crusher|R
 Coordinated Barrage|C
-Cream of the Crop|R
 Daily Regimen|U
+Cream of the Crop|R
 Deglamer|C
 Declaration of Naught|R
-Dewdrop Spy|C
-Disperse|C
-Distant Melody|C
 Diviner's Wand|U
+Dewdrop Spy|C
+Distant Melody|C
+Disperse|C
 Earthbrawn|C
 Door of Destinies|R
 Earwig Squad|R
@@ -109,16 +35,8 @@ Fencer Clique|C
 Fendeep Summoner|R
 Festercreep|C
 Fertilid|C
-Feudkiller's Verdict|R
-Final-Sting Faerie|C
-Fire Juggler|C
-Frogtosser Banneret|C
-Floodchaser|C
-Game-Trail Changeling|C
-Forfend|C
-Gilt-Leaf Archdruid|R
-Graceful Reprieve|U
 Greatbow Doyen|R
+Graceful Reprieve|U
 Grimoire Thief|R
 Heritage Druid|U
 Hostile Realm|C
@@ -127,8 +45,8 @@ Indomitable Ancients|R
 Idyllic Tutor|R
 Ink Dissolver|C
 Inspired Sprite|U
-Kinsbaile Borderguard|R
 Kindled Fury|C
+Kinsbaile Borderguard|R
 Kinsbaile Cavalier|R
 Kithkin Zephyrnaut|C
 Knowledge Exploitation|R
@@ -136,15 +54,97 @@ Latchkey Faerie|C
 Leaf-Crowned Elder|R
 Lightning Crafter|R
 Lunk Errant|C
-Luminescent Rain|C
 Lys Alana Bowmaster|C
 Maralen of the Mornsong|R
+Luminescent Rain|C
 Merrow Witsniper|C
 Meadowboon|U
 Mind Spring|R
 Mind Shatter|R
-Moonglove Changeling|C
+Stonybrook Banneret|C
+Stonybrook Schoolmaster|C
+Stream of Unconsciousness|C
+Sunflare Shaman|C
+Taurean Mauler|R
+Supreme Exemplar|R
+Swell of Courage|U
+Thieves' Fortune|U
+Thornbite Staff|U
+Titan's Revenge|R
+Unstoppable Ash|R
+Vendilion Clique|R
+Vengeful Firebrand|R
+Veteran's Armaments|U
+Walker of the Grove|U
+Wandering Graybeard|U
+War-Spike Changeling|C
+Warren Weirding|U
+Violet Pall|C
+Waterspout Weavers|U
+Weed-Pruner Poplar|C
+Weight of Conscience|C
 Morsel Theft|C
+Moonglove Changeling|C
 Mosquito Guard|C
 Mothdust Changeling|C
 Mudbutton Clanger|C
+Mutavault|R
+Murmuring Bosk|R
+Nevermaker|U
+Negate|C
+Noggin Whack|U
+Nightshade Schemers|U
+Notorious Throng|R
+Obsidian Battle-Axe|U
+Oona's Blackguard|U
+Offalsnout|U
+Orchard Warden|U
+Order of the Golden Cricket|C
+Preeminent Captain|R
+Pack's Disdain|C
+Prickly Boggart|C
+Pulling Teeth|C
+Primal Beyond|R
+Pyroclast Consul|U
+Reach of Branches|R
+Rage Forger|U
+Redeem the Lost|U
+Recross the Paths|U
+Reins of the Vinesteed|C
+Research the Deep|U
+Release the Ants|U
+Reveillark|R
+Rhys the Exiled|R
+Revive the Fallen|U
+Roar of the Crowd|C
+Rivals' Duel|U
+Rustic Clachan|R
+Sage of Fables|U
+Sage's Dousing|U
+Scarblade Elite|R
+Scapeshift|R
+Seething Pathblazer|C
+Sensation Gorger|R
+Shared Animosity|R
+Shard Volley|C
+Shinewend|C
+Sigil Tracer|R
+Spitebellows|U
+Slithermuse|R
+Squeaking Pie Grubfellows|C
+Stenchskipper|R
+Stinkdrinker Bandit|U
+Stingmoggie|C
+Stonehewer Giant|R
+Stomping Slabs|U
+Weirding Shaman|R
+Winnower Patrol|C
+Wolf-Skull Shaman|U
+Feudkiller's Verdict|R
+Final-Sting Faerie|C
+Fire Juggler|C
+Frogtosser Banneret|C
+Floodchaser|C
+Game-Trail Changeling|C
+Forfend|C
+Gilt-Leaf Archdruid|R

@@ -1,54 +1,190 @@
-Arcane Laboratory|U
-Antagonism|R
-Annul|C
-Absolute Grace|U
-Abundance|R
-Absolute Law|U
-Abyssal Horror|R
 Academy Researchers|U
+Abundance|R
+Abyssal Horror|R
+Absolute Grace|U
+Absolute Law|U
+Acridian|C
 Acidic Soil|U
 Albino Troll|U
-Acridian|C
+Angelic Page|C
 Anaconda|U
 Angelic Chorus|R
-Angelic Page|C
+Arc Lightning|C
+Antagonism|R
+Annul|C
+Arcane Laboratory|U
+Argothian Elder|U
+Argothian Enchantress|R
+Argothian Swine|C
+Argothian Wurm|R
+Wizard Mentor|C
+Worship|R
+Worn Powerstone|U
+Yawgmoth's Will|R
+Yawgmoth's Edict|U
+Zephid|R
+Zephid's Embrace|U
+Barrin's Codex|R
+Back to Basics|R
+Attunement|R
+Barrin, Master Wizard|R
+Bereavement|U
+Befoul|C
+Bedlam|R
+Blanchwood Armor|U
+Blanchwood Treefolk|C
+Blood Vassal|C
+Blasted Landscape|U
+Bravado|C
+Bog Raiders|C
+Brand|R
+Brilliant Halo|C
+Breach|C
+Cackling Fiend|C
+Bull Hippo|U
+Bulwark|R
+Carrion Beetles|C
+Carpet of Flowers|U
+Cathodion|U
+Catastrophe|R
+Catalog|C
+Chimeric Staff|R
+Cave Tiger|C
+Child of Gaea|R
+Citanul Centaurs|R
+Citanul Hierophants|R
+Citanul Flute|R
+Clear|U
+Claws of Gix|U
+Cloak of Mists|C
+Contamination|R
+Confiscate|U
+Copper Gnomes|R
+Congregate|C
+Coral Merfolk|C
+Cradle Guard|U
+Corrupt|C
+Crater Hellion|R
+Curfew|C
+Crazed Skirge|U
+Crosswinds|U
+Crystal Chimes|U
+Dark Hatchling|R
+Defensive Formation|U
+Darkest Hour|R
+Dark Ritual|C
+Despondency|C
+Destructive Urge|U
+Disciple of Grace|C
+Diabolic Servitude|U
+Disciple of Law|C
+Disenchant|C
+Discordant Dirge|R
+Disruptive Student|C
+Disorder|U
+Drifting Djinn|R
+Dragon Blood|U
+Douse|U
+Dromosaur|C
+Drifting Meadow|C
+Eastern Paladin|R
+Duress|C
+Elite Archers|R
+Goblin War Buggy|C
+Gorilla Warrior|C
+Great Whale|R
+Grafted Skullcap|R
+Greener Pastures|R
+Greater Good|R
+Electryte|R
+Elvish Herder|C
+Elvish Lyrist|C
+Endless Wurm|R
+Enchantment Alteration|U
+Energy Field|R
+Endoskeleton|U
+Exhaustion|U
+Exploration|R
+Exhume|C
+Expunge|C
+Faith Healer|R
+Fecundity|U
+Fault Line|R
+Falter|C
+Fertile Ground|C
+Fiery Mantle|C
+Flesh Reaver|U
+Fire Ants|U
+Gaea's Bounty|C
+Fog Bank|U
+Fortitude|C
+Forest|L
+Gaea's Cradle|R
+Fluctuator|R
+Gaea's Embrace|U
+Gilded Drake|R
+Gamble|R
+Goblin Cadets|U
+Glorious Anthem|R
+Goblin Lackey|U
+Goblin Matron|C
+Goblin Offensive|U
+Goblin Raider|C
+Goblin Patrol|C
+Goblin Spelunkers|C
 Pariah|R
 Path of Peace|C
-Pegasus Charger|C
 Pendrell Drake|C
 Pendrell Flux|C
 Peregrine Drake|U
+Monk Realist|C
+No Rest for the Wicked|U
+Morphling|R
+Noetic Scales|R
+Mountain|L
+Opal Archangel|R
+Okk|R
+Opal Acrolith|U
+Opal Caryatid|C
+Opal Gargoyle|C
+Opal Titan|R
+Order of Yawgmoth|U
+Oppression|R
+Pacifism|C
+Outmaneuver|U
+Parasitic Bond|U
+Pegasus Charger|C
 Phyrexian Colossus|R
-Pestilence|C
 Persecute|R
 Phyrexian Ghoul|C
-Phyrexian Processor|R
+Pestilence|C
 Phyrexian Tower|R
+Phyrexian Processor|R
+Planar Birth|R
 Plains|L
 Pit Trap|U
-Planar Void|U
-Planar Birth|R
 Polluted Mire|C
 Pouncing Jaguar|C
+Planar Void|U
 Presence of the Master|U
-Power Taint|C
 Power Sink|C
 Priest of Gix|U
+Power Taint|C
+Rain of Filth|U
 Priest of Titania|C
 Purging Scythe|R
-Rain of Filth|U
 Rain of Salt|U
 Ravenous Skirge|C
+Reclusive Wight|U
 Recantation|R
 Raze|C
-Reclusive Wight|U
-Remote Isle|C
 Reflexes|C
+Remote Isle|C
 Redeem|U
+Rescind|C
 Remembrance|R
 Rejuvenate|C
 Reprocess|R
-Rescind|C
 Retaliation|U
 Retromancer|C
 Rune of Protection: Artifacts|U
@@ -61,229 +197,33 @@ Rune of Protection: Lands|R
 Rune of Protection: Red|C
 Rune of Protection: White|C
 Sanctum Custodian|C
-Sanctum Guardian|U
 Sandbar Merfolk|C
+Sanctum Guardian|U
 Sandbar Serpent|U
 Sanguine Guard|U
+Serra Zealot|C
 Scoria Wurm|R
 Scald|U
-Seasoned Marshal|U
 Scrap|C
 Serra Avatar|R
-Serra Zealot|C
-Serra's Embrace|U
-Serra's Hymn|U
-Serra's Liturgy|R
-Serra's Sanctum|R
-Shimmering Barrier|U
-Shiv's Embrace|U
-Shivan Gorge|R
-Shivan Hellkite|R
-Shivan Raptor|U
-Shower of Sparks|C
-Show and Tell|R
-Sicken|C
-Silent Attendant|C
-Skirge Familiar|U
-Skittering Skirge|C
-Sleeper Agent|R
-Smokestack|R
-Slippery Karst|C
-Smoldering Crater|C
-Somnophore|R
-Sneak Attack|R
-Songstitcher|U
-Soul Sculptor|R
-Arc Lightning|C
-Argothian Elder|U
-Argothian Enchantress|R
-Argothian Swine|C
-Argothian Wurm|R
-Spined Fluke|U
-Spire Owl|C
-Sporogenesis|R
-Spreading Algae|U
-Stern Proctor|U
-Steam Blast|U
-Stroke of Genius|R
-Sunder|R
-Sulfuric Vapors|R
-Symbiosis|C
-Swamp|L
-Telepathy|U
-Temporal Aperture|R
-Tainted Aether|R
-Thran Quarry|R
-Thundering Giant|U
-Thran Turbine|U
-Titania's Chosen|U
-Time Spiral|R
-Titania's Boon|U
-Tolarian Academy|R
-Torch Song|U
-Tolarian Winds|C
-Treefolk Seedlings|U
-Treetop Rangers|C
-Unnerve|C
-Umbilicus|R
-Turnabout|U
-Unworthy Dead|C
-Vampiric Embrace|U
-Urza's Armor|U
-Veiled Apparition|U
-Vebulid|R
-Veil of Birds|C
-Veiled Crocodile|R
-Veiled Sentry|U
-Veiled Serpent|C
-Venomous Fangs|C
-Viashino Outrider|C
-Vernal Bloom|R
-Viashino Runner|C
-Viashino Sandswimmer|R
-Viashino Weaponsmith|C
-Victimize|U
-Vile Requiem|U
-Voice of Grace|U
-Voice of Law|U
-Wall of Junk|U
-Vug Lizard|U
-Voltaic Key|U
-Waylay|U
-War Dance|U
-Western Paladin|R
-Wild Dogs|C
-Whirlwind|R
-Whetstone|R
-Windfall|U
-Wildfire|R
-Winding Wurm|C
-Wirecat|U
-Witch Engine|R
-Wizard Mentor|C
-Worship|R
-Worn Powerstone|U
-Yawgmoth's Edict|U
-Zephid|R
-Yawgmoth's Will|R
-Zephid's Embrace|U
-Attunement|R
-Back to Basics|R
-Barrin, Master Wizard|R
-Barrin's Codex|R
-Bereavement|U
-Befoul|C
-Bedlam|R
-Blanchwood Armor|U
-Blanchwood Treefolk|C
-Blasted Landscape|U
-Blood Vassal|C
-Bravado|C
-Bog Raiders|C
-Brilliant Halo|C
-Brand|R
-Breach|C
-Bull Hippo|U
-Cackling Fiend|C
-Bulwark|R
-Carpet of Flowers|U
-Carrion Beetles|C
-Cathodion|U
-Catastrophe|R
-Catalog|C
-Cave Tiger|C
-Child of Gaea|R
-Citanul Centaurs|R
-Chimeric Staff|R
-Citanul Hierophants|R
-Citanul Flute|R
-Claws of Gix|U
-Clear|U
-Cloak of Mists|C
-Confiscate|U
-Congregate|C
-Contamination|R
-Copper Gnomes|R
-Coral Merfolk|C
-Cradle Guard|U
-Corrupt|C
-Crazed Skirge|U
-Crater Hellion|R
-Curfew|C
-Crosswinds|U
-Crystal Chimes|U
-Dark Hatchling|R
-Defensive Formation|U
-Gaea's Embrace|U
-Glorious Anthem|R
-Goblin Cadets|U
-Goblin Lackey|U
-Goblin Matron|C
-Goblin Patrol|C
-Goblin Offensive|U
-Goblin Raider|C
-Goblin Spelunkers|C
-Goblin War Buggy|C
-Gorilla Warrior|C
-Grafted Skullcap|R
-Great Whale|R
-Greener Pastures|R
-Greater Good|R
+Seasoned Marshal|U
 Guma|U
 Hawkeater Moth|U
+Healing Salve|C
 Headlong Rush|C
 Heat Ray|C
-Healing Salve|C
 Herald of Serra|R
-Gilded Drake|R
-Gamble|R
-Dark Ritual|C
-Darkest Hour|R
-Destructive Urge|U
-Despondency|C
-Disciple of Grace|C
-Diabolic Servitude|U
-Disciple of Law|C
-Discordant Dirge|R
-Disenchant|C
-Disruptive Student|C
-Disorder|U
-Douse|U
-Dragon Blood|U
-Drifting Djinn|R
-Dromosaur|C
-Drifting Meadow|C
-Eastern Paladin|R
-Duress|C
-Electryte|R
-Elite Archers|R
-Elvish Herder|C
-Elvish Lyrist|C
-Enchantment Alteration|U
-Endless Wurm|R
-Endoskeleton|U
-Exhaustion|U
-Energy Field|R
-Exploration|R
-Exhume|C
-Expunge|C
-Faith Healer|R
-Fecundity|U
-Fertile Ground|C
-Fault Line|R
-Falter|C
-Fiery Mantle|C
-Fire Ants|U
-Flesh Reaver|U
-Fortitude|C
-Fog Bank|U
-Fluctuator|R
-Forest|L
-Gaea's Cradle|R
-Gaea's Bounty|C
+Hermetic Study|C
+Hidden Guerrillas|U
+Hidden Ancients|U
+Hibernation|U
+Hidden Herd|R
+Hidden Spider|C
+Hidden Predators|R
+Hidden Stag|R
+Horseshoe Crab|C
 Hollow Dogs|C
 Hopping Automaton|U
-Horseshoe Crab|C
 Ill-Gotten Gains|R
 Hush|C
 Humble|U
@@ -304,32 +244,92 @@ Lotus Blossom|R
 Mana Leech|U
 Lurking Evil|R
 Metrognome|R
-Meltdown|U
 Midsummer Revel|R
-Mobile Fort|U
+Meltdown|U
 Mishra's Helix|R
+Mobile Fort|U
 Monk Idealist|U
-Monk Realist|C
-No Rest for the Wicked|U
-Morphling|R
-Mountain|L
-Okk|R
-Noetic Scales|R
-Opal Acrolith|U
-Opal Archangel|R
-Opal Caryatid|C
-Opal Titan|R
-Opal Gargoyle|C
-Order of Yawgmoth|U
-Oppression|R
-Parasitic Bond|U
-Outmaneuver|U
-Pacifism|C
-Hermetic Study|C
-Hidden Guerrillas|U
-Hibernation|U
-Hidden Ancients|U
-Hidden Herd|R
-Hidden Predators|R
-Hidden Stag|R
-Hidden Spider|C
+Serra's Embrace|U
+Serra's Liturgy|R
+Serra's Hymn|U
+Serra's Sanctum|R
+Shimmering Barrier|U
+Shiv's Embrace|U
+Shivan Gorge|R
+Shivan Hellkite|R
+Shivan Raptor|U
+Shower of Sparks|C
+Show and Tell|R
+Sicken|C
+Silent Attendant|C
+Skirge Familiar|U
+Skittering Skirge|C
+Sleeper Agent|R
+Smokestack|R
+Slippery Karst|C
+Sneak Attack|R
+Smoldering Crater|C
+Somnophore|R
+Songstitcher|U
+Soul Sculptor|R
+Spined Fluke|U
+Spreading Algae|U
+Spire Owl|C
+Sporogenesis|R
+Stern Proctor|U
+Steam Blast|U
+Sulfuric Vapors|R
+Stroke of Genius|R
+Sunder|R
+Symbiosis|C
+Swamp|L
+Tainted Aether|R
+Telepathy|U
+Temporal Aperture|R
+Thran Quarry|R
+Thran Turbine|U
+Thundering Giant|U
+Titania's Chosen|U
+Titania's Boon|U
+Time Spiral|R
+Tolarian Academy|R
+Torch Song|U
+Tolarian Winds|C
+Treetop Rangers|C
+Treefolk Seedlings|U
+Unnerve|C
+Umbilicus|R
+Turnabout|U
+Unworthy Dead|C
+Vampiric Embrace|U
+Urza's Armor|U
+Veiled Apparition|U
+Vebulid|R
+Veil of Birds|C
+Veiled Crocodile|R
+Veiled Sentry|U
+Veiled Serpent|C
+Venomous Fangs|C
+Viashino Outrider|C
+Vernal Bloom|R
+Viashino Runner|C
+Viashino Sandswimmer|R
+Viashino Weaponsmith|C
+Voice of Grace|U
+Vile Requiem|U
+Victimize|U
+Voice of Law|U
+Vug Lizard|U
+Voltaic Key|U
+Wall of Junk|U
+Western Paladin|R
+Waylay|U
+War Dance|U
+Wild Dogs|C
+Whirlwind|R
+Whetstone|R
+Winding Wurm|C
+Windfall|U
+Wildfire|R
+Witch Engine|R
+Wirecat|U

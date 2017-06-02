@@ -1,50 +1,50 @@
-Chandra's Phoenix|R
-Benalish Veteran|C
-Birds of Paradise|R
-Blood Ogre|C
-Blood Seeker|C
-Bloodlord of Vaasgoth|M
-Bloodrage Vampire|C
-Bonebreaker Giant|C
-Bountiful Harvest|C
-Brindle Boar|C
-Brink of Disaster|C
-Cancel|C
-Call to the Grave|R
-Buried Ruin|U
-Carnage Wurm|U
-Celestial Purge|U
 Cemetery Reaper|R
+Celestial Purge|U
 Acidic Slime|U
 Adaptive Automaton|R
 Act of Treason|C
-Aegis Angel|R
 Aether Adept|C
+Aegis Angel|R
 Alabaster Mage|U
 Alluring Siren|U
 Amphin Cutthroat|C
-Angel's Feather|U
 Angel's Mercy|C
-Arachnus Spinner|R
+Angel's Feather|U
 Angelic Destiny|M
+Arachnus Spinner|R
 Arachnus Web|C
 Arbalest Elite|U
 Archon of Justice|R
 Armored Warhorse|C
 Assault Griffin|C
+Aven Fleetwing|C
 Auramancer|C
 Autumn's Veil|U
-Aven Fleetwing|C
 Belltower Sphinx|U
 Azure Mage|U
+Benalish Veteran|C
+Birds of Paradise|R
+Blood Seeker|C
+Blood Ogre|C
+Bloodlord of Vaasgoth|M
+Bloodrage Vampire|C
+Bonebreaker Giant|C
+Brindle Boar|C
+Bountiful Harvest|C
+Brink of Disaster|C
+Cancel|C
+Call to the Grave|R
+Buried Ruin|U
+Carnage Wurm|U
+Chandra's Phoenix|R
 Chandra's Outrage|C
 Chandra, the Firebrand|M
-Chasm Drake|C
 Child of Night|C
+Chasm Drake|C
 Combust|U
 Circle of Flame|U
-Consume Spirit|U
 Coral Merfolk|C
+Consume Spirit|U
 Crimson Mage|U
 Crumbling Colossus|U
 Crown of Empires|U
@@ -61,15 +61,129 @@ Divination|C
 Distress|C
 Divine Favor|C
 Djinn of Wishes|R
-Doom Blade|C
-Doubling Chant|R
-Dragonskull Summit|R
 Dragon's Claw|U
+Doubling Chant|R
+Doom Blade|C
+Dragonskull Summit|R
 Drifting Shade|C
-Drowned Catacomb|R
 Druidic Satchel|R
+Drowned Catacomb|R
 Dungrove Elder|R
 Duskhunter Bat|C
+Incinerate|C
+Jace's Archivist|R
+Island|L
+Jace, Memory Adept|M
+Jace's Erasure|C
+Kite Shield|U
+Jade Mage|U
+Lava Axe|C
+Kraken's Eye|U
+Lifelink|C
+Levitation|U
+Llanowar Elves|C
+Lightning Elemental|C
+Lord of the Unreal|R
+Lurking Crocodile|C
+Lure|U
+Manalith|C
+Manabarbs|R
+Mana Leak|C
+Manic Vandal|C
+Master Thief|U
+Merfolk Looter|C
+Merfolk Mesmerist|C
+Mesa Enchantress|R
+Mind Control|U
+Mighty Leap|C
+Monomania|R
+Mind Unbound|R
+Mind Rot|C
+Oblivion Ring|U
+Mountain|L
+Negate|C
+Naturalize|C
+Onyx Mage|U
+Peregrine Griffin|C
+Phantasmal Bear|C
+Pacifism|C
+Overrun|U
+Pentavus|R
+Personal Sanctuary|R
+Phantasmal Dragon|U
+Phantasmal Image|R
+Ponder|C
+Plains|L
+Pride Guardian|C
+Plummet|C
+Primeval Titan|M
+Primordial Hydra|M
+Rampant Growth|C
+Quicksilver Amulet|R
+Reassembling Skeleton|U
+Reverberate|R
+Redirect|R
+Reclaim|C
+Rites of Flourishing|R
+Roc Egg|U
+Royal Assassin|R
+Rootbound Crag|R
+Rune-Scarred Demon|R
+Runeclaw Bear|C
+Rusted Sentinel|U
+Scrambleverse|R
+Sacred Wolf|C
+Scepter of Empires|U
+Sengir Vampire|U
+Siege Mastodon|C
+Serra Angel|U
+Shock|C
+Skywinder Drake|C
+Skinshifter|R
+Smallpox|U
+Slaughter Cry|C
+Sorin's Thirst|C
+Solemn Simulacrum|R
+Sorin Markov|M
+Sphinx of Uthuun|R
+Spirit Mantle|U
+Sorin's Vengeance|R
+Stampeding Rhino|C
+Stonehorn Dignitary|C
+Stingerfling Spider|U
+Stave Off|C
+Stormblood Berserker|U
+Stormfront Pegasus|C
+Sunpetal Grove|R
+Sun Titan|M
+Sundial of the Infinite|R
+Swamp|L
+Sutured Ghoul|R
+Swiftfoot Boots|U
+Tectonic Rift|U
+Taste of Blood|C
+Thran Golem|U
+Time Reversal|M
+Throne of Empires|R
+Timely Reinforcements|U
+Titanic Growth|C
+Tormented Soul|C
+Unsummon|C
+Trollhide|C
+Turn to Frog|U
+Vastwood Gorger|C
+Vampire Outcasts|U
+Visions of Beyond|R
+Vengeful Pharaoh|R
+Volcanic Dragon|U
+Wall of Torches|C
+Warpath Ghoul|C
+Worldslayer|R
+Warstorm Surge|R
+Wurm's Tooth|U
+Zombie Goliath|C
+Wring Flesh|C
+Zombie Infestation|U
 Elite Vanguard|U
 Elvish Archdruid|R
 Elixir of Immortality|U
@@ -87,8 +201,8 @@ Frost Breath|C
 Garruk's Companion|C
 Furyborn Hellkite|M
 Garruk's Horde|R
-Garruk, Primal Hunter|M
 Giant Spider|C
+Garruk, Primal Hunter|M
 Gideon's Avenger|R
 Gideon Jura|M
 Gideon's Lawkeeper|C
@@ -98,8 +212,8 @@ Goblin Arsonist|C
 Goblin Bangchuckers|U
 Goblin Chieftain|R
 Goblin Fireslinger|C
-Goblin Grenade|U
 Goblin Piker|C
+Goblin Grenade|U
 Goblin Tunneler|C
 Goblin War Paint|C
 Gorehorn Minotaurs|C
@@ -107,128 +221,14 @@ Grand Abolisher|R
 Gravedigger|C
 Grave Titan|M
 Greater Basilisk|C
-Inferno Titan|M
-Incinerate|C
-Jace's Archivist|R
-Island|L
-Jace, Memory Adept|M
-Jace's Erasure|C
-Kite Shield|U
-Jade Mage|U
-Lava Axe|C
-Kraken's Eye|U
-Lifelink|C
-Levitation|U
-Lightning Elemental|C
-Llanowar Elves|C
-Lord of the Unreal|R
-Lurking Crocodile|C
-Lure|U
-Manalith|C
-Manabarbs|R
-Mana Leak|C
-Manic Vandal|C
-Master Thief|U
-Merfolk Looter|C
-Merfolk Mesmerist|C
-Mesa Enchantress|R
-Mind Control|U
-Mighty Leap|C
-Monomania|R
-Mind Rot|C
-Mind Unbound|R
-Mountain|L
-Negate|C
-Naturalize|C
-Onyx Mage|U
-Oblivion Ring|U
-Peregrine Griffin|C
-Pacifism|C
-Overrun|U
-Pentavus|R
-Personal Sanctuary|R
-Phantasmal Bear|C
-Phantasmal Dragon|U
-Phantasmal Image|R
-Ponder|C
-Plains|L
-Plummet|C
-Pride Guardian|C
-Primeval Titan|M
-Primordial Hydra|M
-Quicksilver Amulet|R
-Reassembling Skeleton|U
-Rampant Growth|C
-Reverberate|R
-Redirect|R
-Reclaim|C
-Rites of Flourishing|R
-Roc Egg|U
-Rootbound Crag|R
-Royal Assassin|R
-Rune-Scarred Demon|R
-Runeclaw Bear|C
-Rusted Sentinel|U
-Sacred Wolf|C
-Scepter of Empires|U
-Scrambleverse|R
-Sengir Vampire|U
-Serra Angel|U
-Siege Mastodon|C
-Shock|C
-Skinshifter|R
-Skywinder Drake|C
-Smallpox|U
-Slaughter Cry|C
-Solemn Simulacrum|R
-Sorin Markov|M
-Sphinx of Uthuun|R
-Sorin's Thirst|C
-Sorin's Vengeance|R
-Spirit Mantle|U
-Stampeding Rhino|C
-Stonehorn Dignitary|C
-Stingerfling Spider|U
-Stave Off|C
-Stormblood Berserker|U
-Stormfront Pegasus|C
-Sun Titan|M
-Sundial of the Infinite|R
-Swamp|L
-Sunpetal Grove|R
-Sutured Ghoul|R
-Swiftfoot Boots|U
-Taste of Blood|C
-Thran Golem|U
-Tectonic Rift|U
-Throne of Empires|R
-Timely Reinforcements|U
-Time Reversal|M
-Titanic Growth|C
-Tormented Soul|C
-Unsummon|C
-Trollhide|C
-Turn to Frog|U
-Vampire Outcasts|U
-Vastwood Gorger|C
-Visions of Beyond|R
-Vengeful Pharaoh|R
-Volcanic Dragon|U
-Wall of Torches|C
-Warpath Ghoul|C
-Worldslayer|R
-Warstorm Surge|R
-Wring Flesh|C
-Wurm's Tooth|U
-Zombie Goliath|C
-Zombie Infestation|U
-Greatsword|U
 Griffin Rider|C
+Greatsword|U
 Griffin Sentinel|C
 Grim Lavamancer|R
-Guardians' Pledge|C
 Harbor Serpent|C
-Honor of the Pure|R
+Guardians' Pledge|C
 Hideous Visage|C
+Honor of the Pure|R
 Hunter's Insight|U
 Ice Cage|C
+Inferno Titan|M

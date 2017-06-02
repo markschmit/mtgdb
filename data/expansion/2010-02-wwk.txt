@@ -1,41 +1,8 @@
-Talus Paladin|R
-Terastodon|R
-Tectonic Edge|U
-Thada Adel, Acquisitor|R
-Terra Eternal|R
-Tideforce Elemental|U
-Tomb Hex|C
-Treasure Hunt|C
-Tuktuk Scrapper|U
-Vapor Snare|U
-Twitch|C
-Urge to Feed|U
-Vastwood Animist|U
-Vastwood Zendikon|C
-Veteran's Reflexes|C
-Voyager Drake|U
-Walking Atlas|C
-Wind Zendikon|C
-Wolfbriar Elemental|R
-Wrexial, the Risen Deep|M
-Akoum Battlesinger|C
-Abyssal Persecutor|M
 Aether Tradewinds|C
+Abyssal Persecutor|M
 Admonition Angel|M
 Agadeem Occultist|R
-Kor Firewalker|U
-Leatherback Baloth|U
-Lavaclaw Reaches|R
-Lightkeeper of Emeria|U
-Marshal's Anthem|R
-Marsh Threader|C
-Loam Lion|U
-Lodestone Golem|R
-Mire's Toll|C
-Mysteries of the Deep|C
-Mordant Dragon|R
-Nature's Claim|C
-Omnath, Locus of Mana|M
+Akoum Battlesinger|C
 Anowon, the Ruin Sage|R
 Amulet of Vigor|R
 Arbor Elf|C
@@ -46,86 +13,45 @@ Basilisk Collar|R
 Battle Hurda|C
 Bazaar Trader|R
 Bloodhusk Ritualist|U
-Nemesis Trap|U
-Novablast Wurm|M
-Perimeter Captain|U
-Permafrost Trap|U
-Pilgrim's Eye|C
-Pulse Tracker|C
-Quag Vampires|C
-Quest for the Goblin Lord|U
-Quest for Renewal|U
-Quest for the Nihil Stone|R
-Quest for Ula's Temple|R
-Quicksand|C
-Raging Ravine|R
-Razor Boomerang|U
-Rest for the Weary|C
-Refraction Trap|U
-Ricochet Trap|U
-Ruin Ghost|U
-Roiling Terrain|C
-Ruthless Cullblade|C
-Rumbling Aftershocks|U
-Scrib Nibblers|U
-Searing Blaze|C
-Seer's Sundial|R
-Sejiri Merfolk|U
-Selective Memory|R
-Sejiri Steppe|C
-Shoreline Salvager|U
-Skitter of Lizards|C
-Slavering Nulls|U
-Smoldering Spires|C
-Slingbow Trap|U
-Smother|U
-Stirring Wildwood|R
-Snapping Creeper|C
-Spell Contortion|U
-Stoneforge Mystic|R
-Stone Idol Trap|R
-Summit Apes|U
-Strength of the Tajuru|R
-Surrakar Banisher|C
 Bestial Menace|U
 Bojuka Brigand|C
 Bojuka Bog|C
 Brink of Disaster|C
+Calcite Snapper|C
 Butcher of Malakir|R
 Bull Rush|C
-Calcite Snapper|C
 Canopy Cover|U
 Caustic Crawler|U
+Chain Reaction|R
 Celestial Colonnade|R
 Claws of Valakut|C
-Chain Reaction|R
+Cosi's Ravager|C
 Corrupted Zendikon|C
 Comet Storm|M
-Cosi's Ravager|C
 Crusher Zendikon|C
 Creeping Tar Pit|R
 Cunning Sparkmage|U
-Dead Reckoning|C
 Death's Shadow|R
+Dead Reckoning|C
 Deathforge Shaman|U
+Enclave Elite|C
 Dragonmaster Outcast|M
 Dispel|C
 Dread Statuary|U
-Enclave Elite|C
 Explore|C
-Fledgling Griffin|C
 Everflowing Chalice|U
-Eye of Ugin|M
 Feral Contest|C
+Eye of Ugin|M
+Fledgling Griffin|C
 Gnarlid Pack|C
 Goblin Roughrider|C
 Goliath Sphinx|R
 Grappler Spider|C
 Graypelt Hunter|C
 Grotag Thrasher|C
+Hada Freeblade|U
 Guardian Zendikon|C
 Groundswell|C
-Hada Freeblade|U
 Halimar Excavator|C
 Halimar Depths|C
 Hammer of Ruin|U
@@ -143,3 +69,77 @@ Kazuul, Tyrant of the Cliffs|R
 Kitesail|C
 Khalni Garden|C
 Kitesail Apprentice|C
+Kor Firewalker|U
+Leatherback Baloth|U
+Lavaclaw Reaches|R
+Lightkeeper of Emeria|U
+Lodestone Golem|R
+Loam Lion|U
+Marsh Threader|C
+Mire's Toll|C
+Marshal's Anthem|R
+Mordant Dragon|R
+Mysteries of the Deep|C
+Nature's Claim|C
+Nemesis Trap|U
+Omnath, Locus of Mana|M
+Novablast Wurm|M
+Perimeter Captain|U
+Pilgrim's Eye|C
+Permafrost Trap|U
+Pulse Tracker|C
+Quag Vampires|C
+Quest for the Goblin Lord|U
+Quest for Renewal|U
+Quest for the Nihil Stone|R
+Quest for Ula's Temple|R
+Quicksand|C
+Razor Boomerang|U
+Raging Ravine|R
+Rest for the Weary|C
+Refraction Trap|U
+Ricochet Trap|U
+Roiling Terrain|C
+Ruin Ghost|U
+Ruthless Cullblade|C
+Rumbling Aftershocks|U
+Scrib Nibblers|U
+Seer's Sundial|R
+Searing Blaze|C
+Sejiri Merfolk|U
+Selective Memory|R
+Sejiri Steppe|C
+Shoreline Salvager|U
+Skitter of Lizards|C
+Slavering Nulls|U
+Smoldering Spires|C
+Slingbow Trap|U
+Smother|U
+Stirring Wildwood|R
+Snapping Creeper|C
+Spell Contortion|U
+Stone Idol Trap|R
+Stoneforge Mystic|R
+Summit Apes|U
+Strength of the Tajuru|R
+Surrakar Banisher|C
+Talus Paladin|R
+Terastodon|R
+Tectonic Edge|U
+Thada Adel, Acquisitor|R
+Terra Eternal|R
+Tideforce Elemental|U
+Tuktuk Scrapper|U
+Treasure Hunt|C
+Tomb Hex|C
+Vapor Snare|U
+Urge to Feed|U
+Twitch|C
+Vastwood Animist|U
+Vastwood Zendikon|C
+Voyager Drake|U
+Veteran's Reflexes|C
+Walking Atlas|C
+Wind Zendikon|C
+Wolfbriar Elemental|R
+Wrexial, the Risen Deep|M

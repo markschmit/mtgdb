@@ -1,23 +1,23 @@
-Faithless Looting|C
-Devil's Play|R
+Decompose|U
 Doomed Traveler|C
-Duskhunter Bat|C
-Absorb Vis|C
-Akoum Refuge|U
-Blightning|C
+Death Grasp|R
 Ancient Craving|R
+Akoum Refuge|U
+Absorb Vis|C
 Ashmouth Hound|C
+Blightning|C
 Blazing Salvo|C
 Bloodrage Vampire|C
 Browbeat|U
-Bump in the Night|C
 Breaking Point|R
 Butcher of Malakir|R
+Bump in the Night|C
 Child of Night|C
-Coal Stoker|C
 Corpse Connoisseur|U
-Decompose|U
-Death Grasp|R
+Coal Stoker|C
+Devil's Play|R
+Duskhunter Bat|C
+Faithless Looting|C
 Evolving Wilds|C
 Field of Souls|R
 Fiend Hunter|U
@@ -35,9 +35,9 @@ Lingering Souls|U
 Mark of the Vampire|C
 Mausoleum Guard|U
 Mesmeric Fiend|C
-Phantom General|U
 Mountain|L
 Mortify|U
+Phantom General|U
 Rakdos Carnarium|C
 Plains|L
 Reassembling Skeleton|U
@@ -51,21 +51,21 @@ Shambling Remains|U
 Skirsdag Cultist|U
 Sorin, Lord of Innistrad|M
 Sorin's Thirst|C
-Spectral Procession|U
 Strangling Soot|C
-Swamp|L
+Spectral Procession|U
 Sulfuric Vortex|R
+Swamp|L
 Terminate|C
 Tainted Field|U
-Twilight Drover|R
 Tibalt, the Fiend-Blooded|M
+Twilight Drover|R
 Torrent of Souls|U
 Vampire Lacerator|C
-Unmake|C
 Urge to Feed|U
+Unmake|C
 Vampire Nighthawk|U
 Vampire Outcasts|U
-Vampire's Bite|C
 Vithian Stinger|C
+Vampire's Bite|C
 Wall of Omens|U
 Zealous Persecution|U

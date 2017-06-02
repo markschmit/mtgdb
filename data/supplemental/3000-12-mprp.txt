@@ -1,0 +1,53 @@
+Cryptic Command|S
+Blightning|S
+Bituminous Blast|S
+Burst Lightning|S
+Brave the Elements|S
+Cancel|S
+Condemn|S
+Cruel Edict|S
+Celestial Purge|S
+Corrupt|S
+Damnation|S
+Day of Judgment|S
+Disenchant|S
+Powder Keg|S
+Doom Blade|S
+Fireball|S
+Flame Javelin|S
+Giant Growth|S
+Harmonize|S
+Hinder|S
+Harrow|S
+Hypnotic Specter|S
+Lightning Bolt|S
+Infest|S
+Incinerate|S
+Mana Leak|S
+Lightning Helix|S
+Mortify|S
+Mana Tithe|S
+Nameless Inversion|S
+Negate|S
+Ponder|S
+Oxidize|S
+Psionic Blast|S
+Psychatog|S
+Pyroclasm|S
+Rampant Growth|S
+Putrefy|S
+Reciprocate|S
+Remove Soul|S
+Recollect|S
+Searing Blaze|S
+Sign in Blood|S
+Terminate|S
+Tidings|S
+Terror|S
+Treasure Hunt|S
+Unmake|S
+Wasteland|S
+Voidmage Prodigy|S
+Volcanic Fallout|S
+Zombify|S
+Wrath of God|S

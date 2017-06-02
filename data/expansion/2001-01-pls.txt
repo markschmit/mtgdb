@@ -1,4 +1,4 @@
-Cloud Cover|R
+Cavern Harpy|C
 Alpha Kavu|U
 Allied Strategies|U
 Amphibious Kavu|C
@@ -8,50 +8,50 @@ Aurora Griffin|C
 Aura Blast|C
 Caldera Kavu|C
 Bog Down|C
-Cavern Harpy|C
 Crosis's Catacombs|U
 Confound|C
-Darigaaz's Caldera|U
+Cloud Cover|R
 Crosis's Charm|U
+Darigaaz's Caldera|U
 Darigaaz's Charm|U
 Daring Leap|C
 Deadapult|R
 Dark Suspicions|R
 Destructive Flow|R
 Death Bomb|C
-Disciple of Kangee|C
 Diabolic Intent|R
+Disciple of Kangee|C
 Doomsday Specter|R
 Dominaria's Judgment|R
-Draco|R
-Dralnu's Crusade|R
 Dralnu's Pet|R
-Dromar's Cavern|U
+Draco|R
 Dromar's Charm|U
+Dromar's Cavern|U
+Dralnu's Crusade|R
 Ertai's Trickery|U
-Eladamri's Call|R
-Ertai, the Corrupted|R
 Escape Routes|C
+Ertai, the Corrupted|R
 Exotic Disease|U
-Flametongue Kavu|U
+Eladamri's Call|R
 Falling Timber|C
+Flametongue Kavu|U
 Fleetfoot Panther|U
-Forsaken City|R
 Gaea's Herald|R
+Forsaken City|R
 Gainsay|U
 Gaea's Might|C
 Goblin Game|R
 Gerrard's Command|C
-Heroic Defiance|C
 Guard Dogs|U
-Hobble|C
+Heroic Defiance|C
 Honorable Scout|C
-Horned Kavu|C
+Hobble|C
 Hunting Drake|C
+Horned Kavu|C
 Hull Breach|C
-Kavu Recluse|C
 Insolence|C
 Implode|U
+Kavu Recluse|C
 Keldon Mantle|C
 Lashknife Barrier|U
 Keldon Twilight|R
@@ -62,8 +62,8 @@ Mana Cylix|U
 Magnigoth Treefolk|R
 Magma Burst|C
 Malicious Advice|C
-March of Souls|R
 Marsh Crocodile|U
+March of Souls|R
 Meddling Mage|R
 Mire Kavu|C
 Meteor Crater|R
@@ -76,41 +76,41 @@ Nemata, Grove Guardian|R
 Natural Emergence|R
 Nightscape Battlemage|U
 Nightscape Familiar|C
+Orim's Chant|R
 Noxious Vapors|U
 Phyrexian Bloodstock|C
-Orim's Chant|R
 Phyrexian Scuta|R
+Planar Overlay|R
 Phyrexian Tyranny|R
 Planeswalker's Favor|R
-Planar Overlay|R
 Planeswalker's Fury|R
 Planeswalker's Mirth|R
 Planeswalker's Mischief|R
 Planeswalker's Scorn|R
-Pygmy Kavu|C
 Pollen Remedy|C
 Primal Growth|C
-Quirion Explorer|C
-Questing Phelddagrif|R
+Pygmy Kavu|C
 Quirion Dryad|R
-Radiant Kavu|R
+Questing Phelddagrif|R
+Quirion Explorer|C
 Razing Snidd|U
-Rith's Charm|U
+Radiant Kavu|R
 Rith's Grove|U
+Rith's Charm|U
 Root Greevil|C
-Rushing River|C
 Samite Elder|R
+Rushing River|C
 Samite Pilgrim|C
 Sawtooth Loon|U
 Shivan Wurm|R
 Sea Snidd|C
 Shifting Sky|U
-Shriek of Dread|C
 Silver Drake|C
+Shriek of Dread|C
 Sisay's Ingenuity|C
 Sinister Strength|C
-Skyship Weatherlight|R
 Singe|C
+Skyship Weatherlight|R
 Slay|U
 Skyshroud Blessing|U
 Sleeping Potion|C
@@ -134,8 +134,8 @@ Thornscape Familiar|C
 Thornscape Battlemage|U
 Thunderscape Battlemage|U
 Thunderscape Familiar|C
-Treva's Charm|U
 Treva's Ruins|U
+Treva's Charm|U
 Urza's Guilt|R
 Voice of All|U
 Waterspout Elemental|R

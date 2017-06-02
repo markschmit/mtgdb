@@ -211,6 +211,8 @@ Agonizing Memories|Black
 Agony Warp|Gold
 Agoraphobia|Blue
 Agrus Kos, Wojek Veteran|Gold
+Ahn-Crop Champion|Gold
+Ahn-Crop Crasher|Red
 Aid from the Cowl|Green
 Aim High|Green
 Ainok Artillerist|Green
@@ -444,6 +446,7 @@ Angel of Mercy|White
 Angel of Renewal|White
 Angel of Retribution|White
 Angel of Salvation|White
+Angel of Sanctions|White
 Angel of Serenity|White
 Angel of the Dire Hour|White
 Angel's Feather|Artifact
@@ -479,6 +482,7 @@ Angelic Wall|White
 Angelsong|White
 Anger|Red
 Anger of the Gods|Red
+Angler Drake|Blue
 Angry Mob|White
 Anguished Unmaking|Gold
 Angus Mackenzie|Gold
@@ -500,6 +504,8 @@ Annihilating Fire|Red
 Annul|Blue
 Anodet Lurker|Artifact
 Anoint|White
+Anointed Procession|White
+Anointer Priest|White
 Anointer of Champions|White
 Anowon, the Ruin Sage|Black
 Ant Queen|Green
@@ -539,6 +545,7 @@ Appetite for the Unnatural|Green
 Apprentice Necromancer|Black
 Apprentice Sorcerer|Blue
 Apprentice Wizard|Blue
+Approach of the Second Sun|White
 Aquamoeba|Blue
 Aquamorph Entity|Blue
 Aquastrand Spider|Green
@@ -613,6 +620,7 @@ Archetype of Endurance|Green
 Archetype of Finality|Black
 Archetype of Imagination|Blue
 Archfiend of Depravity|Black
+Archfiend of Ifnir|Black
 Architect of the Untamed|Green
 Architects of Will|Gold
 Archive Trap|Blue
@@ -718,6 +726,7 @@ Artillerize|Red
 Artisan of Forms|Blue
 Artisan of Kozilek|Colorless
 Artisan's Sorrow|Green
+As Foretold|Blue
 Ascendant Evincar|Black
 Ascended Lawmage|Gold
 Ascending Aven|Blue
@@ -886,6 +895,7 @@ Aven Fisher|Blue
 Aven Fleetwing|Blue
 Aven Flock|White
 Aven Fogbringer|Blue
+Aven Initiate|Blue
 Aven Liberator|White
 Aven Mimeomancer|Gold
 Aven Mindcensor|White
@@ -903,6 +913,7 @@ Aven Trailblazer|White
 Aven Trooper|White
 Aven Warcraft|White
 Aven Warhawk|White
+Aven Wind Guide|Gold
 Aven Windreader|Blue
 Avenger en-Dal|White
 Avenger of Zendikar|Green
@@ -991,6 +1002,7 @@ Balduvian War-Makers|Red
 Balduvian Warlord|Red
 Balefire Dragon|Red
 Balefire Liege|Hybrid
+Baleful Ammit|Black
 Baleful Eidolon|Black
 Baleful Force|Black
 Baleful Stare|Blue
@@ -1136,6 +1148,7 @@ Battle-Rattle Shaman|Red
 Battlefield Forge|Land
 Battlefield Medic|White
 Battlefield Percher|Black
+Battlefield Scavenger|Red
 Battlefield Scrounger|Green
 Battlefield Thaumaturge|Blue
 Battleflight Eagle|White
@@ -1224,6 +1237,7 @@ Benalish Trapper|White
 Benalish Veteran|White
 Bend or Break|Red
 Benediction of Moons|White
+Benefaction of Rhonas|Green
 Benefactor's Draught|Green
 Benevolent Ancestor|White
 Benevolent Bodyguard|White
@@ -1257,6 +1271,7 @@ Bile Urchin|Black
 Bind|Green
 Binding Agony|Black
 Binding Grasp|Blue
+Binding Mummy|White
 Biomantic Mastery|Hybrid
 Biomass Mutation|Gold
 Bioplasm|Green
@@ -1274,6 +1289,7 @@ Biting Tether|Blue
 Bitter Feud|Red
 Bitter Ordeal|Black
 Bitter Revelation|Black
+Bitterblade Warrior|Green
 Bitterblossom|Black
 Bitterheart Witch|Black
 Bituminous Blast|Gold
@@ -1331,6 +1347,7 @@ Blazing Salvo|Red
 Blazing Shoal|Red
 Blazing Specter|Gold
 Blazing Torch|Artifact
+Blazing Volley|Red
 Bleak Coven Vampires|Black
 Blessed Alliance|White
 Blessed Breath|White
@@ -1350,6 +1367,7 @@ Blight Mamba|Green
 Blight Sickle|Artifact
 Blightcaster|Black
 Blighted Agent|Blue
+Blighted Bat|Black
 Blighted Cataract|Land
 Blighted Fen|Land
 Blighted Gorge|Land
@@ -1464,9 +1482,11 @@ Bloodletter Quill|Artifact
 Bloodline Keeper|Black
 Bloodline Shaman|Green
 Bloodlord of Vaasgoth|Black
+Bloodlust Inciter|Red
 Bloodmad Vampire|Red
 Bloodmark Mentor|Red
 Bloodpyre Elemental|Red
+Bloodrage Brawler|Red
 Bloodrage Vampire|Black
 Bloodrite Invoker|Black
 Bloodrock Cyclops|Red
@@ -1565,6 +1585,7 @@ Bone Dancer|Black
 Bone Flute|Artifact
 Bone Harvest|Black
 Bone Mask|Artifact
+Bone Picker|Black
 Bone Saw|Artifact
 Bone Shaman|Red
 Bone Shredder|Black
@@ -1580,6 +1601,8 @@ Bonesplitter Sliver|Red
 Bonethorn Valesk|Red
 Boneyard Wurm|Green
 Bonfire of the Damned|Red
+Bontu the Glorified|Black
+Bontu's Monument|Artifact
 Booby Trap|Artifact
 Book Burning|Red
 Book of Rass|Artifact
@@ -1627,6 +1650,7 @@ Borrowing 100,000 Arrows|Blue
 Borrowing the East Wind|Green
 Boseiju, Who Shelters All|Land
 Bosh, Iron Golem|Artifact
+Bosium Strip|Artifact
 Bosk Banneret|Green
 Bosom Buddy|White
 Botanical Sanctum|Land
@@ -1647,6 +1671,7 @@ Bounteous Kirin|Green
 Bountiful Harvest|Green
 Bounty Hunter|Black
 Bounty of the Hunt|Green
+Bounty of the Luxa|Gold
 Bow of Nylea|Green
 Bower Passage|Green
 Brace for Impact|White
@@ -1875,9 +1900,9 @@ Butcher of Malakir|Black
 Butcher of the Horde|Gold
 Butcher's Cleaver|Artifact
 Butcher's Glee|Black
+By Force|Red
 Bygone Bishop|White
 Byway Courier|Green
-Bösium Strip|Artifact
 Cabal Archon|Black
 Cabal Coffers|Land
 Cabal Conditioning|Black
@@ -1969,6 +1994,7 @@ Cantivore|White
 Canyon Drake|Red
 Canyon Lurkers|Red
 Canyon Minotaur|Red
+Canyon Slough|Land
 Canyon Wildcat|Red
 Cao Cao, Lord of Wei|Black
 Cao Ren, Wei Commander|Black
@@ -2035,8 +2061,15 @@ Carrionette|Black
 Carry Away|Blue
 Cartel Aristocrat|Gold
 Cartographer|Green
+Cartouche of Ambition|Black
+Cartouche of Knowledge|Blue
+Cartouche of Solidarity|White
+Cartouche of Strength|Green
+Cartouche of Zeal|Red
 Carven Caryatid|Green
 Cascade Bluffs|Land
+Cascading Cataracts|Land
+Cast Out|White
 Cast Through Time|Blue
 Cast into Darkness|Black
 Castigate|Gold
@@ -2123,6 +2156,7 @@ Cemetery Recruitment|Black
 Cenn's Enlistment|White
 Cenn's Heir|White
 Cenn's Tactician|White
+Censor|Blue
 Censorship|Blue
 Centaur Archer|Gold
 Centaur Battlemaster|Green
@@ -2191,6 +2225,7 @@ Chameleon Spirit|Blue
 Champion Lancer|White
 Champion of Arashin|White
 Champion of Lambholt|Green
+Champion of Rhonas|Green
 Champion of Stray Souls|Black
 Champion of the Parish|White
 Champion's Drake|Blue
@@ -2227,6 +2262,7 @@ Changeling Titan|Green
 Channel|Green
 Channel Harm|White
 Channel the Suns|Green
+Channeler Initiate|Green
 Chant of Vitu-Ghazi|White
 Chant of the Skifsang|Blue
 Chaos Charm|Red
@@ -2559,10 +2595,12 @@ Colos Yearling|Red
 Colossal Heroics|Green
 Colossal Might|Gold
 Colossal Whale|Blue
+Colossapede|Green
 Colossodon Yearling|Green
 Colossus of Akros|Artifact
 Colossus of Sardia|Artifact
 Coma Veil|Blue
+Combat Celebrant|Red
 Combat Medic|White
 Combust|Red
 Combustible Gearhulk|Red
@@ -2578,13 +2616,16 @@ Commander's Authority|White
 Commander's Sphere|Artifact
 Commando Raid|Red
 Commencement of Festivities|Green
+Commit/Memory|Blue
 Common Bond|Gold
 Common Cause|White
 Common Courtesy|Blue
 Commune with Lava|Red
 Commune with Nature|Green
 Commune with the Gods|Green
+Companion of the Trials|White
 Comparative Analysis|Blue
+Compelling Argument|Blue
 Compelling Deterrence|Blue
 Complete Disregard|Black
 Complex Automaton|Artifact
@@ -2593,6 +2634,7 @@ Composite Golem|Artifact
 Compost|Green
 Compulsion|Blue
 Compulsive Research|Blue
+Compulsory Rest|White
 Concealed Courtyard|Land
 Concentrate|Blue
 Concerted Effort|White
@@ -2654,6 +2696,7 @@ Consume the Meek|Black
 Consuming Aberration|Gold
 Consuming Bonfire|Red
 Consuming Ferocity|Red
+Consuming Fervor|Red
 Consuming Sinkhole|Red
 Consuming Vapors|Black
 Consuming Vortex|Blue
@@ -2798,6 +2841,7 @@ Crackling Perimeter|Red
 Crackling Triton|Blue
 Cradle Guard|Green
 Cradle of Vitality|White
+Cradle of the Accursed|Land
 Cradle to Grave|Black
 Crafty Pathmage|Blue
 Crag Puca|Hybrid
@@ -2859,6 +2903,7 @@ Crippling Blight|Black
 Crippling Chill|Blue
 Crippling Fatigue|Black
 Crocanura|Green
+Crocodile of the Crossing|Green
 Cromat|Gold
 Crookclaw Elder|Blue
 Crookclaw Transmuter|Blue
@@ -2905,6 +2950,7 @@ Cruel Entertainment|Black
 Cruel Fate|Blue
 Cruel Feeding|Black
 Cruel Finality|Black
+Cruel Reality|Black
 Cruel Revival|Black
 Cruel Sadist|Black
 Cruel Tutor|Black
@@ -2946,6 +2992,7 @@ Cryptic Annelid|Blue
 Cryptic Command|Blue
 Cryptic Cruiser|Blue
 Cryptic Gateway|Artifact
+Cryptic Serpent|Blue
 Cryptolith Fragment|Artifact
 Cryptolith Rite|Green
 Cryptoplasm|Blue
@@ -2989,6 +3036,7 @@ Cunning Sparkmage|Red
 Cunning Strike|Gold
 Cunning Wish|Blue
 Cuombajj Witches|Black
+Curator of Mysteries|Blue
 Curfew|Blue
 Curio Vendor|Blue
 Curiosity|Blue
@@ -3021,6 +3069,7 @@ Cursebreak|White
 Cursecatcher|Blue
 Cursed Flesh|Black
 Cursed Land|Land
+Cursed Minotaur|Black
 Cursed Monstrosity|Black
 Cursed Rack|Artifact
 Cursed Ronin|Black
@@ -3038,6 +3087,7 @@ Custody Battle|Red
 Customs Depot|Blue
 Cut the Earthly Bond|Blue
 Cut the Tethers|Blue
+Cut/Ribbons|Red
 Cutthroat Maneuver|Black
 Cutthroat il-Dal|Black
 Cycle of Life|Green
@@ -3092,7 +3142,7 @@ Dance of the Dead|Black
 Dance of the Skywise|Blue
 Dance with Devils|Red
 Dancing Scimitar|Artifact
-Dandân|Blue
+Dandan|Blue
 Dangerous Wager|Red
 Daraja Griffin|White
 Darba|Green
@@ -3321,8 +3371,10 @@ Deceiver Exarch|Blue
 Deceiver of Form|Colorless
 Deception|Black
 Decimate|Gold
+Decimator Beetle|Gold
 Decimator Web|Artifact
 Decimator of the Provinces|Colorless
+Decision Paralysis|Blue
 Declaration in Stone|White
 Declaration of Naught|Blue
 Decoction Module|Artifact
@@ -3337,6 +3389,7 @@ Decree of Pain|Black
 Decree of Savagery|Green
 Decree of Silence|Blue
 Dedicated Martyr|White
+Deem Worthy|Red
 Deep Analysis|Blue
 Deep Reconnaissance|Green
 Deep Spawn|Blue
@@ -3374,6 +3427,7 @@ Defensive Stance|Blue
 Defiant Bloodlord|Black
 Defiant Elf|Green
 Defiant Falcon|White
+Defiant Greatmaw|Green
 Defiant Ogre|Red
 Defiant Salvager|Black
 Defiant Stand|White
@@ -3471,6 +3525,7 @@ Desecration Elemental|Black
 Desecration Plague|Green
 Desecrator Hag|Hybrid
 Desert|Land
+Desert Cerodon|Red
 Desert Drake|Red
 Desert Nomads|Red
 Desert Sandstorm|Red
@@ -3478,6 +3533,7 @@ Desert Twister|Green
 Deserted Temple|Land
 Deserter's Quarters|Artifact
 Desertion|Blue
+Desiccated Naga|Black
 Desolate Lighthouse|Land
 Desolation|Black
 Desolation Angel|Black
@@ -3495,6 +3551,7 @@ Despoil|Black
 Despoiler of Souls|Black
 Despondency|Black
 Despotic Scepter|Artifact
+Destined/Lead|Black
 Destroy the Evidence|Black
 Destructive Flow|Gold
 Destructive Force|Red
@@ -3517,6 +3574,7 @@ Devil's Play|Red
 Devils' Playground|Red
 Devilthorn Fox|White
 Devoted Caretaker|White
+Devoted Crop-Mate|White
 Devoted Druid|Green
 Devoted Hero|White
 Devoted Retainer|White
@@ -3645,6 +3703,7 @@ Dispersing Orb|Blue
 Displace|Blue
 Displacement Wave|Blue
 Display of Dominance|Green
+Dispossess|Black
 Disrupt|Blue
 Disrupting Scepter|Artifact
 Disrupting Shoal|Blue
@@ -3652,6 +3711,7 @@ Disruption Aura|Blue
 Disruptive Pitmage|Blue
 Disruptive Student|Blue
 Dissension in the Ranks|Red
+Dissenter's Deliverance|Green
 Dissipate|Blue
 Dissipation Field|Blue
 Dissolve|Blue
@@ -3691,6 +3751,7 @@ Divining Witch|Black
 Divinity of Pride|Hybrid
 Dizzy Spell|Blue
 Dizzying Gaze|Red
+Djeru's Resolve|White
 Djinn Illuminatus|Hybrid
 Djinn of Infinite Deceits|Blue
 Djinn of Wishes|Blue
@@ -3716,6 +3777,7 @@ Donate|Blue
 Dong Zhou, the Tyrant|Red
 Doom Blade|Black
 Doom Cannon|Artifact
+Doomed Dissenter|Black
 Doomed Necromancer|Black
 Doomed Traveler|White
 Doomgape|Hybrid
@@ -3818,6 +3880,7 @@ Draining Whelk|Blue
 Drainpipe Vermin|Black
 Drake Familiar|Blue
 Drake Hatchling|Blue
+Drake Haven|Blue
 Drake Umbra|Blue
 Drake-Skull Cameo|Artifact
 Drakestown Forgotten|Black
@@ -3846,6 +3909,7 @@ Dread Slaver|Black
 Dread Specter|Black
 Dread Statuary|Land
 Dread Summons|Black
+Dread Wanderer|Black
 Dread Warlock|Black
 Dread Wight|Black
 Dread of Night|Black
@@ -3976,6 +4040,7 @@ Dukhara Peafowl|Artifact
 Dukhara Scavenger|Black
 Dulcet Sirens|Blue
 Dumb Ass|Red
+Dune Beetle|Black
 Dune-Brood Nephilim|Gold
 Duneblast|Gold
 Dunerider Outlaw|Black
@@ -3992,6 +4057,7 @@ Durkwood Tracker|Green
 Dusk Feaster|Black
 Dusk Imp|Black
 Dusk Urchins|Black
+Dusk/Dawn|White
 Duskdale Wurm|Green
 Duskhunter Bat|Black
 Duskmantle Guildmage|Gold
@@ -4102,6 +4168,7 @@ Eddytrail Hawk|White
 Edge of Autumn|Green
 Edge of the Divinity|Hybrid
 Edgewalker|Gold
+Edifice of Authority|Artifact
 Edric, Spymaster of Trest|Gold
 Eel Umbra|Blue
 Eerie Interlude|White
@@ -4119,7 +4186,7 @@ Eight-and-a-Half-Tails|White
 Eightfold Maze|White
 Ekundu Cyclops|Red
 Ekundu Griffin|White
-El-Hajjâj|Black
+El-Hajjaj|Black
 Eladamri's Call|Gold
 Eladamri's Vineyard|Green
 Eladamri, Lord of Leaves|Green
@@ -4149,6 +4216,7 @@ Eldrazi Temple|Land
 Eldritch Evolution|Green
 Electric Eel|Blue
 Electrickery|Red
+Electrify|Red
 Electrolyze|Gold
 Electropotence|Red
 Electrostatic Bolt|Red
@@ -4238,6 +4306,7 @@ Elvish Visionary|Green
 Elvish Warrior|Green
 Emancipation Angel|White
 Embalmed Brawler|Black
+Embalmer's Tools|Artifact
 Embargo|Blue
 Ember Beast|Red
 Ember Gale|Red
@@ -4247,6 +4316,7 @@ Ember Swallower|Red
 Ember Weaver|Green
 Ember-Eye Wolf|Red
 Ember-Fist Zubera|Red
+Emberhorn Minotaur|Red
 Embermage Goblin|Red
 Embermaw Hellion|Red
 Embersmith|Red
@@ -4344,6 +4414,7 @@ Engulf the Shore|Blue
 Engulfing Flames|Red
 Engulfing Slagwurm|Green
 Enhanced Awareness|Blue
+Enigma Drake|Gold
 Enigma Eidolon|Blue
 Enigma Sphinx|Gold
 Enlarge|Green
@@ -4536,6 +4607,7 @@ Execute|Black
 Executioner's Capsule|Black
 Executioner's Hood|Artifact
 Executioner's Swing|Gold
+Exemplar of Strength|Green
 Exert Influence|Blue
 Exhaustion|Blue
 Exhume|Black
@@ -4641,10 +4713,12 @@ Faerie Swarm|Blue
 Faerie Tauntings|Black
 Faerie Trickery|Blue
 Failed Inspection|Blue
+Failure/Comply|Blue
 Fairgrounds Trumpeter|Green
 Fairgrounds Warden|White
 Faith Healer|White
 Faith Unbroken|White
+Faith of the Devoted|Black
 Faith's Fetters|White
 Faith's Reward|White
 Faith's Shield|White
@@ -4686,6 +4760,7 @@ Familiar Ground|Green
 Familiar's Ruse|Blue
 Famine|Black
 Famished Ghoul|Black
+Fan Bearer|White
 Fanatic of Mogis|Red
 Fanatic of Xenagos|Gold
 Fanatical Devotion|White
@@ -4826,6 +4901,7 @@ Festerhide Boar|Green
 Festering Evil|Black
 Festering Goblin|Black
 Festering March|Black
+Festering Mummy|Black
 Festering Newt|Black
 Festering Wound|Black
 Festival|White
@@ -4834,6 +4910,7 @@ Festival of the Guildpact|White
 Fetid Heath|Land
 Fetid Horror|Black
 Fetid Imp|Black
+Fetid Pools|Land
 Fettergeist|Blue
 Feudkiller's Verdict|White
 Fever Charm|Red
@@ -4884,6 +4961,7 @@ Final Iteration|Unknown
 Final Judgment|White
 Final Punishment|Black
 Final Revels|Black
+Final Reward|Black
 Final Strike|Black
 Final-Sting Faerie|Black
 Finest Hour|Gold
@@ -4971,6 +5049,7 @@ Flame Wave|Red
 Flame-Kin War Scout|Red
 Flame-Kin Zealot|Gold
 Flame-Wreathed Phoenix|Red
+Flameblade Adept|Red
 Flameblade Angel|Red
 Flameblast Dragon|Red
 Flameborn Hellion|Red
@@ -5073,6 +5152,7 @@ Flooded Woodlands|Gold
 Floodgate|Blue
 Floodtide Serpent|Blue
 Floodwater Dam|Artifact
+Floodwaters|Blue
 Floral Spuzzem|Green
 Flourishing Defenses|Green
 Flow of Ideas|Blue
@@ -5191,6 +5271,7 @@ Form of the Dragon|Red
 Form of the Squirrel|Green
 Formation|White
 Formless Nurturing|Green
+Forsake the Worldly|White
 Forsaken City|Land
 Forsaken Drifters|Black
 Forsaken Sanctuary|Land
@@ -5372,6 +5453,7 @@ Gainsay|Blue
 Gale Force|Green
 Galepowder Mage|White
 Galerider Sliver|Blue
+Galestrike|Blue
 Galina's Knight|Gold
 Gallantry|White
 Gallowbraid|Black
@@ -5415,6 +5497,7 @@ Gate Hound|White
 Gate Smasher|Artifact
 Gate to Phyrexia|Black
 Gate to the Aether|Artifact
+Gate to the Afterlife|Artifact
 Gatecreeper Vine|Green
 Gatekeeper of Malakir|Black
 Gateway Shade|Black
@@ -5509,8 +5592,8 @@ Ghastly Discovery|Blue
 Ghastly Haunting|Unknown
 Ghastly Remains|Black
 Ghave, Guru of Spores|Gold
-Ghazbán Ogre|Green
-Ghazbán Ogress|Green
+Ghazban Ogre|Green
+Ghazban Ogress|Green
 Ghirapur Aether Grid|Red
 Ghirapur Gearcrafter|Red
 Ghirapur Guide|Green
@@ -5596,17 +5679,22 @@ Gibbering Fiend|Red
 Gibbering Hyenas|Green
 Gibbering Kami|Black
 Gideon Jura|White
+Gideon of the Trials|White
 Gideon's Avenger|White
+Gideon's Intervention|White
 Gideon's Lawkeeper|White
 Gideon's Phalanx|White
 Gideon's Reproach|White
+Gideon's Resolve|White
 Gideon, Ally of Zendikar|White
 Gideon, Battle-Forged|Unknown
 Gideon, Champion of Justice|White
+Gideon, Martial Paragon|White
 Gift of Estates|White
 Gift of Granite|White
 Gift of Immortality|White
 Gift of Orzhova|Hybrid
+Gift of Paradise|Green
 Gift of Tusks|Blue
 Gift of the Deity|Hybrid
 Gift of the Gargantuan|Green
@@ -5711,9 +5799,12 @@ Gloomwidow|Green
 Gloomwidow's Feast|Green
 Glorious Anthem|White
 Glorious Charge|White
+Glorious End|Red
 Glory|White
 Glory Seeker|White
 Glory of Warfare|Gold
+Glory-Bound Initiate|White
+Glorybringer|Red
 Gloryscale Viashino|Gold
 Glowering Rogon|Green
 Glowing Anemone|Blue
@@ -5722,6 +5813,7 @@ Gluetius Maximus|Green
 Gluttonous Cyclops|Red
 Gluttonous Slime|Green
 Gluttonous Zombie|Black
+Glyph Keeper|Blue
 Glyph of Delusion|Blue
 Glyph of Destruction|Red
 Glyph of Doom|Black
@@ -5959,6 +6051,7 @@ Grab the Reins|Red
 Graceblade Artisan|White
 Graceful Adept|Blue
 Graceful Antelope|White
+Graceful Cat|White
 Graceful Reprieve|White
 Graf Harvest|Black
 Graf Mole|Green
@@ -5989,6 +6082,7 @@ Grasp of Darkness|Black
 Grasp of Fate|White
 Grasp of Phantoms|Blue
 Grasp of the Hieromancer|White
+Grasping Dunes|Land
 Grassland Crusader|White
 Grasslands|Land
 Gratuitous Violence|Red
@@ -6057,6 +6151,7 @@ Greater Harvester|Black
 Greater Morphling|Blue
 Greater Mossdog|Green
 Greater Realm of Preservation|White
+Greater Sandwurm|Green
 Greater Stone Spirit|Red
 Greater Werewolf|Black
 Greatsword|Artifact
@@ -6108,6 +6203,7 @@ Grim Poppet|Artifact
 Grim Reminder|Black
 Grim Return|Black
 Grim Roustabout|Black
+Grim Strider|Black
 Grim Tutor|Black
 Grimclaw Bats|Black
 Grimgrin, Corpse-Born|Gold
@@ -6232,6 +6328,7 @@ Gurmag Swiftwing|Black
 Gurzigost|Green
 Gus|Green
 Gush|Blue
+Gust Walker|White
 Gust-Skimmer|Artifact
 Gustcloak Cavalier|White
 Gustcloak Harrier|White
@@ -6324,6 +6421,8 @@ Hanweir Lancer|Red
 Hanweir Militia Captain|White
 Hanweir Watchkeep|Red
 Hanweir, the Writhing Township|Unknown
+Hapatra's Mark|Green
+Hapatra, Vizier of Poisons|Gold
 Hapless Researcher|Blue
 Harabaz Druid|Green
 Harbinger of Night|Black
@@ -6353,6 +6452,7 @@ Harrowing Journey|Black
 Harsh Deceiver|White
 Harsh Judgment|White
 Harsh Justice|White
+Harsh Mentor|Red
 Harsh Mercy|White
 Harsh Scrutiny|Black
 Harsh Sustenance|Gold
@@ -6361,6 +6461,7 @@ Harvest Gwyllion|Hybrid
 Harvest Hand|Artifact
 Harvest Mage|Green
 Harvest Pyre|Red
+Harvest Season|Green
 Harvest Wurm|Green
 Harvester Druid|Green
 Harvester Troll|Green
@@ -6401,9 +6502,13 @@ Hawkeater Moth|Green
 Hazardous Conditions|Gold
 Hazduhr the Abbot|White
 Haze Frog|Green
+Haze of Pollen|Green
 Haze of Rage|Red
 Hazerider Drake|Gold
 Hazezon Tamar|Gold
+Hazoret the Fervent|Red
+Hazoret's Favor|Red
+Hazoret's Monument|Artifact
 Hazy Homunculus|Blue
 He Who Hungers|Black
 Head Games|Black
@@ -6430,6 +6535,7 @@ Heart of Light|White
 Heart of Ramos|Artifact
 Heart of Yavimaya|Land
 Heart-Piercer Bow|Artifact
+Heart-Piercer Manticore|Red
 Heartbeat of Spring|Green
 Hearth Charm|Red
 Hearth Kami|Red
@@ -6453,6 +6559,7 @@ Heat Stroke|Red
 Heat Wave|Red
 Heat of Battle|Red
 Heaven's Gate|White
+Heaven/Earth|Green
 Heavy Arbalest|Artifact
 Heavy Ballista|White
 Heavy Fog|Green
@@ -6479,6 +6586,7 @@ Heir of Falkenrath|Black
 Heir of the Wilds|Green
 Heir to the Night|Unknown
 Heirs of Stromkirk|Red
+Hekma Sentinels|Blue
 Heliod's Emissary|White
 Heliod's Pilgrim|White
 Heliod, God of the Sun|White
@@ -6584,6 +6692,7 @@ Hideous End|Black
 Hideous Laughter|Black
 Hideous Visage|Black
 Hidetsugu's Second Rite|Red
+Hieroglyphic Illumination|Blue
 High Ground|White
 High Market|Land
 High Priest of Penance|Gold
@@ -6676,6 +6785,7 @@ Honden of Infinite Rage|Red
 Honden of Life's Web|Green
 Honden of Night's Reach|Black
 Honden of Seeing Winds|Blue
+Honed Khopesh|Artifact
 Honor Guard|White
 Honor of the Pure|White
 Honor the Fallen|White
@@ -6683,8 +6793,11 @@ Honor's Reward|White
 Honor-Worn Shaku|Artifact
 Honorable Passage|White
 Honorable Scout|White
+Honored Crop-Captain|Gold
 Honored Hierarch|Green
+Honored Hydra|Green
 Hooded Assassin|Black
+Hooded Brawler|Green
 Hooded Horror|Black
 Hooded Hydra|Green
 Hooded Kavu|Red
@@ -6731,6 +6844,7 @@ Horrible Hordes|Artifact
 Horribly Awry|Blue
 Horrifying Revelation|Black
 Horror of Horrors|Black
+Horror of the Broken Lands|Black
 Horror of the Dim|Black
 Horseshoe Crab|Blue
 Hostile Realm|Red
@@ -6834,6 +6948,7 @@ Hydrolash|Blue
 Hydromorph Guardian|Blue
 Hydromorph Gull|Blue
 Hydrosurge|Blue
+Hyena Pack|Red
 Hyena Umbra|White
 Hymn of Rebirth|Gold
 Hymn to Tourach|Black
@@ -6889,7 +7004,7 @@ Identity Crisis|Gold
 Identity Thief|Blue
 Idle Thoughts|Blue
 Idyllic Tutor|White
-Ifh-Bíff Efreet|Green
+Ifh-Biff Efreet|Green
 Igneous Golem|Artifact
 Igneous Pouncer|Gold
 Ignite Disorder|Red
@@ -6927,6 +7042,7 @@ Illusory Ambusher|Blue
 Illusory Angel|Blue
 Illusory Demon|Gold
 Illusory Gains|Blue
+Illusory Wrappings|Blue
 Imagecrafter|Blue
 Imaginary Pet|Blue
 Imi Statue|Artifact
@@ -6974,6 +7090,7 @@ Imps' Taunt|Black
 Impulse|Blue
 Impulsive Maneuvers|Red
 In Garruk's Wake|Black
+In Oketra's Name|White
 In the Eye of Chaos|Blue
 In the Web of War|Red
 Inaction Injunction|Blue
@@ -7072,6 +7189,7 @@ Ingenious Thief|Blue
 Ingot Chewer|Red
 Inheritance|White
 Initiate of Blood|Red
+Initiate's Companion|Green
 Initiates of the Ebon Hand|Black
 Ink Dissolver|Blue
 Ink-Eyes, Servant of Oni|Black
@@ -7124,6 +7242,7 @@ Instill Energy|Green
 Instill Furor|Red
 Instill Infection|Black
 Insubordination|Black
+Insult/Injury|Red
 Insurrection|Red
 Intangible Virtue|White
 Intellectual Offering|Blue
@@ -7204,6 +7323,7 @@ Irontread Crusher|Artifact
 Ironwright's Cleansing|White
 Irradiate|Black
 Irresistible Prey|Green
+Irrigated Farmland|Land
 Irrigation Ditch|Land
 Isamaru, Hound of Konda|White
 Isao, Enlightened Bushi|Green
@@ -7377,6 +7497,8 @@ Joraga Treespeaker|Green
 Joraga Warcaller|Green
 Jori En, Ruin Diver|Gold
 Jorubai Murk Lurker|Blue
+Jotun Grunt|White
+Jotun Owl Keeper|White
 Journey of Discovery|Green
 Journey to Nowhere|White
 Journeyer's Kite|Artifact
@@ -7416,20 +7538,18 @@ Junk Golem|Artifact
 Junktroller|Artifact
 Junkyo Bell|Artifact
 Juntu Stakes|Artifact
-Junún Efreet|Black
+Junun Efreet|Black
 Jushi Apprentice|Blue
 Just Fate|White
 Just the Wind|Blue
 Justice|White
 Juvenile Gloomwidow|Green
 Juxtapose|Blue
-Juzám Djinn|Black
+Juzam Djinn|Black
 Jwar Isle Avenger|Blue
 Jwar Isle Refuge|Land
 Jwari Scuttler|Blue
 Jwari Shapeshifter|Blue
-Jötun Grunt|White
-Jötun Owl Keeper|White
 Kaalia of the Vast|Gold
 Kabira Crossroads|Land
 Kabira Evangel|White
@@ -7564,6 +7684,8 @@ Keeper of the Nine Gales|Blue
 Keeper of the Sacred Word|Green
 Keepers of the Faith|White
 Keepsake Gorgon|Black
+Kefnet the Mindful|Blue
+Kefnet's Monument|Artifact
 Kei Takahashi|Gold
 Keiga, the Tide Star|Blue
 Keldon Arsonist|Red
@@ -7599,11 +7721,12 @@ Kessig Wolf Run|Land
 Key to the City|Artifact
 Keymaster Rogue|Blue
 Kezzerdrix|Black
-Khabál Ghoul|Black
+Khabal Ghoul|Black
 Khalni Garden|Land
 Khalni Gem|Artifact
 Khalni Heart Expedition|Green
 Khalni Hydra|Green
+Khenra Charioteer|Gold
 Kher Keep|Land
 Kheru Bloodsucker|Black
 Kheru Dreadmaw|Black
@@ -7893,6 +8016,7 @@ Lab Rats|Black
 Laboratory Brute|Blue
 Laboratory Maniac|Blue
 Labyrinth Champion|Red
+Labyrinth Guardian|Blue
 Labyrinth Minotaur|Blue
 Laccolith Grunt|Red
 Laccolith Rig|Red
@@ -7993,6 +8117,8 @@ Lavinia of the Tenth|Gold
 Lawbringer|White
 Lawless Broker|Black
 Lay Bare|Blue
+Lay Bare the Heart|Black
+Lay Claim|Blue
 Lay Waste|Red
 Lay of the Land|Green
 Lazav, Dimir Mastermind|Gold
@@ -8169,9 +8295,13 @@ Liliana of the Veil|Black
 Liliana's Caress|Black
 Liliana's Elite|Black
 Liliana's Indignation|Black
+Liliana's Influence|Black
+Liliana's Mastery|Black
 Liliana's Reaver|Black
 Liliana's Shade|Black
 Liliana's Specter|Black
+Liliana, Death Wielder|Black
+Liliana, Death's Majesty|Black
 Liliana, Defiant Necromancer|Unknown
 Liliana, Heretical Healer|Black
 Liliana, the Last Hope|Black
@@ -8185,6 +8315,7 @@ Lim-Dûl's Paladin|Gold
 Lim-Dûl's Vault|Gold
 Limestone Golem|Artifact
 Limited Resources|White
+Limits of Solidarity|Red
 Lin Sivvi, Defiant Hero|White
 Linessa, Zephyr Mage|Blue
 Lingering Death|Black
@@ -8285,6 +8416,7 @@ Lord of Extinction|Gold
 Lord of Lineage|Unknown
 Lord of Shatterskull Pass|Red
 Lord of Tresserhorn|Gold
+Lord of the Accursed|Black
 Lord of the Pit|Black
 Lord of the Undead|Black
 Lord of the Unreal|Blue
@@ -8388,6 +8520,7 @@ Lurking Skirge|Black
 Lush Growth|Green
 Lust for War|Red
 Lux Cannon|Artifact
+Luxa River Shrine|Artifact
 Lyev Decree|White
 Lyev Skyknight|Gold
 Lymph Sliver|White
@@ -8558,6 +8691,7 @@ Mangara of Corondor|White
 Mangara's Blessing|White
 Mangara's Equity|White
 Mangara's Tome|Artifact
+Manglehorn|Green
 Maniacal Rage|Red
 Manic Scribe|Blue
 Manic Vandal|Red
@@ -8569,6 +8703,7 @@ Manor Skeleton|Black
 Manriki-Gusari|Artifact
 Manta Ray|Blue
 Manta Riders|Blue
+Manticore of the Gauntlet|Red
 Mantis Engine|Artifact
 Mantis Rider|Gold
 Mantle of Leadership|White
@@ -8655,6 +8790,7 @@ Marshmist Titan|Black
 Martial Coup|White
 Martial Glory|Gold
 Martial Law|White
+Marton Stromgald|Red
 Martyr of Ashes|Red
 Martyr of Bones|Black
 Martyr of Frost|Blue
@@ -8812,6 +8948,7 @@ Merchant of Secrets|Blue
 Merchant's Dockhand|Artifact
 Merciless Eviction|Gold
 Merciless Executioner|Black
+Merciless Javelineer|Gold
 Merciless Predator|Unknown
 Merciless Resolve|Black
 Mercurial Chemister|Gold
@@ -8882,6 +9019,7 @@ Meteor Storm|Gold
 Meteorite|Artifact
 Metrognome|Artifact
 Metropolis Sprite|Blue
+Miasmic Mummy|Black
 Michiko Konda, Truth Seeker|White
 Midnight Banshee|Black
 Midnight Charm|Black
@@ -9006,6 +9144,7 @@ Minotaur Aggressor|Red
 Minotaur Explorer|Red
 Minotaur Illusionist|Gold
 Minotaur Skullcleaver|Red
+Minotaur Sureshot|Red
 Minotaur Tactician|Red
 Minotaur Warrior|Red
 Miracle Worker|White
@@ -9296,6 +9435,7 @@ Mournwhelk|Black
 Mournwillow|Gold
 Mouth of Ronom|Land
 Mouth to Mouth|Blue
+Mouth/Feed|Green
 Mox Diamond|Artifact
 Mox Emerald|Artifact
 Mox Jet|Artifact
@@ -9426,13 +9566,14 @@ Mystical Tutor|Blue
 Mystifying Maze|Land
 Myth Realized|White
 Mythic Proportions|Green
-Márton Stromgald|Red
 Nacatl Hunt-Pride|White
 Nacatl Outlander|Gold
 Nacatl Savage|Green
 Nacatl War-Pride|Green
 Nacre Talisman|Artifact
 Nafs Asp|Green
+Naga Oracle|Blue
+Naga Vitalist|Green
 Nagao, Bound by Honor|White
 Nagging Thoughts|Blue
 Nahiri's Machinations|White
@@ -9441,6 +9582,7 @@ Nahiri, the Harbinger|Gold
 Nahiri, the Lithomancer|White
 Nakaya Shade|Black
 Naked Singularity|Artifact
+Nalathni Dragon|Red
 Name Dropping|Green
 Nameless Inversion|Black
 Nameless One|Blue
@@ -9556,11 +9698,13 @@ Needlebite Trap|Black
 Needlebug|Artifact
 Needlepeak Spider|Red
 Needleshot Gourna|Green
+Nef-Crop Entangler|Red
 Nefarious Lich|Black
 Nefarox, Overlord of Grixis|Black
 Nefashu|Black
 Negate|Blue
 Neglected Heirloom|Artifact
+Neheb, the Worthy|Gold
 Neko-Te|Artifact
 Nekrataal|Black
 Nekusar, the Mindrazer|Gold
@@ -9581,6 +9725,7 @@ Nessian Demolok|Green
 Nessian Game Warden|Green
 Nessian Wilds Ravager|Green
 Nest Invader|Green
+Nest of Scarabs|Black
 Nested Ghoul|Black
 Nesting Wurm|Green
 Netcaster Spider|Green
@@ -9608,12 +9753,14 @@ Neurok Spy|Blue
 Neurok Stealthsuit|Artifact
 Neurok Transmuter|Blue
 Neutralizing Blast|Blue
+Never/Return|Black
 Neverending Torment|Black
 Nevermaker|Blue
 Nevermore|White
 Nevinyrral's Disk|Artifact
 New Benalia|Land
 New Frontiers|Green
+New Perspectives|Blue
 New Prahv Guildmage|Gold
 Nezumi Bone-Reader|Black
 Nezumi Cutthroat|Black
@@ -9683,6 +9830,7 @@ Nim Shrieker|Black
 Nimana Sell-Sword|Black
 Nimble Innovator|Blue
 Nimble Mongoose|Green
+Nimble-Blade Khenra|Red
 Nimbus Maze|Land
 Nimbus Naiad|Blue
 Nimbus Swimmer|Gold
@@ -9705,6 +9853,7 @@ Nissa's Renewal|Green
 Nissa's Revelation|Green
 Nissa, Nature's Artisan|Green
 Nissa, Sage Animist|Unknown
+Nissa, Steward of Elements|Gold
 Nissa, Vastwood Seer|Green
 Nissa, Vital Force|Green
 Nissa, Voice of Zendikar|Green
@@ -9825,6 +9974,7 @@ Oaken Brawler|White
 Oakenform|Green
 Oakgnarl Warrior|Green
 Oakheart Dryads|Green
+Oashra Cultivator|Green
 Oasis|Land
 Oath of Ajani|Gold
 Oath of Chandra|Red
@@ -9915,6 +10065,9 @@ Ojutai's Breath|Blue
 Ojutai's Command|Gold
 Ojutai's Summons|Blue
 Ojutai, Soul of Winter|Gold
+Oketra the True|White
+Oketra's Attendant|White
+Oketra's Monument|Artifact
 Okiba-Gang Shinobi|Black
 Okina Nightwatch|Green
 Okina, Temple to the Grandfathers|Land
@@ -9954,6 +10107,7 @@ Oni Possession|Black
 Oni of Wild Places|Red
 Onslaught|Red
 Onulet|Artifact
+Onward/Victory|Red
 Onyx Goblet|Black
 Onyx Mage|Black
 Onyx Talisman|Artifact
@@ -9979,6 +10133,7 @@ Opalescence|White
 Opaline Bracers|Artifact
 Opaline Sliver|Gold
 Opaline Unicorn|Artifact
+Open into Wonder|Blue
 Open the Armory|White
 Open the Vaults|White
 Ophidian|Blue
@@ -9999,6 +10154,7 @@ Oracle of Mul Daya|Green
 Oracle of Nectars|Hybrid
 Oracle's Attendants|White
 Oracle's Insight|Blue
+Oracle's Vault|Artifact
 Oran-Rief Hydra|Green
 Oran-Rief Invoker|Green
 Oran-Rief Recluse|Green
@@ -10069,6 +10225,7 @@ Oriss, Samite Guardian|White
 Ormendahl, Profane Prince|Unknown
 Ornamental Courage|Green
 Ornate Kanzashi|Artifact
+Ornery Kudu|Green
 Ornitharch|White
 Ornithopter|Artifact
 Orochi Eggwatcher|Green
@@ -10161,10 +10318,12 @@ Pain Seer|Black
 Pain's Reward|Black
 Pain/Suffering|Split
 Painbringer|Black
+Painful Lesson|Black
 Painful Memories|Black
 Painful Quandary|Black
 Painful Truths|Black
 Painsmith|Black
+Painted Bluffs|Land
 Painter's Servant|Artifact
 Painwracker Oni|Black
 Palace Familiar|Blue
@@ -10258,6 +10417,7 @@ Path of Peace|White
 Path to Exile|White
 Pathbreaker Ibex|Green
 Pathbreaker Wurm|Green
+Pathmaker Initiate|Red
 Pathrazer of Ulamog|Colorless
 Pathway Arrows|Artifact
 Patriarch's Bidding|Black
@@ -10534,9 +10694,11 @@ Pitfall Trap|White
 Pith Driller|Black
 Pithing Needle|Artifact
 Pitiless Horde|Black
+Pitiless Vizier|Black
 Pixie Queen|Green
 Plagiarize|Blue
 Plague Beetle|Black
+Plague Belcher|Black
 Plague Boiler|Artifact
 Plague Dogs|Black
 Plague Fiend|Black
@@ -10640,6 +10802,7 @@ Possibility Storm|Red
 Postmortem Lunge|Black
 Poultice Sliver|White
 Poultrygeist|Black
+Pouncing Cheetah|Green
 Pouncing Jaguar|Green
 Pouncing Kavu|Red
 Pouncing Wurm|Green
@@ -10689,6 +10852,7 @@ Preemptive Strike|Blue
 Preferred Selection|Green
 Premature Burial|Black
 Preordain|Blue
+Prepare/Fight|White
 Prescient Chimera|Blue
 Presence of Gond|Green
 Presence of the Master|White
@@ -10806,6 +10970,7 @@ Prossh, Skyraider of Kher|Gold
 Protean Hulk|Green
 Protean Hydra|Green
 Protect/Serve|Split
+Protection of the Hekma|White
 Protective Bubble|Blue
 Protective Sphere|White
 Protector of the Crown|White
@@ -10819,6 +10984,7 @@ Prowess of the Fair|Black
 Prowler's Helm|Artifact
 Prowling Nightstalker|Black
 Prowling Pangolin|Black
+Prowling Serpopard|Green
 Prying Questions|Black
 Psionic Blast|Blue
 Psionic Entity|Blue
@@ -10859,6 +11025,7 @@ Puca's Mischief|Blue
 Puffer Extract|Artifact
 Pull Under|Black
 Pull from Eternity|White
+Pull from Tomorrow|Blue
 Pull from the Deep|Blue
 Pulling Teeth|Black
 Pulmonic Sliver|White
@@ -10902,6 +11069,7 @@ Purity|White
 Purphoros's Emissary|Red
 Purphoros, God of the Forge|Red
 Purraj of Urborg|Black
+Pursue Glory|Red
 Pursuit of Flight|Red
 Pursuit of Knowledge|White
 Pus Kami|Black
@@ -10922,6 +11090,7 @@ Pygmy Pyrosaur|Red
 Pygmy Razorback|Green
 Pygmy Troll|Green
 Pyknite|Green
+Pyramid of the Pantheon|Artifact
 Pyramids|Artifact
 Pyre Charger|Red
 Pyre Hound|Red
@@ -10965,6 +11134,7 @@ Quagmire Lamprey|Black
 Quagnoth|Green
 Quarantine Field|White
 Quarry Colossus|White
+Quarry Hauler|Green
 Quarum Trench Gnomes|Red
 Quash|Blue
 Queen Marchesa|Gold
@@ -11065,6 +11235,7 @@ Raging Ravine|Land
 Raging River|Red
 Raging Spirit|Red
 Ragnar|Gold
+Rags/Riches|Black
 Raid Bombardment|Red
 Raiders' Spoils|Black
 Raiding Nightstalker|Black
@@ -11321,6 +11492,7 @@ Redirect|Blue
 Reduce in Stature|Blue
 Reduce to Ashes|Red
 Reduce to Dreams|Blue
+Reduce/Rubble|Blue
 Redwood Treefolk|Green
 Reef Pirates|Blue
 Reef Shaman|Blue
@@ -11338,6 +11510,7 @@ Refresh|Green
 Refreshing Rain|Green
 Refurbish|White
 Regal Behemoth|Green
+Regal Caracal|White
 Regal Force|Green
 Regal Unicorn|White
 Regathan Firecat|Red
@@ -11539,6 +11712,9 @@ Reweave|Blue
 Rewind|Blue
 Reya Dawnbringer|White
 Reyhan, Last of the Abzan|Gold
+Rhet-Crop Spearmaster|White
+Rhonas the Indomitable|Green
+Rhonas's Monument|Artifact
 Rhox|Green
 Rhox Bodyguard|Gold
 Rhox Brute|Gold
@@ -11690,6 +11866,7 @@ River Delta|Land
 River Kaijin|Blue
 River Kelpie|Blue
 River Merfolk|Blue
+River Serpent|Blue
 River of Tears|Land
 River's Grasp|Hybrid
 Riverfall Mimic|Hybrid
@@ -11907,6 +12084,7 @@ Ruthless Disposal|Black
 Ruthless Instincts|Green
 Ruthless Invasion|Red
 Ruthless Ripper|Black
+Ruthless Sniper|Black
 Rysorian Badger|Green
 Ryusei, the Falling Star|Red
 S.N.O.T.|Green
@@ -11923,6 +12101,8 @@ Sacellum Godspeaker|Green
 Sachi, Daughter of Seshiro|Green
 Sacred Armory|Artifact
 Sacred Boon|White
+Sacred Cat|White
+Sacred Excavation|Blue
 Sacred Foundry|Land
 Sacred Ground|White
 Sacred Guide|White
@@ -12002,6 +12182,7 @@ Samite Pilgrim|White
 Samite Sanctuary|White
 Samurai Enforcers|White
 Samurai of the Pale Curtain|White
+Samut, Voice of Dissent|Gold
 Sanctified Charge|White
 Sanctifier of Souls|White
 Sanctimony|White
@@ -12037,6 +12218,7 @@ Sandstone Warrior|Red
 Sandstorm|Green
 Sandstorm Charger|White
 Sandstorm Eidolon|Red
+Sandwurm Convergence|Green
 Sangrite Backlash|Gold
 Sangrite Surge|Gold
 Sangromancer|Black
@@ -12132,6 +12314,7 @@ Scaldkin|Blue
 Scale Blessing|White
 Scale of Chiss-Goria|Artifact
 Scalebane's Elite|Gold
+Scaled Behemoth|Green
 Scaled Hulk|Green
 Scaled Wurm|Green
 Scaleguard Sentinels|Green
@@ -12140,6 +12323,7 @@ Scandalmonger|Black
 Scapegoat|White
 Scapeshift|Green
 Scar|Hybrid
+Scarab Feast|Black
 Scarab of the Unseen|Artifact
 Scarblade Elite|Black
 Scare Tactics|Black
@@ -12159,6 +12343,7 @@ Scathe Zombies|Black
 Scatter Arc|Blue
 Scatter the Seeds|Green
 Scatter to the Winds|Blue
+Scattered Groves|Land
 Scattering Stroke|Blue
 Scattershot|Red
 Scattershot Archer|Green
@@ -12255,6 +12440,7 @@ Screeching Silcaw|Blue
 Screeching Skaab|Blue
 Screeching Sliver|Blue
 Scrib Nibblers|Black
+Scribe of the Mindful|Blue
 Scrivener|Blue
 Scroll Rack|Artifact
 Scroll Thief|Blue
@@ -12377,6 +12563,7 @@ Seedtime|Green
 Seek the Horizon|Green
 Seek the Wilds|Green
 Seeker|White
+Seeker of Insight|Blue
 Seeker of Skybreak|Green
 Seeker of the Way|White
 Seer's Lantern|Artifact
@@ -12464,6 +12651,7 @@ Seraph|White
 Seraph Sanctuary|Land
 Seraph of Dawn|White
 Seraph of the Masses|White
+Seraph of the Suns|White
 Seraph of the Sword|White
 Serendib Djinn|Blue
 Serendib Efreet|Blue
@@ -12531,6 +12719,7 @@ Sewer Nemesis|Black
 Sewer Rats|Black
 Sewer Shambler|Black
 Sewerdreg|Black
+Sewers of Estark|Black
 Sewn-Eye Drake|Gold
 Sex Appeal|White
 Shackles|White
@@ -12546,6 +12735,7 @@ Shadow Rift|Blue
 Shadow Slice|Black
 Shadow Sliver|Blue
 Shadow of Doubt|Hybrid
+Shadow of the Grave|Black
 Shadowbane|White
 Shadowblood Egg|Artifact
 Shadowblood Ridge|Land
@@ -12556,6 +12746,7 @@ Shadowfeed|Black
 Shadowmage Infiltrator|Gold
 Shadows of the Past|Black
 Shadowstorm|Red
+Shadowstorm Vizier|Gold
 Shah of Naar Isle|Red
 Shahrazad|White
 Shaleskin Bruiser|Red
@@ -12615,13 +12806,16 @@ Shatterskull Recruit|Red
 Shatterstorm|Red
 Shauku's Minion|Gold
 Shauku, Endbringer|Black
+Shed Weakness|Green
 Sheer Drop|White
+Shefet Monitor|Green
 Shelkin Brownie|Green
 Shell Skulkin|Artifact
 Shell of the Last Kappa|Artifact
 Shelldock Isle|Land
 Shelter|White
 Sheltered Aerie|Green
+Sheltered Thicket|Land
 Sheltered Valley|Land
 Sheltering Ancient|Green
 Sheltering Prayers|White
@@ -12667,6 +12861,7 @@ Shimmering Glasskite|Blue
 Shimmering Grotto|Land
 Shimmering Mirage|Blue
 Shimmering Wings|Blue
+Shimmerscale Drake|Blue
 Shinen of Fear's Chill|Black
 Shinen of Flight's Wings|Blue
 Shinen of Fury's Fire|Red
@@ -12929,6 +13124,7 @@ Sivitri Scarzam|Gold
 Sivvi's Ruse|White
 Sivvi's Valor|White
 Six-y Beast|Red
+Sixth Sense|Green
 Sizzle|Red
 Skaab Goliath|Blue
 Skaab Ruinator|Blue
@@ -13123,6 +13319,7 @@ Slith Bloodletter|Black
 Slith Firewalker|Red
 Slith Predator|Green
 Slith Strider|Blue
+Slither Blade|Blue
 Slitherhead|Hybrid
 Slithering Shade|Black
 Slithermuse|Blue
@@ -13344,6 +13541,7 @@ Soul's Fire|Red
 Soul's Grace|White
 Soul's Majesty|Green
 Soul's Might|Green
+Soul-Scar Mage|Red
 Soulblade Djinn|Blue
 Soulblast|Red
 Soulbound Guardians|White
@@ -13362,6 +13560,7 @@ Soulquake|Gold
 Souls of the Faultless|Gold
 Soulscour|White
 Soulshriek|Black
+Soulstinger|Black
 Soulsurge Elemental|Red
 Soulsworn Jury|White
 Soulsworn Spirit|Blue
@@ -13387,6 +13586,7 @@ Sparksmith|Red
 Sparkspitter|Red
 Sparring Collar|Artifact
 Sparring Golem|Artifact
+Sparring Mummy|White
 Spatial Binding|Gold
 Spatial Contortion|Colorless
 Spatula of the Ages|Artifact
@@ -13585,6 +13785,7 @@ Spitting Sliver|Black
 Spitting Slug|Green
 Spitting Spider|Green
 Splatter Thug|Red
+Splendid Agony|Black
 Splendid Reclamation|Green
 Splinter|Green
 Splinter Twin|Red
@@ -13621,6 +13822,7 @@ Spreading Plague|Black
 Spreading Seas|Blue
 Spring Cleaning|Green
 Spring of Eternal Peace|Green
+Spring/Mind|Green
 Springing Tiger|Green
 Springjack Knight|White
 Springjack Pasture|Land
@@ -13719,6 +13921,7 @@ Starlit Angel|White
 Starlit Sanctum|Land
 Starstorm|Red
 Start Your Engines|Red
+Start/Finish|White
 Startled Awake|Blue
 Starved Rusalka|Green
 Stasis|Blue
@@ -13787,6 +13990,7 @@ Stillmoon Cavalier|Hybrid
 Stingerfling Spider|Green
 Stinging Barrier|Blue
 Stinging Licid|Blue
+Stinging Shot|Green
 Stingmoggie|Red
 Stingscourger|Red
 Stinkdrinker Bandit|Black
@@ -13794,6 +13998,7 @@ Stinkdrinker Daredevil|Red
 Stinkweed Imp|Black
 Stir the Grave|Black
 Stir the Pride|White
+Stir the Sands|Black
 Stirring Wildwood|Land
 Stitch Together|Black
 Stitch in Time|Gold
@@ -14011,6 +14216,7 @@ Sulfuric Vapors|Red
 Sulfuric Vortex|Red
 Sulfurous Blast|Red
 Sulfurous Springs|Land
+Sultai Ascendacy|Gold
 Sultai Ascendancy|Gold
 Sultai Banner|Artifact
 Sultai Charm|Gold
@@ -14072,6 +14278,7 @@ Sunscape Battlemage|White
 Sunscape Familiar|White
 Sunscape Master|White
 Sunscorch Regent|White
+Sunscorched Desert|Land
 Sunscour|White
 Sunseed Nurturer|White
 Sunspear Shikari|White
@@ -14085,8 +14292,10 @@ Suntouched Myr|Artifact
 Sunweb|White
 Super Secret Tech|Artifact
 Superior Numbers|Green
+Supernatural Stamina|Black
 Supersize|Green
 Supplant Form|Blue
+Supply Caravan|White
 Supply-Line Cranes|White
 Supply/Demand|Split
 Suppress|Black
@@ -14154,6 +14363,7 @@ Sweep Away|Blue
 Swell of Courage|White
 Swell of Growth|Green
 Swelter|Red
+Sweltering Suns|Red
 Swerve|Gold
 Swift Justice|White
 Swift Kick|Red
@@ -14217,6 +14427,7 @@ Symbiotic Wurm|Green
 Symbol Status|Green
 Symbol of Unsummoning|Blue
 Synapse Sliver|Blue
+Synchronized Strike|Green
 Synchronous Sliver|Blue
 Syncopate|Blue
 Syndic of Tithes|White
@@ -14235,6 +14446,8 @@ Szadek, Lord of Secrets|Gold
 Séance|White
 Tablet of Epityr|Artifact
 Tablet of the Guilds|Artifact
+Tah-Crop Elite|White
+Tah-Crop Skirmisher|Blue
 Tahngarth's Glare|Red
 Tahngarth's Rage|Red
 Tahngarth, Talruum Hero|Red
@@ -14344,6 +14557,7 @@ Taste of Paradise|Green
 Tatsumasa, the Dragon's Fang|Artifact
 Tattered Drake|Blue
 Tattered Haunter|Blue
+Tattered Mummy|Black
 Tatterkite|Artifact
 Tattermunge Duo|Hybrid
 Tattermunge Maniac|Hybrid
@@ -14406,6 +14620,7 @@ Telim'Tor's Darts|Artifact
 Telim'Tor's Edict|Red
 Teller of Tales|Blue
 Telling Time|Blue
+Temmet, Vizier of Naktamun|Gold
 Temp of the Damned|Black
 Temper|White
 Tempered Steel|White
@@ -14615,6 +14830,7 @@ Thornwatch Scarecrow|Artifact
 Thornweald Archer|Green
 Thornwind Faeries|Blue
 Thornwood Falls|Land
+Those Who Serve|White
 Thought Courier|Blue
 Thought Devourer|Blue
 Thought Dissector|Artifact
@@ -14678,6 +14894,7 @@ Three Tragedies|Black
 Three Visits|Green
 Three Wishes|Blue
 Thresher Beast|Green
+Thresher Lizard|Red
 Thrill of the Hunt|Green
 Thrill-Kill Assassin|Black
 Thriss, Nantuko Primus|Green
@@ -14693,6 +14910,7 @@ Throne Warden|White
 Throne of Bone|Artifact
 Throne of Empires|Artifact
 Throne of Geth|Artifact
+Throne of the God-Pharaoh|Artifact
 Throne of the High City|Land
 Throttle|Black
 Through the Breach|Red
@@ -14795,6 +15013,7 @@ Time and Tide|Blue
 Time of Heroes|White
 Time of Need|Green
 Time to Feed|Green
+Time to Reflect|White
 Timebender|Blue
 Timecrafting|Red
 Timely Hordemate|White
@@ -15050,6 +15269,7 @@ Trench Wurm|Black
 Trenching Steed|White
 Trepanation Blade|Artifact
 Trespasser il-Vec|Black
+Trespasser's Curse|Black
 Trespassing Souleater|Artifact
 Tresserhorn Sinks|Land
 Tresserhorn Skyknight|Black
@@ -15059,6 +15279,11 @@ Treva's Charm|Gold
 Treva's Ruins|Land
 Treva, the Renewer|Gold
 Triad of Fates|Gold
+Trial of Ambition|Black
+Trial of Knowledge|Blue
+Trial of Solidarity|White
+Trial of Strength|Green
+Trial of Zeal|Red
 Trial/Error|Split
 Triangle of War|Artifact
 Triassic Egg|Artifact
@@ -15116,6 +15341,8 @@ True Conviction|White
 True-Faith Censer|Artifact
 True-Name Nemesis|Blue
 Truefire Paladin|Gold
+Trueheart Duelist|White
+Trueheart Twins|Red
 Trumpet Blast|Red
 Trumpeting Armodon|Green
 Trusted Advisor|Blue
@@ -15340,6 +15567,7 @@ Untamed Hunger|Black
 Untamed Might|Green
 Untamed Wilds|Green
 Untethered Express|Artifact
+Unwavering Initiate|White
 Unwilling Recruit|Red
 Unwinding Clock|Artifact
 Unworthy Dead|Black
@@ -15677,6 +15905,7 @@ Vineweft|Green
 Vintara Elephant|Green
 Vintara Snapper|Green
 Violent Eruption|Red
+Violent Impact|Red
 Violent Outburst|Gold
 Violent Ultimatum|Gold
 Violet Pall|Black
@@ -15735,6 +15964,11 @@ Vivid Marsh|Land
 Vivid Meadow|Land
 Vivify|Green
 Vivisection|Blue
+Vizier of Deferment|White
+Vizier of Many Faces|Blue
+Vizier of Remedies|White
+Vizier of Tumbling Sands|Blue
+Vizier of the Menagerie|Green
 Vizkopa Confessor|Gold
 Vizkopa Guildmage|Gold
 Vizzerdrix|Blue
@@ -15936,6 +16170,7 @@ Wallop|Green
 Wand of Denial|Artifact
 Wand of Ith|Artifact
 Wand of the Elements|Artifact
+Wander in Death|Black
 Wanderbrine Rootcutters|Hybrid
 Wanderer's Twig|Artifact
 Wanderguard Sentry|Blue
@@ -15989,6 +16224,7 @@ Warden of the Eye|Gold
 Warden of the First Tree|Green
 Warden of the Wall|Artifact
 Wardscale Dragon|White
+Warfire Javelineer|Red
 Wargate|Gold
 Warleader's Helix|Gold
 Warlord's Axe|Artifact
@@ -16026,6 +16262,7 @@ Wasp Lancer|Hybrid
 Waste Away|Black
 Waste Not|Black
 Wasteland|Land
+Wasteland Scorpion|Black
 Wasteland Strangler|Black
 Wasteland Viper|Green
 Wastes|Land
@@ -16033,7 +16270,9 @@ Watchdog|Artifact
 Watcher Sliver|White
 Watcher in the Web|Green
 Watcher of the Roost|White
+Watchers of the Dead|Artifact
 Watchful Automaton|Artifact
+Watchful Naga|Green
 Watchwing Scarecrow|Artifact
 Watchwolf|Gold
 Water Elemental|Blue
@@ -16068,6 +16307,7 @@ Waylay|White
 Wayward Angel|White
 Wayward Disciple|Unknown
 Wayward Giant|Red
+Wayward Servant|Gold
 Wayward Soul|Blue
 Weakness|Black
 Weakstone|Artifact
@@ -16083,6 +16323,7 @@ Weatherseed Faeries|Blue
 Weatherseed Totem|Artifact
 Weatherseed Treefolk|Green
 Weave Fate|Blue
+Weaver of Currents|Gold
 Weaver of Lies|Blue
 Weaver of Lightning|Red
 Web|Green
@@ -16285,7 +16526,9 @@ Windrider Patrol|Blue
 Winds of Change|Red
 Winds of Qal Sisma|Green
 Winds of Rath|White
+Winds of Rebuke|Blue
 Windscouter|Blue
+Windseeker Centaur|Red
 Windstorm|Green
 Windswept Heath|Land
 Windwright Mage|Gold
@@ -16298,6 +16541,7 @@ Wing Storm|Green
 Wingbeat Warrior|White
 Wingcrafter|Blue
 Winged Coatl|Gold
+Winged Shepherd|White
 Winged Sliver|Blue
 Wingmate Roc|White
 Wingrattle Scarecrow|Artifact
@@ -16582,6 +16826,7 @@ Zendikar Farguide|Green
 Zendikar Incarnate|Gold
 Zendikar Resurgent|Green
 Zendikar's Roil|Green
+Zenith Seeker|Blue
 Zephid|Blue
 Zephid's Embrace|Blue
 Zephyr Charge|Blue

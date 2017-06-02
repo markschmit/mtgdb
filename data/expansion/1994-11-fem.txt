@@ -1,53 +1,50 @@
 Armor Thrull|C
 Aeolipile|R
-Balm of Restoration|R
 Basal Thrull|C
-Bottomless Vault|R
+Balm of Restoration|R
 Brassclaw Orcs|C
-Breeding Pit|U
+Bottomless Vault|R
 Combat Medic|C
+Breeding Pit|U
 Deep Spawn|U
-Conch Horn|R
 Delif's Cone|U
-Derelor|R
+Conch Horn|R
 Delif's Cube|R
-Draconian Cylix|R
+Derelor|R
 Dwarven Armorer|R
+Draconian Cylix|R
+Dwarven Hold|R
 Dwarven Catapult|U
 Dwarven Lieutenant|U
-Dwarven Hold|R
-Dwarven Ruins|U
 Dwarven Soldier|C
+Dwarven Ruins|U
 Ebon Praetor|R
+Elven Fortress|C
 Ebon Stronghold|U
 Elven Lyre|R
-Elven Fortress|C
 Elvish Farmer|R
 Elvish Hunter|C
-Elvish Scout|C
 Farrel's Mantle|U
 Farrel's Zealot|C
 Farrelite Priest|U
+Fungal Bloom|R
 Feral Thallid|U
 Goblin Chirurgeon|C
-Fungal Bloom|R
 Goblin Flotilla|R
+Goblin Kites|U
 Goblin Grenade|C
 Goblin War Drums|C
-Goblin Kites|U
-Vodalian Soldiers|C
-Vodalian War Machine|R
-Zelyon Sword|R
 Goblin Warrens|R
 Hand of Justice|R
+Elvish Scout|C
 Heroism|U
 Havenwood Battleground|U
+Hollow Trees|R
 High Tide|C
 Homarid|C
-Hollow Trees|R
 Homarid Shaman|R
-Homarid Spawning Bed|U
 Homarid Warrior|C
+Homarid Spawning Bed|U
 Icatian Infantry|C
 Hymn to Tourach|C
 Icatian Javelineers|C
@@ -57,46 +54,49 @@ Icatian Phalanx|U
 Icatian Priest|U
 Icatian Scout|C
 Icatian Skirmishers|R
+Icatian Town|R
 Icatian Store|R
 Implements of Sacrifice|R
-Icatian Town|R
 Initiates of the Ebon Hand|C
-Merseine|C
 Mindstab Thrull|C
-Necrite|C
+Merseine|C
 Orcish Captain|U
+Necrite|C
 Night Soil|C
-Orcish Spy|C
 Orcish Veteran|C
+Orcish Spy|C
 Order of Leitbur|C
 Order of the Ebon Hand|C
+Rainbow Vale|R
 Orgg|R
 Raiding Party|U
-Rainbow Vale|R
 Ring of Renewal|R
 River Merfolk|R
 Sand Silos|R
 Ruins of Trokair|U
-Seasinger|U
 Soul Exchange|U
-Spore Cloud|C
+Seasinger|U
 Spirit Shield|R
+Spore Cloud|C
 Spore Flower|U
 Svyelunite Priest|U
 Thallid|C
 Svyelunite Temple|U
 Thallid Devourer|U
-Thelon's Chant|U
 Thelon's Curse|R
+Thelon's Chant|U
 Thelonite Druid|U
 Thelonite Monk|R
 Thorn Thallid|C
 Thrull Champion|R
 Thrull Retainer|U
 Thrull Wizard|U
-Tidal Flats|C
-Tidal Influence|U
 Tourach's Chant|U
+Tidal Influence|U
+Tidal Flats|C
 Tourach's Gate|R
 Vodalian Knights|R
 Vodalian Mage|C
+Vodalian Soldiers|C
+Vodalian War Machine|R
+Zelyon Sword|R

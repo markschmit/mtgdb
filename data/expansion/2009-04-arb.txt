@@ -1,16 +1,42 @@
 Breath of Malfegor|C
-Anathemancer|U
 Architects of Will|C
-Aven Mimeomancer|R
 Arsenal Thresher|C
+Aven Mimeomancer|R
+Anathemancer|U
 Ardent Plea|U
-Behemoth Sledge|U
 Bant Sureblade|C
-Bituminous Blast|U
-Blitz Hellion|R
-Bloodbraid Elf|U
 Bant Sojourners|C
+Behemoth Sledge|U
+Bituminous Blast|U
+Bloodbraid Elf|U
+Blitz Hellion|R
 Captured Sunlight|C
+Morbid Bloom|U
+Mycoid Shepherd|R
+Naya Sojourners|C
+Necromancer's Covenant|R
+Nulltread Gargantuan|U
+Nemesis of Reason|R
+Pale Recluse|C
+Offering to Asha|C
+Putrid Leech|C
+Predatory Advantage|R
+Qasali Pridemage|C
+Retaliator Griffin|R
+Rhox Brute|C
+Reborn Hope|U
+Sages of the Anima|R
+Sanctum Plowbeast|C
+Sanity Gnawers|U
+Sangrite Backlash|C
+Sewn-Eye Drake|C
+Sen Triplets|M
+Shield of the Righteous|U
+Sigil of the Nayan Gods|C
+Sigil Captain|U
+Sigiled Behemoth|C
+Singe-Mind Ogre|C
+Skyclaw Thrash|U
 Sphinx of the Steel Wind|M
 Soul Manipulation|C
 Slave of Bolas|U
@@ -20,13 +46,13 @@ Soulquake|R
 Spellbreaker Behemoth|R
 Stormcaller's Boon|C
 Stun Sniper|U
-Tainted Sigil|U
 Talon Trooper|C
+Tainted Sigil|U
+Thraximundar|M
 Thought Hemorrhage|R
 Terminate|C
 Thopter Foundry|U
 Time Sieve|R
-Thraximundar|M
 Trace of Abundance|C
 Unbender Tine|U
 Uril, the Miststalker|M
@@ -34,8 +60,8 @@ Unscythe, Killer of Kings|R
 Valley Rannet|C
 Vectis Dominator|C
 Vedalken Ghoul|C
-Vengeful Rebirth|U
 Vedalken Heretic|R
+Vengeful Rebirth|U
 Veinfire Borderpost|C
 Violent Outburst|C
 Vithian Renegades|U
@@ -44,94 +70,44 @@ Winged Coatl|C
 Wildfield Borderpost|C
 Wargate|R
 Zealous Persecution|U
+Brainbite|C
+Cerodon Yearling|C
+Colossal Might|C
+Cloven Casting|R
+Dauntless Escort|R
+Crystallization|C
+Deadshot Minotaur|C
+Deathbringer Thoctar|R
+Demonic Dread|C
+Defiler of Souls|M
+Demonspine Whip|U
+Double Negative|U
+Deny Reality|C
+Dragon Broodmother|M
 Drastic Revelation|U
 Dragon Appeasement|U
-Enigma Sphinx|R
 Enlisted Wurm|U
+Enigma Sphinx|R
 Esper Sojourners|C
 Ethercaste Knight|C
 Esper Stormblade|C
 Etherium Abomination|C
-Filigree Angel|R
-Fieldmist Borderpost|C
 Ethersworn Shieldmage|C
 Finest Hour|R
+Fieldmist Borderpost|C
 Etherwrought Page|U
 Fight to the Death|R
-Brainbite|C
-Cerodon Yearling|C
-Cloven Casting|R
-Dauntless Escort|R
-Colossal Might|C
-Deadshot Minotaur|C
-Crystallization|C
-Deathbringer Thoctar|R
-Defiler of Souls|M
-Demonspine Whip|U
-Demonic Dread|C
-Dragon Broodmother|M
-Deny Reality|C
-Double Negative|U
-Karrthus, Tyrant of Jund|M
-Kathari Bomber|C
-Kathari Remnant|U
-Knight of New Alara|R
+Filigree Angel|R
 Knotvine Paladin|R
-Lightning Reaver|R
-Lich Lord of Unx|R
-Lavalanche|R
 Leonin Armorguard|C
-Lord of Extinction|M
-Lorescale Coatl|U
-Madrush Cyclops|R
-Maelstrom Pulse|R
-Maelstrom Nexus|M
-Mage Slayer|U
-Magefire Wings|C
-Marrow Chomper|U
-Marisi's Twinclaws|U
-Mask of Riddles|U
-Mayael's Aria|R
-Meddling Mage|R
-Messenger Falcons|U
-Mistvein Borderpost|C
-Mind Funeral|U
-Monstrous Carabid|C
-Predatory Advantage|R
-Putrid Leech|C
-Qasali Pridemage|C
-Retaliator Griffin|R
-Rhox Brute|C
-Reborn Hope|U
-Sages of the Anima|R
-Sanctum Plowbeast|C
-Sangrite Backlash|C
-Sanity Gnawers|U
-Sen Triplets|M
-Shield of the Righteous|U
-Sewn-Eye Drake|C
-Sigil of the Nayan Gods|C
-Sigil Captain|U
-Sigiled Behemoth|C
-Singe-Mind Ogre|C
-Skyclaw Thrash|U
-Morbid Bloom|U
-Mycoid Shepherd|R
-Naya Hushblade|C
-Necromancer's Covenant|R
-Naya Sojourners|C
-Nulltread Gargantuan|U
-Nemesis of Reason|R
-Offering to Asha|C
-Pale Recluse|C
-Firewild Borderpost|C
 Flurry of Wings|U
-Giant Ambush Beetle|U
 Glassdust Hulk|C
+Firewild Borderpost|C
+Giant Ambush Beetle|U
 Godtracker of Jund|C
 Glory of Warfare|R
-Gloryscale Viashino|U
 Grixis Sojourners|C
+Gloryscale Viashino|U
 Gorger Wurm|C
 Grixis Grimblade|C
 Grizzled Leotau|C
@@ -143,3 +119,27 @@ Intimidation Bolt|U
 Jhessian Zombies|C
 Jund Hackblade|C
 Jund Sojourners|C
+Kathari Bomber|C
+Karrthus, Tyrant of Jund|M
+Kathari Remnant|U
+Knight of New Alara|R
+Lightning Reaver|R
+Lich Lord of Unx|R
+Lavalanche|R
+Lord of Extinction|M
+Lorescale Coatl|U
+Maelstrom Nexus|M
+Madrush Cyclops|R
+Maelstrom Pulse|R
+Mage Slayer|U
+Magefire Wings|C
+Marrow Chomper|U
+Marisi's Twinclaws|U
+Mask of Riddles|U
+Meddling Mage|R
+Mayael's Aria|R
+Mind Funeral|U
+Messenger Falcons|U
+Mistvein Borderpost|C
+Monstrous Carabid|C
+Naya Hushblade|C

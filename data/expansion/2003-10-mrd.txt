@@ -1,9 +1,9 @@
-Electrostatic Bolt|C
+Dragon Blood|U
 Alpha Myr|C
 Aether Spellbomb|C
+Altar's Light|U
 Altar of Shadows|R
 Ancient Den|C
-Altar's Light|U
 Arc-Slogger|R
 Atog|U
 Annul|C
@@ -14,13 +14,13 @@ Auriok Steelshaper|R
 Auriok Transfixer|C
 Banshee's Blade|U
 Awe Strike|C
+Battlegrowth|C
 Barter in Blood|U
 Betrayal of Flesh|U
-Battlegrowth|C
 Blinding Beam|C
 Blinkmoth Urn|R
-Bloodscent|U
 Blinkmoth Well|U
+Bloodscent|U
 Bonesplitter|C
 Bosh, Iron Golem|R
 Bottle Gnomes|U
@@ -37,37 +37,37 @@ Clockwork Dragon|R
 Clockwork Vorrac|U
 Cobalt Golem|C
 Cloudpost|C
+Consume Spirit|C
 Confusion in the Ranks|R
 Contaminated Bond|C
-Consume Spirit|C
 Copperhoof Vorrac|R
 Copper Myr|C
-Creeping Mold|U
 Crystal Shard|U
+Creeping Mold|U
 Culling Scales|R
-Dead-Iron Sledge|U
 Damping Matrix|R
+Dead-Iron Sledge|U
 Disarm|C
 Detonate|U
 Deconstruct|C
 Disciple of the Vault|C
-Domineer|U
-Dragon Blood|U
 Dream's Grip|C
+Domineer|U
 Dross Harvester|R
 Dross Prowler|C
 Dross Scorpion|C
 Duskworker|U
 Duplicant|R
 Elf Replica|C
+Electrostatic Bolt|C
 Empyrial Plate|R
 Fabricate|U
 Extraplanar Lens|R
 Fangren Hunter|C
 Fatespinner|R
 Farsight Mask|U
-Fiery Gambit|R
 Fireshrieker|U
+Fiery Gambit|R
 Flayed Nim|U
 Fists of the Anvil|C
 Forest|L
@@ -76,8 +76,8 @@ Gate to the Aether|R
 Forge Armor|U
 Frogmite|C
 Galvanic Key|C
-Glimmervoid|R
 Gilded Lotus|R
+Glimmervoid|R
 Goblin Dirigible|U
 Glissa Sunseeker|R
 Goblin Charbelcher|R
@@ -86,29 +86,29 @@ Goblin Striker|C
 Goblin War Wagon|C
 Golem-Skin Gauntlets|U
 Gold Myr|C
-Grab the Reins|U
 Granite Shard|U
+Grab the Reins|U
 Great Furnace|C
 Grid Monitor|R
-Grim Reminder|R
 Groffskithur|C
-Heartwood Shard|U
+Grim Reminder|R
 Hematite Golem|C
+Heartwood Shard|U
+Icy Manipulator|U
 Hum of the Radix|R
 Incite War|C
-Icy Manipulator|U
 Inertia Bubble|C
 Island|L
 Iron Myr|C
+Jinxed Choker|R
 Irradiate|C
 Isochron Scepter|U
 Journey of Discovery|C
-Jinxed Choker|R
 Krark's Thumb|R
 Krark-Clan Grunt|C
 Krark-Clan Shaman|C
-Leaden Myr|C
 Leonin Abunas|R
+Leaden Myr|C
 Leonin Den-Guard|C
 Leonin Bladetrap|U
 Leonin Elder|C
@@ -118,10 +118,10 @@ Leveler|R
 Leonin Sun Standard|R
 Lifespark Spellbomb|C
 Liar's Pendulum|R
-Lightning Greaves|U
 Lightning Coils|R
-Living Hive|R
+Lightning Greaves|U
 Lodestone Myr|R
+Living Hive|R
 Looming Hoverguard|U
 Loxodon Mender|C
 Loxodon Peacekeeper|R
@@ -130,16 +130,16 @@ Loxodon Warhammer|U
 Lumengrid Augur|R
 Lumengrid Sentinel|U
 Lumengrid Warden|C
-Luminous Angel|R
 Malachite Golem|C
-March of the Machines|R
+Luminous Angel|R
 Mask of Memory|U
+March of the Machines|R
 Megatog|R
 Mass Hysteria|R
 Mind's Eye|R
 Mesmeric Orb|R
-Mindslaver|R
 Mindstorm Crown|U
+Mindslaver|R
 Mirror Golem|U
 Moriok Scavenger|C
 Molder Slug|R
@@ -148,8 +148,8 @@ Molten Rain|C
 Mountain|L
 Mourner's Shield|U
 Myr Enforcer|C
-Myr Incubator|R
 Myr Mindservant|U
+Myr Incubator|R
 Myr Prototype|U
 Myr Retriever|U
 Necrogen Spellbomb|C
@@ -157,15 +157,15 @@ Necrogen Mists|R
 Needlebug|U
 Neurok Familiar|C
 Neurok Hoversail|C
-Neurok Spy|C
 Nightmare Lash|R
+Neurok Spy|C
 Nim Devourer|R
 Nim Replica|C
 Nim Lasher|C
 Nim Shambler|U
 Nim Shrieker|C
-Nuisance Engine|U
 Oblivion Stone|R
+Nuisance Engine|U
 Ogre Leadfoot|C
 Ornithopter|U
 Omega Myr|C
@@ -174,9 +174,9 @@ Pearl Shard|U
 Pentavus|R
 Override|C
 Pewter Golem|C
+Platinum Angel|R
 Plains|L
 Plated Slagwurm|R
-Platinum Angel|R
 Predator's Strike|C
 Power Conduit|U
 Proteus Staff|R
@@ -185,12 +185,12 @@ Psychic Membrane|U
 Pyrite Spellbomb|C
 Psychogenic Probe|R
 Quicksilver Elemental|R
-Quicksilver Fountain|R
 Raise the Alarm|C
-Regress|C
+Quicksilver Fountain|R
 Razor Barrier|C
-Relic Bane|U
+Regress|C
 Reiver Demon|R
+Relic Bane|U
 Rule of Law|R
 Roar of the Kha|U
 Rust Elemental|U
@@ -198,18 +198,18 @@ Rustmouth Ogre|U
 Rustspore Ram|U
 Scrabbling Claws|U
 Scale of Chiss-Goria|C
-Scythe of the Wretched|R
 Sculpting Steel|R
+Scythe of the Wretched|R
 Seat of the Synod|C
+Seething Song|C
 Second Sunrise|R
 Serum Tank|U
-Seething Song|C
 Shatter|C
 Shared Fate|R
-Silver Myr|C
 Shrapnel Blast|U
-Skeleton Shard|U
+Silver Myr|C
 Skyhunter Cub|C
+Skeleton Shard|U
 Skyhunter Patrol|C
 Slagwurm Armor|C
 Slith Ascendant|U
@@ -226,16 +226,16 @@ Soul Foundry|R
 Sphere of Purity|C
 Spellweaver Helix|R
 Spikeshot Goblin|C
+Stalking Stones|U
 Spoils of the Vault|R
 Steel Wall|C
-Stalking Stones|U
 Sunbeam Spellbomb|C
 Swamp|L
 Sun Droplet|U
 Sword of Kaldra|R
+Synod Sanctum|U
 Sylvan Scrying|U
 Taj-Nar Swordsmith|U
-Synod Sanctum|U
 Talisman of Impulse|U
 Talisman of Dominance|U
 Talisman of Indulgence|U
@@ -250,27 +250,27 @@ Tempest of Light|U
 Tel-Jilad Stylus|U
 Temporal Cascade|R
 Terror|C
+Thought Prison|U
 Thirst for Knowledge|U
 Thoughtcast|C
-Thought Prison|U
-Timesifter|R
 Titanium Golem|C
+Timesifter|R
 Tooth of Chiss-Goria|C
 Tooth and Nail|R
 Tower of Champions|R
-Tower of Fortunes|R
 Tower of Eons|R
+Tower of Fortunes|R
 Tower of Murmurs|R
 Trash for Treasure|R
 Tree of Tales|C
-Triskelion|R
 Troll Ascetic|R
+Triskelion|R
 Trolls of Tel-Jilad|U
 Vault of Whispers|C
 Turn to Dust|C
 Vedalken Archmage|R
-Vermiculos|R
 Viridian Joiner|C
+Vermiculos|R
 Viridian Longbow|C
 Viridian Shaman|U
 Vorrac Battlehorns|C
@@ -278,8 +278,8 @@ Vulshok Battlegear|U
 Vulshok Battlemaster|R
 Vulshok Berserker|C
 Vulshok Gauntlets|C
-Wail of the Nim|C
 Wall of Blood|U
+Wail of the Nim|C
 Wanderguard Sentry|C
 War Elemental|R
 Wizard Replica|C

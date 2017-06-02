@@ -1,68 +1,68 @@
-Anax and Cymede|R
 Armory Guard|C
-Auramancer|C
+Anax and Cymede|R
 Battle Mastery|U
+Auramancer|C
 Blood Ogre|C
 Beast Within|U
 Bonds of Faith|C
 Boros Guildgate|C
 Cavalry Pegasus|C
-Conquering Manticore|R
-Condemn|U
 Crater Hellion|R
+Condemn|U
+Conquering Manticore|R
 Crowned Ceratok|U
 Daily Regimen|U
 Dawnstrike Paladin|C
 Deadly Recluse|C
 Deus of Calamity|R
-Fencing Ace|U
 Destructive Revelry|U
+Fencing Ace|U
 Dragon Blood|U
-Figure of Destiny|R
 Fires of Yavimaya|U
+Figure of Destiny|R
 Forest|L
 Freewind Equenaut|C
 Ghor-Clan Savage|C
 Gorehorn Minotaurs|C
 Griffin Guide|U
 Gustcloak Sentinel|U
-Kamahl, Pit Fighter|R
 Kavu Predator|U
+Kamahl, Pit Fighter|R
 Krosan Tusker|C
 Kazandu Refuge|U
 Magma Jet|U
 Llanowar Reborn|U
 Moment of Heroism|C
 Miraculous Recovery|U
-Mountain|L
 Nobilis of War|R
-Pyrokinesis|U
-New Benalia|U
+Mountain|L
 Orcish Lumberjack|C
-Polukranos, World Eater|M
+New Benalia|U
 Ordeal of Purphoros|U
+Polukranos, World Eater|M
 Plains|L
 Pay No Heed|C
+Pyrokinesis|U
 Prey Upon|C
-Pyroclasm|U
 Regrowth|U
-Skarrg, the Rage Pits|U
 Righteousness|U
+Pyroclasm|U
 Satyr Hedonist|C
+Skarrg, the Rage Pits|U
 Shower of Sparks|C
-Skarrgan Skybreaker|U
 Skarrgan Firebird|R
-Smite the Monstrous|C
+Skarrgan Skybreaker|U
 Somberwald Vigilante|C
+Thraben Valiant|C
+Smite the Monstrous|C
 Stun Sniper|U
 Stand Firm|C
-Sun Titan|M
 Terrifying Presence|C
-Thraben Valiant|C
+Sun Titan|M
 Troll Ascetic|R
 Truefire Paladin|U
 Undying Rage|U
 Valley Rannet|C
+Zhur-Taa Druid|C
 Winds of Rath|R
 Volt Charge|C
-Zhur-Taa Druid|C

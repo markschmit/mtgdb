@@ -1,0 +1,272 @@
+Bloodrage Brawler|U
+Ahn-Crop Crasher|U
+Ancient Crab|C
+Angel of Sanctions|M
+Angler Drake|U
+Anointer Priest|C
+Anointed Procession|R
+Archfiend of Ifnir|R
+Approach of the Second Sun|R
+Aven Initiate|C
+As Foretold|M
+Aven Mindcensor|R
+Aven Wind Guide|U
+Baleful Ammit|U
+Battlefield Scavenger|U
+Binding Mummy|C
+Benefaction of Rhonas|C
+Bitterblade Warrior|C
+Blighted Bat|C
+Blazing Volley|C
+Bloodlust Inciter|C
+Bontu the Glorified|M
+Bone Picker|U
+Bontu's Monument|U
+Brute Strength|C
+Bounty of the Luxa|R
+By Force|U
+Canyon Slough|R
+Cancel|C
+Cartouche of Ambition|C
+Cartouche of Knowledge|C
+In Oketra's Name|C
+Horror of the Broken Lands|C
+Hyena Pack|C
+Illusory Wrappings|C
+Hooded Brawler|C
+Impeccable Timing|C
+Honored Hydra|R
+Cartouche of Solidarity|C
+Cartouche of Strength|C
+Cartouche of Zeal|C
+Cast Out|U
+Cascading Cataracts|R
+Champion of Rhonas|R
+Censor|U
+Channeler Initiate|R
+Colossapede|C
+Cinder Barrens|C
+Combat Celebrant|M
+Companion of the Trials|U
+Compulsory Rest|C
+Compelling Argument|C
+Commit/Memory|R
+Consuming Fervor|U
+Crocodile of the Crossing|U
+Cruel Reality|M
+Cryptic Serpent|U
+Cradle of the Accursed|C
+Giant Spider|C
+Gideon of the Trials|M
+Gate to the Afterlife|U
+Gideon's Resolve|R
+Gideon's Intervention|R
+Gideon, Martial Paragon|M
+Gift of Paradise|C
+Glory-Bound Initiate|R
+Glorybringer|R
+Glorious End|M
+Glyph Keeper|R
+Gravedigger|U
+Grasping Dunes|U
+Graceful Cat|C
+Greater Sandwurm|C
+Hapatra, Vizier of Poisons|R
+Gust Walker|C
+Grim Strider|U
+Hapatra's Mark|U
+Harsh Mentor|R
+Haze of Pollen|C
+Harvest Season|R
+Hazoret the Fervent|M
+Hazoret's Monument|U
+Hazoret's Favor|R
+Heart-Piercer Manticore|R
+Hekma Sentinels|C
+Heaven/Earth|R
+Highland Lake|C
+Hieroglyphic Illumination|C
+Honed Khopesh|C
+Honored Crop-Captain|U
+Initiate's Companion|C
+Irrigated Farmland|R
+Insult/Injury|R
+Kefnet the Mindful|M
+Island|L
+Kefnet's Monument|U
+Khenra Charioteer|U
+Labyrinth Guardian|U
+Lay Claim|U
+Lay Bare the Heart|U
+Liliana's Mastery|R
+Liliana's Influence|R
+Liliana, Death Wielder|M
+Liliana, Death's Majesty|M
+Lord of the Accursed|U
+Limits of Solidarity|U
+Magma Spray|C
+Luxa River Shrine|C
+Merciless Javelineer|U
+Manglehorn|U
+Manticore of the Gauntlet|C
+Meandering River|C
+Miasmic Mummy|C
+Naga Oracle|C
+Minotaur Sureshot|C
+Curator of Mysteries|R
+Mighty Leap|C
+Ahn-Crop Champion|U
+Mountain|L
+Naga Vitalist|C
+Mouth/Feed|R
+Nef-Crop Entangler|C
+Neheb, the Worthy|R
+Never/Return|R
+Nest of Scarabs|U
+New Perspectives|R
+Nimble-Blade Khenra|C
+Nissa, Steward of Elements|M
+Oashra Cultivator|C
+Oketra the True|M
+Oketra's Attendant|U
+Oketra's Monument|U
+Open into Wonder|U
+Onward/Victory|U
+Oracle's Vault|R
+Ornery Kudu|C
+Painted Bluffs|C
+Painful Lesson|C
+Pathmaker Initiate|C
+Pitiless Vizier|C
+Plague Belcher|R
+Pouncing Cheetah|C
+Plains|L
+Protection of the Hekma|U
+Prepare/Fight|R
+Prowling Serpopard|R
+Pursue Glory|C
+Pull from Tomorrow|R
+Pyramid of the Pantheon|R
+Quarry Hauler|C
+Reduce/Rubble|U
+Regal Caracal|R
+Rags/Riches|R
+Rhet-Crop Spearmaster|C
+Renewed Faith|U
+Rhonas the Indomitable|M
+Rhonas's Monument|U
+River Serpent|C
+Ruthless Sniper|U
+Samut, Voice of Dissent|M
+Sacred Cat|C
+Sacred Excavation|U
+Scaled Behemoth|U
+Sandwurm Convergence|R
+Scattered Groves|R
+Scarab Feast|C
+Scribe of the Mindful|C
+Seeker of Insight|C
+Seraph of the Suns|U
+Shadowstorm Vizier|U
+Shadow of the Grave|R
+Shefet Monitor|U
+Shed Weakness|C
+Sheltered Thicket|R
+Shimmerscale Drake|C
+Slither Blade|C
+Sixth Sense|U
+Soul-Scar Mage|R
+Sparring Mummy|C
+Soulstinger|C
+Splendid Agony|C
+Spidery Grasp|C
+Stinging Shot|C
+Start/Finish|U
+Spring/Mind|U
+Stir the Sands|U
+Stone Quarry|C
+Submerged Boneyard|C
+Sunscorched Desert|C
+Supernatural Stamina|C
+Supply Caravan|C
+Synchronized Strike|U
+Swamp|L
+Sweltering Suns|R
+Tah-Crop Elite|C
+Tah-Crop Skirmisher|C
+Tattered Mummy|C
+Temmet, Vizier of Naktamun|R
+Those Who Serve|C
+Thresher Lizard|C
+Throne of the God-Pharaoh|R
+Time to Reflect|U
+Timber Gorge|C
+Tormenting Voice|C
+Tranquil Expanse|C
+Trespasser's Curse|C
+Trial of Knowledge|U
+Trial of Ambition|U
+Trial of Solidarity|U
+Trial of Strength|U
+Trial of Zeal|U
+Trueheart Duelist|U
+Trueheart Twins|U
+Vizier of Deferment|U
+Unwavering Initiate|C
+Unburden|C
+Violent Impact|C
+Vizier of Many Faces|R
+Vizier of Remedies|U
+Vizier of the Menagerie|M
+Vizier of Tumbling Sands|U
+Warfire Javelineer|U
+Wander in Death|C
+Wasteland Scorpion|C
+Watchers of the Dead|U
+Watchful Naga|U
+Wayward Servant|U
+Weaver of Currents|U
+Winged Shepherd|C
+Winds of Rebuke|C
+Zenith Seeker|U
+Woodland Stream|C
+Cursed Minotaur|C
+Decimator Beetle|U
+Deem Worthy|U
+Cut/Ribbons|R
+Decision Paralysis|C
+Desert Cerodon|C
+Desiccated Naga|U
+Defiant Greatmaw|U
+Devoted Crop-Mate|U
+Destined/Lead|U
+Djeru's Resolve|C
+Dissenter's Deliverance|C
+Dispossess|R
+Doomed Dissenter|C
+Dread Wanderer|R
+Drake Haven|R
+Edifice of Authority|U
+Dune Beetle|C
+Electrify|C
+Dusk/Dawn|R
+Emberhorn Minotaur|C
+Embalmer's Tools|U
+Enigma Drake|U
+Evolving Wilds|C
+Essence Scatter|C
+Exemplar of Strength|U
+Faith of the Devoted|U
+Failure/Comply|R
+Fan Bearer|C
+Festering Mummy|C
+Flameblade Adept|U
+Fetid Pools|R
+Final Reward|C
+Forest|L
+Floodwaters|C
+Fling|C
+Forsake the Worldly|C
+Forsaken Sanctuary|C
+Foul Orchard|C
+Galestrike|U

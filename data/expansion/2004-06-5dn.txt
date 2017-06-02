@@ -1,8 +1,10 @@
+Beacon of Creation|R
+Beacon of Immortality|R
 Acquire|R
 Abuna's Chant|C
+Anodet Lurker|C
 Advanced Hoverguard|C
 All Suns' Dawn|R
-Anodet Lurker|C
 Arcbound Wanderer|U
 Arachnoid|U
 Artificer's Intuition|R
@@ -14,10 +16,8 @@ Baton of Courage|C
 Avarice Totem|U
 Battered Golem|C
 Beacon of Destruction|R
-Beacon of Creation|R
-Beacon of Immortality|R
-Beacon of Unrest|R
 Beacon of Tomorrows|R
+Beacon of Unrest|R
 Blasting Station|U
 Blind Creeper|C
 Bringer of the Blue Dawn|R
@@ -27,29 +27,29 @@ Bringer of the Green Dawn|R
 Bringer of the Red Dawn|R
 Bringer of the White Dawn|R
 Cackling Imp|C
+Chimeric Coils|U
 Channel the Suns|U
 Circle of Protection: Artifacts|U
-Chimeric Coils|U
 Clearwater Goblet|R
-Composite Golem|U
 Clock of Omens|U
+Composite Golem|U
+Cosmic Larva|R
 Conjurer's Bauble|C
 Condescend|C
-Cosmic Larva|R
 Cranial Plating|C
 Dawn's Reflection|C
 Crucible of Worlds|R
 Desecration Elemental|R
-Devour in Shadow|U
 Disruption Aura|U
-Door to Nothingness|R
+Devour in Shadow|U
 Doubling Cube|R
+Door to Nothingness|R
 Dross Crocodile|C
-Ebon Drake|U
 Endless Whispers|R
+Ebon Drake|U
 Early Frost|C
-Engineered Explosives|R
 Energy Chamber|U
+Engineered Explosives|R
 Ensouled Scimitar|U
 Etched Oracle|U
 Eon Hub|R
@@ -59,24 +59,26 @@ Eyes of the Watcher|U
 Ferocious Charge|C
 Feedback Bolt|U
 Ferropede|U
-Fill with Fright|C
 Fist of Suns|R
+Fill with Fright|C
 Fleshgrafter|C
-Fold into Aether|U
 Furnace Whelp|U
-Gemstone Array|U
+Fold into Aether|U
 Goblin Brawler|C
-Goblin Cannon|U
+Gemstone Array|U
 Grafted Wargear|U
+Goblin Cannon|U
 Guardian Idol|U
 Grinding Station|U
-Granulate|R
 Healer's Headdress|C
+Granulate|R
 Helm of Kaldra|R
 Heliophial|C
 Hoverguard Sweepers|R
-Stasis Cocoon|C
+Horned Helm|C
+Staff of Domination|R
 Summoner's Egg|R
+Stasis Cocoon|C
 Steelshaper's Gift|U
 Summoning Station|R
 Suncrusher|R
@@ -87,48 +89,47 @@ Tel-Jilad Lifebreather|C
 Tangle Asp|C
 Tel-Jilad Justice|U
 Thermal Navigator|C
-Thought Courier|C
 Tornado Elemental|R
 Trinket Mage|C
 Vedalken Mastermind|U
+Thought Courier|C
 Tyrranax|C
 Vedalken Shackles|R
 Vanquish|U
 Vedalken Orrery|R
-Vulshok Sorcerer|C
 Vicious Betrayal|C
 Viridian Lorebearers|U
 Viridian Scout|C
+Vulshok Sorcerer|C
 Wayfarer's Bauble|C
-Horned Helm|C
+Into Thin Air|C
 Infused Arrows|U
 Ion Storm|R
-Into Thin Air|C
-Iron-Barb Hellion|U
 Joiner Adept|R
+Iron-Barb Hellion|U
 Krark-Clan Engineers|U
-Krark-Clan Ironworks|U
 Krark-Clan Ogre|C
-Lantern of Insight|U
+Krark-Clan Ironworks|U
 Leonin Squire|C
+Lantern of Insight|U
 Loxodon Stalwart|U
 Loxodon Anchorite|C
 Lose Hope|C
 Lunar Avenger|U
+Magnetic Theft|U
 Magma Giant|R
 Mana Geyser|C
 Magma Jet|U
-Magnetic Theft|U
-Mephidross Vampire|R
 Moriok Rigger|R
+Mephidross Vampire|R
 Mycosynth Golem|R
 Myr Quadropod|C
 Myr Servitor|C
 Neurok Stealthsuit|C
-Night's Whisper|U
 Nim Grotesque|U
-Ouphe Vandals|U
+Night's Whisper|U
 Opaline Bracers|C
+Ouphe Vandals|U
 Paradise Mantle|U
 Plasma Elemental|U
 Pentad Prism|C
@@ -142,24 +143,23 @@ Razormane Masticore|R
 Relentless Rats|U
 Retaliate|R
 Relic Barrier|U
+Rite of Passage|R
 Reversal of Fortune|R
 Roar of Reclamation|R
-Rite of Passage|R
-Salvaging Station|R
 Rude Awakening|R
+Salvaging Station|R
 Sawtooth Thresher|C
 Screaming Fury|C
-Shattered Dreams|U
 Serum Visions|C
+Shattered Dreams|U
 Silent Arbiter|R
 Skyhunter Skirmisher|U
 Skyhunter Prowler|C
 Skullcage|U
 Skyreach Manta|C
-Solarion|R
 Spark Elemental|C
+Solarion|R
 Sparring Collar|C
-Spectral Shift|R
 Spinal Parasite|U
+Spectral Shift|R
 Stand Firm|C
-Staff of Domination|R

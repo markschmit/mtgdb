@@ -1,28 +1,28 @@
-Coat of Arms|R
+Cancel|C
 Abyssal Specter|U
-Act of Treason|U
 Air Elemental|U
+Act of Treason|U
 Ascendant Evincar|R
 Cinder Pyromancer|C
 Blanchwood Armor|U
 Banefire|R
-Bloodmark Mentor|U
 Blaze|U
-Cancel|C
+Bloodmark Mentor|U
 Boomerang|C
 Civic Wayfinder|C
 Cloud Sprite|C
-Counterbore|R
 Consume Spirit|U
+Coat of Arms|R
+Counterbore|R
 Denizen of the Deep|R
 Crowd of Cinders|U
-Deluge|U
 Demon's Horn|U
-Dragon's Claw|U
+Deluge|U
 Drove of Elves|U
+Dragon's Claw|U
 Drudge Skeletons|C
-Dusk Imp|C
 Duskdale Wurm|U
+Dusk Imp|C
 Earth Elemental|U
 Elven Riders|U
 Elvish Champion|R
@@ -30,16 +30,16 @@ Elvish Eulogist|C
 Elvish Promenade|U
 Elvish Visionary|C
 Elvish Warrior|C
-Enrage|U
-Essence Drain|C
-Evacuation|R
 Essence Scatter|C
-Gaea's Herald|R
+Essence Drain|C
+Enrage|U
+Evacuation|R
 Eyeblight's Ending|C
 Forest|L
+Gaea's Herald|R
 Furnace of Rath|R
-Giant Growth|C
 Giant Spider|C
+Giant Growth|C
 Goblin Piker|C
 Goblin Sky Raider|C
 Greenweaver Druid|U
@@ -59,8 +59,8 @@ Mahamoti Djinn|R
 Mind Control|U
 Megrim|U
 Mind Spring|R
-Mind Rot|C
 Mind Shatter|R
+Mind Rot|C
 Molimo, Maro-Sorcerer|R
 Moonglove Winnower|C
 Mountain|L
@@ -72,8 +72,8 @@ Nature's Spiral|U
 Phantom Warrior|U
 Prodigal Pyromancer|U
 Overrun|U
-Rage Reflection|R
 Rampant Growth|C
+Rage Reflection|R
 Ravenous Rats|C
 Roughshod Mentor|U
 River Boa|U
@@ -86,16 +86,16 @@ Shock|C
 Swamp|L
 Spined Wurm|C
 Talara's Battalion|R
+Thieving Magpie|U
 The Rack|U
 Terror|C
-Thieving Magpie|U
 Trained Armodon|C
 Troll Ascetic|R
-Underworld Dreams|R
 Unholy Strength|C
+Underworld Dreams|R
+Verdant Force|R
 Vigor|R
 Unsummon|C
-Verdant Force|R
 Wall of Spears|C
 Wall of Wood|C
 Wurm's Tooth|U

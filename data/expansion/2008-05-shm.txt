@@ -1,230 +1,74 @@
-Advice from the Fae|U
-Aphotic Wisps|C
 Apothecary Initiate|C
-Ashenmoor Gouger|U
+Aphotic Wisps|C
+Advice from the Fae|U
 Aethertow|C
-Armored Ascension|U
 Ashenmoor Cohort|C
+Ashenmoor Gouger|U
+Armored Ascension|U
 Ashenmoor Liege|R
-Ballynock Cohort|C
 Augury Adept|R
+Ballynock Cohort|C
+Barrenton Medic|C
 Barrenton Cragtreads|C
 Barkshell Blessing|C
-Barrenton Medic|C
 Beseech the Queen|U
-Blazethorn Scarecrow|C
 Biting Tether|U
+Blazethorn Scarecrow|C
 Blistering Dieflyn|C
-Blight Sickle|C
 Bloodmark Mentor|U
+Blight Sickle|C
 Bloodshed Fever|C
-Blowfly Infestation|U
 Boartusk Liege|R
-Boggart Arsonists|C
-Boon Reflection|R
-Boggart Ram-Gang|U
+Blowfly Infestation|U
 Briarberry Cohort|C
+Boggart Ram-Gang|U
+Boggart Arsonists|C
+Cerulean Wisps|C
+Boon Reflection|R
 Cauldron of Souls|R
 Burn Trail|C
 Cemetery Puca|R
-Cerulean Wisps|C
-Cinderhaze Wretch|C
 Chainbreaker|C
-Counterbore|R
-Cinderbones|C
 Corrosive Mentor|U
+Cinderhaze Wretch|C
+Cinderbones|C
 Consign to Dream|C
 Crabapple Cohort|C
+Counterbore|R
 Corrupt|U
 Cragganwick Cremator|R
 Crowd of Cinders|U
 Crimson Wisps|C
-Cultbrand Cinder|C
 Curse of Chains|C
-Dawnglow Infusion|U
 Cursecatcher|U
+Cultbrand Cinder|C
 Deepchannel Mentor|U
 Deep-Slumber Titan|R
+Dawnglow Infusion|U
 Demigod of Revenge|R
 Deus of Calamity|R
 Devoted Druid|C
+Disturbing Plot|C
 Din of the Fireherd|R
 Dire Undercurrents|R
-Disturbing Plot|C
 Dramatic Entrance|R
-Dream Salvage|U
 Drove of Elves|U
+Dream Salvage|U
 Drowner Initiate|C
-Elemental Mastery|R
 Dusk Urchins|R
-Elvish Hexhunter|C
-Ember Gale|C
-Elsewhere Flask|C
-Enchanted Evening|R
-Emberstrike Duo|C
-Everlasting Torment|R
-Faerie Macabre|C
-Faerie Swarm|U
-Farhaven Elf|C
-Flourishing Defenses|U
-Fire-Lit Thicket|R
-Flame Javelin|U
-Fate Transfer|C
-Fists of the Demigod|C
-Firespout|U
-Forest|L
-Flow of Ideas|U
-Foxfire Oak|C
-Fracturing Gust|R
-Fossil Find|U
-Fulminator Mage|R
-Ghastlord of Fugue|R
-Furystoke Giant|R
-Ghastly Discovery|C
-Gleeful Sabotage|C
-Giantbaiting|C
-Glen Elendra Liege|R
-Glamer Spinners|U
-Gloomwidow's Feast|C
-Gloomwidow|U
-Gloomlance|C
-Godhead of Awe|R
-Gnarled Effigy|U
-Gravelgill Axeshark|C
-Goldenglow Moth|C
-Greater Auramancy|R
-Gravelgill Duo|C
-Grim Poppet|R
-Graven Cairns|R
-Hollowborn Barghest|R
-Grief Tyrant|U
-Guttural Response|U
-Heap Doll|U
-Heartmender|R
-Helm of the Ghastlord|C
-Horde of Boggarts|U
-Hollowsage|U
-Howl of the Night Pack|U
-Incremental Blight|U
-Hungry Spriggan|C
-Illuminated Folio|U
-Inkfathom Infiltrator|U
-Impromptu Raid|R
-Intimidator Initiate|C
-Inescapable Brute|C
-Inquisitor's Snare|C
-Inkfathom Witch|U
-Island|L
-Isleback Spawn|R
-Juvenile Gloomwidow|C
-Kinscaer Harpoonist|C
-Jaws of Stone|U
-Kitchen Finks|U
-Kithkin Rabble|U
-Kithkin Shielddare|C
-Knacksaw Clique|R
-Knollspine Dragon|R
-Last Breath|C
-Lockjaw Snapper|U
-Lurebound Scarecrow|U
-Madblind Mountain|U
-Mana Reflection|R
-Manaforge Cinder|C
-Knollspine Invocation|R
-Kulrath Knight|U
-Leech Bonder|U
-Loamdragger Giant|C
-Leechridden Swamp|U
-Loch Korrigan|C
-Mass Calcify|R
-Manamorphose|C
-Medicine Runner|C
-Memory Plunder|R
-Merrow Grimeblotter|U
-Memory Sluice|C
-Merrow Wavebreakers|C
-Mercy Killing|U
-Midnight Banshee|R
-Mistmeadow Skulk|U
-Mine Excavation|C
-Mistmeadow Witch|U
-Mirrorweave|R
-Mistveil Plains|U
-Mossbridge Troll|R
-Moonring Island|U
-Morselhoarder|C
-Mudbrawler Cohort|C
-Mountain|L
-Murderous Redcap|U
-Mudbrawler Raiders|C
-Mystic Gate|R
-Oona's Gatewarden|C
-Nurturer Initiate|C
-Old Ghastbark|C
-Niveous Wisps|C
-Oona, Queen of the Fae|R
-Oversoul of Dusk|R
-Order of Whiteclay|R
-Oracle of Nectars|R
-Painter's Servant|R
-Pale Wayfarer|U
-Parapet Watchers|C
-Plains|L
-Pili-Pala|C
-Plague of Vermin|R
-Polluted Bonds|R
-Plumeveil|U
-Poison the Well|C
-Power of Fire|C
-Presence of Gond|C
-Prismwake Merrow|C
-Prismatic Omen|R
-Prison Term|U
-Puca's Mischief|R
-Puppeteer Clique|R
-Puncture Bolt|C
-Put Away|C
-Puresight Merrow|U
-Pyre Charger|U
-Rattleblaze Scarecrow|C
-Rage Reflection|R
-Raking Canopy|U
-Raven's Run Dragoon|C
-Reaper King|R
-Reflecting Pool|R
-Resplendent Mentor|U
-Rite of Consumption|C
-Reknit|U
-Revelsong Horn|U
-Repel Intruders|U
-Rhys the Redeemed|R
-River Kelpie|R
-Rosheen Meanderer|R
-Roughshod Mentor|U
-River's Grasp|U
+Safewright Quest|C
 Savor the Moment|R
-Scuzzback Marauders|C
-Scrapbasket|C
 Scarscale Ritual|C
 Scuzzback Scrapper|C
+Scrapbasket|C
 Scar|C
 Scuttlemutt|C
+Scuzzback Marauders|C
 Seedcradle Witch|U
 Shield of the Oversoul|C
 Sickle Ripper|C
-Silkbind Faerie|C
 Sinking Feeling|C
-Rune-Cervin Rider|C
-Runes of the Deus|C
-Rustrazor Butcher|C
-Runed Halo|R
-Safehold Duo|C
-Safehold Elite|C
-Safehold Sentry|C
-Sapseep Forest|U
-Safewright Quest|C
-Traitor's Roar|C
-Tyrannize|R
+Silkbind Faerie|C
 Slinking Giant|U
 Smolder Initiate|C
 Smash to Smithereens|C
@@ -233,8 +77,8 @@ Sootstoke Kindler|C
 Somnomancer|C
 Spectral Procession|U
 Spawnwrithe|R
-Spiteful Visions|R
 Spell Syphon|C
+Spiteful Visions|R
 Spiteflame Witch|U
 Steel of the Godhead|C
 Splitting Headache|C
@@ -247,40 +91,196 @@ Tatterkite|U
 Tattermunge Maniac|U
 Tattermunge Duo|C
 Tattermunge Witch|U
-Thistledown Liege|R
 Thistledown Duo|C
+Thistledown Liege|R
 Thornwatch Scarecrow|C
+Toil to Renown|C
 Thoughtweft Gambit|U
 Thought Reflection|R
-Toil to Renown|C
 Torrent of Souls|U
-Twilight Shepherd|R
+Turn to Mist|C
 Torpor Dust|C
 Torture|C
 Trip Noose|U
 Tower Above|U
-Turn to Mist|C
+Traitor's Roar|C
+Tyrannize|R
+Twilight Shepherd|R
 Viridescent Wisps|C
 Umbral Mantle|U
-Whimwader|C
+Vexing Shusher|R
 Valleymaker|R
 Wasp Lancer|U
-Vexing Shusher|R
 Wanderbrine Rootcutters|C
 Watchwing Scarecrow|C
-Wild Swing|U
+Whimwader|C
 Wheel of Sun and Moon|R
-Wilt-Leaf Cavaliers|U
 Wicker Warcrawler|U
-Wilt-Leaf Liege|R
+Wilt-Leaf Cavaliers|U
+Wild Swing|U
 Wildslayer Elves|C
-Wingrattle Scarecrow|C
+Wilt-Leaf Liege|R
 Windbrisk Raptor|R
-Worldpurge|R
+Wingrattle Scarecrow|C
 Witherscale Wurm|R
+Worldpurge|R
 Woeleecher|C
 Wooded Bastion|R
-Wort, the Raidmother|R
 Woodfall Primus|R
+Wort, the Raidmother|R
 Wound Reflection|R
 Zealous Guardian|C
+Elemental Mastery|R
+Ember Gale|C
+Elvish Hexhunter|C
+Emberstrike Duo|C
+Enchanted Evening|R
+Faerie Macabre|C
+Everlasting Torment|R
+Elsewhere Flask|C
+Faerie Swarm|U
+Fire-Lit Thicket|R
+Fate Transfer|C
+Fists of the Demigod|C
+Flame Javelin|U
+Firespout|U
+Farhaven Elf|C
+Flourishing Defenses|U
+Flow of Ideas|U
+Forest|L
+Fracturing Gust|R
+Foxfire Oak|C
+Fossil Find|U
+Furystoke Giant|R
+Fulminator Mage|R
+Ghastlord of Fugue|R
+Glamer Spinners|U
+Ghastly Discovery|C
+Gleeful Sabotage|C
+Giantbaiting|C
+Glen Elendra Liege|R
+Gloomwidow's Feast|C
+Gloomwidow|U
+Gloomlance|C
+Gnarled Effigy|U
+Godhead of Awe|R
+Goldenglow Moth|C
+Gravelgill Duo|C
+Gravelgill Axeshark|C
+Graven Cairns|R
+Greater Auramancy|R
+Grim Poppet|R
+Grief Tyrant|U
+Hollowborn Barghest|R
+Heap Doll|U
+Guttural Response|U
+Helm of the Ghastlord|C
+Heartmender|R
+Horde of Boggarts|U
+Hollowsage|U
+Hungry Spriggan|C
+Howl of the Night Pack|U
+Incremental Blight|U
+Illuminated Folio|U
+Inkfathom Witch|U
+Impromptu Raid|R
+Inescapable Brute|C
+Inkfathom Infiltrator|U
+Inquisitor's Snare|C
+Intimidator Initiate|C
+Isleback Spawn|R
+Island|L
+Juvenile Gloomwidow|C
+Jaws of Stone|U
+Kinscaer Harpoonist|C
+Kithkin Rabble|U
+Kitchen Finks|U
+Kithkin Shielddare|C
+Knacksaw Clique|R
+Knollspine Dragon|R
+Last Breath|C
+Knollspine Invocation|R
+Kulrath Knight|U
+Leech Bonder|U
+Loamdragger Giant|C
+Leechridden Swamp|U
+Loch Korrigan|C
+Lurebound Scarecrow|U
+Manamorphose|C
+Madblind Mountain|U
+Mana Reflection|R
+Mass Calcify|R
+Manaforge Cinder|C
+Memory Plunder|R
+Medicine Runner|C
+Mercy Killing|U
+Merrow Grimeblotter|U
+Merrow Wavebreakers|C
+Memory Sluice|C
+Lockjaw Snapper|U
+Mine Excavation|C
+Midnight Banshee|R
+Mistmeadow Skulk|U
+Mistmeadow Witch|U
+Mistveil Plains|U
+Mirrorweave|R
+Moonring Island|U
+Mossbridge Troll|R
+Morselhoarder|C
+Mountain|L
+Mudbrawler Cohort|C
+Murderous Redcap|U
+Mudbrawler Raiders|C
+Mystic Gate|R
+Nurturer Initiate|C
+Niveous Wisps|C
+Old Ghastbark|C
+Oona's Gatewarden|C
+Order of Whiteclay|R
+Oversoul of Dusk|R
+Oracle of Nectars|R
+Painter's Servant|R
+Oona, Queen of the Fae|R
+Pale Wayfarer|U
+Parapet Watchers|C
+Plains|L
+Pili-Pala|C
+Plague of Vermin|R
+Plumeveil|U
+Polluted Bonds|R
+Poison the Well|C
+Power of Fire|C
+Presence of Gond|C
+Prismwake Merrow|C
+Prismatic Omen|R
+Puncture Bolt|C
+Prison Term|U
+Put Away|C
+Puresight Merrow|U
+Raking Canopy|U
+Rage Reflection|R
+Rattleblaze Scarecrow|C
+Pyre Charger|U
+Reaper King|R
+Raven's Run Dragoon|C
+Repel Intruders|U
+Reflecting Pool|R
+Puca's Mischief|R
+Rite of Consumption|C
+Puppeteer Clique|R
+Resplendent Mentor|U
+Reknit|U
+Revelsong Horn|U
+Rhys the Redeemed|R
+River Kelpie|R
+Roughshod Mentor|U
+Rosheen Meanderer|R
+River's Grasp|U
+Rune-Cervin Rider|C
+Runes of the Deus|C
+Rustrazor Butcher|C
+Runed Halo|R
+Safehold Elite|C
+Safehold Duo|C
+Safehold Sentry|C
+Sapseep Forest|U

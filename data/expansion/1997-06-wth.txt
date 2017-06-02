@@ -1,50 +1,50 @@
-Abduction|U
-Abyssal Gatekeeper|C
-Abeyance|R
-Aboroth|R
-Agonizing Memories|U
-Alabaster Dragon|R
-Aether Flash|U
-Abjure|C
-Ancestral Knowledge|R
-Angelic Renewal|C
 Alms|C
 Arctic Wolves|U
+Abyssal Gatekeeper|C
+Aether Flash|U
+Agonizing Memories|U
+Alabaster Dragon|R
+Angelic Renewal|C
+Ancestral Knowledge|R
 Apathy|C
-Argivian Restoration|U
+Abjure|C
+Aboroth|R
+Abeyance|R
+Abduction|U
 Ardent Militia|C
-Aura of Silence|U
+Argivian Restoration|U
 Argivian Find|U
+Aura of Silence|U
 Avizoa|R
-Benalish Infantry|C
 Barishi|U
+Benalish Infantry|C
 Barrow Ghoul|C
-Benalish Missionary|C
 Benalish Knight|C
-Betrothed of Fire|C
+Benalish Missionary|C
 Bloodrock Cyclops|C
-Boiling Blood|C
-Blossoming Wreath|C
+Betrothed of Fire|C
 Bogardan Firefiend|C
 Bone Dancer|R
-Bösium Strip|R
+Boiling Blood|C
+Blossoming Wreath|C
 Briar Shield|C
-Call of the Wild|R
-Bubble Matrix|R
+Bosium Strip|R
 Buried Alive|U
+Bubble Matrix|R
+Call of the Wild|R
 Chimeric Sphere|U
 Choking Vines|C
-Circling Vultures|U
 Cinder Giant|U
-Coils of the Medusa|C
+Circling Vultures|U
 Cinder Wall|C
+Coils of the Medusa|C
 Cloud Djinn|U
-Cone of Flame|U
-Desperate Gambit|U
 Debt of Loyalty|R
+Cone of Flame|U
 Dense Foliage|R
-Disrupt|C
+Desperate Gambit|U
 Dingus Staff|U
+Disrupt|C
 Downdraft|U
 Doomsday|R
 Duskrider Falcon|C
@@ -54,12 +54,12 @@ Empyrial Armor|C
 Fatal Blow|C
 Ertai's Familiar|R
 Fallow Wurm|U
-Familiar Ground|U
+Festering Evil|U
 Fervor|R
+Familiar Ground|U
+Fledgling Djinn|C
 Fire Whip|C
 Fit of Rage|C
-Festering Evil|U
-Fledgling Djinn|C
 Firestorm|R
 Fog Elemental|C
 Flux|C
@@ -69,21 +69,21 @@ Gallowbraid|R
 Gaea's Blessing|U
 Gerrard's Wisdom|U
 Gemstone Mine|U
-Goblin Grenadiers|U
 Goblin Bomb|R
+Goblin Grenadiers|U
 Goblin Vandal|C
+Harvest Wurm|C
 Guided Strike|C
 Heart of Bogardan|R
-Harvest Wurm|C
 Haunting Misery|C
-Heat Stroke|R
 Heavy Ballista|C
 Hidden Horror|U
+Heat Stroke|R
 Hurloon Shaman|U
-Infernal Tribute|R
 Inner Sanctum|R
-Jangling Automaton|C
+Infernal Tribute|R
 Jabari's Banner|U
+Jangling Automaton|C
 Kithkin Armor|C
 Liege of the Hollows|R
 Lava Hounds|U
@@ -91,38 +91,38 @@ Lava Storm|C
 Llanowar Behemoth|U
 Llanowar Druid|C
 Llanowar Sentinel|C
-Maraxus of Keld|R
 Mana Chains|C
-Mana Web|R
 Lotus Vale|R
+Mana Web|R
 Manta Ray|C
+Maraxus of Keld|R
+Merfolk Traders|C
 Mistmoon Griffin|U
 Master of Arms|U
-Merfolk Traders|C
-Mind Stone|C
 Mischievous Poltergeist|U
 Mwonvuli Ooze|R
+Mind Stone|C
 Morinfen|R
 Nature's Kiss|C
 Necratog|U
-Noble Benefactor|U
 Nature's Resurgence|R
+Noble Benefactor|U
 Odylic Wraith|U
 Null Rod|R
-Ophidian|C
-Peacekeeper|R
 Orcish Settlers|U
+Ophidian|C
 Paradigm Shift|R
-Pendrell Mists|R
+Peacekeeper|R
 Phantom Warrior|U
+Pendrell Mists|R
 Phantom Wings|C
 Phyrexian Furnace|U
 Razortooth Rats|C
 Psychic Vortex|R
 Redwood Treefolk|C
 Revered Unicorn|U
-Roc Hatchling|U
 Relearn|U
+Roc Hatchling|U
 Rogue Elephant|C
 Sawtooth Ogre|C
 Sage Owl|C
@@ -130,38 +130,38 @@ Serenity|R
 Scorched Ruins|R
 Serrated Biskelion|U
 Serra's Blessing|U
-Shadow Rider|C
-Shattered Crypt|C
-Southern Paladin|R
 Soul Shepherd|C
+Shattered Crypt|C
+Shadow Rider|C
+Southern Paladin|R
 Steel Golem|U
-Straw Golem|U
 Spinning Darkness|C
+Straw Golem|U
 Strands of Night|U
 Striped Bears|C
 Sylvan Hierophant|U
-Tariff|R
 Tendrils of Despair|C
+Tariff|R
 Teferi's Veil|U
-Thunderbolt|C
 Thran Forge|U
+Thunderbolt|C
 Thran Tome|R
 Thundermare|R
-Timid Drake|U
 Tolarian Drake|C
+Timid Drake|U
 Tolarian Entrancer|R
 Tolarian Serpent|R
+Uktabi Efreet|C
 Tranquil Grove|R
 Touchstone|U
 Urborg Justice|R
-Uktabi Efreet|C
 Urborg Stalker|R
 Volunteer Reserves|U
+Vodalian Illusionist|U
 Veteran Explorer|U
 Well of Knowledge|R
-Vodalian Illusionist|U
-Vitalize|C
 Wave of Terror|R
+Vitalize|C
 Winding Canyons|R
-Zombie Scavengers|C
 Xanthic Statue|R
+Zombie Scavengers|C

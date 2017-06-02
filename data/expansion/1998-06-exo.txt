@@ -1,4 +1,3 @@
-Coat of Arms|R
 Allay|C
 Aether Tide|C
 Angelic Blessing|C
@@ -7,10 +6,11 @@ Avenging Druid|C
 Carnophage|C
 Bequeathal|C
 Cartographer|U
-Cataclysm|R
 Charging Paladin|C
 Cat Burglar|C
 Cinder Crawler|C
+Cataclysm|R
+Coat of Arms|R
 City of Traitors|R
 Convalescence|R
 Crashing Boars|U
@@ -20,80 +20,80 @@ Curiosity|U
 Cursed Flesh|C
 Dauthi Cutthroat|U
 Dauthi Jackal|C
-Dizzying Gaze|C
 Dauthi Warlord|U
+Dizzying Gaze|C
 Death's Duet|C
 Dominating Licid|R
 Elvish Berserker|C
 Elven Palisade|U
 Entropic Specter|R
+Erratic Portal|R
 Ephemeron|R
 Ertai, Wizard Adept|R
 Equilibrium|R
-Erratic Portal|R
 Exalted Dragon|R
-Fade Away|C
-Fighting Chance|R
-Forbid|U
 Flowstone Flood|U
-Fugue|U
+Fighting Chance|R
+Fade Away|C
+Forbid|U
 Furnace Brood|C
+Fugue|U
 High Ground|U
 Grollub|C
-Hatred|R
 Jackalope Herd|C
+Hatred|R
 Keeper of the Beasts|U
 Keeper of the Dead|U
 Keeper of the Flame|U
 Keeper of the Light|U
 Keeper of the Mind|U
-Killer Whale|U
-Kor Chant|C
 Mage il-Vec|C
 Limited Resources|R
+Kor Chant|C
 Manabond|R
-Mana Breach|U
+Killer Whale|U
 Maniacal Rage|C
-Medicine Bag|U
+Mana Breach|U
 Memory Crystal|R
+Medicine Bag|U
 Merfolk Looter|C
 Mind Maggots|U
 Mirri, Cat Warrior|R
 Mindless Automaton|R
 Mind Over Matter|R
 Mirozel|U
-Monstrous Hound|R
 Mogg Assassin|U
+Monstrous Hound|R
 Null Brooch|R
 Necrologia|U
 Nausea|C
 Oath of Druids|R
 Oath of Ghouls|R
 Oath of Lieges|R
-Oath of Scholars|R
 Oath of Mages|R
+Oath of Scholars|R
 Ogre Shaman|R
 Paladin en-Vec|R
+Peace of Mind|U
 Onslaught|C
 Paroxysm|U
 Pandemonium|R
 Pegasus Stampede|U
-Peace of Mind|U
 Penance|U
 Pit Spawn|R
 Plaguebearer|R
 Plated Rootwalla|C
-Pygmy Troll|C
-Price of Progress|U
 Predatory Hunger|C
+Price of Progress|U
+Pygmy Troll|C
 Rabid Wolverines|C
 Raging Goblin|C
 Ravenous Baboons|R
-Reaping the Rewards|C
 Reckless Ogre|C
+Reaping the Rewards|C
 Recurring Nightmare|R
-Reclaim|C
 Reconnaissance|U
+Reclaim|C
 Resuscitate|U
 Robe of Mirrors|C
 Rootwater Alligator|C
@@ -101,8 +101,8 @@ Rootwater Mystic|C
 Sabertooth Wyvern|U
 Scalding Salamander|U
 School of Piranha|C
-Shackles|C
 Scare Tactics|C
+Shackles|C
 Scrivener|U
 Seismic Assault|R
 Shield Mate|C
@@ -120,8 +120,8 @@ Spellshock|U
 Spellbook|U
 Spike Cannibal|U
 Spike Hatcher|R
-Spike Rogue|U
 Spike Weaver|R
+Spike Rogue|U
 Standing Troops|C
 Thalakos Drifters|R
 Survival of the Fittest|R
@@ -131,13 +131,13 @@ Theft of Dreams|C
 Thrull Surgeon|C
 Transmogrifying Licid|U
 Treasure Hunter|U
-Treasure Trove|U
 Vampire Hounds|C
-Volrath's Dungeon|R
+Treasure Trove|U
 Wall of Nets|R
+Volrath's Dungeon|R
 Wayward Soul|C
-Welkin Hawk|C
 Whiptongue Frog|C
+Welkin Hawk|C
 Workhorse|R
 Wood Elves|C
 Zealots en-Dal|U

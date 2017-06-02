@@ -1,54 +1,16 @@
 Blightspeaker|C
+Dawn Charm|C
+Dash Hopes|C
 Aeon Chronicler|R
-Battering Sliver|C
-Aether Membrane|U
 Ana Battlemage|U
-Akroma, Angel of Fury|R
-Aven Riftwatcher|C
-Aquamorph Entity|C
-Auramancer's Guise|U
-Benalish Commander|R
-Big Game Hunter|U
-Treacherous Urge|U
-Uktabi Drake|C
-Rough/Tumble|U
-Urborg, Tomb of Yawgmoth|R
-Utopia Vow|C
-Vampiric Link|C
-Veiling Oddity|C
-Vitaspore Thallid|C
-Venarian Glimmer|U
-Voidstone Gargoyle|R
-Volcano Hellion|R
-Waning Wurm|U
-Vorosh, the Hunter|R
-Whitemane Lion|C
-Wistful Thinking|C
-Wild Pair|R
-Blood Knight|U
-Bog Serpent|C
-Body Double|R
-Braids, Conjurer Adept|R
-Brain Gorgers|C
-Calciderm|U
-Boom/Bust|R
-Brute Force|C
-Cautery Sliver|U
-Citanul Woodreaders|C
-Crovax, Ascendant Hero|R
-Chronozoa|R
-Circle of Affliction|U
-Roiling Horror|R
-Saltblast|U
 Serendib Sorcerer|R
-Saltfield Recluse|C
 Seal of Primordium|C
 Serra Sphinx|R
 Serra's Boon|U
 Shade of Trokair|C
 Shaper Parasite|C
-Shivan Meteor|U
 Shivan Wumpus|R
+Shivan Meteor|U
 Simian Spirit Guide|C
 Shrouded Lore|U
 Sinew Sliver|C
@@ -69,97 +31,135 @@ Timbermare|R
 Timebender|U
 Torchling|R
 Timecrafting|U
-Gossamer Phantasm|C
+Rough/Tumble|U
+Treacherous Urge|U
+Urborg, Tomb of Yawgmoth|R
+Vampiric Link|C
+Utopia Vow|C
+Veiling Oddity|C
+Vitaspore Thallid|C
+Venarian Glimmer|U
+Voidstone Gargoyle|R
+Volcano Hellion|R
+Waning Wurm|U
+Vorosh, the Hunter|R
+Whitemane Lion|C
+Wistful Thinking|C
+Wild Pair|R
+Aether Membrane|U
+Akroma, Angel of Fury|R
+Aquamorph Entity|C
+Auramancer's Guise|U
+Battering Sliver|C
+Benalish Commander|R
+Big Game Hunter|U
+Aven Riftwatcher|C
+Blood Knight|U
+Bog Serpent|C
+Body Double|R
+Braids, Conjurer Adept|R
+Cautery Sliver|U
+Brain Gorgers|C
+Calciderm|U
+Brute Force|C
+Boom/Bust|R
+Citanul Woodreaders|C
+Circle of Affliction|U
+Chronozoa|R
+Crovax, Ascendant Hero|R
+Roiling Horror|R
+Saltblast|U
+Uktabi Drake|C
+Saltfield Recluse|C
 Cradle to Grave|C
+Gossamer Phantasm|C
 Darkheart Sliver|U
 Damnation|R
-Dawn Charm|C
 Deadly Grub|C
-Dash Hopes|C
 Deadwood Treefolk|U
-Detritivore|R
-Dreamscape Artist|C
-Dichotomancy|R
 Dismal Failure|U
+Detritivore|R
 Dormant Sliver|U
+Dichotomancy|R
+Dreamscape Artist|C
 Dunerider Outlaw|U
-Dust Corona|C
 Dust Elemental|R
-Erratic Mutation|C
-Enslave|U
 Essence Warden|C
+Enslave|U
+Dust Corona|C
 Extirpate|R
-Fa'adiyah Seer|C
 Evolution Charm|C
+Erratic Mutation|C
+Fa'adiyah Seer|C
 Firefright Mage|C
 Fatal Frenzy|R
 Frenetic Sliver|U
 Fungal Behemoth|R
 Frozen Aether|U
-Fury Charm|C
-Gaea's Anthem|R
 Ghost Tactician|C
+Gaea's Anthem|R
+Fury Charm|C
 Giant Dustwasp|C
-Dead/Gone|C
 Groundbreaker|R
+Dead/Gone|C
 Hammerheim Deadeye|U
 Hedge Troll|U
 Healing Leaves|C
 Harmonize|U
 Hunting Wilds|U
 Heroes Remembered|R
-Jedit Ojanen of Efrava|R
 Imp's Mischief|R
+Jedit Ojanen of Efrava|R
 Intet, the Dreamer|R
 Jodah's Avenger|U
 Kavu Predator|U
-Keldon Marauders|C
 Keen Sense|U
-Life and Limb|R
-Lavacore Elemental|U
 Magus of the Arena|R
+Lavacore Elemental|U
+Keldon Marauders|C
 Kor Dirge|U
+Life and Limb|R
 Magus of the Bazaar|R
 Magus of the Coffers|R
 Magus of the Library|R
 Magus of the Tabernacle|R
 Malach of the Dawn|U
-Mantle of Leadership|U
 Merfolk Thaumaturgist|C
 Mana Tithe|C
 Melancholy|C
+Mantle of Leadership|U
 Mesa Enchantress|R
 Mire Boa|C
-Mirri the Cursed|R
 Midnight Charm|C
+Mirri the Cursed|R
 Molten Firebird|R
-Muck Drubb|U
 Mycologist|U
-Necrotic Sliver|U
+Muck Drubb|U
 Needlepeak Spider|C
+Necrotic Sliver|U
 Oros, the Avenger|R
+Null Profusion|R
 Numot, the Devastator|R
 Ovinize|U
-Null Profusion|R
 Pallid Mycoderm|C
-Pongify|U
 Phantasmagorian|U
 Piracy Charm|C
-Porphyry Nodes|R
 Poultice Sliver|C
-Prodigal Pyromancer|C
+Porphyry Nodes|R
+Pongify|U
 Pouncing Wurm|U
 Primal Plasma|C
+Prodigal Pyromancer|C
 Psychotrope Thallid|U
-Pyrohemia|U
-Radha, Heir to Keld|R
 Rathi Trapper|C
+Radha, Heir to Keld|R
+Pyrohemia|U
 Reality Acid|C
-Rebuff the Wicked|U
 Reckless Wurm|U
+Rebuff the Wicked|U
 Reflex Sliver|C
 Revered Dead|C
-Retether|R
-Riptide Pilferer|U
 Ridged Kusite|C
+Retether|R
 Riftmarked Knight|U
+Riptide Pilferer|U

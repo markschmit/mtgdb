@@ -1,76 +1,47 @@
-Archangel|R
+Anaba Shaman|C
+Air Elemental|U
+Anaba Bodyguard|C
+Amber Prison|R
+Aladdin's Ring|R
 Abyssal Hunter|R
 Abduction|U
 Abyssal Specter|U
-Adarkar Wastes|R
-Agonizing Memories|U
-Blaze|U
-Bog Imp|C
-Blighted Shaman|U
-Blood Pet|C
-Bog Rats|C
-Bog Wraith|U
-Bottle of Suleiman|R
-Boomerang|C
-Castle|U
-Boil|U
-Burrowing|U
-Browse|U
-Brushland|R
-Call of the Wild|R
-Cat Warriors|C
-Charcoal Diamond|U
-Celestial Dawn|R
-Chill|U
-Circle of Protection: Blue|C
-Circle of Protection: Black|C
-Circle of Protection: Red|C
-Circle of Protection: Green|C
-Circle of Protection: White|C
-Conquer|U
-City of Brass|R
-Coercion|C
 Aether Flash|U
-Air Elemental|U
-Aladdin's Ring|R
-Animate Wall|R
-Amber Prison|R
-Anaba Bodyguard|C
-Anaba Shaman|C
-Ancestral Memories|R
-Counterspell|C
-Crusade|R
-Creeping Mold|U
-Crimson Hellkite|R
-Crystal Rod|U
-Crystal Vein|U
-D'Avenant Archer|C
-Cursed Totem|R
-Dancing Scimitar|R
-Dread of Night|U
-Drudge Skeletons|C
-Daraja Griffin|U
-Daring Apprentice|R
-Derelor|R
-Diminishing Returns|R
-Deflection|R
-Dense Foliage|R
-Dingus Egg|R
-Desertion|R
-Disrupting Scepter|R
-Divine Transformation|U
-Disenchant|C
-Dragon Engine|R
-Doomsday|R
-Dream Cache|C
-Dragon Mask|U
+Lord of Atlantis|R
+Lure|U
+Lost Soul|C
+Mana Short|R
 Manabarbs|R
 Mana Prism|U
-Maro|R
 Marble Diamond|U
+Inferno|R
+Inspiration|C
+Infernal Contract|R
+Insight|U
+Iron Star|U
+Island|L
+Ivory Cup|U
+Jalum Tome|R
+Jokulhaups|R
+Jayemdae Tome|R
+Jade Monolith|R
+Karplusan Forest|R
+Juxtapose|R
+Kismet|U
+Kjeldoran Dead|C
+Leshrac's Rite|U
+Kjeldoran Royal Guard|R
+Lead Golem|U
+Light of Day|U
+Library of Lat-Nam|R
+Lightning Blast|C
+Living Lands|R
+Llanowar Elves|C
+Longbow Archer|U
+Maro|R
+Memory Lapse|C
 Merfolk of the Pearl Trident|C
 Meekstone|R
-Memory Lapse|C
 Mind Warp|U
 Mesa Falcon|C
 Mischievous Poltergeist|U
@@ -78,12 +49,12 @@ Millstone|R
 Mountain|L
 Moss Diamond|U
 Mountain Goat|C
+Mystical Tutor|U
 Mystic Compass|U
 Nature's Resurgence|R
-Mystical Tutor|U
 Nightmare|R
-Obsianus Golem|U
 Necrosavant|R
+Obsianus Golem|U
 Orcish Artillery|U
 Order of the Sacred Torch|R
 Orcish Oriflamme|U
@@ -106,17 +77,17 @@ Power Sink|U
 Pradesh Gypsies|C
 Prodigal Sorcerer|C
 Primal Clay|R
+Psychic Venom|C
 Psychic Transfer|R
 Prosperity|U
-Psychic Venom|C
 Python|C
 Pyrotechnics|C
 Radjan Spirit|U
-Rag Man|R
 Raging Goblin|C
-Raise Dead|C
-Rampant Growth|C
+Rag Man|R
 Razortooth Rats|C
+Rampant Growth|C
+Raise Dead|C
 Redwood Treefolk|C
 Reckless Embermage|R
 Recall|R
@@ -129,79 +100,107 @@ Reprisal|U
 Remove Soul|C
 Resistance Fighter|C
 River Boa|U
-Reverse Damage|R
-Rowen|R
-Ruins of Trokair|U
-Rod of Ruin|U
-Sabretooth Tiger|C
-Sage Owl|C
-Samite Healer|C
-Scaled Wurm|C
-Scathe Zombies|C
-Segovian Leviathan|U
-Sea Monster|C
-Sengir Autocrat|R
-Serra's Blessing|U
-Serenity|R
-Shanodin Dryads|C
-Shock|C
-Shatter|C
-Shatterstorm|R
-Sibilant Spirit|R
-Sky Diamond|U
-Skull Catapult|U
-Snake Basket|R
-Soldevi Sage|U
-Spirit Link|U
-Spell Blast|C
-Soul Net|U
-Spitting Drake|U
-Spitting Earth|C
-Stalking Tiger|C
-Ardent Militia|U
+Adarkar Wastes|R
+Agonizing Memories|U
+Animate Wall|R
+Ancestral Memories|R
+Archangel|R
 Ankh of Mishra|R
 Armored Pegasus|C
+Ardent Militia|U
 Armageddon|R
+Ashnod's Altar|U
 Balduvian Barbarians|C
 Ashen Powder|R
-Ashnod's Altar|U
 Birds of Paradise|R
 Balduvian Horde|R
 Blight|U
-Dry Spell|C
-Dwarven Ruins|U
+Blaze|U
+Blighted Shaman|U
+Bog Imp|C
+Blood Pet|C
+Bog Rats|C
+Bog Wraith|U
+Boomerang|C
+Bottle of Suleiman|R
+Boil|U
+Burrowing|U
+Brushland|R
+Browse|U
+Call of the Wild|R
+Castle|U
+Cat Warriors|C
+Charcoal Diamond|U
+Celestial Dawn|R
+Chill|U
+Circle of Protection: Blue|C
+Circle of Protection: Green|C
+Circle of Protection: Black|C
+Circle of Protection: Red|C
+Circle of Protection: White|C
+City of Brass|R
+Coercion|C
+Conquer|U
+Creeping Mold|U
+Crusade|R
+Counterspell|C
+Crimson Hellkite|R
+Crystal Vein|U
+Crystal Rod|U
+Cursed Totem|R
+D'Avenant Archer|C
+Dancing Scimitar|R
+Daraja Griffin|U
+Daring Apprentice|R
+Derelor|R
+Dense Foliage|R
+Deflection|R
+Diminishing Returns|R
+Dingus Egg|R
+Desertion|R
+Disrupting Scepter|R
+Divine Transformation|U
+Disenchant|C
+Dragon Engine|R
+Doomsday|R
+Dream Cache|C
+Dread of Night|U
+Dragon Mask|U
 Early Harvest|R
+Drudge Skeletons|C
+Dwarven Ruins|U
+Dry Spell|C
 Earthquake|R
-Ebon Stronghold|U
 Ekundu Griffin|C
+Ebon Stronghold|U
 Elven Riders|U
 Elder Druid|R
 Elven Cache|C
 Elvish Archers|R
 Enfeeblement|C
 Evil Eye of Orms-by-Gore|U
+Enlightened Tutor|U
 Ethereal Champion|R
 Fallen Angel|R
-Enlightened Tutor|U
-Fallow Earth|U
 Exile|R
 Familiar Ground|U
+Fallow Earth|U
 Fatal Blow|C
 Fear|C
-Feast of the Unicorn|C
 Femeref Archers|U
+Feast of the Unicorn|C
 Feral Shadow|C
+Fire Diamond|U
 Final Fortune|R
 Fervor|R
-Fire Diamond|U
 Fire Elemental|U
 Firebreathing|C
 Flame Spirit|C
 Fit of Rage|C
 Flight|C
 Flashfires|U
-Flying Carpet|R
 Flash|R
+Flying Carpet|R
 Fog|C
 Fog Elemental|C
 Forest|L
@@ -211,8 +210,8 @@ Forget|R
 Fyndhorn Brownie|C
 Fyndhorn Elder|U
 Gaseous Form|C
-Giant Growth|C
 Giant Spider|C
+Giant Growth|C
 Giant Strength|C
 Glacial Wall|U
 Goblin Digging Team|C
@@ -224,66 +223,67 @@ Goblin Recruiter|U
 Gorilla Chieftain|C
 Goblin Warrens|R
 Gravebane Zombie|U
-Gravedigger|C
-Greed|R
 Grinning Totem|R
+Gravedigger|C
 Grizzly Bears|C
+Greed|R
 Harmattan Efreet|U
 Hammer of Bogardan|R
-Havenwood Battleground|U
 Healing Salve|C
+Havenwood Battleground|U
 Heavy Ballista|U
 Hero's Resolve|C
 Hecatomb|R
 Hidden Horror|U
 Horned Turtle|C
-Howl from Beyond|C
 Howling Mine|R
+Howl from Beyond|C
 Hulking Cyclops|U
-Hurricane|R
-Icatian Town|R
-Infantry Veteran|C
 Illicit Auction|R
-Inferno|R
-Infernal Contract|R
-Inspiration|C
-Insight|U
-Iron Star|U
-Island|L
-Ivory Cup|U
-Jalum Tome|R
-Jade Monolith|R
-Jokulhaups|R
-Jayemdae Tome|R
-Karplusan Forest|R
-Juxtapose|R
-Kismet|U
-Kjeldoran Dead|C
-Kjeldoran Royal Guard|R
-Lead Golem|U
-Leshrac's Rite|U
-Library of Lat-Nam|R
-Light of Day|U
-Lightning Blast|C
-Living Lands|R
-Llanowar Elves|C
-Longbow Archer|U
-Lord of Atlantis|R
-Lure|U
-Lost Soul|C
-Mana Short|R
+Icatian Town|R
+Hurricane|R
+Infantry Veteran|C
+Reverse Damage|R
+Rowen|R
+Ruins of Trokair|U
+Rod of Ruin|U
+Sabretooth Tiger|C
+Samite Healer|C
+Sage Owl|C
+Scathe Zombies|C
+Scaled Wurm|C
+Segovian Leviathan|U
+Sea Monster|C
+Sengir Autocrat|R
+Shanodin Dryads|C
+Serra's Blessing|U
+Serenity|R
+Shock|C
+Shatterstorm|R
+Shatter|C
+Sibilant Spirit|R
+Sky Diamond|U
+Skull Catapult|U
+Soldevi Sage|U
+Snake Basket|R
+Spirit Link|U
+Spell Blast|C
+Soul Net|U
+Spitting Drake|U
+Stalking Tiger|C
+Spitting Earth|C
 Standing Troops|C
 Staunch Defenders|U
 Storm Crow|C
-Stone Rain|C
 Storm Cauldron|R
-Strands of Night|U
+Stone Rain|C
 Stream of Life|C
+Strands of Night|U
 Stromgald Cabal|R
+Summer Bloom|U
 Sulfurous Springs|R
 Stupor|U
 Sunweb|R
-Summer Bloom|U
 Swamp|L
 Svyelunite Temple|U
 Talruum Minotaur|C
@@ -298,23 +298,23 @@ Throne of Bone|U
 Trained Armodon|C
 Tranquility|C
 Tranquil Grove|R
-Tremor|C
 Tundra Wolves|C
+Tremor|C
 Uktabi Orangutan|U
 Uktabi Wildcats|R
-Underground River|R
 Unseen Walker|U
-Unsummon|C
-Untamed Wilds|U
+Underground River|R
 Unyaro Griffin|U
-Vampiric Tutor|R
+Untamed Wilds|U
+Unsummon|C
 Venerable Monk|C
+Vampiric Tutor|R
 Verduran Enchantress|R
+Volcanic Dragon|R
 Viashino Warrior|C
 Vertigo|U
 Vodalian Soldiers|C
 Vitalize|C
-Volcanic Dragon|R
 Waiting in the Weeds|R
 Volcanic Geyser|U
 Wall of Air|U
@@ -327,9 +327,9 @@ Warrior's Honor|C
 Wild Growth|C
 Wind Drake|C
 Wind Spirit|U
-Wooden Sphere|U
 Worldly Tutor|U
-Wyluli Wolf|R
+Wooden Sphere|U
 Wrath of God|R
+Wyluli Wolf|R
 Zombie Master|R
 Zur's Weirding|R

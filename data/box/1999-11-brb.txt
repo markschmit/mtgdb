@@ -1,105 +1,105 @@
-Plated Rootwalla|S
+Lightning Elemental|S
 Abyssal Specter|S
 Advance Scout|S
 Air Elemental|S
 Angelic Page|S
-Arc Lightning|S
 Argothian Elder|S
-Armored Pegasus|S
-Azure Drake|S
-Blinking Spirit|S
-Cackling Fiend|S
-Broken Fall|S
-Catastrophe|S
-Cinder Marsh|S
-Control Magic|S
-Crazed Skirge|S
-Counterspell|S
-Dark Ritual|S
-Dirtcowl Wurm|S
-Curfew|S
-Disruptive Student|S
-Drifting Meadow|S
-Disenchant|S
-Elvish Lyrist|S
-Fertile Ground|S
-Exhume|S
-Fecundity|S
-Forest|S
-Fire Ants|S
-Flood|S
-Giant Growth|S
-Gorilla Warrior|S
-Heat Ray|S
-Lhurgoyf|S
-Infantry Veteran|S
-Healing Salve|S
-Hurricane|S
-Land Tax|S
-Island|S
-Lightning Elemental|S
 Living Death|S
-Llanowar Elves|S
-Man-o'-War|S
-Mana Leak|S
 Maniacal Rage|S
-Master Decoy|S
+Man-o'-War|S
 Manta Riders|S
-Phyrexian Ghoul|S
+Master Decoy|S
+Mana Leak|S
 Mountain|S
 Mogg Hollows|S
 Nekrataal|S
 Pacifism|S
 Opportunity|S
+Phyrexian Ghoul|S
 Pestilence|S
 Pincher Beetles|S
-Prodigal Sorcerer|S
+Plated Rootwalla|S
 Plains|S
-Raging Goblin|S
+Prodigal Sorcerer|S
 Polluted Mire|S
-Ray of Command|S
+Raging Goblin|S
 Reanimate|S
+Ray of Command|S
 River Boa|S
 Remote Isle|S
 Rolling Thunder|S
-Sanctum Custodian|S
 Sadistic Glee|S
+Arc Lightning|S
+Armored Pegasus|S
+Blinking Spirit|S
+Azure Drake|S
+Cackling Fiend|S
+Broken Fall|S
+Control Magic|S
+Cinder Marsh|S
+Catastrophe|S
+Crazed Skirge|S
+Counterspell|S
+Dirtcowl Wurm|S
+Dark Ritual|S
+Curfew|S
+Elvish Lyrist|S
+Disruptive Student|S
+Disenchant|S
+Drifting Meadow|S
+Fertile Ground|S
+Fecundity|S
+Forest|S
+Exhume|S
+Fire Ants|S
+Giant Growth|S
+Flood|S
+Gorilla Warrior|S
+Heat Ray|S
+Healing Salve|S
+Infantry Veteran|S
+Hurricane|S
+Lhurgoyf|S
+Land Tax|S
+Llanowar Elves|S
+Island|S
+Sanctum Custodian|S
 Sanctum Guardian|S
 Scaled Wurm|S
-Scryb Sprites|S
 Sandstorm|S
-Seeker of Skybreak|S
+Scryb Sprites|S
 Seasoned Marshal|S
+Seeker of Skybreak|S
 Sengir Vampire|S
+Skyshroud Elite|S
 Sewer Rats|S
 Shower of Sparks|S
-Skyshroud Elite|S
 Soltari Foot Soldier|S
 Slippery Karst|S
 Songstitcher|S
-Soul Warden|S
 Spike Colony|S
+Soul Warden|S
 Spike Feeder|S
 Spike Weaver|S
 Spike Worker|S
 Sun Clasp|S
-Steam Blast|S
-Swords to Plowshares|S
 Subversion|S
 Symbiosis|S
-Terror|S
+Steam Blast|S
+Swords to Plowshares|S
 Swamp|S
+Terror|S
 Syphon Soul|S
 Thalakos Lowlands|S
-Unnerve|S
-Trumpeting Armodon|S
 Tranquility|S
+Trumpeting Armodon|S
+Unnerve|S
 Uthden Troll|S
-Vec Townships|S
 Village Elder|S
-Wall of Heat|S
+Vec Townships|S
 Weakness|S
-Wind Drake|S
 Wildfire Emissary|S
-Windfall|S
 Wrath of God|S
+Wall of Heat|S
+Wind Drake|S
+Windfall|S

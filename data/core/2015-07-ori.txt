@@ -1,28 +1,28 @@
-Blessed Spirits|U
+Anointer of Champions|U
 Acolyte of the Inferno|U
-Abbot of Keral Keep|R
 Aegis Angel|R
 Act of Treason|C
-Aerial Volley|C
 Akroan Jailer|C
+Aerial Volley|C
 Akroan Sergeant|C
 Alhammarret's Archive|M
 Alchemist's Vial|C
 Alhammarret, High Arbiter|R
 Ampryn Tactician|C
+Angel's Tomb|U
 Anchor to the Aether|U
 Animist's Awakening|R
-Angel's Tomb|U
-Anointer of Champions|U
+Abbot of Keral Keep|R
 Artificer's Epiphany|C
 Archangel of Tithes|M
 Aspiring Aeronaut|C
 Avaricious Dragon|M
 Auramancer|C
 Aven Battle Priest|C
-Battlefield Forge|R
 Bellows Lizard|C
+Battlefield Forge|R
 Blazing Hellhound|U
+Blessed Spirits|U
 Blightcaster|U
 Blood-Cursed Knight|U
 Boggart Brute|C
@@ -34,37 +34,37 @@ Call of the Full Moon|U
 Calculated Dismissal|C
 Catacomb Slug|C
 Caustic Caterpillar|C
-Caves of Koilos|R
 Celestial Flare|C
-Chandra's Ignition|R
+Caves of Koilos|R
 Chandra's Fury|C
+Chandra's Ignition|R
 Chandra, Fire of Kaladesh|M
 Chandra, Roaring Flame|M
 Charging Griffin|C
-Citadel Castellan|U
 Chief of the Foundry|U
-Clash of Wills|U
+Citadel Castellan|U
 Claustrophobia|C
+Clash of Wills|U
 Cleric of the Forward Order|C
 Conclave Naturalists|U
 Cobblebrute|C
 Consecrated by Blood|U
 Consul's Lieutenant|U
-Cruel Revival|U
 Dark Dabbling|C
-Day's Undoing|M
+Cruel Revival|U
 Dark Petition|R
+Day's Undoing|M
 Deadbridge Shaman|C
 Deep-Sea Terror|C
 Despoiler of Souls|R
-Demolish|C
 Demonic Pact|M
+Demolish|C
 Disciple of the Ring|M
+Divine Verdict|C
 Displacement Wave|R
 Disperse|C
-Divine Verdict|C
-Dreadwaters|C
 Dragon Fodder|C
+Dreadwaters|C
 Dwynen's Elite|U
 Dwynen, Gilt-Leaf Daen|R
 Eagle of the Watch|C
@@ -76,22 +76,22 @@ Enthralling Victor|U
 Enshrouding Mist|C
 Evolutionary Leap|R
 Erebos's Titan|M
-Exquisite Firecraft|R
 Evolving Wilds|C
+Exquisite Firecraft|R
 Eyeblight Assassin|C
 Faerie Miscreant|C
 Eyeblight Massacre|U
+Fiery Hellhound|C
 Fetid Imp|C
 Fiery Conclusion|U
-Fiery Hellhound|C
 Firefiend Elemental|C
 Fiery Impulse|C
-Flameshadow Conjuring|R
 Flesh to Dust|C
+Flameshadow Conjuring|R
 Fleshbag Marauder|U
+Gaea's Revenge|R
 Forest|L
 Foundry of the Consuls|U
-Gaea's Revenge|R
 Ghirapur Aether Grid|U
 Gather the Pack|U
 Ghirapur Gearcrafter|C
@@ -109,8 +109,8 @@ Guardians of Meletis|C
 Hangarback Walker|R
 Hallowed Moonlight|R
 Harbinger of the Tides|R
-Healing Hands|C
 Heavy Infantry|C
+Healing Hands|C
 Helm of the Gods|R
 Herald of the Pantheon|R
 Hitchclaw Recluse|C
@@ -119,9 +119,9 @@ Honored Hierarch|R
 Infernal Scarring|C
 Infectious Bloodlust|C
 Hydrolash|U
+Into the Void|U
 Infinite Obliteration|R
 Iroas's Champion|U
-Into the Void|U
 Jace, Telepath Unbound|M
 Island|L
 Jace's Sanctum|R
@@ -142,22 +142,100 @@ Languish|R
 Liliana, Defiant Necromancer|M
 Liliana, Heretical Healer|M
 Llanowar Empath|C
-Llanowar Wastes|R
 Macabre Waltz|C
+Llanowar Wastes|R
 Mage-Ring Bully|C
 Mage-Ring Responder|R
 Mage-Ring Network|U
-Magmatic Insight|U
 Mahamoti Djinn|R
+Magmatic Insight|U
 Malakir Cullblade|U
-Managorger Hydra|R
 Mantle of Webs|C
+Managorger Hydra|R
 Maritime Guard|C
 Mighty Leap|C
 Might of the Masses|C
 Meteorite|U
-Mind Rot|C
+Runed Servitor|U
+Rogue's Passage|U
+Scab-Clan Berserker|R
+Scrapskin Drake|C
+Screeching Skaab|C
+Seismic Elemental|U
+Sengir Vampire|U
+Send to Sleep|C
+Sentinel of the Eternal Watch|U
+Separatist Voidmage|C
+Shaman of the Pack|U
+Serra Angel|U
+Shadows of the Past|U
+Shambling Ghoul|C
+Shivan Dragon|R
+Sigil of Valor|U
+Sigil of the Empty Throne|R
+Shivan Reef|R
+Sigiled Starfish|U
+Skaab Goliath|U
+Skyraker Giant|U
+Skysnare Spider|U
+Somberwald Alpha|U
+Smash to Smithereens|C
+Soulblade Djinn|R
+Stalwart Aven|C
+Sphinx's Tutelage|U
+Stratus Walk|C
+Starfield of Nyx|M
+Subterranean Scout|C
+Suppression Bonds|C
+Sword of the Animist|R
+Swamp|L
+Swift Reckoning|U
+Sylvan Messenger|U
+Talent of the Telepath|R
+Tainted Remedy|R
+The Great Aurora|M
+Terra Stomper|R
+Thornbow Archer|C
+Thopter Engineer|U
+Thopter Spy Network|R
+Throwing Knife|U
+Thunderclap Wyvern|U
+Timberpack Wolf|C
+Titanic Growth|C
+Titan's Strength|C
+Topan Freeblade|C
+Totem-Guide Hartebeest|U
+Tormented Thoughts|U
+Tower Geist|U
+Touch of Moonglove|C
+Turn to Frog|U
+Tragic Arrogance|R
+Undead Servant|C
+Undercity Troll|U
+Valeron Wardens|U
+Unholy Hunger|C
+Vastwood Gorger|C
+Valor in Akros|U
+Veteran's Sidearm|C
+Vryn Wingmare|R
+Volcanic Rambler|C
+Vine Snare|C
+War Oracle|U
+War Horn|U
+Watercourser|C
+Whirler Rogue|U
+Weight of the Underworld|C
+Weave Fate|C
+Willbreaker|R
+Wild Instincts|C
+Woodland Bellower|M
+Yeva's Forcemage|C
+Yavimaya Coast|R
+Zendikar Incarnate|U
+Yoked Ox|C
+Zendikar's Roil|U
 Mizzium Meddler|R
+Mind Rot|C
 Mountain|L
 Molten Vortex|R
 Murder Investigation|U
@@ -171,8 +249,8 @@ Nightsnare|C
 Nissa, Sage Animist|M
 Nissa, Vastwood Seer|M
 Nivix Barrier|C
-Orbs of Warding|R
 Orchard Spirit|C
+Orbs of Warding|R
 Outland Colossus|R
 Patron of the Valiant|U
 Pharika's Disciple|C
@@ -187,92 +265,14 @@ Prism Ring|U
 Pyromancer's Goggles|M
 Psychic Rebuttal|U
 Rabid Bloodsucker|C
+Read the Bones|C
 Ramroller|U
 Ravaging Blaze|U
 Reave Soul|C
-Read the Bones|C
 Reclusive Artificer|U
 Reclaim|C
 Relic Seeker|R
 Returned Centaur|C
-Revenant|U
 Rhox Maulers|C
+Revenant|U
 Ringwarden Owl|C
-Rogue's Passage|U
-Runed Servitor|U
-Scab-Clan Berserker|R
-Scrapskin Drake|C
-Screeching Skaab|C
-Seismic Elemental|U
-Send to Sleep|C
-Sengir Vampire|U
-Sentinel of the Eternal Watch|U
-Separatist Voidmage|C
-Shaman of the Pack|U
-Serra Angel|U
-Shadows of the Past|U
-Shambling Ghoul|C
-Shivan Dragon|R
-Sigil of the Empty Throne|R
-Shivan Reef|R
-Sigil of Valor|U
-Sigiled Starfish|U
-Skaab Goliath|U
-Skyraker Giant|U
-Skysnare Spider|U
-Somberwald Alpha|U
-Smash to Smithereens|C
-Soulblade Djinn|R
-Sphinx's Tutelage|U
-Stalwart Aven|C
-Starfield of Nyx|M
-Stratus Walk|C
-Subterranean Scout|C
-Suppression Bonds|C
-Sword of the Animist|R
-Swamp|L
-Swift Reckoning|U
-Sylvan Messenger|U
-Talent of the Telepath|R
-Tainted Remedy|R
-The Great Aurora|M
-Terra Stomper|R
-Thopter Engineer|U
-Thopter Spy Network|R
-Thornbow Archer|C
-Throwing Knife|U
-Thunderclap Wyvern|U
-Timberpack Wolf|C
-Titan's Strength|C
-Titanic Growth|C
-Topan Freeblade|C
-Totem-Guide Hartebeest|U
-Tormented Thoughts|U
-Tower Geist|U
-Touch of Moonglove|C
-Tragic Arrogance|R
-Turn to Frog|U
-Undead Servant|C
-Undercity Troll|U
-Unholy Hunger|C
-Valeron Wardens|U
-Valor in Akros|U
-Vastwood Gorger|C
-Veteran's Sidearm|C
-Volcanic Rambler|C
-Vine Snare|C
-Vryn Wingmare|R
-Watercourser|C
-War Oracle|U
-War Horn|U
-Weight of the Underworld|C
-Weave Fate|C
-Whirler Rogue|U
-Willbreaker|R
-Wild Instincts|C
-Woodland Bellower|M
-Yeva's Forcemage|C
-Yavimaya Coast|R
-Zendikar Incarnate|U
-Yoked Ox|C
-Zendikar's Roil|U

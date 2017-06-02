@@ -1,183 +1,183 @@
-Akoum Flameseeker|C
-Affa Protector|C
-Abstruse Interference|C
-Allied Reinforcements|U
-Ancient Crab|C
-Baloth Pup|U
-Ayli, Eternal Pilgrim|R
-Baloth Null|U
 Birthing Hulk|U
-Bearer of Silence|R
+Akoum Flameseeker|C
+Abstruse Interference|C
+Ancient Crab|C
+Ayli, Eternal Pilgrim|R
+Baloth Pup|U
+Allied Reinforcements|U
+Baloth Null|U
 Blinding Drone|C
-Bone Saw|C
+Bearer of Silence|R
+Affa Protector|C
 Bonds of Mortality|U
+Natural State|C
+Brute Strength|C
 Boulder Salvo|C
 Call the Gatewatch|R
-Captain's Claws|R
-Cinder Hellion|C
 Canopy Gorger|C
+Captain's Claws|R
 Chandra, Flamecaller|M
 Chitinous Cloak|U
+Cinder Hellion|C
 Cinder Barrens|U
 Cliffhaven Vampire|U
 Consuming Sinkhole|C
 Comparative Analysis|C
 Containment Membrane|C
 Corrupted Crossroads|R
-Crumbling Vestige|C
 Corpse Churn|C
+Crumbling Vestige|C
 Crush of Tentacles|M
 Cultivator Drone|C
-Devour in Flames|U
-Dazzling Reflection|C
-Cyclone Sire|U
 Deceiver of Form|R
+Dazzling Reflection|C
 Deepfathom Skulker|R
+Cyclone Sire|U
 Dimensional Infiltrator|R
-Drana's Chosen|R
 Dread Defiler|R
-Eldrazi Obligator|R
-Eldrazi Aggressor|C
+Devour in Flames|U
+Drana's Chosen|R
 Eldrazi Mimic|R
 Eldrazi Displacer|R
+Eldrazi Aggressor|C
 Embodiment of Fury|U
 Embodiment of Insight|U
-Elemental Uprising|C
+Eldrazi Obligator|R
 Essence Depleter|U
-Endbringer|R
 Expedition Raptor|C
+Elemental Uprising|C
+Endbringer|R
+Flayer Drone|U
 Expedite|C
 Fall of the Titans|R
-Flayer Drone|U
-Gladehart Cavalry|R
-Flaying Tendrils|U
 General Tazri|M
-Goblin Dark-Dwellers|R
-Grip of the Roil|U
-Gravity Negator|C
+Flaying Tendrils|U
+Gladehart Cavalry|R
 Gift of Tusks|U
+Goblin Dark-Dwellers|R
 Goblin Freerunner|C
+Gravity Negator|C
 Grasp of Darkness|U
 Harvester Troll|U
-Hedron Alignment|R
-Havoc Sower|U
+Grip of the Roil|U
 Hedron Crawler|C
+Havoc Sower|U
+Hedron Alignment|R
 Holdout Settlement|C
 Hissing Quagmire|R
 Immobilizer Eldrazi|U
 Inverter of Truth|M
 Immolating Glare|U
-Joraga Auxiliary|U
 Iona's Blessing|U
-Jori En, Ruin Diver|R
+Joraga Auxiliary|U
 Isolation Zone|C
+Jori En, Ruin Diver|R
 Jwar Isle Avenger|C
 Kalitas, Traitor of Ghet|M
 Kazuul's Toll Collector|U
 Kor Scythemaster|C
-Kozilek's Pathfinder|C
-Kozilek's Translator|C
 Kor Sky Climber|C
+Kozilek's Pathfinder|C
 Kozilek's Shrieker|C
 Kozilek's Return|M
+Kozilek's Translator|C
 Kozilek, the Great Distortion|M
 Linvala, the Preserver|M
-Malakir Soothsayer|U
-Makindi Aeronaut|C
 Lead by Example|C
-Loam Larva|C
+Makindi Aeronaut|C
 Make a Stand|U
+Loam Larva|C
 Matter Reshaper|R
-Mighty Leap|C
 Maw of Kozilek|C
+Malakir Soothsayer|U
 Meandering River|U
 Munda's Vanguard|R
-Mindmelter|U
 Mina and Denn, Wildborn|R
+Mighty Leap|C
+Mindmelter|U
 Mirrorpool|M
-Natural State|C
-Negate|C
 Needle Spires|R
-Brute Strength|C
+Negate|C
 Nissa, Voice of Zendikar|M
 Netcaster Spider|C
 Nissa's Judgment|U
-Null Caller|U
 Oath of Chandra|R
+Null Caller|U
 Oath of Gideon|R
 Oath of Jace|R
 Oath of Nissa|R
-Oblivion Strike|C
 Ondu War Cleric|C
-Overwhelming Denial|R
+Oblivion Strike|C
 Press into Service|U
+Overwhelming Denial|R
 Prophet of Distortion|U
-Reality Smasher|R
 Pyromancer's Assault|U
-Reality Hemorrhage|C
 Pulse of Murasa|C
+Reality Hemorrhage|C
+Reality Smasher|R
 Reaver Drone|U
-Reckless Bushwhacker|U
 Reflector Mage|U
+Reckless Bushwhacker|U
 Relentless Hunter|U
 Relief Captain|U
+Roiling Waters|U
+Saddleback Lagac|C
 Remorseless Punishment|R
 Ruin in Their Wake|U
-Roiling Waters|U
 Ruins of Oran-Rief|R
-Saddleback Lagac|C
 Scion Summoner|C
+Searing Light|C
 Sea Gate Wreckage|R
 Seed Guardian|U
-Searing Light|C
 Shoulder to Shoulder|C
 Seer's Lantern|C
-Sky Scourer|C
 Sifter of Skulls|R
 Slaughter Drone|C
+Sky Scourer|C
 Sparkmage's Gambit|C
 Slip Through Space|C
 Spatial Contortion|U
-Stalking Drone|C
 Spawnbinder Mage|C
 Sphinx of the Final Word|M
+Stalking Drone|C
 Steppe Glider|U
-Stormchaser Mage|U
-Stone Haven Outfitter|R
 Stoneforge Acolyte|U
 Stoneforge Masterwork|R
+Stormchaser Mage|U
 Strider Harness|U
-Submerged Boneyard|U
+Stone Haven Outfitter|R
 Sweep Away|C
+Submerged Boneyard|U
 Sylvan Advocate|R
-Tajuru Pathwarden|C
-Tears of Valakut|U
-Tranquil Expanse|U
 Thought Harvester|U
+Tajuru Pathwarden|C
 Tar Snare|C
+Tears of Valakut|U
 Thought-Knot Seer|R
+Tranquil Expanse|U
 Timber Gorge|U
 Tyrant of Valakut|R
 Umara Entangler|C
+Unknown Shores|C
 Unity of Purpose|U
 Unnatural Endurance|C
-Unknown Shores|C
 Untamed Hunger|C
 Vampire Envoy|C
 Vile Redeemer|R
 Visions of Brutality|U
 Vines of the Recluse|C
 Void Grafter|U
-Wandering Fumarole|R
-Walker of the Wastes|U
 Void Shatter|U
+Walker of the Wastes|U
 Wall of Resurgence|U
-Warden of Geometries|C
+Wandering Fumarole|R
 Wastes|C
-Weapons Trainer|U
+Warden of Geometries|C
 Warping Wail|U
+Weapons Trainer|U
+Bone Saw|C
 World Breaker|M
 Witness the End|C
 Zada's Commando|C
-Zulaport Chainmage|C
 Zendikar Resurgent|R
+Zulaport Chainmage|C

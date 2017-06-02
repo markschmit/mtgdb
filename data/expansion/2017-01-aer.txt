@@ -1,76 +1,119 @@
+Irontread Crusher|C
+Implement of Malice|C
+Precise Strike|C
+Inspiring Roar|C
+Indomitable Creativity|M
+Inspiring Statuary|R
+Ironclad Revolutionary|U
+Kari Zev, Skyship Raider|R
+Invigorated Rampage|U
+Kari Zev's Expertise|R
+Lathnu Sailback|C
+Lifecraft Awakening|U
+Leave in the Dust|C
+Lifecraft Cavalry|C
+Lifecrafter's Gift|U
+Lightning Runner|M
+Maulfist Revolutionary|U
+Lifecrafter's Bestiary|R
+Maverick Thopterist|U
+Mechanized Production|M
+Merchant's Dockhand|R
+Metallic Mimic|R
+Midnight Entourage|R
+Metallic Rebuke|C
+Mobile Garrison|C
+Narnam Renegade|U
+Monstrous Onslaught|U
+Negate|C
+Natural Obsolescence|C
+Night Market Guard|C
+Night Market Aeronaut|C
+Oath of Ajani|R
+Outland Boar|U
+Ornithopter|U
+Paradox Engine|M
+Pacification Array|U
+Peema Aether-Seer|U
+Perilous Predicament|U
+Pendulum of Patterns|C
+Pia's Revolution|R
+Peacewalker Colossus|R
+Planar Bridge|M
+Prey Upon|C
+Ajani's Comrade|U
 Aegis Automaton|C
-Aeronaut Admiral|U
+Aerial Modification|U
 Aether Chaser|C
+Aeronaut Admiral|U
 Aether Herder|C
 Aether Inspector|C
-Aethersphere Harvester|R
 Aether Poisoner|C
 Aether Swooper|C
-Aetherstream Leopard|C
 Aethergeode Miner|R
+Aethersphere Harvester|R
 Aethertide Whale|R
+Aetherstream Leopard|C
 Aid from the Cowl|R
+Aetherwind Basker|M
 Airdrop Aeronauts|U
 Ajani Unyielding|M
-Ajani's Comrade|U
-Aetherwind Basker|M
-Alley Evasion|C
 Ajani's Aid|R
-Ajani, Valiant Protector|M
 Alley Strangler|C
+Alley Evasion|C
+Ajani, Valiant Protector|M
 Audacious Infiltrator|C
 Augmenting Automaton|C
-Bastion Enforcer|C
 Baral, Chief of Compliance|R
-Baral's Expertise|R
 Barricade Breaker|U
+Bastion Enforcer|C
 Bastion Inventor|C
-Caught in the Brights|C
-Chandra's Revolution|C
-Battle at the Bridge|R
 Call for Unity|R
+Baral's Expertise|R
+Battle at the Bridge|R
+Chandra's Revolution|C
+Caught in the Brights|C
 Cogwork Assembler|U
-Aerial Modification|U
-Conviction|C
-Consulate Dreadnought|U
-Countless Gears Renegade|C
 Consulate Crackdown|R
+Consulate Dreadnought|U
 Consulate Turret|C
-Crackdown Construct|U
+Conviction|C
 Daredevil Dragster|U
+Countless Gears Renegade|C
+Crackdown Construct|U
 Cruel Finality|C
-Deadeye Harpooner|U
-Defiant Salvager|C
 Dawnfeather Eagle|C
-Decommission|C
-Daring Demolition|C
+Deadeye Harpooner|U
 Dark Intimations|R
+Daring Demolition|C
+Decommission|C
+Defiant Salvager|C
 Destructive Tampering|C
 Deft Dismissal|U
 Disallow|R
 Druid of the Cowl|C
 Dispersal Technician|C
 Embraal Gear-Smasher|C
-Exquisite Archangel|M
-Fatal Push|U
+Efficient Construction|U
 Enraged Giant|U
+Exquisite Archangel|M
 Filigree Crawler|C
-Foundry Hornet|U
 Felidar Guardian|U
-Fen Hauler|C
+Fatal Push|U
 Foundry Assembler|C
+Foundry Hornet|U
+Fen Hauler|C
 Fourth Bridge Prowler|C
-Frontline Rebel|C
 Freejam Regent|R
+Frontline Rebel|C
 Ghirapur Osprey|C
-Gonti's Aether Heart|M
 Gifted Aetherborn|U
 Glint-Sleeve Siphoner|R
+Gonti's Aether Heart|M
 Greenbelt Rampager|R
-Efficient Construction|U
-Gremlin Infestation|U
-Gonti's Machinations|U
 Greenwheel Liberator|R
+Gonti's Machinations|U
+Gremlin Infestation|U
 Heart of Kiran|M
 Herald of Anguish|M
 Hidden Herbalists|U
@@ -78,117 +121,74 @@ Heroic Intervention|R
 Highspire Infusion|C
 Hidden Stockpile|U
 Hinterland Drake|C
-Ice Over|C
 Hope of Ghirapur|R
+Ice Over|C
 Hungry Flames|U
 Implement of Combustion|C
 Illusionist's Stratagem|U
-Implement of Ferocity|C
 Implement of Examination|C
-Inspiring Roar|C
+Implement of Ferocity|C
 Implement of Improvement|C
-Implement of Malice|C
-Indomitable Creativity|M
-Invigorated Rampage|U
-Inspiring Statuary|R
-Ironclad Revolutionary|U
-Irontread Crusher|C
-Kari Zev, Skyship Raider|R
-Kari Zev's Expertise|R
-Lifecrafter's Gift|U
-Lathnu Sailback|C
-Lifecraft Awakening|U
-Leave in the Dust|C
-Lifecraft Cavalry|C
-Lifecrafter's Bestiary|R
-Lightning Runner|M
-Mechanized Production|M
-Maulfist Revolutionary|U
-Maverick Thopterist|U
-Midnight Entourage|R
-Merchant's Dockhand|R
-Metallic Mimic|R
-Metallic Rebuke|C
-Mobile Garrison|C
-Monstrous Onslaught|U
-Narnam Renegade|U
-Negate|C
-Natural Obsolescence|C
-Night Market Aeronaut|C
-Night Market Guard|C
-Oath of Ajani|R
-Outland Boar|U
-Ornithopter|U
-Pacification Array|U
-Perilous Predicament|U
-Peacewalker Colossus|R
-Paradox Engine|M
-Peema Aether-Seer|U
-Pia's Revolution|R
-Pendulum of Patterns|C
-Planar Bridge|M
 Quicksmith Rebel|R
-Prey Upon|C
-Precise Strike|C
 Prizefighter Construct|C
-Quicksmith Spy|R
 Ravenous Intruder|U
-Renegade Rallier|U
 Reckless Racer|U
+Quicksmith Spy|R
+Renegade Map|C
 Release the Gremlins|R
 Renegade Wheelsmith|U
-Renegade Map|C
-Reservoir Walker|C
+Renegade Rallier|U
 Renegade's Getaway|C
-Reverse Engineer|U
+Reservoir Walker|C
 Resourceful Return|C
 Restoration Specialist|U
 Ridgescale Tusker|U
-Rishkar, Peema Renegade|R
+Reverse Engineer|U
 Rishkar's Expertise|R
-Salvage Scuttler|U
+Rishkar, Peema Renegade|R
 Rogue Refiner|U
+Salvage Scuttler|U
 Scrap Trawler|R
 Scrapper Champion|U
 Scrounging Bandar|C
+Servo Schematic|U
 Secret Salvage|R
 Shielded Aether Thief|U
-Servo Schematic|U
 Shipwreck Moray|C
-Silkweaver Elite|C
 Siege Modification|U
 Shock|C
+Silkweaver Elite|C
 Skyship Plunderer|U
 Sly Requisitioner|U
 Solemn Recruit|R
-Spire of Industry|R
 Spire Patrol|U
 Sram, Senior Edificer|R
+Spire of Industry|R
 Sram's Expertise|R
 Sweatworks Brawler|C
-Tezzeret the Schemer|M
 Submerged Boneyard|C
+Tezzeret the Schemer|M
 Take into Custody|C
-Tezzeret's Simulacrum|U
-Tezzeret's Touch|U
 Tezzeret's Betrayal|R
+Tezzeret's Touch|U
 Tezzeret, Master of Metal|M
+Tezzeret's Simulacrum|U
 Tranquil Expanse|C
 Thopter Arrest|U
-Unbridled Growth|C
 Treasure Keeper|U
-Universal Solvent|C
 Trophy Mage|U
-Verdant Automaton|C
 Untethered Express|U
+Unbridled Growth|C
+Universal Solvent|C
 Vengeful Rebel|U
-Welder Automaton|C
+Verdant Automaton|C
 Walking Ballista|R
-Wind-Kin Raiders|U
 Watchful Automaton|C
+Welder Automaton|C
 Weldfast Engineer|U
 Winding Constrictor|U
+Wind-Kin Raiders|U
 Whir of Invention|R
-Yahenni's Expertise|R
 Yahenni, Undying Partisan|R
+Yahenni's Expertise|R
 Wrangle|C

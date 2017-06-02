@@ -6,22 +6,22 @@ Banishment Decree|C
 Blightsteel Colossus|M
 Blisterstick Shaman|C
 Blightwidow|C
-Brass Squire|U
 Bonehoard|R
 Blue Sun's Zenith|R
-Burn the Impure|C
+Brass Squire|U
 Caustic Hound|C
+Burn the Impure|C
+Concussive Bolt|C
 Choking Fumes|U
 Consecrated Sphinx|M
-Concussive Bolt|C
-Contested War Zone|R
 Copper Carapace|C
+Contested War Zone|R
 Core Prowler|U
 Corrupted Conscience|U
 Crush|C
 Creeping Corrosion|R
-Darksteel Plate|R
 Cryptoplasm|R
+Darksteel Plate|R
 Distant Memories|R
 Decimator Web|R
 Divine Offering|C
@@ -39,9 +39,9 @@ Glissa, the Traitor|M
 Goblin Wardriver|U
 Gnathosaur|C
 Go for the Throat|U
+Gruesome Encore|U
 Gore Vassal|U
 Green Sun's Zenith|R
-Gruesome Encore|U
 Gust-Skimmer|C
 Hellkite Igniter|R
 Hero of Bladehold|M
@@ -50,11 +50,11 @@ Hexplate Golem|C
 Ichor Wellspring|C
 Horrifying Revelation|C
 Inkmoth Nexus|R
-Island|L
 Into the Core|U
+Island|L
 Kemba's Legion|U
-Knowledge Pool|R
 Koth's Courier|C
+Knowledge Pool|R
 Kuldotha Flamefiend|U
 Kuldotha Ringleader|C
 Leonin Relic-Warder|U
@@ -62,26 +62,26 @@ Lead the Stampede|U
 Leonin Skyhunter|C
 Loxodon Partisan|C
 Lumengrid Gargoyle|U
+Master's Call|C
 Magnetic Mine|R
 Massacre Wurm|M
 Melira's Keepers|U
-Master's Call|C
-Metallic Mastery|U
 Mirran Crusader|R
+Metallic Mastery|U
 Mirran Spy|C
 Mirran Mettle|C
 Mitotic Manipulation|R
+Morbid Plunder|C
 Mirrorworks|R
 Mortarpod|U
-Morbid Plunder|C
 Mountain|L
 Myr Sire|C
 Myr Welder|R
-Nested Ghoul|U
 Myr Turbine|R
+Nested Ghoul|U
 Neurok Commando|U
-Oculus|C
 Ogre Resister|C
+Oculus|C
 Peace Strider|U
 Phyrexian Crusader|R
 Phyresis|C
@@ -96,36 +96,48 @@ Pierce Strider|U
 Piston Sledge|U
 Plague Myr|U
 Pistus Strike|C
-Plaguemaw Beast|U
-Priests of Norn|C
-Plains|L
-Praetor's Counsel|M
+Serum Raker|C
+Septic Rats|U
+Shimmer Myr|R
+Silverskin Armor|U
+Signal Pest|U
+Sphere of the Suns|U
+Viridian Corrupter|U
+Viridian Emissary|C
+Vivisection|C
+Virulent Wound|C
+White Sun's Zenith|R
+Skinwing|U
+Spin Engine|C
+Slagstorm|R
+Spiraling Duelist|U
+Spine of Ish Sah|R
 Spire Serpent|C
 Steel Sabotage|C
 Spread the Sickness|C
-Sword of Feast and Famine|M
 Strandwalker|U
+Sword of Feast and Famine|M
 Swamp|L
 Tangle Mantis|C
 Tangle Hulk|C
 Tezzeret, Agent of Bolas|M
 Thopter Assembly|R
 Thrun, the Last Troll|M
-Tine Shrike|C
 Training Drone|C
+Tine Shrike|C
 Titan Forge|R
 Treasure Mage|U
 Unnatural Predation|C
 Turn the Tide|C
 Vedalken Anatomist|U
 Vedalken Infuser|U
-Victory's Herald|R
 Viridian Claw|U
-Viridian Corrupter|U
-Viridian Emissary|C
-Vivisection|C
-Virulent Wound|C
-White Sun's Zenith|R
+Victory's Herald|R
+Plaguemaw Beast|U
+Shriekhorn|C
+Plains|L
+Priests of Norn|C
+Praetor's Counsel|M
 Psychosis Crawler|R
 Rally the Forces|C
 Quicksilver Geyser|C
@@ -136,15 +148,3 @@ Red Sun's Zenith|R
 Rusted Slasher|C
 Sangromancer|R
 Scourge Servant|C
-Serum Raker|C
-Septic Rats|U
-Shimmer Myr|R
-Signal Pest|U
-Silverskin Armor|U
-Shriekhorn|C
-Sphere of the Suns|U
-Skinwing|U
-Spin Engine|C
-Slagstorm|R
-Spiraling Duelist|U
-Spine of Ish Sah|R

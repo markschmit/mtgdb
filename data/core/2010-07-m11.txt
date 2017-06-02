@@ -1,69 +1,44 @@
-Azure Drake|C
-Baneslayer Angel|M
-Awakener Druid|U
-Autumn's Veil|U
+Angel's Feather|U
 Acidic Slime|U
-Act of Treason|C
 Aether Adept|C
+Act of Treason|C
 Ajani Goldmane|M
 Air Servant|U
 Ajani's Pridemate|U
 Ajani's Mantra|C
 Alluring Siren|U
-Ancient Hellkite|R
-Angel's Feather|U
 Angelic Arbiter|R
+Ancient Hellkite|R
 Armored Ascension|U
 Arc Runner|C
+Armored Cancrix|C
 Assault Griffin|C
 Assassinate|C
-Armored Cancrix|C
+Awakener Druid|U
 Augury Owl|C
+Autumn's Veil|U
+Baneslayer Angel|M
 Back to Nature|U
+Azure Drake|C
 Barony Vampire|C
 Berserkers of Blood Ridge|C
 Birds of Paradise|R
 Black Knight|U
-Bloodthrone Vampire|C
 Blinding Mage|C
-Bloodcrazed Goblin|C
-Blood Tithe|C
-Bog Raiders|C
-Brindle Boar|C
-Brittle Effigy|R
-Cancel|C
-Call to Mind|U
-Canyon Minotaur|C
-Chandra Nalaar|M
-Celestial Purge|U
-Captivating Vampire|R
-Chandra's Spitfire|U
-Child of Night|C
-Chandra's Outrage|C
-Clone|R
-Cloud Crusader|C
-Cloud Elemental|C
-Conundrum Sphinx|R
-Condemn|U
-Combust|U
-Corrupt|U
-Crystal Ball|U
-Cudgel Troll|U
 Cyclops Gladiator|R
-Day of Judgment|R
 Cultivate|C
-Demolish|C
-Dark Tutelage|R
+Day of Judgment|R
 Deathmark|U
-Diminish|C
-Destructive Force|R
-Demon of Death's Gate|M
 Demon's Horn|U
+Demolish|C
+Demon of Death's Gate|M
+Destructive Force|R
 Diabolic Tutor|U
+Diminish|C
 Doom Blade|C
 Disentomb|C
-Dragonskull Summit|R
 Dragon's Claw|U
+Dragonskull Summit|R
 Drowned Catacomb|R
 Dryad's Favor|C
 Duskdale Wurm|U
@@ -72,24 +47,137 @@ Earth Servant|U
 Elite Vanguard|U
 Elvish Archdruid|R
 Elixir of Immortality|U
+Bloodcrazed Goblin|C
+Blood Tithe|C
+Brindle Boar|C
+Bog Raiders|C
+Brittle Effigy|R
+Call to Mind|U
+Cancel|C
+Canyon Minotaur|C
+Captivating Vampire|R
+Chandra Nalaar|M
+Celestial Purge|U
+Conundrum Sphinx|R
+Chandra's Spitfire|U
+Chandra's Outrage|C
+Child of Night|C
+Cloud Crusader|C
+Cloud Elemental|C
+Condemn|U
+Clone|R
+Combust|U
+Cudgel Troll|U
+Crystal Ball|U
+Bloodthrone Vampire|C
+Corrupt|U
+Dark Tutelage|R
+Leyline of Punishment|R
+Leyline of Anticipation|R
+Leyline of Sanctity|R
+Leyline of the Void|R
+Leyline of Vitality|R
+Lightning Bolt|C
+Liliana Vess|M
+Liliana's Specter|C
+Liliana's Caress|U
+Llanowar Elves|C
+Magma Phoenix|R
+Manic Vandal|C
+Mana Leak|C
+Maritime Guard|C
+Merfolk Sovereign|R
+Mass Polymorph|R
+Mind Control|U
+Merfolk Spy|C
+Mighty Leap|C
+Mitotic Slime|R
+Mind Rot|C
+Nantuko Shade|R
+Mountain|L
+Mystifying Maze|R
+Necrotic Plague|R
+Nature's Spiral|U
 Ember Hauler|U
-Excommunicate|C
 Fauna Shaman|R
+Excommunicate|C
 Fiery Hellhound|C
 Fire Servant|U
 Fling|C
-Flashfreeze|U
 Fireball|U
 Fog|C
 Foresee|C
+Flashfreeze|U
+Gaea's Revenge|M
 Forest|L
 Frost Titan|M
-Gaea's Revenge|M
 Gargoyle Sentinel|U
 Garruk Wildspeaker|M
 Garruk's Companion|C
-Stabbing Pain|C
+Garruk's Packleader|U
+Giant Spider|C
+Giant Growth|C
+Goblin Balloon Brigade|C
+Glacial Fortress|R
+Goblin Piker|C
+Goblin Chieftain|R
+Goblin Tunneler|C
+Goldenglow Moth|C
+Gravedigger|C
+Grave Titan|M
+Harbor Serpent|C
+Hoarding Dragon|R
+Haunting Echoes|R
+Greater Basilisk|C
+Holy Strength|C
+Honor of the Pure|R
+Howling Banshee|U
+Hornet Sting|C
+Ice Cage|C
+Hunters' Feast|C
+Infantry Veteran|C
+Inferno Titan|M
+Incite|C
+Island|L
+Inspired Charge|C
+Jace Beleren|M
+Jace's Ingenuity|U
+Jace's Erasure|C
+Jinxed Idol|R
+Juggernaut|U
+Knight Exemplar|R
+Lava Axe|C
+Kraken's Eye|U
+Naturalize|C
+Nether Horror|C
+Quag Sickness|C
+Reassembling Skeleton|U
+Relentless Rats|U
+Redirect|R
+Roc Egg|U
+Rise from the Grave|U
+Reverberate|R
+Rotting Legion|C
+Rootbound Crag|R
+Royal Assassin|R
+Runeclaw Bear|C
+Scroll Thief|C
+Sacred Wolf|C
+Safe Passage|C
+Serra Ascendant|R
+Serra Angel|U
+Shiv's Embrace|U
+Siege Mastodon|C
+Silence|R
+Sign in Blood|C
+Silvercoat Lion|C
+Sorcerer's Strongbox|U
+Solemn Offering|C
+Sleep|U
+Spined Wurm|C
+Squadron Hawk|C
 Steel Overseer|R
+Stabbing Pain|C
 Stormfront Pegasus|C
 Stone Golem|U
 Sun Titan|M
@@ -98,137 +186,49 @@ Swamp|L
 Sunpetal Grove|R
 Sword of Vengeance|R
 Sylvan Ranger|C
+Thunder Strike|C
 Terramorphic Expanse|C
 Temple Bell|R
-Thunder Strike|C
-Tireless Missionaries|C
 Time Reversal|M
+Tireless Missionaries|C
 Triskelion|R
 Traumatize|R
 Tome Scour|C
 Unholy Strength|C
-Unsummon|C
 Vengeful Archon|R
 Viscera Seer|C
+Unsummon|C
 Volcanic Strength|C
+Wall of Frost|U
 Vulshok Berserker|C
 Voltaic Key|U
-Wall of Frost|U
 Wall of Vines|C
 War Priest of Thune|U
 Warlord's Axe|U
 Water Servant|U
 Whispersilk Cloak|U
 White Knight|U
-Wild Evocation|R
 Wild Griffin|C
-Wurm's Tooth|U
+Wild Evocation|R
 Yavimaya Wurm|C
-Runeclaw Bear|C
-Sacred Wolf|C
-Safe Passage|C
-Scroll Thief|C
-Serra Angel|U
-Jace's Ingenuity|U
-Jace's Erasure|C
-Knight Exemplar|R
-Jinxed Idol|R
-Juggernaut|U
-Kraken's Eye|U
-Lava Axe|C
-Leyline of Vitality|R
-Leyline of Punishment|R
-Leyline of Anticipation|R
-Leyline of Sanctity|R
-Leyline of the Void|R
-Liliana Vess|M
-Liliana's Caress|U
-Lightning Bolt|C
-Liliana's Specter|C
-Llanowar Elves|C
-Mana Leak|C
-Magma Phoenix|R
-Manic Vandal|C
-Maritime Guard|C
-Merfolk Sovereign|R
-Mass Polymorph|R
-Merfolk Spy|C
-Mind Control|U
-Mighty Leap|C
-Mountain|L
-Mitotic Slime|R
-Mind Rot|C
-Nantuko Shade|R
-Mystifying Maze|R
-Nether Horror|C
-Nature's Spiral|U
-Naturalize|C
-Necrotic Plague|R
+Wurm's Tooth|U
 Negate|C
-Pacifism|C
 Nightwing Shade|C
 Obstinate Baloth|R
+Pacifism|C
 Ornithopter|U
 Overwhelming Stampede|R
 Palace Guard|C
-Phylactery Lich|R
 Phantom Beast|C
-Plains|L
+Phylactery Lich|R
 Platinum Angel|M
+Plains|L
+Primal Cocoon|C
 Preordain|C
 Plummet|C
-Primal Cocoon|C
-Prodigal Pyromancer|U
-Primeval Titan|M
 Prized Unicorn|U
+Prodigal Pyromancer|U
 Protean Hydra|R
 Pyroclasm|U
-Quag Sickness|C
 Pyretic Ritual|C
-Relentless Rats|U
-Reassembling Skeleton|U
-Redirect|R
-Roc Egg|U
-Reverberate|R
-Rise from the Grave|U
-Rootbound Crag|R
-Rotting Legion|C
-Royal Assassin|R
-Serra Ascendant|R
-Shiv's Embrace|U
-Siege Mastodon|C
-Silence|R
-Sign in Blood|C
-Silvercoat Lion|C
-Sorcerer's Strongbox|U
-Sleep|U
-Solemn Offering|C
-Spined Wurm|C
-Squadron Hawk|C
-Garruk's Packleader|U
-Giant Growth|C
-Giant Spider|C
-Goblin Balloon Brigade|C
-Glacial Fortress|R
-Goblin Chieftain|R
-Goblin Piker|C
-Goblin Tunneler|C
-Goldenglow Moth|C
-Gravedigger|C
-Grave Titan|M
-Greater Basilisk|C
-Harbor Serpent|C
-Hoarding Dragon|R
-Haunting Echoes|R
-Holy Strength|C
-Honor of the Pure|R
-Hornet Sting|C
-Howling Banshee|U
-Ice Cage|C
-Hunters' Feast|C
-Infantry Veteran|C
-Incite|C
-Inferno Titan|M
-Island|L
-Inspired Charge|C
-Jace Beleren|M
+Primeval Titan|M

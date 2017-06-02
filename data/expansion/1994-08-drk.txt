@@ -1,28 +1,30 @@
+Fountain of Youth|R
+Fissure|C
+Ashes to Ashes|C
 Angry Mob|R
 Amnesia|R
-Ball Lightning|R
-Banshee|R
 Apprentice Wizard|R
-Ashes to Ashes|C
+Ball Lightning|R
 Blood Moon|R
-Bog Imp|C
+Banshee|R
 Blood of the Martyr|R
 Barl's Cage|R
 Bog Rats|C
 Brainwash|C
-Brothers of Fire|R
-Bone Flute|R
+Bog Imp|C
 Book of Rass|R
+Bone Flute|R
+Brothers of Fire|R
 Carnivorous Plant|C
 Cleansing|R
-Cave People|R
-Curse Artifact|R
 City of Shadows|R
+Cave People|R
 Coal Golem|R
+Curse Artifact|R
 Dark Heart of the Wood|C
-Diabolic Machine|R
 Dance of Many|R
 Dark Sphere|R
+Diabolic Machine|R
 Deep Water|C
 Eater of the Dead|R
 Drowned|C
@@ -32,24 +34,22 @@ Elves of Deep Shadow|R
 Exorcist|R
 Erosion|C
 Eternal Flame|R
+Fellwar Stone|R
 Festival|C
 Fasting|R
-Fellwar Stone|R
 Fire Drake|R
-Fissure|C
 Fire and Brimstone|R
 Flood|R
-Fountain of Youth|R
 Frankenstein's Monster|R
 Ghost Ship|C
-Giant Shark|C
 Gaea's Touch|C
-Goblin Digging Team|C
+Giant Shark|C
 Goblin Caves|C
+Goblin Digging Team|C
 Goblin Rock Sled|C
 Goblin Hero|C
-Goblin Wizard|R
 Goblin Shrine|C
+Goblin Wizard|R
 Goblins of the Flarg|C
 Grave Robbers|R
 Inferno|R
@@ -57,63 +57,63 @@ Knights of Thorn|R
 Holy Light|C
 Hidden Path|R
 Inquisition|C
-Lurker|R
+Land Leeches|C
 Living Armor|R
 Leviathan|R
-Land Leeches|C
+Marsh Gas|C
+Lurker|R
 Mana Clash|R
 Mana Vortex|R
-Marsh Gas|C
 Marsh Goblins|C
 Maze of Ith|U
+Marsh Viper|C
 Martyr's Cry|R
-Mind Bomb|R
-Miracle Worker|C
 Merfolk Assassin|R
+Miracle Worker|C
+Mind Bomb|R
 Murk Dwellers|C
 Morale|C
 Nameless Race|R
-Necropolis|R
 Niall Silvain|R
+Necropolis|R
 People of the Woods|R
-Preacher|R
 Orc General|R
+Preacher|R
 Pikemen|C
-Psychic Allergy|R
 Rag Man|R
+Psychic Allergy|R
 Riptide|C
 Reflecting Mirror|R
 Safe Haven|R
 Runesword|R
-Scarwood Bandits|R
 Savaen Elves|C
 Scarecrow|R
-Scarwood Goblins|C
+Scarwood Bandits|R
 Scarwood Hag|R
+Scarwood Goblins|C
 Scavenger Folk|C
 Sisters of the Flame|R
 Season of the Witch|R
-Skull of Orm|R
 Sorrow's Path|R
+Skull of Orm|R
 Spitting Slug|R
-Squire|C
 Stone Calendar|R
+Squire|C
+Sunken City|C
+Tormod's Crypt|R
 Standing Stones|R
 Tangle Kelp|R
-Sunken City|C
 Tivadar's Crusade|R
-Tower of Coireall|R
 The Fallen|R
-Tormod's Crypt|R
+Tower of Coireall|R
 Tracker|R
 Venom|C
 Uncle Istvan|R
-Water Wurm|C
 War Barge|R
-Whippoorwill|R
 Wand of Ith|R
-Worms of the Earth|R
+Water Wurm|C
+Whippoorwill|R
 Witch Hunter|R
-Word of Binding|C
 Wormwood Treefolk|R
-Marsh Viper|C
+Word of Binding|C
+Worms of the Earth|R
