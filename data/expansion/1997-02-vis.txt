@@ -1,4 +1,5 @@
-Death Watch|C
+Foreshadow|U
+Flooded Shoreline|R
 Archangel|R
 Aku Djinn|R
 Anvil of Bogardan|R
@@ -22,6 +23,7 @@ Crypt Rats|C
 Daraja Griffin|U
 Dark Privilege|C
 Desolation|U
+Death Watch|C
 Diamond Kaleidoscope|R
 Desertion|R
 Dormant Volcano|U
@@ -41,8 +43,6 @@ Fireblast|C
 Feral Instinct|C
 Forbidden Ritual|R
 Firestorm Hellkite|R
-Flooded Shoreline|R
-Foreshadow|U
 Freewind Falcon|C
 Giant Caterpillar|C
 Funeral Charm|C
@@ -57,20 +57,43 @@ Honorable Passage|U
 Helm of Awakening|U
 Hope Charm|C
 Hulking Cyclops|U
-Inspiration|C
-Infantry Veteran|C
-Impulse|C
-Infernal Harvest|C
-Jamuraan Lion|C
-Iron-Heart Chimera|U
-Resistance Fighter|C
+Squandered Resources|R
+Summer Bloom|U
+Suleiman's Legacy|R
+Sun Clasp|C
+Suq'Ata Assassin|U
+Suq'Ata Lancer|C
+Talruum Champion|C
+Talruum Piper|U
+Tar Pit Warrior|C
+Teferi's Honor Guard|U
+Teferi's Realm|R
+Teferi's Puzzle Box|R
+Tempest Drake|U
+Time and Tide|U
+Tin-Wing Chimera|U
+Three Wishes|R
+Triangle of War|R
+Tithe|R
+Uktabi Orangutan|U
+Tremor|C
+Undiscovered Paradise|R
+Undo|C
+Vampirism|U
+Urborg Mindsucker|C
+Vampiric Tutor|R
+Vanishing|C
+Viashino Sandstalker|U
 Relic Ward|U
 Relentless Assault|R
+Resistance Fighter|C
 Righteous Aura|C
 Remedy|C
 Retribution of the Meek|R
 Righteous War|R
 River Boa|C
+Rowen|R
+Sands of Time|R
 Rock Slide|C
 Scalebane's Elite|U
 Shimmering Efreet|U
@@ -83,45 +106,12 @@ Spider Climb|C
 Song of Blood|C
 Spitting Drake|U
 Stampeding Wildebeests|U
-Squandered Resources|R
-Summer Bloom|U
-Suleiman's Legacy|R
-Suq'Ata Assassin|U
-Suq'Ata Lancer|C
-Sun Clasp|C
-Talruum Piper|U
-Tar Pit Warrior|C
-Talruum Champion|C
-Teferi's Honor Guard|U
-Teferi's Realm|R
-Teferi's Puzzle Box|R
-Tempest Drake|U
-Time and Tide|U
-Rowen|R
-Sands of Time|R
-Three Wishes|R
-Tin-Wing Chimera|U
-Tremor|C
-Triangle of War|R
-Tithe|R
-Uktabi Orangutan|U
-Undo|C
-Undiscovered Paradise|R
-Vampirism|U
-Urborg Mindsucker|C
-Vampiric Tutor|R
-Viashino Sandstalker|U
-Viashivan Dragon|R
-Vision Charm|C
-Vanishing|C
-Wake of Vultures|C
-Warrior's Honor|C
-Wand of Denial|R
-Waterspout Djinn|U
-Warthog|C
-Wind Shear|U
-Wicked Reward|C
-Zhalfirin Crusader|R
+Inspiration|C
+Infantry Veteran|C
+Impulse|C
+Infernal Harvest|C
+Jamuraan Lion|C
+Iron-Heart Chimera|U
 Kaervek's Spite|R
 Jungle Basin|U
 Juju Bubble|U
@@ -165,3 +155,13 @@ Quicksand|U
 Quirion Ranger|C
 Raging Gorilla|C
 Rainbow Efreet|R
+Vision Charm|C
+Viashivan Dragon|R
+Wake of Vultures|C
+Warrior's Honor|C
+Wand of Denial|R
+Warthog|C
+Waterspout Djinn|U
+Wind Shear|U
+Wicked Reward|C
+Zhalfirin Crusader|R

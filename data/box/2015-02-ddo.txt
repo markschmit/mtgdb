@@ -1,18 +1,14 @@
+Celestial Flare|C
 Banisher Priest|U
+Coiling Oracle|C
 Captain of the Watch|R
 Accumulated Knowledge|C
-Coiling Oracle|C
-Celestial Flare|C
-Court Street Denizen|C
 Dictate of Heliod|R
-Dauntless Onslaught|U
-Explore|C
+Court Street Denizen|C
 Decree of Justice|R
+Dauntless Onslaught|U
 Elspeth, Sun's Champion|M
-Evolving Wilds|C
-Forest|L
-Explosive Vegetation|U
-Gempalm Avenger|C
+Aetherize|U
 Grazing Gladehart|C
 Gustcloak Harrier|C
 Gustcloak Savior|R
@@ -26,35 +22,39 @@ Kiora's Follower|U
 Kiora, the Crashing Wave|M
 Kor Skyfisher|C
 Lorescale Coatl|U
+Kraken|C
 Loxodon Partisan|C
 Mortal's Ardor|C
-Kraken|C
-Man-o'-War|C
 Mother of Runes|U
 Mighty Leap|C
+Man-o'-War|C
 Netcaster Spider|C
-Nimbus Swimmer|U
 Nessian Asp|C
+Nimbus Swimmer|U
 Noble Templar|C
 Plains|L
-Plasm Capture|R
-Peel from Reality|C
 Omenspeaker|C
+Peel from Reality|C
 Scourge of Fleets|R
 Precinct Captain|R
+Plasm Capture|R
 Raise the Alarm|C
 Sealock Monster|U
+Simic Sky Swallower|R
 Secluded Steppe|C
 Standing Troops|C
-Simic Sky Swallower|R
 Soldier|C
-Surrakar Banisher|C
 Soul Parry|C
 Time to Feed|C
+Surrakar Banisher|C
 Sunlance|C
+Temple of the False God|U
+Urban Evolution|U
 Veteran Armorsmith|C
 Veteran Swordsmith|C
-Urban Evolution|U
-Temple of the False God|U
 Whelming Wave|R
-Aetherize|U
+Explore|C
+Evolving Wilds|C
+Forest|L
+Explosive Vegetation|U
+Gempalm Avenger|C

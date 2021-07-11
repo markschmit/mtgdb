@@ -1,5 +1,4 @@
-Blood Crypt|R
-Bond of Agony|U
+Blessing of the Nephilim|U
 Aquastrand Spider|C
 Aethermage's Touch|R
 Assault Zeppelid|C
@@ -14,17 +13,18 @@ Azorius Guildmage|U
 Azorius Signet|C
 Azorius Ploy|U
 Beacon Hawk|C
-Blessing of the Nephilim|U
 Biomantic Mastery|R
 Dovescape|R
+Blood Crypt|R
+Bond of Agony|U
 Brace for Impact|U
 Brain Pry|U
 Breeding Pool|R
 Bronze Bombshell|R
 Carom|C
 Cackling Flames|C
-Celestial Ancient|R
 Coiling Oracle|C
+Celestial Ancient|R
 Court Hussar|U
 Condemn|U
 Crypt Champion|U
@@ -44,7 +44,7 @@ Dread Slag|R
 Drekavac|U
 Enemy of the Guildpact|C
 Enigma Eidolon|C
-Pain Magnification|U
+Ogre Gatecrasher|C
 Entropic Eidolon|C
 Evolution Vat|R
 Flame-Kin War Scout|U
@@ -66,10 +66,10 @@ Haazda Shield Mate|R
 Hallowed Fountain|R
 Helium Squirter|C
 Hellhole Rats|U
-Indrik Stomphowler|U
-Ignorant Bliss|U
-Silkwing Scout|C
 Sandstorm Eidolon|C
+Silkwing Scout|C
+Ignorant Bliss|U
+Indrik Stomphowler|U
 Jagged Poppet|U
 Infernal Tutor|R
 Isperia the Inscrutable|R
@@ -87,13 +87,32 @@ Momir Vig, Simic Visionary|R
 Nettling Curse|C
 Muse Vessel|R
 Novijen Sages|R
+Twinstrike|U
+Utvara Scalper|C
+Verdant Eidolon|C
+Valor Made Real|C
+Vesper Ghoul|C
+Vigean Hydropon|C
+Vigean Graftmage|U
+Vigean Intuition|U
+Voidslime|R
+Vision Skeins|C
+Wakestone Gargoyle|R
+Walking Archive|R
+Whiptail Moloch|C
+Weight of Spires|U
+Windreaver|R
+Wrecking Ball|C
+Writ of Passage|C
+War's Toll|R
+Wit's End|R
 Nihilistic Glee|R
 Nightcreep|U
 Ocular Halo|C
 Novijen, Heart of Progress|U
-Ogre Gatecrasher|C
-Odds/Ends|R
+Pain Magnification|U
 Overrule|C
+Odds/Ends|R
 Omnibian|R
 Paladin of Prahv|U
 Patagia Viper|U
@@ -159,22 +178,3 @@ Thrive|C
 Utopia Sprawl|C
 Trial/Error|U
 Unliving Psychopath|R
-Twinstrike|U
-Utvara Scalper|C
-Verdant Eidolon|C
-Valor Made Real|C
-Vesper Ghoul|C
-Vigean Graftmage|U
-Vigean Hydropon|C
-Vision Skeins|C
-Vigean Intuition|U
-Voidslime|R
-Walking Archive|R
-Wakestone Gargoyle|R
-Whiptail Moloch|C
-Weight of Spires|U
-War's Toll|R
-Wrecking Ball|C
-Windreaver|R
-Writ of Passage|C
-Wit's End|R

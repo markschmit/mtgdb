@@ -1,49 +1,128 @@
-Frenzied Fugue|U
-Dauntless Escort|R
-Deepglow Skate|R
-Decimate|R
-Den Protector|R
-Dimir Aqueduct|U
-Devastation Tide|R
-Disdainful Stroke|C
-Etherium Sculptor|C
-Dismal Backwater|C
-Dispeller's Capsule|C
-Divergent Transformations|R
-Dragon Mage|R
-Dreadship Reef|U
-Dragonskull Summit|R
-Duelist's Heritage|R
-Edric, Spymaster of Trest|R
-Elite Scaleguard|U
-Empyrial Plate|R
-Enduring Scalelord|U
-Entrapment Maneuver|R
-Duneblast|R
-Etherium-Horn Sorcerer|R
-Etched Oracle|U
-Ethersworn Adjudicator|M
-Evolutionary Escalation|U
-Everflowing Chalice|U
-Everlasting Torment|R
-Executioner's Capsule|C
-Evacuation|R
-Evolving Wilds|C
-Exotic Orchard|R
-Farseek|C
-Faerie Artisans|R
-Far Wanderings|C
-Fellwar Stone|U
-Fathom Mage|R
-Festercreep|C
-Forbidden Orchard|R
-Filigree Angel|R
-Forgotten Ancient|R
-Forest|L
+Island|L
+Kazuul, Tyrant of the Cliffs|R
+Jungle Hollow|C
+Izzet Boilerworks|U
+Jungle Shrine|U
+Juniper Order Ranger|U
+Kalonian Hydra|M
+Karplusan Forest|R
+Ishai, Ojutai Dragonspeaker|M
+Jor Kadeen, the Prevailer|R
+Keening Stone|R
+Kodama's Reach|C
+Korozda Guildmage|U
+Kraum, Ludevic's Opus|R
+Kydele, Chosen of Kruphix|M
+Krosan Verge|U
+Languish|R
+Kynaios and Tiro of Meletis|M
+Lightning Greaves|U
+Loxodon Warhammer|U
+Ludevic, Necro-Alchemist|M
+Lavalanche|R
+Magus of the Will|R
+Lurking Predators|R
+Master Biomancer|M
+Manifold Insights|R
+Managorger Hydra|R
+Master of Etherium|R
+Migratory Route|U
+Mentor of the Meek|R
+Merciless Eviction|R
+Minds Aglow|R
+Mirror Entity|R
+Mosswort Bridge|R
+Mortify|U
+Mirrorweave|R
+Mountain|L
+Mycoloth|R
+Murmuring Bosk|R
+Myr Battlesphere|R
+Mycosynth Wellspring|C
+Myr Retriever|U
+Mystic Monastery|U
+Myriad Landscape|U
+Nath of the Gilt-Leaf|R
+Necroplasm|R
+Necrogenesis|U
+Naya Charm|U
+Nomad Outpost|U
+Nevinyrral's Disk|R
+Oath of Druids|R
+Oblation|R
+Open the Vaults|R
+Opal Palace|C
+Opulent Palace|U
+Order/Chaos|U
+Plains|L
+Primeval Protector|R
+Progenitor Mimic|M
+Prismatic Geoscope|R
+Propaganda|U
+Rakdos Charm|U
+Psychosis Crawler|R
+Quirion Explorer|C
+Putrefy|U
+Rakdos Carnarium|U
+Rakdos Signet|C
+Orzhov Advokist|U
+Orzhov Signet|C
+Orzhov Basilica|U
+Parting Thoughts|U
+Past in Flames|M
+Phyrexian Rebirth|R
+Temple of the False God|U
+Tempt with Discovery|R
+Temple Bell|R
+Terminate|C
+Thelonite Hermit|R
+Terramorphic Expanse|C
+Thopter Foundry|U
+Tezzeret's Gambit|U
+Thrasios, Triton Hero|R
+Thrummingbird|U
+Thunderfoot Baloth|R
+Trading Post|R
+Transguild Promenade|C
+Treacherous Terrain|U
+Treasure Cruise|C
+Trash for Treasure|R
+Trial/Error|U
+Trinket Mage|C
+Tymna the Weaver|R
+Utter End|R
+Tuskguard Captain|U
+Underground River|R
+Vedalken Engineer|C
+Veteran Explorer|U
+Venser's Journal|R
+Vial Smasher the Fierce|M
+Vorel of the Hull Clade|R
+Volcanic Vision|R
+Vulturous Zombie|R
+Wall of Blossoms|U
+Wheel of Fate|R
+Wave of Reckoning|R
+Waste Not|R
+Whims of the Fates|R
+Whispersilk Cloak|U
+Whipflare|U
+Whispering Madness|R
+Wight of Precinct Six|U
+Wild Beastmaster|R
+Wilderness Elemental|U
+Worm Harvest|R
+Windborn Muse|R
+Windfall|U
+Zedruu the Greathearted|M
+Thornwood Falls|C
+Windbrisk Heights|R
+Yidris, Maelstrom Wielder|M
+Zhur-Taa Druid|C
 Abzan Falconer|U
+Abzan Charm|U
 Academy Elite|R
 Aeon Chronicler|R
-Abzan Charm|U
 Akiri, Line-Slinger|R
 Akroan Horse|R
 Alesha, Who Smiles at Death|R
@@ -52,10 +131,10 @@ Ancient Excavation|U
 Ankle Shanker|R
 Arcane Sanctum|U
 Armory Automaton|R
-Assault Suit|U
 Artifact Mutation|R
 Army of the Damned|M
 Ash Barrens|C
+Assault Suit|U
 Aura Mutation|R
 Astral Cornucopia|R
 Atraxa, Praetors' Voice|M
@@ -66,10 +145,10 @@ Beast Within|U
 Beacon of Unrest|R
 Beastmaster Ascension|R
 Benefactor's Draught|R
-Bituminous Blast|U
 Blasphemous Act|R
-Blazing Archon|R
+Bituminous Blast|U
 Blind Obedience|R
+Blazing Archon|R
 Blinkmoth Urn|R
 Bloodbraid Elf|U
 Blood Tyrant|R
@@ -87,8 +166,8 @@ Cathars' Crusade|R
 Buried Ruin|U
 Burgeoning|R
 Cauldron of Souls|R
-Chain of Vapor|U
 Caves of Koilos|R
+Chain of Vapor|U
 Champion of Lambholt|R
 Chasm Skulker|R
 Charging Cinderhorn|R
@@ -118,6 +197,48 @@ Daretti, Scrap Savant|M
 Darksteel Citadel|U
 Darkwater Catacombs|R
 Darksteel Ingot|U
+Dauntless Escort|R
+Deepglow Skate|R
+Decimate|R
+Den Protector|R
+Dimir Aqueduct|U
+Devastation Tide|R
+Disdainful Stroke|C
+Dismal Backwater|C
+Dispeller's Capsule|C
+Divergent Transformations|R
+Dragon Mage|R
+Dreadship Reef|U
+Dragonskull Summit|R
+Duelist's Heritage|R
+Edric, Spymaster of Trest|R
+Empyrial Plate|R
+Elite Scaleguard|U
+Duneblast|R
+Enduring Scalelord|U
+Etched Oracle|U
+Entrapment Maneuver|R
+Etherium Sculptor|C
+Etherium-Horn Sorcerer|R
+Ethersworn Adjudicator|M
+Evolutionary Escalation|U
+Everflowing Chalice|U
+Evacuation|R
+Executioner's Capsule|C
+Everlasting Torment|R
+Evolving Wilds|C
+Exotic Orchard|R
+Faerie Artisans|R
+Farseek|C
+Far Wanderings|C
+Fathom Mage|R
+Fellwar Stone|U
+Festercreep|C
+Forbidden Orchard|R
+Filigree Angel|R
+Forest|L
+Forgotten Ancient|R
+Frenzied Fugue|U
 Gamekeeper|U
 Frontier Bivouac|U
 Ghostly Prison|U
@@ -142,88 +263,6 @@ Hardened Scales|R
 Hellkite Tyrant|M
 Hoofprints of the Stag|R
 Homeward Path|R
-Horizon Chimera|U
-Humble Defector|U
-Howling Mine|R
-Hushwing Gryff|R
-Ikra Shidiqi, the Usurper|M
-Ichor Wellspring|C
-Inspiring Call|U
-In Garruk's Wake|R
-Iroas, God of Victory|M
-Ishai, Ojutai Dragonspeaker|M
-Jor Kadeen, the Prevailer|R
-Island|L
-Izzet Boilerworks|U
-Jungle Shrine|U
-Jungle Hollow|C
-Juniper Order Ranger|U
-Kalonian Hydra|M
-Kazuul, Tyrant of the Cliffs|R
-Karplusan Forest|R
-Kodama's Reach|C
-Keening Stone|R
-Korozda Guildmage|U
-Kraum, Ludevic's Opus|R
-Kydele, Chosen of Kruphix|M
-Krosan Verge|U
-Languish|R
-Kynaios and Tiro of Meletis|M
-Loxodon Warhammer|U
-Lightning Greaves|U
-Ludevic, Necro-Alchemist|M
-Lavalanche|R
-Magus of the Will|R
-Lurking Predators|R
-Managorger Hydra|R
-Master Biomancer|M
-Manifold Insights|R
-Master of Etherium|R
-Mentor of the Meek|R
-Migratory Route|U
-Merciless Eviction|R
-Minds Aglow|R
-Mirror Entity|R
-Mosswort Bridge|R
-Mortify|U
-Mirrorweave|R
-Mountain|L
-Mycoloth|R
-Murmuring Bosk|R
-Myr Battlesphere|R
-Mycosynth Wellspring|C
-Myr Retriever|U
-Mystic Monastery|U
-Myriad Landscape|U
-Nath of the Gilt-Leaf|R
-Necroplasm|R
-Necrogenesis|U
-Naya Charm|U
-Nomad Outpost|U
-Nevinyrral's Disk|R
-Oath of Druids|R
-Oblation|R
-Open the Vaults|R
-Opal Palace|C
-Opulent Palace|U
-Orzhov Advokist|U
-Order/Chaos|U
-Orzhov Signet|C
-Orzhov Basilica|U
-Parting Thoughts|U
-Past in Flames|M
-Phyrexian Rebirth|R
-Plains|L
-Primeval Protector|R
-Progenitor Mimic|M
-Prismatic Geoscope|R
-Rakdos Charm|U
-Psychosis Crawler|R
-Propaganda|U
-Quirion Explorer|C
-Putrefy|U
-Rakdos Carnarium|U
-Rakdos Signet|C
 Rampant Growth|C
 Ravos, Soultender|M
 Realm Seekers|R
@@ -289,53 +328,14 @@ Swiftwater Cliffs|C
 Sydri, Galvanic Genius|M
 Sylvok Explorer|C
 Sylvan Reclamation|U
+Horizon Chimera|U
+Humble Defector|U
+Howling Mine|R
+Hushwing Gryff|R
+Ikra Shidiqi, the Usurper|M
 Tana, the Bloodsower|M
 Taurean Mauler|R
-Tempt with Discovery|R
-Temple of the False God|U
-Temple Bell|R
-Terminate|C
-Thelonite Hermit|R
-Terramorphic Expanse|C
-Thornwood Falls|C
-Tezzeret's Gambit|U
-Thopter Foundry|U
-Thrasios, Triton Hero|R
-Thrummingbird|U
-Thunderfoot Baloth|R
-Transguild Promenade|C
-Trading Post|R
-Trash for Treasure|R
-Treacherous Terrain|U
-Treasure Cruise|C
-Trinket Mage|C
-Trial/Error|U
-Tuskguard Captain|U
-Tymna the Weaver|R
-Utter End|R
-Underground River|R
-Veteran Explorer|U
-Vedalken Engineer|C
-Venser's Journal|R
-Vial Smasher the Fierce|M
-Vorel of the Hull Clade|R
-Volcanic Vision|R
-Vulturous Zombie|R
-Wall of Blossoms|U
-Wheel of Fate|R
-Wave of Reckoning|R
-Waste Not|R
-Whims of the Fates|R
-Whipflare|U
-Whispersilk Cloak|U
-Whispering Madness|R
-Wight of Precinct Six|U
-Wild Beastmaster|R
-Wilderness Elemental|U
-Windborn Muse|R
-Windfall|U
-Windbrisk Heights|R
-Zedruu the Greathearted|M
-Worm Harvest|R
-Yidris, Maelstrom Wielder|M
-Zhur-Taa Druid|C
+Ichor Wellspring|C
+Inspiring Call|U
+In Garruk's Wake|R
+Iroas, God of Victory|M

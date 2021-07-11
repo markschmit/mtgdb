@@ -1,117 +1,55 @@
-Blessed Alliance|U
-Bloodbriar|C
-Abandon Reason|U
-Abundant Maw|U
-Advanced Stitchwing|U
-Assembled Alphas|R
-Alchemist's Greeting|C
-Aurora of Emrakul|U
-Backwoods Survivalists|C
-Bedlam Reveler|R
-Blood Mist|U
 Abolisher of Bloodlines|R
-Mercurial Geists|U
 Markov Crusader|U
-Mirrorwing Dragon|M
-Mausoleum Wanderer|R
 Midnight Scavengers|C
+Mirrorwing Dragon|M
+Mercurial Geists|U
+Mausoleum Wanderer|R
 Mockery of Nature|U
 Mind's Dilation|M
-Field Creeper|C
-Fiend Binder|C
-Fibrous Entangler|U
-Final Iteration|R
-Foul Emissary|U
-Fogwalker|C
-Fortune's Favor|U
-Gavony Unhallowed|C
-Galvanic Bombardment|C
-Furyblade Vampire|U
-Geist of the Archives|U
-Geier Reach Sanitarium|R
-Geist-Fueled Scarecrow|U
-Geist of the Lonely Vigil|U
-Gisa and Geralf|M
-Gisela, the Broken Blade|M
-Gnarlwood Dryad|U
-Give No Ground|U
-Graf Rats|C
-Graf Harvest|U
-Grapple with the Past|C
-Grim Flayer|M
-Grisly Anglerfish|U
-Grizzled Angler|U
-Hamlet Captain|U
-Guardian of Pilgrims|C
-Hanweir Battlements|R
-Hanweir Garrison|R
-Hanweir, the Writhing Township|R
-Haunted Dead|U
-Harmless Offering|R
-Heron's Grace Champion|R
-Howling Chorus|U
-Identity Thief|R
-Impetuous Devils|R
-Imprisoned in the Moon|R
-Ingenious Skaab|C
-Incendiary Flow|U
-Insatiable Gorgers|U
-Ironclad Slayer|C
-Ishkanah, Grafwidow|M
-Ironwright's Cleansing|C
-It of the Horrid Swarm|C
-It That Rides as One|U
-Kessig Prowler|U
-Laboratory Brute|C
-Lashweed Lurker|U
-Liliana's Elite|U
-Liliana, the Last Hope|M
-Lunar Force|U
-Lone Rider|U
-Long Road Home|U
-Lunarch Mantle|C
-Lupine Prototype|R
-Nahiri's Wrath|M
-Make Mischief|C
-Mournwillow|U
-Nebelgast Herald|U
-Murder|U
-Niblis of Frost|R
-Nephalia Academy|U
-Noose Constrictor|U
-Noosegraf Mob|R
-Oath of Liliana|R
-Olivia's Dragoon|C
-Otherworldly Outburst|C
-Permeating Mass|R
-Peace of Mind|U
-Prey Upon|C
-Primal Druid|C
-Prophetic Ravings|C
-Repel the Abominable|U
-Prying Questions|U
-Providence|R
-Ride Down|U
-Ruthless Disposal|U
-Rise from the Grave|U
-Sanctifier of Souls|R
-Scour the Laboratory|U
-Savage Alliance|U
-Selfless Spirit|R
-Shrill Howler|U
-Shreds of Sanity|U
-Sigardian Priest|C
-Sigarda's Aid|R
-Sinuous Predator|U
-Skirsdag Supplicant|C
-Slayer's Cleaver|U
-Smoldering Werewolf|U
-Somberwald Stag|U
+Blood Mist|U
+Blessed Alliance|U
+Bold Impaler|C
+Bloodbriar|C
+Bloodhall Priest|R
+Boon of Emrakul|C
+Borrowed Hostility|C
+Borrowed Grace|C
+Borrowed Malevolence|C
+Brazen Wolves|C
+Brisela, Voice of Nightmares|M
+Bruna, the Fading Light|R
+Campaign of Vengeance|U
+Certain Death|C
+Cemetery Recruitment|C
+Cathar's Shield|C
+Chilling Grasp|U
+Chittering Host|C
+Choking Restraints|C
+Collective Brutality|R
+Coax from the Blind Eternities|R
+Clear Shot|U
+Collective Defiance|R
+Collective Effort|R
+Conduit of Emrakul|U
+Conduit of Storms|U
+Convolute|C
+Contingency Plan|C
+Cryptbreaker|R
+Courageous Outrider|U
+Crossroads Consecrator|C
+Crop Sigil|U
+Cultist's Staff|C
+Cryptolith Fragment|U
+Curious Homunculus|U
+Dawn Gryff|C
+Dark Salvation|R
+Decimator of the Provinces|M
 Deploy the Gatewatch|M
+Deranged Whelp|U
 Desperate Sentry|C
 Distended Mindbender|R
-Displace|C
 Distemper of the Blood|C
+Displace|C
 Docent of Perfection|R
 Dronepack Kindred|C
 Drogskol Shieldmate|U
@@ -132,42 +70,100 @@ Exultant Cultist|C
 Faith Unbroken|U
 Faithbearer Paladin|C
 Falkenrath Reaver|C
-Bold Impaler|C
-Bloodhall Priest|R
-Boon of Emrakul|C
-Borrowed Hostility|C
-Borrowed Grace|C
-Borrowed Malevolence|C
-Brazen Wolves|C
-Bruna, the Fading Light|R
-Cathar's Shield|C
-Campaign of Vengeance|U
-Brisela, Voice of Nightmares|M
-Certain Death|C
-Cemetery Recruitment|C
-Chilling Grasp|U
-Chittering Host|C
-Choking Restraints|C
-Collective Brutality|R
-Coax from the Blind Eternities|R
-Clear Shot|U
-Collective Defiance|R
-Collective Effort|R
-Conduit of Emrakul|U
-Conduit of Storms|U
-Contingency Plan|C
-Convolute|C
-Cryptbreaker|R
-Courageous Outrider|U
-Crop Sigil|U
-Cultist's Staff|C
-Crossroads Consecrator|C
-Cryptolith Fragment|U
-Curious Homunculus|U
-Dawn Gryff|C
-Dark Salvation|R
-Decimator of the Provinces|M
-Deranged Whelp|U
+Fibrous Entangler|U
+Field Creeper|C
+Fiend Binder|C
+Final Iteration|R
+Foul Emissary|U
+Fogwalker|C
+Fortune's Favor|U
+Furyblade Vampire|U
+Gavony Unhallowed|C
+Galvanic Bombardment|C
+Geier Reach Sanitarium|R
+Geist of the Archives|U
+Geist of the Lonely Vigil|U
+Geist-Fueled Scarecrow|U
+Gisa and Geralf|M
+Gisela, the Broken Blade|M
+Gnarlwood Dryad|U
+Give No Ground|U
+Graf Rats|C
+Graf Harvest|U
+Grim Flayer|M
+Grapple with the Past|C
+Grisly Anglerfish|U
+Grizzled Angler|U
+Guardian of Pilgrims|C
+Hamlet Captain|U
+Hanweir Garrison|R
+Hanweir Battlements|R
+Hanweir, the Writhing Township|R
+Haunted Dead|U
+Harmless Offering|R
+Heron's Grace Champion|R
+Howling Chorus|U
+Identity Thief|R
+Impetuous Devils|R
+Imprisoned in the Moon|R
+Bedlam Reveler|R
+Abandon Reason|U
+Abundant Maw|U
+Advanced Stitchwing|U
+Assembled Alphas|R
+Alchemist's Greeting|C
+Aurora of Emrakul|U
+Backwoods Survivalists|C
+Ishkanah, Grafwidow|M
+Ironwright's Cleansing|C
+It of the Horrid Swarm|C
+It That Rides as One|U
+Kessig Prowler|U
+Laboratory Brute|C
+Lashweed Lurker|U
+Liliana's Elite|U
+Liliana, the Last Hope|M
+Lunar Force|U
+Lone Rider|U
+Long Road Home|U
+Lunarch Mantle|C
+Nahiri's Wrath|M
+Lupine Prototype|R
+Make Mischief|C
+Mournwillow|U
+Nebelgast Herald|U
+Murder|U
+Niblis of Frost|R
+Nephalia Academy|U
+Noose Constrictor|U
+Noosegraf Mob|R
+Oath of Liliana|R
+Olivia's Dragoon|C
+Peace of Mind|U
+Otherworldly Outburst|C
+Permeating Mass|R
+Primal Druid|C
+Prey Upon|C
+Prophetic Ravings|C
+Repel the Abominable|U
+Prying Questions|U
+Providence|R
+Ride Down|U
+Ruthless Disposal|U
+Rise from the Grave|U
+Sanctifier of Souls|R
+Scour the Laboratory|U
+Savage Alliance|U
+Selfless Spirit|R
+Shrill Howler|U
+Shreds of Sanity|U
+Sigardian Priest|C
+Sigarda's Aid|R
+Sinuous Predator|U
+Skirsdag Supplicant|C
+Slayer's Cleaver|U
+Smoldering Werewolf|U
+Somberwald Stag|U
 Spectral Reserves|C
 Soul Separator|R
 Spell Queller|R
@@ -215,9 +211,13 @@ Wailing Ghoul|C
 Weirded Vampire|C
 Weaver of Lightning|U
 Waxing Moon|C
+Ingenious Skaab|C
 Wharf Infiltrator|R
 Wolfkin Bond|C
 Whispers of Emrakul|U
 Woodland Patrol|C
 Woodcutter's Grit|C
 Wretched Gryff|C
+Incendiary Flow|U
+Insatiable Gorgers|U
+Ironclad Slayer|C

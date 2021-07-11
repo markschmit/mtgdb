@@ -1,62 +1,63 @@
+Arcbound Worker|C
 Angel of Salvation|R
 Abolish|U
 Aether Spellbomb|C
-Arcbound Worker|C
 Assembly-Worker|U
+Argivian Restoration|U
 Burrenton Bombardier|C
 Blinding Beam|C
-Argivian Restoration|U
 Catapult Master|R
-Celestial Crusader|U
 Clockwork Condor|C
 Clockwork Hydra|U
+Celestial Crusader|U
 Conclave Equenaut|C
 Conclave Phalanx|U
 Crusade|R
 Contagion Clasp|U
-Echoing Truth|C
 Darksteel Citadel|C
-Elite Vanguard|U
+Echoing Truth|C
 Daru Encampment|U
+Elite Vanguard|U
+Elspeth, Knight-Errant|M
 Elixir of Immortality|U
 Esperzoa|U
-Elspeth, Knight-Errant|M
 Energy Chamber|U
 Faerie Mechanist|C
 Everflowing Chalice|U
 Frogmite|C
-Glory Seeker|C
 Foil|U
+Glory Seeker|C
 Goldmeadow Harrier|C
 Infantry Veteran|C
 Juggernaut|U
+Journey to Nowhere|C
 Island|L
 Kemba's Skyguard|C
 Kabira Crossroads|C
+Kor Hookmaster|C
 Kor Aeronaut|U
-Journey to Nowhere|C
 Kor Skyfisher|C
 Loyal Sentry|R
 Master of Etherium|R
-Mishra's Factory|U
 Moonglove Extract|C
+Mishra's Factory|U
 Mighty Leap|C
 Mosquito Guard|C
 Plains|L
-Pentavus|R
 Qumulox|U
 Razor Barrier|C
 Raise the Alarm|C
+Pentavus|R
 Razormane Masticore|R
 Runed Servitor|U
-Rustic Clachan|R
 Saltblast|U
+Rustic Clachan|R
 Seat of the Synod|C
 Seasoned Marshal|U
 Serrated Biskelion|U
+Steel Overseer|R
 Silver Myr|C
 Stalking Stones|U
-Steel Overseer|R
 Stormfront Riders|U
 Steel Wall|C
 Swords to Plowshares|U
@@ -70,4 +71,3 @@ Thirst for Knowledge|U
 Trinket Mage|C
 Triskelion|R
 Trip Noose|U
-Kor Hookmaster|C

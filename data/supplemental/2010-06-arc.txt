@@ -1,74 +1,74 @@
+Dregscape Zombie|C
 Agony Warp|C
-Aether Spellbomb|C
 Architects of Will|C
+Aether Spellbomb|C
 Armadillo Cloak|C
 Artisan of Kozilek|U
+Avatar of Discord|R
 Avatar of Woe|R
 Barren Moor|C
 Azorius Signet|C
-Battering Craghorn|C
-Avatar of Discord|R
 Bog Witch|C
+Battering Craghorn|C
 Beacon of Unrest|R
 Batwing Brume|U
-Breath of Darigaaz|U
 Bituminous Blast|U
 Branching Bolt|C
+Breath of Darigaaz|U
 Cemetery Reaper|R
 Chameleon Colossus|R
+Colossal Might|C
 Chandra's Outrage|C
 Corpse Connoisseur|U
 Dragon Breath|C
 Dimir Signet|C
-Colossal Might|C
 Dragon Whelp|U
-Dragon Fodder|C
-Dregscape Zombie|C
-Dreamstone Hedron|U
-Extractor Demon|R
-Ethersworn Shieldmage|C
 Dragonspeaker Shaman|U
+Dragon Fodder|C
+Dreamstone Hedron|U
+Ethersworn Shieldmage|C
 Duplicant|R
+Extractor Demon|R
 Everflowing Chalice|U
 Fertilid|C
 Feral Hydra|R
 Festering Goblin|C
 Fierce Empath|C
 Fieldmist Borderpost|C
-Flameblast Dragon|R
 Fires of Yavimaya|U
-Fireball|U
 Forest|L
+Fireball|U
+Flameblast Dragon|R
 Fog|C
-Forgotten Ancient|R
 Furnace Whelp|U
-Krosan Verge|U
-Llanowar Reborn|U
+Forgotten Ancient|R
 Gathan Raiders|C
+Llanowar Reborn|U
 Gleeful Sabotage|C
 Gruul Signet|C
 Harmonize|U
-Graypelt Refuge|U
-Hellkite Charger|R
+Infectious Horror|C
 Hunting Moa|U
 Heroes' Reunion|U
-Infectious Horror|C
+Imperial Hellkite|R
 Incremental Blight|U
 Infest|U
+Inferno Trap|U
 Kaervek the Merciless|R
-Island|L
-Imperial Hellkite|R
 Juggernaut|U
 Kamahl, Fist of Krosa|R
 Khalni Garden|C
 Kazandu Refuge|U
-Inferno Trap|U
+Island|L
 Kilnmouth Dragon|R
+Hellkite Charger|R
 Krosan Tusker|C
 Leaf Gilder|C
+Krosan Verge|U
 Leonin Abunas|R
 Lightning Greaves|U
 Lodestone Golem|R
+Graypelt Refuge|U
 Makeshift Mannequin|U
 Magister Sphinx|R
 March of the Machines|R

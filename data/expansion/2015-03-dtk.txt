@@ -1,10 +1,10 @@
-Ancestral Statue|C
+Anafenza, Kin-Tree Spirit|R
 Acid-Spewer Dragon|U
 Aerie Bowmasters|C
+Ainok Artillerist|C
 Ainok Survivalist|U
 Ambuscade Shaman|U
-Ainok Artillerist|C
-Anafenza, Kin-Tree Spirit|R
+Ancestral Statue|C
 Ancient Carp|C
 Arashin Sovereign|R
 Arashin Foremost|R
@@ -18,6 +18,13 @@ Atarka Monument|U
 Avatar of the Resolute|R
 Atarka's Command|R
 Aven Sunstriker|U
+Aven Tactician|C
+Battle Mastery|U
+Belltoll Dragon|U
+Blessed Reincarnation|R
+Berserkers' Onslaught|R
+Blood-Chin Fanatic|R
+Blood-Chin Rager|U
 Naturalize|C
 Obscuring Aether|R
 Negate|C
@@ -60,6 +67,7 @@ Sarkhan Unbroken|M
 Sarkhan's Triumph|U
 Savage Ventmaw|U
 Scaleguard Sentinels|U
+Scale Blessing|U
 Scion of Ugin|U
 Screamreach Brawler|C
 Segmented Krotiq|C
@@ -77,7 +85,6 @@ Sibsig Icebreakers|C
 Sidisi's Faithful|C
 Sidisi, Undead Vizier|R
 Sight of the Scalelords|U
-Scale Blessing|U
 Sight Beyond Sight|U
 Silkwrap|U
 Silumgar Butcher|C
@@ -99,17 +106,17 @@ Strongarm Monk|U
 Student of Ojutai|C
 Summit Prowler|C
 Sunscorch Regent|R
+Sunbringer's Touch|R
 Surrak, the Hunt Caller|R
 Surge of Righteousness|U
-Sunbringer's Touch|R
 Swift Warkite|U
 Swamp|L
 Tail Slash|C
 Taigam's Strike|C
 Territorial Roc|C
 Tapestry of the Ages|U
-Tread Upon|C
 Thunderbreak Regent|R
+Tread Upon|C
 Tormenting Voice|C
 Ukud Cobra|U
 Twin Bolt|C
@@ -125,23 +132,16 @@ Vulturous Aven|C
 Wandering Tombshell|C
 Youthful Scholar|U
 Warbringer|U
-Zephyr Scribe|C
 Zurgo Bellstriker|R
-Aven Tactician|C
-Battle Mastery|U
-Belltoll Dragon|U
-Blessed Reincarnation|R
-Berserkers' Onslaught|R
-Blood-Chin Fanatic|R
-Blood-Chin Rager|U
+Zephyr Scribe|C
 Boltwing Marauder|R
 Center Soul|C
 Butcher's Glee|C
 Circle of Elders|U
-Champion of Arashin|C
 Coat with Venom|C
 Clone Legion|M
 Collected Company|R
+Champion of Arashin|C
 Colossodon Yearling|C
 Conifer Strider|C
 Commune with Lava|R
@@ -166,9 +166,9 @@ Dragon Fodder|C
 Dragon Hunter|U
 Dragon Whisperer|M
 Dragon Tempest|R
-Dragon's Eye Sentry|C
 Dragon-Scarred Bear|C
 Dragonloft Idol|U
+Dragon's Eye Sentry|C
 Dragonlord Atarka|M
 Dragonlord Dromoka|M
 Dragonlord Kolaghan|M
@@ -230,14 +230,14 @@ Kindled Fury|C
 Kolaghan Forerunners|U
 Kolaghan Skirmisher|C
 Kolaghan Monument|U
-Learn from the Past|U
 Kolaghan Stormsinger|C
+Learn from the Past|U
 Kolaghan's Command|R
 Lightning Berserker|U
 Living Lore|R
 Lightwalker|C
-Lurking Arynx|U
 Lose Calm|C
+Lurking Arynx|U
 Marang River Skeleton|U
 Magmatic Chasm|C
 Minister of Pain|U

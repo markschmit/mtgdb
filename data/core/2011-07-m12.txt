@@ -1,75 +1,3 @@
-Cemetery Reaper|R
-Celestial Purge|U
-Acidic Slime|U
-Adaptive Automaton|R
-Act of Treason|C
-Aether Adept|C
-Aegis Angel|R
-Alabaster Mage|U
-Alluring Siren|U
-Amphin Cutthroat|C
-Angel's Mercy|C
-Angel's Feather|U
-Angelic Destiny|M
-Arachnus Spinner|R
-Arachnus Web|C
-Arbalest Elite|U
-Archon of Justice|R
-Armored Warhorse|C
-Assault Griffin|C
-Aven Fleetwing|C
-Auramancer|C
-Autumn's Veil|U
-Belltower Sphinx|U
-Azure Mage|U
-Benalish Veteran|C
-Birds of Paradise|R
-Blood Seeker|C
-Blood Ogre|C
-Bloodlord of Vaasgoth|M
-Bloodrage Vampire|C
-Bonebreaker Giant|C
-Brindle Boar|C
-Bountiful Harvest|C
-Brink of Disaster|C
-Cancel|C
-Call to the Grave|R
-Buried Ruin|U
-Carnage Wurm|U
-Chandra's Phoenix|R
-Chandra's Outrage|C
-Chandra, the Firebrand|M
-Child of Night|C
-Chasm Drake|C
-Combust|U
-Circle of Flame|U
-Coral Merfolk|C
-Consume Spirit|U
-Crimson Mage|U
-Crumbling Colossus|U
-Crown of Empires|U
-Cudgel Troll|U
-Deathmark|U
-Dark Favor|C
-Day of Judgment|R
-Demystify|C
-Demon's Horn|U
-Devouring Swarm|C
-Disentomb|C
-Diabolic Tutor|U
-Divination|C
-Distress|C
-Divine Favor|C
-Djinn of Wishes|R
-Dragon's Claw|U
-Doubling Chant|R
-Doom Blade|C
-Dragonskull Summit|R
-Drifting Shade|C
-Druidic Satchel|R
-Drowned Catacomb|R
-Dungrove Elder|R
-Duskhunter Bat|C
 Incinerate|C
 Jace's Archivist|R
 Island|L
@@ -105,10 +33,10 @@ Negate|C
 Naturalize|C
 Onyx Mage|U
 Peregrine Griffin|C
-Phantasmal Bear|C
+Pentavus|R
 Pacifism|C
 Overrun|U
-Pentavus|R
+Phantasmal Bear|C
 Personal Sanctuary|R
 Phantasmal Dragon|U
 Phantasmal Image|R
@@ -184,6 +112,78 @@ Wurm's Tooth|U
 Zombie Goliath|C
 Wring Flesh|C
 Zombie Infestation|U
+Carnage Wurm|U
+Acidic Slime|U
+Adaptive Automaton|R
+Act of Treason|C
+Aether Adept|C
+Aegis Angel|R
+Alabaster Mage|U
+Alluring Siren|U
+Amphin Cutthroat|C
+Angel's Mercy|C
+Angel's Feather|U
+Angelic Destiny|M
+Arachnus Spinner|R
+Arachnus Web|C
+Arbalest Elite|U
+Archon of Justice|R
+Armored Warhorse|C
+Assault Griffin|C
+Aven Fleetwing|C
+Auramancer|C
+Autumn's Veil|U
+Belltower Sphinx|U
+Benalish Veteran|C
+Azure Mage|U
+Birds of Paradise|R
+Blood Seeker|C
+Blood Ogre|C
+Bloodlord of Vaasgoth|M
+Bloodrage Vampire|C
+Bonebreaker Giant|C
+Brindle Boar|C
+Bountiful Harvest|C
+Brink of Disaster|C
+Cancel|C
+Call to the Grave|R
+Buried Ruin|U
+Cemetery Reaper|R
+Celestial Purge|U
+Chandra's Phoenix|R
+Chandra's Outrage|C
+Chandra, the Firebrand|M
+Child of Night|C
+Chasm Drake|C
+Combust|U
+Circle of Flame|U
+Coral Merfolk|C
+Consume Spirit|U
+Crimson Mage|U
+Crumbling Colossus|U
+Crown of Empires|U
+Cudgel Troll|U
+Deathmark|U
+Dark Favor|C
+Day of Judgment|R
+Demystify|C
+Demon's Horn|U
+Devouring Swarm|C
+Disentomb|C
+Diabolic Tutor|U
+Divination|C
+Distress|C
+Divine Favor|C
+Djinn of Wishes|R
+Dragon's Claw|U
+Doubling Chant|R
+Doom Blade|C
+Dragonskull Summit|R
+Drifting Shade|C
+Druidic Satchel|R
+Drowned Catacomb|R
+Dungrove Elder|R
+Duskhunter Bat|C
 Elite Vanguard|U
 Elvish Archdruid|R
 Elixir of Immortality|U
@@ -227,8 +227,8 @@ Griffin Sentinel|C
 Grim Lavamancer|R
 Harbor Serpent|C
 Guardians' Pledge|C
-Hideous Visage|C
 Honor of the Pure|R
+Hideous Visage|C
 Hunter's Insight|U
 Ice Cage|C
 Inferno Titan|M

@@ -1,12 +1,12 @@
-Elvish Eulogist|C
 Allosaurus Rider|R
 Ambush Commander|R
-Boggart Shenanigans|U
 Akki Coalflinger|U
+Elvish Eulogist|C
 Clickslither|R
+Boggart Shenanigans|U
 Elvish Harbinger|U
-Elvish Warrior|C
 Elvish Promenade|U
+Elvish Warrior|C
 Emberwilde Augur|C
 Flamewave Invoker|U
 Gempalm Incinerator|U
@@ -18,18 +18,18 @@ Giant Growth|C
 Goblin Cohort|C
 Goblin Matron|U
 Goblin Ringleader|U
-Goblin Warchief|U
 Goblin Sledder|C
-Harmonize|U
+Goblin Warchief|U
 Heedless One|U
-Imperious Perfect|U
+Harmonize|U
 Ib Halfheart, Goblin Tactician|R
+Imperious Perfect|U
 Llanowar Elves|C
 Lys Alana Huntmaster|C
+Mogg Fanatic|U
 Mogg War Marshal|C
 Mountain|L
 Moonglove Extract|C
-Mogg Fanatic|U
 Mudbutton Torchrunner|C
 Raging Goblin|C
 Reckless One|U
@@ -43,11 +43,11 @@ Slate of Ancestry|R
 Stonewood Invoker|C
 Sylvan Messenger|U
 Tarfire|C
-Timberwatch Elf|C
 Tar Pitcher|U
+Timberwatch Elf|C
+Voice of the Woods|R
 Tranquil Thicket|C
 Wirewood Herald|C
-Voice of the Woods|R
 Wellwisher|C
 Wildsize|C
 Wirewood Symbiote|U

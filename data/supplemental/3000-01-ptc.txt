@@ -1,49 +1,59 @@
-Abzan Ascendancy|S
+Alhammarret, High Arbiter|S
+Alesha, Who Smiles at Death|S
+Aligned Hedron Network|S
+Allosaurus Rider|S
 Abbot of Keral Keep|S
 Ajani Vengeant|S
-Abhorrent Overlord|S
 Akoum Firebird|S
-Alhammarret, High Arbiter|S
-Allosaurus Rider|S
-Aligned Hedron Network|S
-Anafenza, Kin-Tree Spirit|S
-Alesha, Who Smiles at Death|S
+Abzan Ascendancy|S
 Akoum Hellkite|S
+Abhorrent Overlord|S
+Icy Blast|S
+Jace, Vryn's Prodigy|S
+Ivorytusk Fortress|S
+Lu Bu, Master-at-Arms|S
+Ire Shaman|S
+Jeering Instigator|S
+Jeskai Infiltrator|S
+Kiora, Master of the Depths|S
+Kheru Lich Lord|S
+Kiyomaro, First to Stand|S
+Jeskai Ascendancy|S
+Knight of the White Orchid|S
+Kolaghan, the Storm's Fury|S
+Korlash, Heir to Blackblade|S
+Kolaghan's Command|S
+Kothophed, Soul Hoarder|S
+Kytheon's Irregulars|S
+Kytheon, Hero of Akros|S
+Lantern Scout|S
+Languish|S
+Laquatus's Champion|S
+Lightning Dragon|S
+Liliana, Heretical Healer|S
+Living Lore|S
+Managorger Hydra|S
+Lotus Bloom|S
+Anafenza, Kin-Tree Spirit|S
 Ally Encampment|S
-Stone-Tongue Basilisk|S
-Silumgar, the Drifting Death|S
-Silumgar's Command|S
-Smoldering Marsh|S
-Sire of Stagnation|S
-Soul Collector|S
-Soulblade Djinn|S
-Smothering Abomination|S
-Soulfire Grand Master|S
-Spawn of Thraxes|S
-Soulflayer|S
-Silent Sentinel|S
-Siege Rhino|S
-Silent Specter|S
-Silumgar Assassin|S
-Stratus Dancer|S
-Barrage Tyrant|S
 Anafenza, the Foremost|S
 Angelic Captain|S
-Anthousa, Setessan Hero|S
 Ankle Shanker|S
+Anthousa, Setessan Hero|S
 Arashin Foremost|S
 Arashin Sovereign|S
+Arbiter of the Ideal|S
 Archfiend of Depravity|S
 Archdemon of Greed|S
 Arcbond|S
 Archon of the Triumvirate|S
-Arbiter of the Ideal|S
 Atarka, World Render|S
+Atarka's Command|S
 Avatar of Discord|S
 Avalanche Tusker|S
 Avatar of Hope|S
-Atarka's Command|S
 Avatar of the Resolute|S
+Barrage Tyrant|S
 Beast of Burden|S
 Beastcaller Savant|S
 Blight Herder|S
@@ -60,134 +70,172 @@ Canopy Vista|S
 Butcher of the Horde|S
 Carnival Hellsteed|S
 Celestial Archon|S
-Gruesome Slaughter|S
-Grove of the Guardian|S
-Guardian of Tazeem|S
-Guul Draz Overseer|S
-Harbinger of the Tides|S
-Helm of Kaldra|S
-Harbinger of the Hunt|S
-Hardened Scales|S
-Herald of Anafenza|S
-Hero of Bladehold|S
-Hero of Goma Fada|S
-Heroes' Bane|S
-Hidden Dragonslayer|S
-High Sentinels of Arashin|S
-Hixus, Prison Warden|S
-Howlpack Alpha|S
-Honored Hierarch|S
-Hypersonic Dragon|S
-Icefall Regent|S
-Ink-Eyes, Servant of Oni|S
-Indulgent Tormentor|S
-Icy Blast|S
-Jace, Vryn's Prodigy|S
-Ire Shaman|S
-Ivorytusk Fortress|S
-Jeering Instigator|S
-Jeskai Infiltrator|S
-Jeskai Ascendancy|S
-Kheru Lich Lord|S
-Kiora, Master of the Depths|S
-Kiyomaro, First to Stand|S
-Knight of the White Orchid|S
-Kolaghan, the Storm's Fury|S
-Kolaghan's Command|S
-Korlash, Heir to Blackblade|S
-Kothophed, Soul Hoarder|S
-Kytheon's Irregulars|S
-Languish|S
-Kytheon, Hero of Akros|S
-Lantern Scout|S
-Laquatus's Champion|S
-Lightning Dragon|S
-Liliana, Heretical Healer|S
-Lu Bu, Master-at-Arms|S
-Living Lore|S
-Managorger Hydra|S
-Lotus Bloom|S
+Chandra, Fire of Kaladesh|S
+Chandra's Ignition|S
+Cinder Glade|S
+Conduit of Ruin|S
+Comet Storm|S
+Consuming Aberration|S
+Crater Elemental|S
+Corpsejack Menace|S
+Crackling Doom|S
+Daghatar the Adamant|S
+Crater's Claws|S
 Lumbering Falls|S
 Mardu Ascendancy|S
-Master of Pearls|S
 Malfegor|S
 March from the Tomb|S
 Mardu Strike Leader|S
+Master of Pearls|S
 Mayor of Avabruck|S
 Mastery of the Unseen|S
 Megantic Sliver|S
 Maze's End|S
+Mercurial Pretender|S
 Mizzium Meddler|S
 Monstrous Hound|S
-Mercurial Pretender|S
+Moonsilver Spear|S
 Munda, Ambush Leader|S
 Necromaster Dragon|S
 Myth Realized|S
-Moonsilver Spear|S
+Necropolis Fiend|S
 Narset, Enlightened Master|S
 Nessian Wilds Ravager|S
-Necropolis Fiend|S
 Nissa's Renewal|S
+Nissa's Revelation|S
+Ob Nixilis Reignited|S
 Nissa, Vastwood Seer|S
 Noyan Dar, Roil Shaper|S
-Ob Nixilis Reignited|S
-Nissa's Revelation|S
 Oblivion Sower|S
-Ojutai's Command|S
 Ojutai, Soul of Winter|S
-Outland Colossus|S
 Oran-Rief Hydra|S
+Ojutai's Command|S
 Omnath, Locus of Rage|S
+Outland Colossus|S
 Oros, the Avenger|S
-Part the Waterveil|S
-Overtaker|S
 Overbeing of Myth|S
+Overtaker|S
+Part the Waterveil|S
 Painful Truths|S
 Phytotitan|S
 Pia and Kiran Nalaar|S
 Pitiless Horde|S
 Prairie Stream|S
-Planar Outburst|S
 Plains|S
+Planar Outburst|S
 Priest of the Blood Rite|S
+Profaner of the Dead|S
+Pristine Skywise|S
 Prism Array|S
 Radiant Flames|S
-Sidisi, Brood Tyrant|S
 Questing Phelddagrif|S
-Quarantine Field|S
 Raging Kavu|S
+Quarantine Field|S
 Rally the Ancestors|S
 Rakshasa Vizier|S
-Rathi Assassin|S
 Rampaging Baloths|S
 Rattleclaw Mystic|S
+Rathi Assassin|S
 Ravenous Demon|S
 Relic Seeker|S
 Resolute Archangel|S
-Revenant|S
-Ryusei, the Falling Star|S
 Rubblehulk|S
+Revenant|S
 Ruinous Path|S
+Ryusei, the Falling Star|S
 Sage-Eye Avengers|S
-Sage of the Inward Eye|S
 Sandsteppe Mastodon|S
+Sage of the Inward Eye|S
 Sanctum of Ugin|S
 Scab-Clan Berserker|S
-Pristine Skywise|S
-Scourge of Fleets|S
 Scatter to the Winds|S
-Profaner of the Dead|S
 Shaman of the Great Hunt|S
-Sheoldred, Whispering One|S
 Serpentine Spike|S
 Shambling Vent|S
+Scourge of Fleets|S
 Shamanic Revelation|S
+Sheoldred, Whispering One|S
 Shield of Kaldra|S
 Shipbreaker Kraken|S
-Shrine of the Forsaken Gods|S
 Shu Yun, the Silent Tempest|S
+Shrine of the Forsaken Gods|S
 Sidisi, Undead Vizier|S
-Grim Haruspex|S
+Sidisi, Brood Tyrant|S
+Siege Dragon|S
+Silent Sentinel|S
+Siege Rhino|S
+Silent Specter|S
+Silumgar Assassin|S
+Silumgar, the Drifting Death|S
+Silumgar's Command|S
+Sire of Stagnation|S
+Smoldering Marsh|S
+Smothering Abomination|S
+Soul Collector|S
+Soulblade Djinn|S
+Soulfire Grand Master|S
+Spawn of Thraxes|S
+Stratus Dancer|S
+Soulflayer|S
+Stone-Tongue Basilisk|S
+Sun Titan|S
+Sunken Hollow|S
+Sunscorch Regent|S
+Sultai Ascendacy|S
+Surrak, the Hunt Caller|S
+Supplant Form|S
+Surrak Dragonclaw|S
+Sword of Kaldra|S
+Tasigur, the Golden Fang|S
+Talent of the Telepath|S
+Thopter Spy Network|S
+Thousand Winds|S
+Temur Ascendancy|S
+Thunderbreak Regent|S
+Trap Essence|S
+Torrent Elemental|S
+Tragic Arrogance|S
+Treasury Thrull|S
+Trail of Mystery|S
+Ulamog, the Ceaseless Hunger|S
+Ugin's Insight|S
+Vampire Nocturnus|S
+Undergrowth Champion|S
+Veteran Warleader|S
+Utter End|S
+Void Winnower|S
+Villainous Wealth|S
+Vryn Wingmare|S
+Volcanic Vision|S
+Wasteland Strangler|S
+Wren's Run Packmaster|S
+Willbreaker|S
+Wildcall|S
+Woodland Wanderer|S
+Wurmcoil Engine|S
+Xathrid Gorgon|S
+Yasova Dragonclaw|S
+Zada, Hedron Grinder|S
+Zurgo Bellstriker|S
+Zurgo Helmsmasher|S
+Warden of the First Tree|S
+Dark Petition|S
+Damnable Pact|S
+Dawnbringer Charioteers|S
+Deathbringer Regent|S
+Defiant Bloodlord|S
+Demigod of Revenge|S
+Deflecting Palm|S
+Den Protector|S
+Desolation Twin|S
+Despoiler of Souls|S
+Dirtcowl Wurm|S
+Dig Through Time|S
+Doomwake Giant|S
+Djinn Illuminatus|S
+Dragon-Style Twins|S
+Door of Destinies|S
+Dragon Broodmother|S
 Dragonlord Atarka|S
 Dragonlord Dromoka|S
 Dragonlord Kolaghan|S
@@ -234,73 +282,25 @@ Goblin Piledriver|S
 Glory|S
 Graveblade Marauder|S
 Greenwarden of Murasa|S
-Chandra, Fire of Kaladesh|S
-Siege Dragon|S
-Chandra's Ignition|S
-Cinder Glade|S
-Conduit of Ruin|S
-Comet Storm|S
-Consuming Aberration|S
-Corpsejack Menace|S
-Crater Elemental|S
-Crackling Doom|S
-Daghatar the Adamant|S
-Crater's Claws|S
-Dark Petition|S
-Damnable Pact|S
-Dawnbringer Charioteers|S
-Deathbringer Regent|S
-Defiant Bloodlord|S
-Demigod of Revenge|S
-Deflecting Palm|S
-Den Protector|S
-Desolation Twin|S
-Despoiler of Souls|S
-Dirtcowl Wurm|S
-Dig Through Time|S
-Doomwake Giant|S
-Djinn Illuminatus|S
-Dragon-Style Twins|S
-Door of Destinies|S
-Dragon Broodmother|S
-Sun Titan|S
-Sultai Ascendacy|S
-Sunken Hollow|S
-Sunscorch Regent|S
-Surrak, the Hunt Caller|S
-Supplant Form|S
-Surrak Dragonclaw|S
-Sword of Kaldra|S
-Tasigur, the Golden Fang|S
-Talent of the Telepath|S
-Thopter Spy Network|S
-Temur Ascendancy|S
-Thousand Winds|S
-Thunderbreak Regent|S
-Trail of Mystery|S
-Tragic Arrogance|S
-Trap Essence|S
-Treasury Thrull|S
-Torrent Elemental|S
-Ulamog, the Ceaseless Hunger|S
-Ugin's Insight|S
-Undergrowth Champion|S
-Vampire Nocturnus|S
-Veteran Warleader|S
-Utter End|S
-Void Winnower|S
-Villainous Wealth|S
-Vryn Wingmare|S
-Volcanic Vision|S
-Warden of the First Tree|S
-Wasteland Strangler|S
-Wren's Run Packmaster|S
-Wildcall|S
-Woodland Wanderer|S
-Willbreaker|S
-Wurmcoil Engine|S
-Xathrid Gorgon|S
-Yasova Dragonclaw|S
-Zada, Hedron Grinder|S
-Zurgo Bellstriker|S
-Zurgo Helmsmasher|S
+Grim Haruspex|S
+Gruesome Slaughter|S
+Grove of the Guardian|S
+Guardian of Tazeem|S
+Guul Draz Overseer|S
+Harbinger of the Tides|S
+Harbinger of the Hunt|S
+Helm of Kaldra|S
+Hardened Scales|S
+Herald of Anafenza|S
+Hero of Bladehold|S
+Hero of Goma Fada|S
+Heroes' Bane|S
+Hidden Dragonslayer|S
+Hixus, Prison Warden|S
+Honored Hierarch|S
+High Sentinels of Arashin|S
+Howlpack Alpha|S
+Hypersonic Dragon|S
+Icefall Regent|S
+Ink-Eyes, Servant of Oni|S
+Indulgent Tormentor|S

@@ -1,15 +1,57 @@
-Ainok Bond-Kin|C
-Abzan Ascendancy|R
+Become Immense|U
+Ainok Tracker|C
+Alabaster Kirin|C
+Avalanche Tusker|R
+Barrage of Boulders|C
+Alpine Grizzly|C
+Altar of the Brood|R
+Arc Lightning|U
+Anafenza, the Foremost|M
+Archers' Parapet|C
+Ankle Shanker|R
+Arrow Storm|C
+Awaken the Bear|C
+Armament Corps|U
+Ashcloud Phoenix|M
+Bear's Companion|U
+Bellowing Saddlebrute|U
 Abomination of Gudul|C
-Abzan Banner|C
-Abzan Battle Priest|U
-Abzan Falconer|U
-Abzan Charm|U
-Act of Treason|C
-Abzan Guide|C
-Flying Crane Technique|R
-Frontier Bivouac|U
-Howl of the Horde|R
+Abzan Ascendancy|R
+Blinding Spray|U
+Bitter Revelation|C
+Bloodfell Caves|C
+Bloodfire Expert|C
+Bloodfire Mentor|C
+Bloodsoaked Champion|R
+Blossoming Sands|C
+Bloodstained Mire|R
+Brave the Sands|U
+Briber's Purse|U
+Bring Low|C
+Cancel|C
+Burn Away|U
+Butcher of the Horde|R
+Canyon Lurkers|C
+Chief of the Scale|U
+Chief of the Edge|U
+Clever Impersonator|M
+Cranial Archive|U
+Crackling Doom|R
+Crater's Claws|R
+Crippling Chill|C
+Dazzling Ramparts|U
+Debilitating Injury|C
+Dead Drop|U
+Death Frenzy|U
+Deflecting Palm|R
+Defiant Strike|C
+Despise|U
+Disdainful Stroke|C
+Dig Through Time|R
+Dismal Backwater|C
+Dragon Grip|U
+Disowned Ancestor|C
+Dragon Throne of Tarkir|R
 Dragon's Eye Savants|U
 Dragon-Style Twins|R
 Dutiful Return|C
@@ -23,10 +65,12 @@ Erase|C
 Feed the Clan|C
 Feat of Resistance|C
 Firehoof Cavalry|C
-Force Away|C
 Flooded Strand|R
-Forest|L
 Ghostfire Blade|R
+Force Away|C
+Frontier Bivouac|U
+Flying Crane Technique|R
+Forest|L
 Glacial Stalker|C
 Grim Haruspex|R
 Goblinslide|U
@@ -41,74 +85,51 @@ Highspire Mantis|U
 Hooded Hydra|M
 Hooting Mandrills|C
 Horde Ambusher|U
+Howl of the Horde|R
 Hordeling Outburst|U
 Icefeather Aven|U
 Island|L
+Jeering Instigator|R
 Incremental Growth|U
 Icy Blast|R
-Jeering Instigator|R
-Opulent Palace|U
-Necropolis Fiend|R
-Nomad Outpost|U
-Pearl Lake Ancient|M
-Plains|L
-Quiet Contemplation|U
-Polluted Delta|R
-Pine Walker|U
-Ponyback Brigade|C
-Raiders' Spoils|U
-Rakshasa Deathdealer|R
-Rakshasa's Secret|C
-Rakshasa Vizier|R
-Rattleclaw Mystic|R
-Ride Down|U
-Retribution of the Ancients|R
-Riverwheel Aerialists|U
-Rite of the Serpent|C
-Rotting Mastodon|C
-Roar of Challenge|U
-Rugged Highlands|C
-Ruthless Ripper|U
-Sage-Eye Harrier|C
-Rush of Battle|C
-Sage of the Inward Eye|R
-Ivorytusk Fortress|R
 Jeskai Banner|C
+Ivorytusk Fortress|R
 Jeskai Ascendancy|R
 Jeskai Charm|U
-Jeskai Elder|U
 Jeskai Student|C
-Kheru Bloodsucker|U
+Jeskai Elder|U
 Jeskai Windscout|C
 Jungle Hollow|C
-Kheru Dreadmaw|C
+Kheru Bloodsucker|U
 Kheru Spellsnatcher|R
+Kheru Dreadmaw|C
 Kheru Lich Lord|R
-Kin-Tree Warden|C
 Kin-Tree Invocation|U
 Kill Shot|C
+Kin-Tree Warden|C
 Krumar Bond-Kin|C
+Opulent Palace|U
 Leaping Master|C
-Longshot Squad|C
 Lens of Clarity|C
+Longshot Squad|C
 Mantis Rider|R
 Mardu Banner|C
 Mardu Ascendancy|R
 Mardu Blazebringer|U
-Mardu Charm|U
 Mardu Hateblade|C
+Mardu Charm|U
 Mardu Heart-Piercer|U
 Mardu Hordechief|C
-Mardu Roughrider|U
 Mardu Skullhunter|C
+Mardu Roughrider|U
 Mardu Warshrieker|C
+Master of Pearls|R
 Meandering Towershell|R
 Master the Way|U
-Master of Pearls|R
-Mer-Ek Nightblade|U
 Mistfire Weaver|U
-Mindswipe|R
+Mer-Ek Nightblade|U
 Molting Snakeskin|C
+Mindswipe|R
 Monastery Flock|C
 Monastery Swiftspear|U
 Mystic Monastery|U
@@ -117,29 +138,55 @@ Murderous Cut|U
 Mystic of the Hidden Way|C
 Naturalize|C
 Narset, Enlightened Master|M
+Necropolis Fiend|R
+Nomad Outpost|U
+Pearl Lake Ancient|M
+Plains|L
+Pine Walker|U
+Quiet Contemplation|U
+Polluted Delta|R
+Ponyback Brigade|C
+Raiders' Spoils|U
+Rakshasa Deathdealer|R
+Rakshasa's Secret|C
+Rakshasa Vizier|R
+Rattleclaw Mystic|R
+Ride Down|U
+Retribution of the Ancients|R
+Rite of the Serpent|C
+Rotting Mastodon|C
+Riverwheel Aerialists|U
+Roar of Challenge|U
+Trail of Mystery|R
+Rugged Highlands|C
+Tranquil Cove|C
+Trap Essence|R
+Treasure Cruise|C
+Ruthless Ripper|U
+Sage-Eye Harrier|C
+Sage of the Inward Eye|R
 Sagu Mauler|R
 Sagu Archer|C
 Salt Road Patrol|C
 Sarkhan, the Dragonspeaker|M
-Sidisi, Brood Tyrant|M
 Sandsteppe Citadel|U
 Savage Knuckleblade|R
 Scaldkin|C
 Savage Punch|C
 Scion of Glaciers|U
 Scout the Borders|C
-Scoured Barrens|C
 Secret Plans|U
+Scoured Barrens|C
 See the Unwritten|M
-Seeker of the Way|U
 Seek the Horizon|U
+Seeker of the Way|U
 Shambling Attendants|C
 Set Adrift|U
 Sidisi's Pet|C
 Shatter|C
 Siege Rhino|R
+Sidisi, Brood Tyrant|M
 Smoke Teller|C
-Witness of the Ages|U
 Siegecraft|C
 Singing Bell Strike|C
 Smite the Monstrous|C
@@ -153,13 +200,13 @@ Sultai Flayer|U
 Sultai Scavenger|C
 Summit Prowler|C
 Sultai Soothsayer|U
+Suspension Field|U
 Surrak Dragonclaw|M
 Swamp|L
 Swarm of Bloodflies|U
 Taigam's Scheming|C
-Suspension Field|U
-Swift Kick|C
 Swiftwater Cliffs|C
+Swift Kick|C
 Take Up Arms|U
 Temur Ascendancy|R
 Temur Banner|C
@@ -171,84 +218,37 @@ Tormenting Voice|C
 Timely Hordemate|U
 Throttle|C
 Tomb of the Spirit Dragon|U
-Trail of Mystery|R
-Tranquil Cove|C
-Trap Essence|R
-Treasure Cruise|C
-Trumpet Blast|C
-Tusked Colossodon|C
 Tuskguard Captain|U
 Ugin's Nexus|M
 Unyielding Krumar|C
 Valley Dasher|C
-Venerable Lammasu|U
 Utter End|R
+Venerable Lammasu|U
 War Behemoth|C
 Villainous Wealth|R
 War-Name Aspirant|U
 Watcher of the Roost|U
 Warden of the Eye|U
 Wetland Sambar|C
-Waterwhirl|U
 Weave Fate|C
+Waterwhirl|U
 Whirlwind Adept|C
 Windstorm|U
 Wind-Scarred Crag|C
 Wingmate Roc|M
 Windswept Heath|R
+Witness of the Ages|U
 Woolly Loxodon|C
 Winterflame|U
 Wooded Foothills|R
 Zurgo Helmsmasher|M
-Disowned Ancestor|C
-Arc Lightning|U
-Ankle Shanker|R
-Archers' Parapet|C
-Arrow Storm|C
-Armament Corps|U
-Awaken the Bear|C
-Ashcloud Phoenix|M
-Avalanche Tusker|R
-Barrage of Boulders|C
-Become Immense|U
-Bear's Companion|U
-Bellowing Saddlebrute|U
-Bitter Revelation|C
-Bloodfell Caves|C
-Bloodfire Expert|C
-Blinding Spray|U
-Bloodfire Mentor|C
-Bloodsoaked Champion|R
-Blossoming Sands|C
-Bloodstained Mire|R
-Brave the Sands|U
-Briber's Purse|U
-Bring Low|C
-Cancel|C
-Burn Away|U
-Butcher of the Horde|R
-Canyon Lurkers|C
-Chief of the Scale|U
-Clever Impersonator|M
-Cranial Archive|U
-Chief of the Edge|U
-Crackling Doom|R
-Crater's Claws|R
-Crippling Chill|C
-Dazzling Ramparts|U
-Debilitating Injury|C
-Death Frenzy|U
-Dead Drop|U
-Deflecting Palm|R
-Defiant Strike|C
-Despise|U
-Disdainful Stroke|C
-Dig Through Time|R
-Dismal Backwater|C
-Ainok Tracker|C
-Alabaster Kirin|C
-Alpine Grizzly|C
-Anafenza, the Foremost|M
-Altar of the Brood|R
-Dragon Throne of Tarkir|R
-Dragon Grip|U
+Trumpet Blast|C
+Tusked Colossodon|C
+Rush of Battle|C
+Abzan Banner|C
+Abzan Battle Priest|U
+Abzan Falconer|U
+Abzan Charm|U
+Ainok Bond-Kin|C
+Act of Treason|C
+Abzan Guide|C

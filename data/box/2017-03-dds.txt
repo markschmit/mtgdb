@@ -15,12 +15,12 @@ Forest|L
 Firemind's Foresight|R
 Goblin Electromancer|C
 Gorehorn Minotaurs|C
-Jhoira of the Ghitu|M
+Increasing Savagery|R
 Harmonize|U
 Grapeshot|C
 Guttural Response|U
 Island|L
-Increasing Savagery|R
+Jhoira of the Ghitu|M
 Jori En, Ruin Diver|R
 Kamahl, Pit Fighter|R
 Kruin Striker|C

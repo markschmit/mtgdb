@@ -1,6 +1,5 @@
+Akoum Firebird|M
 Adverse Conditions|U
-Beastcaller Savant|R
-Coralhelm Guide|C
 Akoum Hellkite|R
 Akoum Stonewaker|U
 Ally Encampment|R
@@ -12,49 +11,35 @@ Angelic Gift|C
 Barrage Tyrant|R
 Bane of Bala Ged|U
 Anticipate|C
+Beastcaller Savant|R
 Belligerent Whiptail|C
 Benthic Infiltrator|C
 Blight Herder|R
 Blighted Fen|U
-Blighted Gorge|U
-Blighted Cataract|U
-Blighted Steppe|U
-Blighted Woodland|U
-Blisterpod|C
-Bloodbond Vampire|U
-Bone Splinters|C
-Boiling Earth|C
-Breaker of Armies|U
-Bring to Light|R
-Brilliant Spectrum|C
-Brood Butcher|R
-Brood Monitor|U
-Call the Scions|C
-Broodhunter Wurm|C
 Brutal Expulsion|R
 Canopy Vista|R
 Carrier Thrall|U
 Catacomb Sifter|U
 Cinder Glade|R
 Chasm Guide|U
-Coastal Discovery|U
-Clutch of Currents|C
-Cloud Manta|C
 Cliffside Lookout|C
+Coastal Discovery|U
+Cloud Manta|C
+Clutch of Currents|C
 Complete Disregard|C
 Conduit of Ruin|R
-Akoum Firebird|M
 Courier Griffin|C
 Cryptic Cruiser|U
+Coralhelm Guide|C
 Crumble to Dust|U
 Culling Drone|C
+Deathless Behemoth|U
 Dampening Pulse|U
 Defiant Bloodlord|R
 Desolation Twin|R
-Deathless Behemoth|U
 Demon's Grasp|C
-Dominator Drone|C
 Dispel|C
+Dominator Drone|C
 Dragonmaster Outcast|M
 Drana's Emissary|U
 Drana, Liberator of Malakir|M
@@ -63,41 +48,102 @@ Dust Stalker|R
 Earthen Arms|C
 Dutiful Return|C
 Eldrazi Devastator|C
+Blighted Cataract|U
 Eldrazi Skyspawner|C
+Blighted Gorge|U
+Blighted Steppe|U
+Blighted Woodland|U
+Blisterpod|C
+Bloodbond Vampire|U
+Bone Splinters|C
+Breaker of Armies|U
+Boiling Earth|C
+Bring to Light|R
+Brilliant Spectrum|C
+Brood Butcher|R
+Broodhunter Wurm|C
+Brood Monitor|U
+Call the Scions|C
+Spawning Bed|U
+Stasis Snare|U
+Stone Haven Medic|C
+Sunken Hollow|R
+Stonefury|C
+Swamp|L
+Swell of Growth|C
+Sure Strike|C
+Swarm Surge|C
+Sylvan Scrying|U
+Tajuru Beastmaster|C
+Tajuru Stalwart|C
+Tajuru Warcaller|U
+Territorial Baloth|C
+Tandem Tactics|C
+Tide Drifter|U
+Touch of the Void|C
+Tightening Coils|C
+Titan's Presence|U
+Transgress the Mind|U
+Tunneling Geopede|U
+Ugin's Insight|R
+Turn Against|U
+Ulamog's Despoiler|U
+Ulamog's Nullifier|U
+Ulamog's Reclaimer|U
+Ulamog, the Ceaseless Hunger|M
+Unnatural Aggression|C
+Unified Front|U
+Undergrowth Champion|M
+Valakut Predator|C
+Vestige of Emrakul|C
+Vampiric Rites|U
+Veteran Warleader|R
+Vile Aggregate|U
+Void Winnower|M
+Void Attendant|U
+Voracious Null|C
+Volcanic Upheaval|C
+Wasteland Strangler|R
+Wave-Wing Elemental|C
+Zulaport Cutthroat|U
+Windrider Patrol|U
+Woodland Wanderer|R
+Zada, Hedron Grinder|R
+Valakut Invoker|C
 Emeria Shepherd|R
-Endless One|R
 Encircling Fissure|U
 Exert Influence|R
 Evolving Wilds|C
+Endless One|R
 Expedition Envoy|U
-Fathom Feeder|R
 Eyeless Watcher|C
-Felidar Cub|C
+Fathom Feeder|R
 Felidar Sovereign|R
+Felidar Cub|C
 Firemantle Mage|U
 Fertile Thicket|C
 Forerunner of Slaughter|U
-Fortified Rampart|C
 Forest|L
 Ghostly Sentinel|C
+Fortified Rampart|C
 Geyserfield Stalker|C
 From Beyond|R
-Giant Mantis|C
 Gideon, Ally of Zendikar|M
 Gideon's Reproach|C
+Giant Mantis|C
 Goblin War Paint|C
 Greenwarden of Murasa|M
 Grave Birthing|C
 Grove Rumbler|U
 Grip of Desolation|U
 Grovetender Druids|U
-Guardian of Tazeem|R
 Gruesome Slaughter|R
 Guul Draz Overseer|R
+Hagra Sharpshooter|U
 Halimar Tidecaller|U
+Guardian of Tazeem|R
 Hedron Blade|C
 Hedron Archive|U
-Hagra Sharpshooter|U
 Herald of Kozilek|U
 Hero of Goma Fada|R
 Incubator Drone|C
@@ -106,20 +152,20 @@ Inspired Charge|C
 Infuse with the Elements|U
 Island|L
 Jaddi Offshoot|U
-Kalastria Nightwatch|C
 Kalastria Healer|C
+Kalastria Nightwatch|C
 Kiora, Master of the Depths|M
 Kitesail Scout|C
 Kor Bladewhirl|U
 Kor Castigator|C
-Kor Entanglers|U
 Kozilek's Channeler|C
-Lantern Scout|R
+Kor Entanglers|U
 Kozilek's Sentinel|C
+Lantern Scout|R
 Lavastep Raider|C
 Lifespring Druid|C
-Looming Spires|C
 Lithomancer's Focus|C
+Looming Spires|C
 Lumbering Falls|R
 Makindi Patrol|C
 Makindi Sliderunner|C
@@ -130,15 +176,15 @@ Mist Intruder|C
 Mire's Malice|C
 Mortuary Mire|C
 Molten Nursery|U
-Mountain|L
 Munda, Ambush Leader|R
+Mountain|L
 Murasa Ranger|U
 Murk Strider|C
 Nettle Drone|C
 Natural Connection|C
 Nirkana Assassin|C
-Nissa's Renewal|R
 Noyan Dar, Roil Shaper|R
+Nissa's Renewal|R
 Ob Nixilis Reignited|M
 Oblivion Sower|M
 Ondu Champion|C
@@ -155,71 +201,18 @@ Pathway Arrows|U
 Pilgrim's Eye|U
 Plummet|C
 Plains|L
-Plated Crusher|U
 Planar Outburst|R
+Plated Crusher|U
 Prairie Stream|R
-Radiant Flames|R
 Prism Array|R
+Radiant Flames|R
 Processor Assault|U
 Quarantine Field|M
 Reckless Cohort|C
 Resolute Blademaster|U
 Reclaiming Vines|C
-Retreat to Emeria|U
 Retreat to Coralhelm|U
-Smoldering Marsh|R
-Smite the Monstrous|C
-Slab Hammer|U
-Smothering Abomination|R
-Snapping Gnarlid|C
-Spell Shrivel|C
-Spawning Bed|U
-Stasis Snare|U
-Stone Haven Medic|C
-Sunken Hollow|R
-Stonefury|C
-Sylvan Scrying|U
-Sludge Crawler|C
-Swamp|L
-Sure Strike|C
-Swell of Growth|C
-Swarm Surge|C
-Tajuru Stalwart|C
-Tajuru Beastmaster|C
-Tajuru Warcaller|U
-Tandem Tactics|C
-Territorial Baloth|C
-Tightening Coils|C
-Tide Drifter|U
-Touch of the Void|C
-Titan's Presence|U
-Transgress the Mind|U
-Tunneling Geopede|U
-Ugin's Insight|R
-Turn Against|U
-Ulamog's Despoiler|U
-Ulamog's Nullifier|U
-Ulamog's Reclaimer|U
-Undergrowth Champion|M
-Unified Front|U
-Unnatural Aggression|C
-Ulamog, the Ceaseless Hunger|M
-Valakut Invoker|C
-Vestige of Emrakul|C
-Valakut Predator|C
-Vampiric Rites|U
-Veteran Warleader|R
-Vile Aggregate|U
-Void Winnower|M
-Void Attendant|U
-Voracious Null|C
-Volcanic Upheaval|C
-Wasteland Strangler|R
-Wave-Wing Elemental|C
-Windrider Patrol|U
-Woodland Wanderer|R
-Zada, Hedron Grinder|R
-Zulaport Cutthroat|U
+Retreat to Emeria|U
 Retreat to Hagra|U
 Retreat to Kazandu|U
 Retreat to Valakut|U
@@ -227,8 +220,8 @@ Rising Miasma|U
 Roil Spout|U
 Roilmage's Trick|C
 Roil's Retribution|U
-Rolling Thunder|U
 Rot Shambler|U
+Rolling Thunder|U
 Ruin Processor|C
 Ruination Guide|U
 Rush of Ice|C
@@ -239,16 +232,23 @@ Sanctum of Ugin|R
 Scatter to the Winds|R
 Scour from Existence|C
 Scythe Leopard|U
-Seek the Wilds|C
 Serene Steward|U
+Seek the Wilds|C
 Shadow Glider|C
 Serpentine Spike|R
+Shatterskull Recruit|C
 Shambling Vent|R
 Silent Skimmer|C
-Shatterskull Recruit|C
 Shrine of the Forsaken Gods|R
-Sheer Drop|C
 Sire of Stagnation|M
+Sheer Drop|C
 Skyrider Elf|U
 Skitterskin|U
 Skyline Cascade|C
+Sludge Crawler|C
+Slab Hammer|U
+Smoldering Marsh|R
+Smite the Monstrous|C
+Snapping Gnarlid|C
+Spell Shrivel|C
+Smothering Abomination|R

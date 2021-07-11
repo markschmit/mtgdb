@@ -1,4 +1,3 @@
-Chilling Shade|C
 Adarkar Valkyrie|R
 Adarkar Windform|U
 Allosaurus Rider|R
@@ -9,19 +8,6 @@ Aurochs Herd|C
 Balduvian Fallen|U
 Balduvian Frostwaker|U
 Balduvian Warlord|U
-Vexing Sphinx|R
-Vanish into Memory|U
-Thrumming Stone|R
-Tresserhorn Skyknight|U
-Tresserhorn Sinks|U
-Wall of Shards|U
-Ursine Fylgja|U
-Void Maw|R
-White Shield Crusader|U
-Wilderness Elemental|U
-Woolly Razorback|R
-Zombie Musher|C
-Zur the Enchanter|R
 Balduvian Rage|U
 Blizzard Specter|U
 Boreal Centaur|C
@@ -31,6 +17,7 @@ Braid of Fire|R
 Boreal Shelf|U
 Brooding Saurian|R
 Bull Aurochs|C
+Chilling Shade|C
 Chill to the Bone|C
 Coldsteel Heart|U
 Counterbalance|U
@@ -129,6 +116,31 @@ Rune Snag|C
 Sek'Kuar, Deathkeeper|R
 Sheltering Ancient|U
 Simian Brawler|C
+Sun's Bounty|C
+Surging Dementia|C
+Sunscour|R
+Surging Aether|C
+Surging Might|C
+Surging Flame|C
+Surging Sentinels|C
+Survivor of the Unseen|C
+Swift Maneuver|C
+Tamanoa|R
+Thermopod|C
+Thermal Flux|C
+Thrumming Stone|R
+Tresserhorn Skyknight|U
+Tresserhorn Sinks|U
+Ursine Fylgja|U
+Vexing Sphinx|R
+Vanish into Memory|U
+Wall of Shards|U
+Void Maw|R
+White Shield Crusader|U
+Woolly Razorback|R
+Zombie Musher|C
+Wilderness Elemental|U
+Zur the Enchanter|R
 Snow-Covered Island|C
 Snow-Covered Forest|C
 Skred|C
@@ -141,15 +153,3 @@ Soul Spike|R
 Stalking Yeti|U
 Steam Spitter|U
 Stromgald Crusader|U
-Sunscour|R
-Sun's Bounty|C
-Surging Dementia|C
-Surging Aether|C
-Surging Flame|C
-Surging Might|C
-Surging Sentinels|C
-Survivor of the Unseen|C
-Tamanoa|R
-Swift Maneuver|C
-Thermopod|C
-Thermal Flux|C

@@ -1,4 +1,4 @@
-Death Ward|C
+Black Vise|U
 Air Elemental|U
 Animate Artifact|U
 Ancestral Recall|R
@@ -16,7 +16,6 @@ Bayou|R
 Black Knight|U
 Birds of Paradise|R
 Berserk|U
-Black Vise|U
 Black Lotus|R
 Black Ward|U
 Blessing|R
@@ -54,6 +53,7 @@ Cyclopean Tomb|R
 Crystal Rod|U
 Crusade|R
 Cursed Land|U
+Death Ward|C
 Darkpact|R
 Dark Ritual|C
 Deathgrip|U
@@ -156,10 +156,9 @@ Magical Hack|R
 Mana Vault|R
 Mana Short|R
 Mana Flare|R
-Mesa Pegasus|C
-Meekstone|R
-Manabarbs|R
 Merfolk of the Pearl Trident|C
+Meekstone|R
+Mesa Pegasus|C
 Mox Pearl|R
 Mons's Goblin Raiders|C
 Mind Twist|R
@@ -197,6 +196,7 @@ Psionic Blast|U
 Raise Dead|C
 Raging River|R
 Purelace|R
+Red Ward|U
 Red Elemental Blast|C
 Regeneration|C
 Reverse Damage|R
@@ -214,7 +214,7 @@ Savannah|R
 Scathe Zombies|C
 Scavenging Ghoul|U
 Scryb Sprites|C
-Red Ward|U
+Manabarbs|R
 Scrubland|R
 Sedge Troll|R
 Sea Serpent|C

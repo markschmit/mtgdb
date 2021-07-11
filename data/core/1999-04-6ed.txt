@@ -1,36 +1,47 @@
-Anaba Shaman|C
-Air Elemental|U
-Anaba Bodyguard|C
-Amber Prison|R
-Aladdin's Ring|R
 Abyssal Hunter|R
 Abduction|U
 Abyssal Specter|U
 Aether Flash|U
-Lord of Atlantis|R
-Lure|U
-Lost Soul|C
-Mana Short|R
-Manabarbs|R
-Mana Prism|U
-Marble Diamond|U
+Adarkar Wastes|R
+Agonizing Memories|U
+Air Elemental|U
+Amber Prison|R
+Aladdin's Ring|R
+Anaba Bodyguard|C
+Animate Wall|R
+Anaba Shaman|C
+Ancestral Memories|R
+Archangel|R
+Ardent Militia|U
+Ankh of Mishra|R
+Armored Pegasus|C
+Armageddon|R
+Ashnod's Altar|U
+Ashen Powder|R
+Howling Mine|R
+Howl from Beyond|C
+Hulking Cyclops|U
+Illicit Auction|R
+Icatian Town|R
+Hurricane|R
+Infantry Veteran|C
 Inferno|R
-Inspiration|C
 Infernal Contract|R
+Inspiration|C
 Insight|U
 Iron Star|U
 Island|L
 Ivory Cup|U
+Jade Monolith|R
 Jalum Tome|R
 Jokulhaups|R
 Jayemdae Tome|R
-Jade Monolith|R
 Karplusan Forest|R
 Juxtapose|R
 Kismet|U
 Kjeldoran Dead|C
-Leshrac's Rite|U
 Kjeldoran Royal Guard|R
+Leshrac's Rite|U
 Lead Golem|U
 Light of Day|U
 Library of Lat-Nam|R
@@ -38,6 +49,36 @@ Lightning Blast|C
 Living Lands|R
 Llanowar Elves|C
 Longbow Archer|U
+Lord of Atlantis|R
+Lure|U
+Lost Soul|C
+Mana Short|R
+Manabarbs|R
+Mana Prism|U
+Marble Diamond|U
+Glacial Wall|U
+Goblin Digging Team|C
+Glasses of Urza|U
+Goblin Elite Infantry|C
+Goblin King|R
+Goblin Recruiter|U
+Gorilla Chieftain|C
+Goblin Warrens|R
+Goblin Hero|C
+Gravebane Zombie|U
+Grinning Totem|R
+Gravedigger|C
+Grizzly Bears|C
+Greed|R
+Harmattan Efreet|U
+Hammer of Bogardan|R
+Healing Salve|C
+Havenwood Battleground|U
+Heavy Ballista|U
+Hero's Resolve|C
+Hecatomb|R
+Hidden Horror|U
+Horned Turtle|C
 Maro|R
 Memory Lapse|C
 Merfolk of the Pearl Trident|C
@@ -52,6 +93,72 @@ Mountain Goat|C
 Mystical Tutor|U
 Mystic Compass|U
 Nature's Resurgence|R
+Balduvian Barbarians|C
+Balduvian Horde|R
+Birds of Paradise|R
+Blight|U
+Blaze|U
+Bog Imp|C
+Blood Pet|C
+Blighted Shaman|U
+Bog Rats|C
+Bog Wraith|U
+Boomerang|C
+Bottle of Suleiman|R
+Boil|U
+Browse|U
+Burrowing|U
+Brushland|R
+Castle|U
+Call of the Wild|R
+Cat Warriors|C
+Charcoal Diamond|U
+Celestial Dawn|R
+Chill|U
+Circle of Protection: Black|C
+Circle of Protection: Green|C
+Circle of Protection: Red|C
+Circle of Protection: White|C
+City of Brass|R
+Circle of Protection: Blue|C
+Coercion|C
+Counterspell|C
+Conquer|U
+Creeping Mold|U
+Crusade|R
+Crimson Hellkite|R
+Crystal Vein|U
+Crystal Rod|U
+Cursed Totem|R
+D'Avenant Archer|C
+Daraja Griffin|U
+Dancing Scimitar|R
+Daring Apprentice|R
+Derelor|R
+Dense Foliage|R
+Deflection|R
+Diminishing Returns|R
+Dingus Egg|R
+Desertion|R
+Disrupting Scepter|R
+Disenchant|C
+Divine Transformation|U
+Dragon Engine|R
+Doomsday|R
+Dream Cache|C
+Dread of Night|U
+Dragon Mask|U
+Early Harvest|R
+Drudge Skeletons|C
+Dwarven Ruins|U
+Dry Spell|C
+Earthquake|R
+Ekundu Griffin|C
+Ebon Stronghold|U
+Elven Riders|U
+Elder Druid|R
+Elven Cache|C
+Elvish Archers|R
 Nightmare|R
 Necrosavant|R
 Obsianus Golem|U
@@ -100,149 +207,6 @@ Reprisal|U
 Remove Soul|C
 Resistance Fighter|C
 River Boa|U
-Adarkar Wastes|R
-Agonizing Memories|U
-Animate Wall|R
-Ancestral Memories|R
-Archangel|R
-Ankh of Mishra|R
-Armored Pegasus|C
-Ardent Militia|U
-Armageddon|R
-Ashnod's Altar|U
-Balduvian Barbarians|C
-Ashen Powder|R
-Birds of Paradise|R
-Balduvian Horde|R
-Blight|U
-Blaze|U
-Blighted Shaman|U
-Bog Imp|C
-Blood Pet|C
-Bog Rats|C
-Bog Wraith|U
-Boomerang|C
-Bottle of Suleiman|R
-Boil|U
-Burrowing|U
-Brushland|R
-Browse|U
-Call of the Wild|R
-Castle|U
-Cat Warriors|C
-Charcoal Diamond|U
-Celestial Dawn|R
-Chill|U
-Circle of Protection: Blue|C
-Circle of Protection: Green|C
-Circle of Protection: Black|C
-Circle of Protection: Red|C
-Circle of Protection: White|C
-City of Brass|R
-Coercion|C
-Conquer|U
-Creeping Mold|U
-Crusade|R
-Counterspell|C
-Crimson Hellkite|R
-Crystal Vein|U
-Crystal Rod|U
-Cursed Totem|R
-D'Avenant Archer|C
-Dancing Scimitar|R
-Daraja Griffin|U
-Daring Apprentice|R
-Derelor|R
-Dense Foliage|R
-Deflection|R
-Diminishing Returns|R
-Dingus Egg|R
-Desertion|R
-Disrupting Scepter|R
-Divine Transformation|U
-Disenchant|C
-Dragon Engine|R
-Doomsday|R
-Dream Cache|C
-Dread of Night|U
-Dragon Mask|U
-Early Harvest|R
-Drudge Skeletons|C
-Dwarven Ruins|U
-Dry Spell|C
-Earthquake|R
-Ekundu Griffin|C
-Ebon Stronghold|U
-Elven Riders|U
-Elder Druid|R
-Elven Cache|C
-Elvish Archers|R
-Enfeeblement|C
-Evil Eye of Orms-by-Gore|U
-Enlightened Tutor|U
-Ethereal Champion|R
-Fallen Angel|R
-Exile|R
-Familiar Ground|U
-Fallow Earth|U
-Fatal Blow|C
-Fear|C
-Femeref Archers|U
-Feast of the Unicorn|C
-Feral Shadow|C
-Fire Diamond|U
-Final Fortune|R
-Fervor|R
-Fire Elemental|U
-Firebreathing|C
-Flame Spirit|C
-Fit of Rage|C
-Flight|C
-Flashfires|U
-Flash|R
-Flying Carpet|R
-Fog|C
-Fog Elemental|C
-Forest|L
-Forbidden Crypt|R
-Fountain of Youth|U
-Forget|R
-Fyndhorn Brownie|C
-Fyndhorn Elder|U
-Gaseous Form|C
-Giant Spider|C
-Giant Growth|C
-Giant Strength|C
-Glacial Wall|U
-Goblin Digging Team|C
-Glasses of Urza|U
-Goblin Elite Infantry|C
-Goblin King|R
-Goblin Hero|C
-Goblin Recruiter|U
-Gorilla Chieftain|C
-Goblin Warrens|R
-Gravebane Zombie|U
-Grinning Totem|R
-Gravedigger|C
-Grizzly Bears|C
-Greed|R
-Harmattan Efreet|U
-Hammer of Bogardan|R
-Healing Salve|C
-Havenwood Battleground|U
-Heavy Ballista|U
-Hero's Resolve|C
-Hecatomb|R
-Hidden Horror|U
-Horned Turtle|C
-Howling Mine|R
-Howl from Beyond|C
-Hulking Cyclops|U
-Illicit Auction|R
-Icatian Town|R
-Hurricane|R
-Infantry Veteran|C
 Reverse Damage|R
 Rowen|R
 Ruins of Trokair|U
@@ -290,6 +254,42 @@ Talruum Minotaur|C
 Syphon Soul|C
 Terror|C
 Teferi's Puzzle Box|R
+Enfeeblement|C
+Evil Eye of Orms-by-Gore|U
+Enlightened Tutor|U
+Ethereal Champion|R
+Fallen Angel|R
+Exile|R
+Familiar Ground|U
+Fallow Earth|U
+Fatal Blow|C
+Femeref Archers|U
+Fear|C
+Feast of the Unicorn|C
+Feral Shadow|C
+Fire Diamond|U
+Final Fortune|R
+Fervor|R
+Fire Elemental|U
+Firebreathing|C
+Flame Spirit|C
+Fit of Rage|C
+Flight|C
+Flashfires|U
+Flash|R
+Flying Carpet|R
+Fog|C
+Fog Elemental|C
+Forest|L
+Forbidden Crypt|R
+Fountain of Youth|U
+Forget|R
+Fyndhorn Brownie|C
+Fyndhorn Elder|U
+Gaseous Form|C
+Giant Spider|C
+Giant Growth|C
+Giant Strength|C
 Tariff|R
 Thicket Basilisk|U
 The Hive|R

@@ -1,4 +1,5 @@
 Crested Craghorn|C
+Covert Operative|C
 Akroma's Devoted|U
 Aphetto Exterminator|U
 Akroma, Angel of Wrath|R
@@ -22,7 +23,6 @@ Chromeshell Crab|R
 Cloudreach Cavalry|U
 Clickslither|R
 Corpse Harvester|U
-Covert Operative|C
 Crookclaw Elder|U
 Crypt Sliver|C
 Dark Supplicant|U

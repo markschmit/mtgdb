@@ -1,3 +1,10 @@
+Glissa, the Traitor|M
+Cabal Ritual|M
+Beseech the Queen|M
+Dark Depths|M
+Helvault|M
+Memnarch|M
+Conflux|M
 Momir Vig, Simic Visionary|M
 Mind's Desire|M
 Umezawa's Jitte|M
@@ -5,11 +12,4 @@ Obliterate|M
 Near-Death Experience|M
 Tolaria West|M
 Phyrexian Processor|M
-Cabal Ritual|M
-Beseech the Queen|M
-Dark Depths|M
-Helvault|M
-Memnarch|M
-Conflux|M
-Glissa, the Traitor|M
 Unmask|M

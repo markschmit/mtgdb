@@ -2,19 +2,86 @@ Afflict|C
 Academy Researchers|U
 Abundance|R
 Adarkar Wastes|R
-Firebreathing|C
-Flamewave Invoker|U
-Fists of the Anvil|C
-Fog Elemental|U
-Flashfreeze|U
-Flowstone Slide|R
-Forest|L
-Forbidding Watchtower|U
-Fugitive Wizard|C
-Fountain of Youth|U
-Furnace Whelp|U
-Furnace of Rath|R
-Gaea's Herald|R
+Agonizing Memories|U
+Aggressive Urge|C
+Air Elemental|U
+Ambassador Laquatus|R
+Anaba Bodyguard|C
+Ancestor's Chosen|U
+Angel of Mercy|U
+Angelic Blessing|C
+Angel's Feather|U
+Angelic Chorus|R
+Angelic Wall|C
+Arcane Teachings|U
+Ascendant Evincar|R
+Arcanis the Omnipotent|R
+Aura of Silence|U
+Aura Graft|U
+Assassinate|C
+Avatar of Might|R
+Aven Cloudchaser|C
+Aven Windreader|C
+Aven Fisher|C
+Ballista Squad|U
+Beacon of Destruction|R
+Battlefield Forge|R
+Bandage|C
+Beacon of Immortality|R
+Beacon of Unrest|R
+Benalish Knight|C
+Birds of Paradise|R
+Blanchwood Armor|U
+Bloodrock Cyclops|C
+Bloodfire Colossus|R
+Blaze|U
+Bogardan Firefiend|C
+Bog Wraith|U
+Bottle Gnomes|U
+Boomerang|C
+Canopy Spider|C
+Cancel|C
+Brushland|R
+Cephalid Constable|R
+Caves of Koilos|R
+Cho-Manno, Revolutionary|R
+Chimeric Staff|R
+Citanul Flute|R
+Chromatic Star|U
+Civic Wayfinder|C
+Cloud Elemental|C
+Clone|R
+Cloud Sprite|C
+Colossus of Sardia|R
+Coat of Arms|R
+Composite Golem|U
+Commune with Nature|C
+Consume Spirit|U
+Cone of Flame|U
+Condemn|U
+Contaminated Bond|C
+Crafty Pathmage|C
+Counsel of the Soratami|C
+Crucible of Worlds|R
+Craw Wurm|C
+Creeping Mold|U
+Cruel Edict|U
+Deathmark|U
+Cryoclasm|U
+Dehydration|C
+Demon's Horn|U
+Demolish|C
+Deluge|U
+Demystify|C
+Discombobulate|U
+Denizen of the Deep|R
+Diabolic Tutor|U
+Distress|C
+Dragon Roost|R
+Doomed Necromancer|R
+Doubling Cube|R
+Dragon's Claw|U
+Dreamborn Muse|R
 Ghost Warden|C
 Ghitu Encampment|U
 Giant Spider|C
@@ -32,6 +99,36 @@ Gravedigger|C
 Hail of Arrows|U
 Guerrilla Tactics|U
 Hate Weaver|U
+Dross Crocodile|C
+Drudge Skeletons|U
+Duct Crawler|C
+Earth Elemental|U
+Dusk Imp|C
+Elven Riders|U
+Elvish Berserker|C
+Elvish Champion|R
+Elvish Piper|R
+Enormous Baloth|U
+Evacuation|R
+Essence Drain|C
+Fear|C
+Faerie Conclave|U
+Femeref Archers|U
+Festering Goblin|C
+Field Marshal|R
+Firebreathing|C
+Flamewave Invoker|U
+Fog Elemental|U
+Fists of the Anvil|C
+Flashfreeze|U
+Flowstone Slide|R
+Forest|L
+Forbidding Watchtower|U
+Fugitive Wizard|C
+Fountain of Youth|U
+Furnace Whelp|U
+Furnace of Rath|R
+Gaea's Herald|R
 Heart of Light|C
 Head Games|R
 Hidden Horror|U
@@ -269,100 +366,3 @@ Wrath of God|R
 Yavimaya Coast|R
 Yavimaya Enchantress|U
 Youthful Knight|C
-Agonizing Memories|U
-Aggressive Urge|C
-Air Elemental|U
-Ambassador Laquatus|R
-Anaba Bodyguard|C
-Ancestor's Chosen|U
-Angel of Mercy|U
-Angelic Blessing|C
-Angel's Feather|U
-Angelic Chorus|R
-Angelic Wall|C
-Arcane Teachings|U
-Ascendant Evincar|R
-Arcanis the Omnipotent|R
-Aura of Silence|U
-Aura Graft|U
-Assassinate|C
-Avatar of Might|R
-Aven Cloudchaser|C
-Aven Windreader|C
-Aven Fisher|C
-Ballista Squad|U
-Beacon of Destruction|R
-Battlefield Forge|R
-Bandage|C
-Beacon of Immortality|R
-Beacon of Unrest|R
-Benalish Knight|C
-Birds of Paradise|R
-Blanchwood Armor|U
-Bloodrock Cyclops|C
-Bloodfire Colossus|R
-Blaze|U
-Bogardan Firefiend|C
-Bog Wraith|U
-Bottle Gnomes|U
-Boomerang|C
-Canopy Spider|C
-Cancel|C
-Brushland|R
-Cephalid Constable|R
-Caves of Koilos|R
-Cho-Manno, Revolutionary|R
-Chimeric Staff|R
-Citanul Flute|R
-Chromatic Star|U
-Civic Wayfinder|C
-Cloud Elemental|C
-Clone|R
-Cloud Sprite|C
-Colossus of Sardia|R
-Coat of Arms|R
-Composite Golem|U
-Commune with Nature|C
-Consume Spirit|U
-Cone of Flame|U
-Condemn|U
-Contaminated Bond|C
-Crafty Pathmage|C
-Counsel of the Soratami|C
-Crucible of Worlds|R
-Craw Wurm|C
-Creeping Mold|U
-Cruel Edict|U
-Deathmark|U
-Cryoclasm|U
-Dehydration|C
-Demon's Horn|U
-Demolish|C
-Deluge|U
-Demystify|C
-Discombobulate|U
-Denizen of the Deep|R
-Diabolic Tutor|U
-Distress|C
-Dragon Roost|R
-Doomed Necromancer|R
-Doubling Cube|R
-Dragon's Claw|U
-Dreamborn Muse|R
-Dross Crocodile|C
-Drudge Skeletons|U
-Duct Crawler|C
-Earth Elemental|U
-Dusk Imp|C
-Elven Riders|U
-Elvish Berserker|C
-Elvish Champion|R
-Elvish Piper|R
-Enormous Baloth|U
-Evacuation|R
-Essence Drain|C
-Fear|C
-Faerie Conclave|U
-Femeref Archers|U
-Festering Goblin|C
-Field Marshal|R

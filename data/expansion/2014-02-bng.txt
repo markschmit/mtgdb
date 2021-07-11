@@ -1,4 +1,8 @@
-Ephara, God of the Polis|M
+Crypsis|C
+Chromanticore|M
+Courser of Kruphix|R
+Cyclops of One-Eyed Pass|C
+Culling Mark|C
 Aerie Worshippers|U
 Acolyte's Reward|U
 Akroan Conscriptor|U
@@ -14,19 +18,14 @@ Ashiok's Adept|U
 Asphyxiate|C
 Aspect of Hydra|C
 Bile Blight|U
-Brimaz, King of Oreskos|M
 Astral Cornucopia|R
+Brimaz, King of Oreskos|M
 Black Oak of Odunos|U
 Bolt of Keranos|C
 Champion of Stray Souls|M
 Charging Badger|C
 Chorus of the Tides|C
 Claim of Erebos|C
-Chromanticore|M
-Courser of Kruphix|R
-Cyclops of One-Eyed Pass|C
-Culling Mark|C
-Crypsis|C
 Deepwater Hypnotist|C
 Dawn to Dusk|U
 Eater of Hope|R
@@ -36,6 +35,7 @@ Eidolon of Countless Battles|R
 Elite Skirmisher|C
 Ephara's Enlightenment|U
 Ephara's Radiance|C
+Ephara, God of the Polis|M
 Epiphany Storm|C
 Eternity Snare|U
 Evanescent Intellect|C
@@ -45,8 +45,8 @@ Eye Gouge|C
 Excoriate|C
 Fanatic of Xenagos|U
 Fate Unraveler|R
-Fated Return|R
 Fated Infatuation|R
+Fated Return|R
 Fated Conflagration|R
 Fated Retribution|R
 Fated Intervention|R
@@ -67,8 +67,8 @@ Gorgon's Head|U
 Graverobber Spider|U
 Griffin Dreamfinder|C
 Great Hart|C
-Grisly Transformation|C
 Herald of Torment|R
+Grisly Transformation|C
 Hero of Iroas|R
 Hero of Leina Tower|R
 Heroes' Podium|R
@@ -131,8 +131,8 @@ Searing Blood|U
 Scouring Sands|C
 Servant of Tymaret|C
 Setessan Oathsworn|C
-Shrike Harpy|U
 Setessan Starbreaker|C
+Shrike Harpy|U
 Silent Sentinel|R
 Siren of the Fanged Coast|U
 Siren of the Silent Song|U

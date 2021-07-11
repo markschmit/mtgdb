@@ -1,7 +1,7 @@
 Cry of Contrition|C
 Absolver Thrull|C
-Aetherplasm|U
 Abyssal Nocturnus|R
+Aetherplasm|U
 Agent of Masks|U
 Battering Wurm|U
 Angel of Despair|R
@@ -13,11 +13,6 @@ Blind Hunter|C
 Bloodscale Prowler|C
 Burning-Tree Shaman|R
 Burning-Tree Bloodscale|C
-Wild Cantor|C
-Witch-Maw Nephilim|R
-Wurmweaver Coil|R
-Wreak Havoc|U
-Yore-Tiller Nephilim|R
 Borborygmos|R
 Cerebral Vortex|R
 Caustic Rain|U
@@ -50,8 +45,8 @@ Ghost Warden|C
 Ghost Council of Orzhova|R
 Giant Solifuge|R
 Gigadrowse|C
-Glint-Eye Nephilim|R
 Ghostway|R
+Glint-Eye Nephilim|R
 Goblin Flectomancer|U
 Godless Shrine|R
 Graven Dominator|R
@@ -129,9 +124,9 @@ Shattering Spree|U
 Silhana Ledgewalker|C
 Siege of Towers|R
 Silhana Starfletcher|C
-Sinstriker's Will|U
 Skarrgan Firebird|R
 Skarrg, the Rage Pits|U
+Sinstriker's Will|U
 Skarrgan Pit-Skulk|C
 Skeletal Vampire|R
 Skarrgan Skybreaker|U
@@ -142,24 +137,29 @@ Souls of the Faultless|U
 Spelltithe Enforcer|R
 Starved Rusalka|U
 Steamcore Weird|C
-Steam Vents|R
 Stomping Ground|R
+Steam Vents|R
 Stitch in Time|R
 Stratozeppelid|U
 Storm Herd|R
 Streetbreaker Wurm|C
 Sword of the Paruns|R
 Teysa, Orzhov Scion|R
-Tibor and Lumia|R
 Thunderheads|U
+Tibor and Lumia|R
+Tin Street Hooligan|C
 Train of Thought|C
 Torch Drake|C
-Tin Street Hooligan|C
-Ulasht, the Hate Seed|R
 To Arms!|U
+Ulasht, the Hate Seed|R
 Vertigo Spawn|U
 Vedalken Plotter|U
 Vacuumelt|U
 Wee Dragonauts|C
-Wildsize|C
 Withstand|C
+Wildsize|C
+Wild Cantor|C
+Wurmweaver Coil|R
+Wreak Havoc|U
+Witch-Maw Nephilim|R
+Yore-Tiller Nephilim|R

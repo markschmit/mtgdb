@@ -1,15 +1,26 @@
-Pyrokinesis|S
 Mountain|L
-Pendelhaven|S
-Pacifism|S
-Overrun|S
-Pegasus Charger|S
-Pegasus Stampede|S
-Polluted Mire|S
 Aesthir Glider|S
 Armored Pegasus|S
 Armageddon|S
 Benalish Knight|S
+Black Knight|S
+Canopy Spider|S
+Brushland|S
+Carnivorous Plant|S
+Combat Medic|S
+Cuombajj Witches|S
+Erhnam Djinn|S
+Drifting Meadow|S
+Disenchant|S
+Feast of the Unicorn|S
+Freewind Falcon|S
+Forest|L
+Fireball|S
+Giant Spider|S
+Giant Growth|S
+Goblin Balloon Brigade|S
+Goblin Digging Team|S
+Goblin Hero|S
 Ranger en-Vec|S
 Samite Healer|S
 Sacred Mesa|S
@@ -30,24 +41,6 @@ White Knight|S
 Warrior's Honor|S
 Woolly Spider|S
 Youthful Knight|S
-Black Knight|S
-Canopy Spider|S
-Brushland|S
-Carnivorous Plant|S
-Combat Medic|S
-Cuombajj Witches|S
-Erhnam Djinn|S
-Drifting Meadow|S
-Disenchant|S
-Feast of the Unicorn|S
-Freewind Falcon|S
-Forest|L
-Fireball|S
-Giant Spider|S
-Giant Growth|S
-Goblin Balloon Brigade|S
-Goblin Digging Team|S
-Goblin Hero|S
 Goblin Grenade|S
 Goblin King|S
 Goblin Matron|S
@@ -76,6 +69,13 @@ Mogg Flunkies|S
 Nevinyrral's Disk|S
 Mogg Raider|S
 Order of the White Shield|S
+Pendelhaven|S
+Pacifism|S
+Overrun|S
+Pegasus Charger|S
+Pegasus Stampede|S
+Polluted Mire|S
+Pyrokinesis|S
 Plains|L
 Raging Goblin|S
 Pyrotechnics|S

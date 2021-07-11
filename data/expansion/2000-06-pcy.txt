@@ -1,53 +1,8 @@
-Mirror Strike|U
-Mana Vapors|U
-Mungha Wurm|R
-Mine Bearer|C
-Agent of Shauku|C
 Pygmy Razorback|C
-Psychic Theft|R
-Plague Wind|R
-Quicksilver Wall|U
-Rebel Informer|R
-Reveille Squad|U
-Rethink|C
-Rhystic Circle|C
-Rhystic Cave|U
-Rhystic Deluge|C
-Rhystic Lightning|C
-Rhystic Scrying|U
-Rhystic Shield|C
-Rhystic Study|C
-Rhystic Syphon|U
-Rhystic Tutor|R
-Rib Cage Spider|C
-Ribbon Snake|C
-Thresher Beast|C
-Ridgeline Rager|C
-Task Mage Assembly|R
-Samite Sanctuary|R
-Scoria Cat|U
-Root Cage|U
-Searing Wind|R
-Search for Survivors|R
-Sheltering Prayers|R
-Shield Dancer|U
-Silt Crawler|C
-Snag|U
-Shrouded Serpent|R
-Soul Charmer|C
-Spiketail Drake|U
-Soul Strings|C
-Spiketail Hatchling|C
-Spitting Spider|U
-Spur Grappler|C
-Spore Frog|C
-Squirrel Wrangler|R
-Stormwatch Eagle|C
-Steal Strength|C
-Sunken Field|U
-Sword Dancer|U
+Agent of Shauku|C
 Abolish|U
 Alexi's Cloak|C
+Plague Fiend|C
 Alexi, Zephyr Mage|R
 Avatar of Fury|R
 Aura Fracture|C
@@ -55,10 +10,43 @@ Avatar of Hope|R
 Avatar of Might|R
 Avatar of Will|R
 Avatar of Woe|R
+Psychic Theft|R
+Plague Wind|R
+Quicksilver Wall|U
+Reveille Squad|U
+Rethink|C
+Rebel Informer|R
+Rhystic Circle|C
+Rhystic Cave|U
+Rhystic Deluge|C
+Rhystic Lightning|C
+Rhystic Shield|C
+Rhystic Scrying|U
+Rhystic Study|C
+Rhystic Syphon|U
+Rhystic Tutor|R
+Rib Cage Spider|C
+Ribbon Snake|C
+Ridgeline Rager|C
+Scoria Cat|U
+Samite Sanctuary|R
+Searing Wind|R
+Root Cage|U
+Search for Survivors|R
+Sheltering Prayers|R
+Shield Dancer|U
 Barbed Field|U
 Bog Elemental|R
 Blessed Wind|R
 Branded Brawlers|C
+Silt Crawler|C
+Shrouded Serpent|R
+Soul Charmer|C
+Snag|U
+Spiketail Drake|U
+Soul Strings|C
+Spiketail Hatchling|C
+Spitting Spider|U
 Bog Glider|C
 Calming Verse|C
 Brutal Suppression|U
@@ -94,8 +82,6 @@ Glittering Lynx|C
 Greel's Caress|C
 Greel, Mind Raker|R
 Hazy Homunculus|C
-Marsh Boa|C
-Mercenary Informer|R
 Gulf Squid|C
 Hollow Warrior|U
 Heightened Awareness|R
@@ -111,33 +97,47 @@ Keldon Firebombers|R
 Latulla's Orders|C
 Latulla, Keldon Overseer|R
 Lesser Gargadon|U
+Spur Grappler|C
+Spore Frog|C
+Squirrel Wrangler|R
+Stormwatch Eagle|C
+Steal Strength|C
+Sunken Field|U
+Sword Dancer|U
+Task Mage Assembly|R
+Thresher Beast|C
 Living Terrain|U
 Mageta the Lion|R
 Mageta's Boon|C
+Mungha Wurm|R
+Marsh Boa|C
+Mana Vapors|U
+Mercenary Informer|R
+Mine Bearer|C
+Mirror Strike|U
 Nakaya Shade|U
-Panic Attack|C
 Noxious Field|U
+Panic Attack|C
 Overburden|R
-Pit Raptor|U
 Outbreak|U
-Plague Fiend|C
+Pit Raptor|U
 Trenching Steed|C
 Thrive|C
 Troubled Healer|C
 Troublesome Spirit|R
+Verdant Field|U
 Veteran Brawlers|R
 Vintara Elephant|C
-Verdant Field|U
 Vintara Snapper|U
-Vitalizing Wind|R
 Wall of Vipers|U
+Vitalizing Wind|R
 Well of Life|U
 Well of Discovery|R
 Whip Sergeant|U
-Wild Might|C
 Whipstitched Zombie|C
 Withdraw|C
 Windscouter|U
+Wild Might|C
 Wintermoon Mesa|R
 Wing Storm|U
 Zerapa Minotaur|C

@@ -1,116 +1,59 @@
 Arachnogenesis|R
-Ajani's Chosen|R
 Act of Aggression|U
-Aethersnatch|R
 Ambition's Cost|U
 Altar's Reap|C
 Ancient Amphitheater|R
 Ancient Craving|R
 Anya, Merciless Angel|M
-Arbiter of Knollridge|R
 Angel of Serenity|M
+Arbiter of Knollridge|R
+Aethersnatch|R
+Acidic Slime|U
+Ajani's Chosen|R
 Aetherize|U
-Arjun, the Shifting Flame|M
 Arbor Colossus|R
+Arjun, the Shifting Flame|M
 Awaken the Sky Tyrant|R
 Aura of Silence|U
 Bane of Progress|R
 Banshee of the Dread Choir|U
 Banishing Light|U
 Basalt Monolith|U
-Barren Moor|C
 Barter in Blood|U
+Barren Moor|C
 Bastion Protector|R
-Beastmaster Ascension|R
 Bident of Thassa|R
+Beastmaster Ascension|R
 Black Market|R
 Biomantic Mastery|R
 Blade of Selves|R
 Blood Bairn|C
 Blasted Landscape|U
-Blue Sun's Zenith|R
+Bloodspore Thrinax|R
 Blatant Thievery|R
 Blustersquall|U
+Blue Sun's Zenith|R
 Bonehoard|R
-Bloodspore Thrinax|R
 Borderland Behemoth|R
-Boros Garrison|C
 Boros Cluestone|C
-Boros Guildgate|C
+Boros Garrison|C
 Brainstorm|C
+Boros Guildgate|C
 Boros Signet|C
+Broodbirth Viper|U
 Breath of Darigaaz|U
 Burnished Hart|U
-Broodbirth Viper|U
-Dawnbreak Reclaimer|R
-Dawnglare Invoker|C
-Daxos the Returned|M
-Deadly Tempest|R
-Daxos's Torment|R
-Day of the Dragons|R
-Death Grasp|R
-Desolation Giant|R
-Desert Twister|U
-Diabolic Servitude|U
-Dictate of Heliod|R
-Desperate Ravings|U
-Disaster Radius|R
-Doomwake Giant|R
-Dreadbringer Lampads|C
-Dragon Mage|R
-Dread Summons|R
-Dominate|U
-Dream Pillager|R
-Drifting Meadow|C
-Dreamstone Hedron|U
-Earthquake|R
-Eater of Hope|R
-Eldrazi Monument|M
-Echoing Truth|C
-Elvish Visionary|C
-Eternal Witness|U
-Etherium-Horn Sorcerer|R
-Epic Experiment|M
-Experiment One|U
-Evolving Wilds|C
-Extractor Demon|R
-Faith's Fetters|C
-Ezuri, Claw of Progress|M
-Ezuri's Predation|R
-Fall of the Hammer|C
-Fact or Fiction|U
-Faithless Looting|C
-Fallen Ideal|U
-Fate Unraveler|R
-Fiery Confluence|R
-Fellwar Stone|U
-Firemind's Foresight|R
-Forest|L
-Forgotten Ancient|R
-Fumiko the Lowblood|R
-Forgotten Cave|C
-Ghostblade Eidolon|U
-Ghost Quarter|U
-Gigantoplasm|R
-Goblin Electromancer|C
-Gisela, Blade of Goldnight|M
-Gild|R
-Golgari Guildgate|C
-Golgari Charm|U
-Golgari Rot Farm|C
-Grasp of Fate|R
 Butcher of Malakir|R
-Golgari Signet|C
-Caller of the Pack|U
 Cage of Hands|C
+Caller of the Pack|U
 Caller of the Claw|R
 Call the Skybreaker|R
 Celestial Ancient|R
 Celestial Archon|R
 Centaur Vinecrasher|R
+Champion of Stray Souls|M
 Chameleon Colossus|R
 Chain Reaction|R
-Champion of Stray Souls|M
 Charmbreaker Devils|R
 Cobra Trap|U
 Cloudthresher|R
@@ -123,56 +66,117 @@ Comet Storm|M
 Corpse Augur|U
 Crystal Chimes|U
 Crib Swap|U
-Counterflux|R
 Curse of the Nightly Hunt|U
-Darksteel Ingot|U
+Counterflux|R
 Dawn to Dusk|U
+Dawnbreak Reclaimer|R
+Darksteel Ingot|U
+Dawnglare Invoker|C
+Deadly Tempest|R
+Daxos the Returned|M
+Daxos's Torment|R
+Desert Twister|U
+Day of the Dragons|R
+Death Grasp|R
+Desolation Giant|R
+Diabolic Servitude|U
+Desperate Ravings|U
+Dictate of Heliod|R
+Disaster Radius|R
+Doomwake Giant|R
+Dreadbringer Lampads|C
+Dominate|U
+Dragon Mage|R
+Dread Summons|R
+Dream Pillager|R
+Drifting Meadow|C
+Dreamstone Hedron|U
+Earthquake|R
+Eldrazi Monument|M
+Eater of Hope|R
+Elvish Visionary|C
+Echoing Truth|C
+Eternal Witness|U
+Epic Experiment|M
+Etherium-Horn Sorcerer|R
+Experiment One|U
+Evolving Wilds|C
+Extractor Demon|R
+Faith's Fetters|C
+Ezuri, Claw of Progress|M
+Ezuri's Predation|R
+Fact or Fiction|U
+Fall of the Hammer|C
+Faithless Looting|C
+Fate Unraveler|R
+Fallen Ideal|U
+Fiery Confluence|R
+Fellwar Stone|U
+Firemind's Foresight|R
+Forest|L
+Forgotten Ancient|R
+Fumiko the Lowblood|R
+Forgotten Cave|C
+Ghostblade Eidolon|U
+Ghost Quarter|U
+Gigantoplasm|R
+Gisela, Blade of Goldnight|M
+Goblin Electromancer|C
+Gild|R
+Golgari Charm|U
+Golgari Guildgate|C
+Golgari Signet|C
+Golgari Rot Farm|C
+Grasp of Fate|R
+Grave Peril|C
+Grisly Salvage|C
+Great Oak Guardian|U
+Grim Backwoods|R
+Hamletback Goliath|R
+Hammerfist Giant|R
+Herald of the Host|U
+Hostility|R
+Hunted Dragon|R
+High Market|R
+Indrik Stomphowler|U
+Inferno Titan|M
+Illusory Ambusher|U
+Izzet Guildgate|C
+Island|L
+Jace's Archivist|R
+Izzet Boilerworks|C
+Izzet Signet|C
+Jareth, Leonine Titan|R
+Jarad, Golgari Lich Lord|M
+Jungle Hollow|C
+Kalemne's Captain|R
+Karlov of the Ghost Council|M
+Kalemne, Disciple of Iroas|M
+Kaseto, Orochi Archmage|M
+Karmic Justice|R
+Kessig Cagebreakers|R
+Kodama's Reach|C
+Kor Sanctifiers|C
+Korozda Guildmage|U
+Loaming Shaman|R
+Lightning Greaves|U
+Krosan Grip|U
+Llanowar Reborn|U
+Lone Revenant|R
+Lorescale Coatl|U
+Lotleth Troll|R
+Magus of the Wheel|R
 Magma Giant|R
-Mazirek, Kraul Death Priest|M
-Magmaquake|R
-Marshal's Anthem|R
-Melek, Izzet Paragon|R
-Meren of Clan Nel Toth|M
-Mesa Enchantress|R
-Mind Stone|U
-Meteor Blast|U
-Mizzium Mortars|R
-Mirror Match|U
-Mizzix of the Izmagnus|M
-Monk Idealist|U
-Mizzix's Mastery|R
-Mosswort Bridge|R
-Mountain|L
-Mulldrifter|U
-Mystic Retrieval|U
-Mulch|C
-Mycoloth|R
-Mystic Confluence|R
-Mystic Snake|R
-Necromancer's Covenant|R
-Ninja of the Deep Hours|C
-New Benalia|U
-Noble Quarry|U
-Nighthowler|R
-Ohran Viper|R
-Novijen, Heart of Progress|U
-Oran-Rief, the Vastwood|R
-Open the Vaults|R
-Oreskos Explorer|U
-Orochi Hatchery|R
-Orim's Thunder|C
-Orzhov Basilica|C
-Orzhov Cluestone|C
-Orzhov Guildgate|C
-Overwhelming Stampede|R
-Orzhov Signet|C
-Patagia Viper|U
+Loxodon Warhammer|R
+Putrefy|U
+Reins of Power|R
+Rampant Growth|C
 Overrun|U
-Phyrexian Plaguelord|R
 Pathbreaker Ibex|R
+Phyrexian Plaguelord|R
 Phyrexian Arena|R
-Phyrexian Rager|C
 Plains|L
+Phyrexian Rager|C
 Phyrexian Reclamation|U
 Plaxmanta|U
 Preordain|C
@@ -181,11 +185,8 @@ Prophetic Bolt|R
 Primal Growth|C
 Prime Speaker Zegana|M
 Psychosis Crawler|R
-Rapid Hybridization|U
-Rampant Growth|C
-Putrefy|U
-Reins of Power|R
 Reliquary Tower|U
+Rapid Hybridization|U
 Repeal|C
 Rise from the Grave|U
 Righteous Confluence|R
@@ -285,43 +286,42 @@ Wood Elves|C
 Word of Seizing|R
 Wretched Confluence|R
 Zoetic Cavern|U
-Acidic Slime|U
-Grave Peril|C
-Grisly Salvage|C
-Great Oak Guardian|U
-Hamletback Goliath|R
-Grim Backwoods|R
-Hammerfist Giant|R
-Herald of the Host|U
-Hostility|R
-Hunted Dragon|R
-High Market|R
-Illusory Ambusher|U
-Indrik Stomphowler|U
-Inferno Titan|M
-Izzet Guildgate|C
-Island|L
-Jace's Archivist|R
-Izzet Boilerworks|C
-Izzet Signet|C
-Jareth, Leonine Titan|R
-Jarad, Golgari Lich Lord|M
-Jungle Hollow|C
-Kalemne's Captain|R
-Karlov of the Ghost Council|M
-Kaseto, Orochi Archmage|M
-Karmic Justice|R
-Kalemne, Disciple of Iroas|M
-Kessig Cagebreakers|R
-Kodama's Reach|C
-Korozda Guildmage|U
-Kor Sanctifiers|C
-Loaming Shaman|R
-Lightning Greaves|U
-Krosan Grip|U
-Llanowar Reborn|U
-Lone Revenant|R
-Lorescale Coatl|U
-Lotleth Troll|R
-Loxodon Warhammer|R
-Magus of the Wheel|R
+Mazirek, Kraul Death Priest|M
+Marshal's Anthem|R
+Melek, Izzet Paragon|R
+Magmaquake|R
+Meren of Clan Nel Toth|M
+Mesa Enchantress|R
+Mizzium Mortars|R
+Mind Stone|U
+Meteor Blast|U
+Mirror Match|U
+Mizzix of the Izmagnus|M
+Monk Idealist|U
+Mizzix's Mastery|R
+Mountain|L
+Mosswort Bridge|R
+Mulldrifter|U
+Mystic Retrieval|U
+Mulch|C
+Mycoloth|R
+Mystic Confluence|R
+Necromancer's Covenant|R
+Mystic Snake|R
+Ninja of the Deep Hours|C
+New Benalia|U
+Nighthowler|R
+Ohran Viper|R
+Noble Quarry|U
+Novijen, Heart of Progress|U
+Oran-Rief, the Vastwood|R
+Orim's Thunder|C
+Orzhov Basilica|C
+Orzhov Cluestone|C
+Orzhov Guildgate|C
+Overwhelming Stampede|R
+Patagia Viper|U
+Orzhov Signet|C
+Open the Vaults|R
+Oreskos Explorer|U
+Orochi Hatchery|R

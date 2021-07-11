@@ -1,6 +1,6 @@
+Ballyrush Banneret|C
 Ambassador Oak|C
 Auntie's Snitch|R
-Ballyrush Banneret|C
 Battletide Alchemist|R
 Bitterblossom|R
 Blightsoil Druid|C
@@ -35,6 +35,14 @@ Fencer Clique|C
 Fendeep Summoner|R
 Festercreep|C
 Fertilid|C
+Feudkiller's Verdict|R
+Final-Sting Faerie|C
+Fire Juggler|C
+Frogtosser Banneret|C
+Floodchaser|C
+Game-Trail Changeling|C
+Forfend|C
+Gilt-Leaf Archdruid|R
 Greatbow Doyen|R
 Graceful Reprieve|U
 Grimoire Thief|R
@@ -44,45 +52,23 @@ Hunting Triad|U
 Indomitable Ancients|R
 Idyllic Tutor|R
 Ink Dissolver|C
+Kinsbaile Borderguard|R
 Inspired Sprite|U
 Kindled Fury|C
-Kinsbaile Borderguard|R
 Kinsbaile Cavalier|R
 Kithkin Zephyrnaut|C
 Knowledge Exploitation|R
-Latchkey Faerie|C
 Leaf-Crowned Elder|R
+Latchkey Faerie|C
 Lightning Crafter|R
 Lunk Errant|C
+Luminescent Rain|C
 Lys Alana Bowmaster|C
 Maralen of the Mornsong|R
-Luminescent Rain|C
 Merrow Witsniper|C
 Meadowboon|U
 Mind Spring|R
 Mind Shatter|R
-Stonybrook Banneret|C
-Stonybrook Schoolmaster|C
-Stream of Unconsciousness|C
-Sunflare Shaman|C
-Taurean Mauler|R
-Supreme Exemplar|R
-Swell of Courage|U
-Thieves' Fortune|U
-Thornbite Staff|U
-Titan's Revenge|R
-Unstoppable Ash|R
-Vendilion Clique|R
-Vengeful Firebrand|R
-Veteran's Armaments|U
-Walker of the Grove|U
-Wandering Graybeard|U
-War-Spike Changeling|C
-Warren Weirding|U
-Violet Pall|C
-Waterspout Weavers|U
-Weed-Pruner Poplar|C
-Weight of Conscience|C
 Morsel Theft|C
 Moonglove Changeling|C
 Mosquito Guard|C
@@ -106,15 +92,15 @@ Prickly Boggart|C
 Pulling Teeth|C
 Primal Beyond|R
 Pyroclast Consul|U
-Reach of Branches|R
 Rage Forger|U
-Redeem the Lost|U
 Recross the Paths|U
+Redeem the Lost|U
 Reins of the Vinesteed|C
+Reach of Branches|R
 Research the Deep|U
 Release the Ants|U
-Reveillark|R
 Rhys the Exiled|R
+Reveillark|R
 Revive the Fallen|U
 Roar of the Crowd|C
 Rivals' Duel|U
@@ -126,8 +112,8 @@ Scapeshift|R
 Seething Pathblazer|C
 Sensation Gorger|R
 Shared Animosity|R
-Shard Volley|C
 Shinewend|C
+Shard Volley|C
 Sigil Tracer|R
 Spitebellows|U
 Slithermuse|R
@@ -136,15 +122,29 @@ Stenchskipper|R
 Stinkdrinker Bandit|U
 Stingmoggie|C
 Stonehewer Giant|R
+Stonybrook Banneret|C
 Stomping Slabs|U
+Stonybrook Schoolmaster|C
+Sunflare Shaman|C
+Supreme Exemplar|R
+Stream of Unconsciousness|C
+Taurean Mauler|R
+Swell of Courage|U
+Thieves' Fortune|U
+Thornbite Staff|U
+Unstoppable Ash|R
+Titan's Revenge|R
+Vendilion Clique|R
+Vengeful Firebrand|R
+Veteran's Armaments|U
+Walker of the Grove|U
+Violet Pall|C
+Wandering Graybeard|U
+War-Spike Changeling|C
+Warren Weirding|U
+Waterspout Weavers|U
+Weed-Pruner Poplar|C
+Weight of Conscience|C
 Weirding Shaman|R
 Winnower Patrol|C
 Wolf-Skull Shaman|U
-Feudkiller's Verdict|R
-Final-Sting Faerie|C
-Fire Juggler|C
-Frogtosser Banneret|C
-Floodchaser|C
-Game-Trail Changeling|C
-Forfend|C
-Gilt-Leaf Archdruid|R

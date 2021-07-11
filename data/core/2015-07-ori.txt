@@ -1,4 +1,4 @@
-Anointer of Champions|U
+Ampryn Tactician|C
 Acolyte of the Inferno|U
 Aegis Angel|R
 Act of Treason|C
@@ -7,14 +7,14 @@ Aerial Volley|C
 Akroan Sergeant|C
 Alhammarret's Archive|M
 Alchemist's Vial|C
-Alhammarret, High Arbiter|R
-Ampryn Tactician|C
-Angel's Tomb|U
 Anchor to the Aether|U
+Alhammarret, High Arbiter|R
+Angel's Tomb|U
 Animist's Awakening|R
 Abbot of Keral Keep|R
 Artificer's Epiphany|C
 Archangel of Tithes|M
+Anointer of Champions|U
 Aspiring Aeronaut|C
 Avaricious Dragon|M
 Auramancer|C
@@ -22,8 +22,8 @@ Aven Battle Priest|C
 Bellows Lizard|C
 Battlefield Forge|R
 Blazing Hellhound|U
-Blessed Spirits|U
 Blightcaster|U
+Blessed Spirits|U
 Blood-Cursed Knight|U
 Boggart Brute|C
 Bonded Construct|C
@@ -31,13 +31,13 @@ Bounding Krasis|U
 Bone to Ash|C
 Brawler's Plate|U
 Call of the Full Moon|U
-Calculated Dismissal|C
 Catacomb Slug|C
+Calculated Dismissal|C
 Caustic Caterpillar|C
-Celestial Flare|C
 Caves of Koilos|R
-Chandra's Fury|C
+Celestial Flare|C
 Chandra's Ignition|R
+Chandra's Fury|C
 Chandra, Fire of Kaladesh|M
 Chandra, Roaring Flame|M
 Charging Griffin|C
@@ -60,6 +60,7 @@ Despoiler of Souls|R
 Demonic Pact|M
 Demolish|C
 Disciple of the Ring|M
+Mage-Ring Network|U
 Divine Verdict|C
 Displacement Wave|R
 Disperse|C
@@ -74,23 +75,23 @@ Embermaw Hellion|R
 Enlightened Ascetic|C
 Enthralling Victor|U
 Enshrouding Mist|C
-Evolutionary Leap|R
 Erebos's Titan|M
+Evolutionary Leap|R
 Evolving Wilds|C
 Exquisite Firecraft|R
 Eyeblight Assassin|C
 Faerie Miscreant|C
-Eyeblight Massacre|U
 Fiery Hellhound|C
 Fetid Imp|C
 Fiery Conclusion|U
+Eyeblight Massacre|U
 Firefiend Elemental|C
 Fiery Impulse|C
 Flesh to Dust|C
 Flameshadow Conjuring|R
 Fleshbag Marauder|U
-Gaea's Revenge|R
 Forest|L
+Gaea's Revenge|R
 Foundry of the Consuls|U
 Ghirapur Aether Grid|U
 Gather the Pack|U
@@ -99,18 +100,18 @@ Gideon, Battle-Forged|M
 Gideon's Phalanx|R
 Gilt-Leaf Winnower|R
 Gnarlroot Trapper|U
-Goblin Glory Chaser|U
 Goblin Piledriver|R
 Gold-Forged Sentinel|U
 Grasp of the Hieromancer|C
 Graveblade Marauder|R
+Goblin Glory Chaser|U
 Guardian Automaton|C
 Guardians of Meletis|C
-Hangarback Walker|R
 Hallowed Moonlight|R
-Harbinger of the Tides|R
+Hangarback Walker|R
 Heavy Infantry|C
 Healing Hands|C
+Harbinger of the Tides|R
 Helm of the Gods|R
 Herald of the Pantheon|R
 Hitchclaw Recluse|C
@@ -118,9 +119,9 @@ Hixus, Prison Warden|R
 Honored Hierarch|R
 Infernal Scarring|C
 Infectious Bloodlust|C
-Hydrolash|U
-Into the Void|U
 Infinite Obliteration|R
+Into the Void|U
+Hydrolash|U
 Iroas's Champion|U
 Jace, Telepath Unbound|M
 Island|L
@@ -132,9 +133,9 @@ Knight of the Pilgrim's Road|C
 Joraga Invocation|U
 Knight of the White Orchid|R
 Knightly Valor|U
+Kytheon, Hero of Akros|M
 Kothophed, Soul Hoarder|R
 Kytheon's Irregulars|R
-Kytheon, Hero of Akros|M
 Kytheon's Tactics|C
 Lightning Javelin|C
 Leaf Gilder|C
@@ -142,49 +143,90 @@ Languish|R
 Liliana, Defiant Necromancer|M
 Liliana, Heretical Healer|M
 Llanowar Empath|C
-Macabre Waltz|C
 Llanowar Wastes|R
 Mage-Ring Bully|C
+Macabre Waltz|C
 Mage-Ring Responder|R
-Mage-Ring Network|U
 Mahamoti Djinn|R
 Magmatic Insight|U
 Malakir Cullblade|U
-Mantle of Webs|C
 Managorger Hydra|R
+Mantle of Webs|C
 Maritime Guard|C
 Mighty Leap|C
 Might of the Masses|C
 Meteorite|U
+Mizzium Meddler|R
+Mind Rot|C
+Mountain|L
+Molten Vortex|R
+Murder Investigation|U
+Nantuko Husk|C
+Negate|C
+Necromantic Summons|U
+Nissa's Revelation|R
+Nightmare|R
+Nissa's Pilgrimage|C
+Nissa, Sage Animist|M
+Nightsnare|C
+Nissa, Vastwood Seer|M
+Nivix Barrier|C
+Orbs of Warding|R
+Orchard Spirit|C
+Outland Colossus|R
+Patron of the Valiant|U
+Pharika's Disciple|C
+Pia and Kiran Nalaar|R
+Plains|L
+Possessed Skaab|U
+Plummet|C
+Priest of the Blood Rite|R
+Prickleboar|C
+Prism Ring|U
+Prized Unicorn|U
+Pyromancer's Goggles|M
+Psychic Rebuttal|U
+Rabid Bloodsucker|C
+Ramroller|U
+Ravaging Blaze|U
+Reave Soul|C
+Read the Bones|C
+Reclusive Artificer|U
+Reclaim|C
+Relic Seeker|R
+Returned Centaur|C
+Revenant|U
+Rhox Maulers|C
+Ringwarden Owl|C
 Runed Servitor|U
 Rogue's Passage|U
 Scab-Clan Berserker|R
 Scrapskin Drake|C
 Screeching Skaab|C
 Seismic Elemental|U
-Sengir Vampire|U
 Send to Sleep|C
+Sengir Vampire|U
 Sentinel of the Eternal Watch|U
 Separatist Voidmage|C
 Shaman of the Pack|U
 Serra Angel|U
 Shadows of the Past|U
-Shambling Ghoul|C
 Shivan Dragon|R
 Sigil of Valor|U
 Sigil of the Empty Throne|R
+Shambling Ghoul|C
 Shivan Reef|R
 Sigiled Starfish|U
 Skaab Goliath|U
 Skyraker Giant|U
 Skysnare Spider|U
 Somberwald Alpha|U
-Smash to Smithereens|C
 Soulblade Djinn|R
+Smash to Smithereens|C
 Stalwart Aven|C
-Sphinx's Tutelage|U
 Stratus Walk|C
 Starfield of Nyx|M
+Sphinx's Tutelage|U
 Subterranean Scout|C
 Suppression Bonds|C
 Sword of the Animist|R
@@ -204,17 +246,6 @@ Timberpack Wolf|C
 Titanic Growth|C
 Titan's Strength|C
 Topan Freeblade|C
-Totem-Guide Hartebeest|U
-Tormented Thoughts|U
-Tower Geist|U
-Touch of Moonglove|C
-Turn to Frog|U
-Tragic Arrogance|R
-Undead Servant|C
-Undercity Troll|U
-Valeron Wardens|U
-Unholy Hunger|C
-Vastwood Gorger|C
 Valor in Akros|U
 Veteran's Sidearm|C
 Vryn Wingmare|R
@@ -234,45 +265,14 @@ Yavimaya Coast|R
 Zendikar Incarnate|U
 Yoked Ox|C
 Zendikar's Roil|U
-Mizzium Meddler|R
-Mind Rot|C
-Mountain|L
-Molten Vortex|R
-Murder Investigation|U
-Nantuko Husk|C
-Negate|C
-Necromantic Summons|U
-Nissa's Revelation|R
-Nightmare|R
-Nissa's Pilgrimage|C
-Nightsnare|C
-Nissa, Sage Animist|M
-Nissa, Vastwood Seer|M
-Nivix Barrier|C
-Orchard Spirit|C
-Orbs of Warding|R
-Outland Colossus|R
-Patron of the Valiant|U
-Pharika's Disciple|C
-Pia and Kiran Nalaar|R
-Possessed Skaab|U
-Plains|L
-Plummet|C
-Priest of the Blood Rite|R
-Prickleboar|C
-Prized Unicorn|U
-Prism Ring|U
-Pyromancer's Goggles|M
-Psychic Rebuttal|U
-Rabid Bloodsucker|C
-Read the Bones|C
-Ramroller|U
-Ravaging Blaze|U
-Reave Soul|C
-Reclusive Artificer|U
-Reclaim|C
-Relic Seeker|R
-Returned Centaur|C
-Rhox Maulers|C
-Revenant|U
-Ringwarden Owl|C
+Totem-Guide Hartebeest|U
+Tower Geist|U
+Touch of Moonglove|C
+Tormented Thoughts|U
+Turn to Frog|U
+Tragic Arrogance|R
+Undead Servant|C
+Vastwood Gorger|C
+Undercity Troll|U
+Unholy Hunger|C
+Valeron Wardens|U

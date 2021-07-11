@@ -1,12 +1,12 @@
-Lotus Cobra|S
 Call of the Herd|S
+Batterskull|S
 All Is Dust|S
 Chrome Mox|S
-Batterskull|S
 Goblin Guide|S
 Maelstrom Pulse|S
+Lotus Cobra|S
 Griselbrand|S
 Primeval Titan|S
 Spiritmonger|S
-Umezawa's Jitte|S
 Stoneforge Mystic|S
+Umezawa's Jitte|S

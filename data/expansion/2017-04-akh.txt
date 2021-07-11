@@ -1,4 +1,11 @@
-Bloodrage Brawler|U
+Bitterblade Warrior|C
+Baleful Ammit|U
+Battlefield Scavenger|U
+Binding Mummy|C
+Benefaction of Rhonas|C
+Kefnet the Mindful|M
+Insult/Injury|R
+Ahn-Crop Champion|U
 Ahn-Crop Crasher|U
 Ancient Crab|C
 Angel of Sanctions|M
@@ -11,14 +18,10 @@ Aven Initiate|C
 As Foretold|M
 Aven Mindcensor|R
 Aven Wind Guide|U
-Baleful Ammit|U
-Battlefield Scavenger|U
-Binding Mummy|C
-Benefaction of Rhonas|C
-Bitterblade Warrior|C
 Blighted Bat|C
 Blazing Volley|C
 Bloodlust Inciter|C
+Bloodrage Brawler|U
 Bontu the Glorified|M
 Bone Picker|U
 Bontu's Monument|U
@@ -28,14 +31,51 @@ By Force|U
 Canyon Slough|R
 Cancel|C
 Cartouche of Ambition|C
-Cartouche of Knowledge|C
-In Oketra's Name|C
-Horror of the Broken Lands|C
-Hyena Pack|C
-Illusory Wrappings|C
-Hooded Brawler|C
-Impeccable Timing|C
-Honored Hydra|R
+Fetid Pools|R
+Irrigated Farmland|R
+Final Reward|C
+Forest|L
+Floodwaters|C
+Fling|C
+Forsake the Worldly|C
+Festering Mummy|C
+Forsaken Sanctuary|C
+Honed Khopesh|C
+Galestrike|U
+Foul Orchard|C
+Giant Spider|C
+Gate to the Afterlife|U
+Gideon of the Trials|M
+Gideon's Intervention|R
+Gideon's Resolve|R
+Gideon, Martial Paragon|M
+Gift of Paradise|C
+Glorious End|M
+Glory-Bound Initiate|R
+Glorybringer|R
+Glyph Keeper|R
+Graceful Cat|C
+Gravedigger|U
+Grasping Dunes|U
+Greater Sandwurm|C
+Grim Strider|U
+Gust Walker|C
+Hapatra, Vizier of Poisons|R
+Hapatra's Mark|U
+Haze of Pollen|C
+Harvest Season|R
+Harsh Mentor|R
+Hazoret the Fervent|M
+Hazoret's Monument|U
+Hazoret's Favor|R
+Heart-Piercer Manticore|R
+Heaven/Earth|R
+Highland Lake|C
+Hieroglyphic Illumination|C
+Hekma Sentinels|C
+Honored Crop-Captain|U
+Initiate's Companion|C
+Flameblade Adept|U
 Cartouche of Solidarity|C
 Cartouche of Strength|C
 Cartouche of Zeal|C
@@ -56,46 +96,29 @@ Crocodile of the Crossing|U
 Cruel Reality|M
 Cryptic Serpent|U
 Cradle of the Accursed|C
-Giant Spider|C
-Gideon of the Trials|M
-Gate to the Afterlife|U
-Gideon's Resolve|R
-Gideon's Intervention|R
-Gideon, Martial Paragon|M
-Gift of Paradise|C
-Glory-Bound Initiate|R
-Glorybringer|R
-Glorious End|M
-Glyph Keeper|R
-Gravedigger|U
-Grasping Dunes|U
-Graceful Cat|C
-Greater Sandwurm|C
-Hapatra, Vizier of Poisons|R
-Gust Walker|C
-Grim Strider|U
-Hapatra's Mark|U
-Harsh Mentor|R
-Haze of Pollen|C
-Harvest Season|R
-Hazoret the Fervent|M
-Hazoret's Monument|U
-Hazoret's Favor|R
-Heart-Piercer Manticore|R
-Hekma Sentinels|C
-Heaven/Earth|R
-Highland Lake|C
-Hieroglyphic Illumination|C
-Honed Khopesh|C
-Honored Crop-Captain|U
-Initiate's Companion|C
-Irrigated Farmland|R
-Insult/Injury|R
-Kefnet the Mindful|M
-Island|L
-Kefnet's Monument|U
-Khenra Charioteer|U
-Labyrinth Guardian|U
+Curator of Mysteries|R
+Cartouche of Knowledge|C
+Cursed Minotaur|C
+Decimator Beetle|U
+Deem Worthy|U
+Decision Paralysis|C
+Desert Cerodon|C
+Cut/Ribbons|R
+Defiant Greatmaw|U
+Desiccated Naga|U
+Devoted Crop-Mate|U
+Destined/Lead|U
+Djeru's Resolve|C
+Dissenter's Deliverance|C
+Doomed Dissenter|C
+Dispossess|R
+Dread Wanderer|R
+Drake Haven|R
+Edifice of Authority|U
+Dune Beetle|C
+Electrify|C
+Dusk/Dawn|R
+Emberhorn Minotaur|C
 Lay Claim|U
 Lay Bare the Heart|U
 Liliana's Mastery|R
@@ -113,9 +136,7 @@ Meandering River|C
 Miasmic Mummy|C
 Naga Oracle|C
 Minotaur Sureshot|C
-Curator of Mysteries|R
 Mighty Leap|C
-Ahn-Crop Champion|U
 Mountain|L
 Naga Vitalist|C
 Mouth/Feed|R
@@ -192,6 +213,13 @@ Supply Caravan|C
 Synchronized Strike|U
 Swamp|L
 Sweltering Suns|R
+Honored Hydra|R
+Illusory Wrappings|C
+Horror of the Broken Lands|C
+Hooded Brawler|C
+Impeccable Timing|C
+In Oketra's Name|C
+Hyena Pack|C
 Tah-Crop Elite|C
 Tah-Crop Skirmisher|C
 Tattered Mummy|C
@@ -230,27 +258,6 @@ Winged Shepherd|C
 Winds of Rebuke|C
 Zenith Seeker|U
 Woodland Stream|C
-Cursed Minotaur|C
-Decimator Beetle|U
-Deem Worthy|U
-Cut/Ribbons|R
-Decision Paralysis|C
-Desert Cerodon|C
-Desiccated Naga|U
-Defiant Greatmaw|U
-Devoted Crop-Mate|U
-Destined/Lead|U
-Djeru's Resolve|C
-Dissenter's Deliverance|C
-Dispossess|R
-Doomed Dissenter|C
-Dread Wanderer|R
-Drake Haven|R
-Edifice of Authority|U
-Dune Beetle|C
-Electrify|C
-Dusk/Dawn|R
-Emberhorn Minotaur|C
 Embalmer's Tools|U
 Enigma Drake|U
 Evolving Wilds|C
@@ -259,14 +266,7 @@ Exemplar of Strength|U
 Faith of the Devoted|U
 Failure/Comply|R
 Fan Bearer|C
-Festering Mummy|C
-Flameblade Adept|U
-Fetid Pools|R
-Final Reward|C
-Forest|L
-Floodwaters|C
-Fling|C
-Forsake the Worldly|C
-Forsaken Sanctuary|C
-Foul Orchard|C
-Galestrike|U
+Island|L
+Kefnet's Monument|U
+Khenra Charioteer|U
+Labyrinth Guardian|U

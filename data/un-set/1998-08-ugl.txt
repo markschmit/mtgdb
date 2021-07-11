@@ -1,11 +1,4 @@
-Clay Pigeon|U
-Chicken à la King|R
-Checks and Balances|U
-Chicken Egg|C
-Clam Session|C
-Clambassadors|C
 Clam-I-Am|C
-Deadhead|C
 B.F.M. (Big Furry Monster)|R
 Ashnod's Coupon|R
 Bronze Calendar|U
@@ -16,6 +9,13 @@ Burning Cinder Fury of Crimson Chaos Fire|R
 Charm School|U
 Chaos Confetti|C
 Censorship|U
+Chicken à la King|R
+Checks and Balances|U
+Chicken Egg|C
+Clam Session|C
+Clambassadors|C
+Deadhead|C
+Clay Pigeon|U
 Common Courtesy|U
 Double Cross|C
 Double Deal|C

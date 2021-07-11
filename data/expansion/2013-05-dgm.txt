@@ -1,17 +1,17 @@
-Ascended Lawmage|U
+Battering Krasis|C
 Deputy of Acquittals|C
 Aetherling|R
 Advent of the Wurm|R
 Armored Wolf-Rider|C
 Wind Drake|C
+Ascended Lawmage|U
 Awe for the Guilds|C
 Azorius Cluestone|C
 Feral Animist|U
 Azorius Guildgate|C
-Battering Krasis|C
 Bane Alley Blackguard|C
 Beetleform Mage|C
-Carnage Gladiator|U
+Clear a Path|C
 Blaze Commando|U
 Blast of Genius|U
 Blood Baron of Vizkopa|M
@@ -25,8 +25,8 @@ Bred for the Hunt|U
 Exava, Rakdos Blood Witch|R
 Bronzebeak Moa|U
 Renegade Krasis|R
-Clear a Path|C
-Ubul Sar Gatekeepers|C
+Carnage Gladiator|U
+Unflinching Courage|U
 Beck/Call|R
 Council of the Absolute|M
 Armed/Dangerous|U
@@ -42,8 +42,8 @@ Down/Dirty|U
 Fatal Fumes|C
 Breaking/Entering|R
 Far/Away|U
-Fluxcharger|U
 Goblin Test Pilot|U
+Fluxcharger|U
 Flesh/Blood|R
 Gaze of Granite|R
 Gleam of Battle|U
@@ -77,11 +77,11 @@ Mindstatic|C
 Melek, Izzet Paragon|R
 Maze's End|M
 Mending Touch|C
+Murmuring Phantasm|C
 Mirko Vosk, Mind Drinker|R
 Morgue Burst|C
-Murmuring Phantasm|C
-Nivix Cyclops|C
 Mutant's Prey|C
+Nivix Cyclops|C
 Notion Thief|R
 Opal Lake Gatekeepers|C
 Obzedat's Aid|R
@@ -110,17 +110,17 @@ Renounce the Guilds|R
 Riot Control|C
 Riot Piker|C
 Rot Farm Skeleton|U
-Runner's Bane|C
 Rubblebelt Maaka|C
+Runner's Bane|C
 Ruric Thar, the Unbowed|R
 Saruli Gatekeepers|C
 Savageborn Hydra|M
 Scab-Clan Giant|U
-Scion of Vitu-Ghazi|R
 Selesnya Guildgate|C
 Selesnya Cluestone|C
 Showstopper|U
 Protect/Serve|U
+Scion of Vitu-Ghazi|R
 Simic Cluestone|C
 Sin Collector|U
 Sinister Possession|C
@@ -137,11 +137,11 @@ Ready/Willing|R
 Give/Take|U
 Tithe Drinker|C
 Trait Doctoring|R
-Unflinching Courage|U
+Ubul Sar Gatekeepers|C
 Trostani's Summoner|U
-Uncovered Clues|C
-Toil/Trouble|U
 Turn/Burn|U
+Toil/Trouble|U
+Uncovered Clues|C
 Varolz, the Scar-Striped|R
 Viashino Firstblade|C
 Voice of Resurgence|M

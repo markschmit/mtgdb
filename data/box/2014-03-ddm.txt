@@ -1,47 +1,61 @@
-Acidic Slime|U
-Aeon Chronicler|R
+Crosstown Courier|C
+Consume Strength|C
 Aether Adept|C
-Aether Figment|U
+Aeon Chronicler|R
 Agoraphobia|U
+Aether Figment|U
 Archaeomancer|C
-Chronomaton|U
 Body Double|R
 Claustrophobia|C
 Control Magic|U
-Crosstown Courier|C
+Chronomaton|U
 Corpse Traders|U
 Death-Hood Cobra|C
 Dream Stalker|C
 Dread Statuary|U
+Acidic Slime|U
+Spelltwine|R
+Swamp|L
+Stonefare Crocodile|C
+Summoner's Bane|U
+Tavern Swindler|U
+Tainted Wood|U
+Tragic Slip|C
+Underworld Connections|R
+Thought Scour|C
+Treasured Find|U
+Vinelasher Kudzu|R
+Vraska the Unseen|M
+Wight of Precinct Six|U
 Errant Ephemeron|C
 Drooling Groodion|U
 Festerhide Boar|C
 Golgari Guildgate|C
+Gatecreeper Vine|C
 Forest|L
 Future Sight|R
-Gatecreeper Vine|C
 Halimar Depths|C
-Griptide|C
 Grisly Spectacle|C
+Griptide|C
 Highway Robber|C
 Into the Roil|C
 Hypnotic Cloud|C
-Jace's Ingenuity|U
 Island|L
 Jace's Mindseeker|R
 Jace's Phantasm|U
 Jace, Architect of Thought|M
 Krovikan Mist|C
 Leyline Phantom|C
-Memory Lapse|C
+Jace's Ingenuity|U
 Last Kiss|C
+Memory Lapse|C
 Marsh Casualties|U
 Merfolk Wayfinder|U
-Ohran Viper|R
 Mold Shambler|C
+Ohran Viper|R
 Nekrataal|U
-Oran-Rief Recluse|C
 Night's Whisper|U
+Oran-Rief Recluse|C
 Phantasmal Bear|C
 Phantasmal Dragon|U
 Pulse Tracker|C
@@ -49,28 +63,14 @@ Prohibit|C
 Putrid Leech|C
 Reaper of the Wilds|R
 Ray of Command|C
-Sadistic Augermage|C
 Riftwing Cloudskate|U
+Sadistic Augermage|C
 Remand|U
 River Boa|U
 Rogue's Passage|U
 Sea Gate Oracle|C
-Slate Street Ruffian|C
-Stab Wound|C
-Spawnwrithe|R
-Stonefare Crocodile|C
-Spelltwine|R
-Stealer of Secrets|C
 Shadow Alley Denizen|C
-Swamp|L
-Summoner's Bane|U
-Tavern Swindler|U
-Tainted Wood|U
-Tragic Slip|C
-Thought Scour|C
-Underworld Connections|R
-Treasured Find|U
-Vinelasher Kudzu|R
-Consume Strength|C
-Vraska the Unseen|M
-Wight of Precinct Six|U
+Slate Street Ruffian|C
+Spawnwrithe|R
+Stab Wound|C
+Stealer of Secrets|C

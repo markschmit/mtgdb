@@ -7,9 +7,9 @@ Beast Within|U
 Bonds of Faith|C
 Boros Guildgate|C
 Cavalry Pegasus|C
+Conquering Manticore|R
 Crater Hellion|R
 Condemn|U
-Conquering Manticore|R
 Crowned Ceratok|U
 Daily Regimen|U
 Dawnstrike Paladin|C
@@ -22,43 +22,43 @@ Fires of Yavimaya|U
 Figure of Destiny|R
 Forest|L
 Freewind Equenaut|C
-Ghor-Clan Savage|C
 Gorehorn Minotaurs|C
 Griffin Guide|U
+Ghor-Clan Savage|C
 Gustcloak Sentinel|U
-Kavu Predator|U
 Kamahl, Pit Fighter|R
+Kavu Predator|U
 Krosan Tusker|C
 Kazandu Refuge|U
 Magma Jet|U
 Llanowar Reborn|U
 Moment of Heroism|C
 Miraculous Recovery|U
-Nobilis of War|R
 Mountain|L
-Orcish Lumberjack|C
+Nobilis of War|R
 New Benalia|U
+Orcish Lumberjack|C
 Ordeal of Purphoros|U
-Polukranos, World Eater|M
+Pyrokinesis|U
 Plains|L
 Pay No Heed|C
-Pyrokinesis|U
+Polukranos, World Eater|M
+Pyroclasm|U
 Prey Upon|C
 Regrowth|U
-Righteousness|U
-Pyroclasm|U
 Satyr Hedonist|C
+Righteousness|U
 Skarrg, the Rage Pits|U
 Shower of Sparks|C
 Skarrgan Firebird|R
 Skarrgan Skybreaker|U
 Somberwald Vigilante|C
-Thraben Valiant|C
 Smite the Monstrous|C
+Thraben Valiant|C
 Stun Sniper|U
 Stand Firm|C
-Terrifying Presence|C
 Sun Titan|M
+Terrifying Presence|C
 Troll Ascetic|R
 Truefire Paladin|U
 Undying Rage|U

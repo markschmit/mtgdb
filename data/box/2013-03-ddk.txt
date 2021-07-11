@@ -1,14 +1,10 @@
-Decompose|U
-Doomed Traveler|C
-Death Grasp|R
-Ancient Craving|R
 Akoum Refuge|U
 Absorb Vis|C
 Ashmouth Hound|C
 Blightning|C
 Blazing Salvo|C
-Bloodrage Vampire|C
 Browbeat|U
+Bloodrage Vampire|C
 Breaking Point|R
 Butcher of Malakir|R
 Bump in the Night|C
@@ -16,6 +12,9 @@ Child of Night|C
 Corpse Connoisseur|U
 Coal Stoker|C
 Devil's Play|R
+Decompose|U
+Death Grasp|R
+Doomed Traveler|C
 Duskhunter Bat|C
 Faithless Looting|C
 Evolving Wilds|C
@@ -69,3 +68,4 @@ Vithian Stinger|C
 Vampire's Bite|C
 Wall of Omens|U
 Zealous Persecution|U
+Ancient Craving|R

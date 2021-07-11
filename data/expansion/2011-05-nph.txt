@@ -1,9 +1,108 @@
+Auriok Survivors|U
 Argent Mutation|U
 Alloy Myr|U
 Act of Aggression|U
 Apostle's Blessing|C
 Arm with Aether|U
-Auriok Survivors|U
+Karn Liberated|M
+Lashwrithe|R
+Kiln Walker|U
+Life's Finale|R
+Leeching Bite|C
+Lost Leonin|C
+Loxodon Convert|C
+Master Splicer|U
+Marrow Shards|U
+Maul Splicer|C
+Melira, Sylvok Outcast|R
+Mindcrank|U
+Mental Misstep|U
+Moltensteel Dragon|R
+Mindculling|U
+Mortis Dogs|C
+Mountain|L
+Mycosynth Fiend|U
+Myr Superion|R
+Mycosynth Wellspring|C
+Mutagenic Growth|C
+Necropouncer|U
+Noxious Revival|U
+Norn's Annex|R
+Numbing Dose|C
+Parasitic Implant|C
+Ogre Menial|C
+Omen Machine|R
+Pestilent Souleater|C
+Phyrexian Hulk|C
+Phyrexia's Core|U
+Phyrexian Ingester|R
+Phyrexian Obliterator|M
+Phyrexian Metamorph|R
+Phyrexian Swarmlord|R
+Pith Driller|C
+Phyrexian Unlife|R
+Plains|L
+Postmortem Lunge|U
+Praetor's Grasp|R
+Porcelain Legionnaire|C
+Priest of Urabrask|U
+Pristine Talisman|C
+Psychic Surgery|R
+Psychic Barrier|C
+Puresteel Paladin|R
+Rotted Hystrix|C
+Reaper of Sheoldred|U
+Razor Swine|C
+Rage Extractor|U
+Remember the Fallen|C
+Scrapyard Salvo|C
+Ruthless Invasion|C
+Sensor Splicer|C
+Shattered Angel|U
+Sheoldred, Whispering One|M
+Shriek Raptor|C
+Shrine of Burning Rage|U
+Shrine of Boundless Growth|U
+Shrine of Limitless Power|U
+Shrine of Piercing Vision|U
+Shrine of Loyal Legions|U
+Sickleslicer|U
+Slash Panther|C
+Soul Conduit|R
+Slag Fiend|R
+Spellskite|R
+Spinebiter|U
+Spire Monitor|C
+Spined Thopter|C
+Unwinding Clock|R
+Toxic Nim|C
+Trespassing Souleater|C
+Triumph of the Hordes|U
+Torpor Orb|R
+Urabrask the Hidden|M
+Victorious Destruction|C
+Vault Skirge|C
+Vapor Snag|C
+Viral Drake|U
+Viridian Harvest|C
+Vital Splicer|U
+Viridian Betrayers|C
+Vulshok Refugee|U
+Vorinclex, Voice of Hunger|M
+Volt Charge|C
+Whispering Specter|U
+Whipflare|U
+War Report|C
+Wing Splicer|U
+Xenograft|R
+Tezzeret's Gambit|U
+Suture Priest|C
+Surge Node|U
+Surgical Extraction|R
+Sword of War and Peace|M
+Swamp|L
+Tormentor Exarch|U
+Thundering Tanadon|C
 Artillerize|C
 Blade Splicer|R
 Batterskull|M
@@ -15,9 +114,9 @@ Blinding Souleater|C
 Brutalizer Exarch|U
 Bludgeon Brawl|R
 Chained Throatseeker|C
+Caged Sun|R
 Caress of Phyrexia|U
 Cathedral Membrane|U
-Caged Sun|R
 Chancellor of the Dross|R
 Chancellor of the Annex|R
 Chancellor of the Forge|R
@@ -69,102 +168,3 @@ Jin-Gitaxias, Core Augur|M
 Island|L
 Isolation Cell|U
 Jor Kadeen, the Prevailer|R
-Karn Liberated|M
-Lashwrithe|R
-Kiln Walker|U
-Life's Finale|R
-Leeching Bite|C
-Lost Leonin|C
-Loxodon Convert|C
-Master Splicer|U
-Marrow Shards|U
-Maul Splicer|C
-Melira, Sylvok Outcast|R
-Moltensteel Dragon|R
-Mindcrank|U
-Mental Misstep|U
-Mortis Dogs|C
-Mindculling|U
-Mountain|L
-Mycosynth Fiend|U
-Mutagenic Growth|C
-Myr Superion|R
-Mycosynth Wellspring|C
-Necropouncer|U
-Numbing Dose|C
-Noxious Revival|U
-Norn's Annex|R
-Viral Drake|U
-Viridian Betrayers|C
-Viridian Harvest|C
-Vital Splicer|U
-Vulshok Refugee|U
-Vorinclex, Voice of Hunger|M
-Volt Charge|C
-Whispering Specter|U
-Whipflare|U
-War Report|C
-Wing Splicer|U
-Xenograft|R
-Plains|L
-Phyrexian Unlife|R
-Pith Driller|C
-Postmortem Lunge|U
-Porcelain Legionnaire|C
-Praetor's Grasp|R
-Priest of Urabrask|U
-Psychic Barrier|C
-Pristine Talisman|C
-Psychic Surgery|R
-Puresteel Paladin|R
-Rotted Hystrix|C
-Razor Swine|C
-Rage Extractor|U
-Reaper of Sheoldred|U
-Remember the Fallen|C
-Scrapyard Salvo|C
-Ruthless Invasion|C
-Sensor Splicer|C
-Shattered Angel|U
-Sheoldred, Whispering One|M
-Shriek Raptor|C
-Shrine of Boundless Growth|U
-Shrine of Burning Rage|U
-Shrine of Limitless Power|U
-Shrine of Piercing Vision|U
-Sickleslicer|U
-Shrine of Loyal Legions|U
-Soul Conduit|R
-Slag Fiend|R
-Slash Panther|C
-Spellskite|R
-Spinebiter|U
-Spire Monitor|C
-Spined Thopter|C
-Suture Priest|C
-Surge Node|U
-Surgical Extraction|R
-Sword of War and Peace|M
-Swamp|L
-Tormentor Exarch|U
-Thundering Tanadon|C
-Tezzeret's Gambit|U
-Unwinding Clock|R
-Toxic Nim|C
-Torpor Orb|R
-Trespassing Souleater|C
-Triumph of the Hordes|U
-Urabrask the Hidden|M
-Vault Skirge|C
-Victorious Destruction|C
-Vapor Snag|C
-Parasitic Implant|C
-Ogre Menial|C
-Omen Machine|R
-Pestilent Souleater|C
-Phyrexian Hulk|C
-Phyrexia's Core|U
-Phyrexian Ingester|R
-Phyrexian Obliterator|M
-Phyrexian Metamorph|R
-Phyrexian Swarmlord|R

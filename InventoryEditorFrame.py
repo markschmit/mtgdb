@@ -3,8 +3,10 @@ import wx
 
 import os
 import sys
-import thread
+#import thread
+import _thread
 
+from mtgutil import inv
 
 
 ID_NEW      = 107
@@ -13,8 +15,6 @@ ID_SAVEAS     = 109
 ID_LOAD     = 110
 
 ID_EXIT     = 120
-
-filePrices = "fmc_prices.txt"
 
 NONE_STR = "None"
 CUSTOM_STR = "Custom..."
@@ -41,7 +41,7 @@ class InventoryEditorFrame(wx.Frame):
 
     panel = wx.Panel(self, -1)
 
-    self.inventory = {}
+    self.inventory = inv.Inventory()
     self.visiblecards = {}
     self.isUpdatingLists = 0
     self.isGettingPrices = 0
@@ -127,7 +127,7 @@ class InventoryEditorFrame(wx.Frame):
         y = y_init
         x += dx
 
-    for key, cb in self.cbCategory.iteritems():
+    for key, cb in self.cbCategory.items():
       cb.SetValue(0)
       self.Bind(wx.EVT_CHECKBOX, self.OnVisTainted, cb)
 
@@ -289,16 +289,6 @@ class InventoryEditorFrame(wx.Frame):
         parts = line.strip().split("|")
         self.CardCategories[parts[0]] = parts[1]
 
-    if os.path.exists(filePrices):
-      pricefile = open(filePrices)
-      for line in pricefile.readlines():
-        key, price = line.strip().split('|')
-        #print "K, P: '"+key+"', '"+price+"'"
-        if len(price):
-          self.prices[key] = price
-    else:
-      print "Failed to open price file."
-
 
   def InitStatusBar(self):
     self.sb = wx.StatusBar(self, -1)
@@ -315,10 +305,10 @@ class InventoryEditorFrame(wx.Frame):
     set_code = event.GetEventObject().GetLabel()
     self.sets[set_code].Enable(not self.sets[set_code].IsEnabled())
 
-    custom = [k for (k, v) in self.sets.iteritems() if v.IsEnabled()]
+    custom = [k for (k, v) in self.sets.items() if v.IsEnabled()]
     custom.sort()
 
-    #print "Custom: ", custom
+    #print("Custom: ", custom)
 
     #change choice
     for i in range(len(self.FormatList)):
@@ -352,7 +342,7 @@ class InventoryEditorFrame(wx.Frame):
   def OnSelectFormat(self, event):
     fmt = event.GetString()
 
-    for s, widget in self.sets.iteritems():
+    for s, widget in self.sets.items():
       widget.Enable(s in self.Formats[fmt])
 
     self.OnVisTainted(None)
@@ -361,36 +351,31 @@ class InventoryEditorFrame(wx.Frame):
   def OnAddCard(self, event):
 
     cardname, set_code = self.GetSelectedCard()
-    print "adding card '%s'" % cardname
 
-    key = self.CardKey(cardname, set_code)
+    quantity = self.inventory.AddCard(cardname, set_code)
 
-    if key in self.inventory:
-      self.inventory[key] += 1
-    else:
-      self.inventory[key] = 1
+    item_count = self.lvInvList.GetItemCount()
 
-    count = self.lvInvList.GetItemCount()
 
     # Update the UI for inventory update
     i = 0
-    while i < count:
+    while i < item_count:
       i_name = self.lvInvList.GetItemText(i)
       i_set = self.lvInvList.GetItem(i,1).GetText()
 
       if i_name == cardname and i_set == set_code:
-        self.lvInvList.SetStringItem(i, 2, `self.inventory[key]`)
+        self.lvInvList.SetStringItem(i, 2, f"{quantity}")
         break
-      if (i_name > cardname):
+      if i_name > cardname:
         self.lvInvList.InsertStringItem(i, cardname)
         self.lvInvList.SetStringItem(i, 1, set_code)
-        self.lvInvList.SetStringItem(i, 2, `self.inventory[key]`)
+        self.lvInvList.SetStringItem(i, 2, f"{quantity}")
         break
       i += 1
     else:
       self.lvInvList.InsertStringItem(i, cardname)
       self.lvInvList.SetStringItem(i, 1, set_code)
-      self.lvInvList.SetStringItem(i, 2, `self.inventory[key]`)
+      self.lvInvList.SetStringItem(i, 2, f"{quantity}")
     self.lvInvList.Select(i)
     self.lvInvList.EnsureVisible(i)
 
@@ -410,83 +395,64 @@ class InventoryEditorFrame(wx.Frame):
     cardname = self.lvInvList.GetItemText(i)
     set_code = self.lvInvList.GetItem(i, 1).GetText()
 
-    key = self.CardKey(cardname, set_code)
-
-    if key not in self.inventory:
-      sys.stderr.write("ERR: Inven shows no record of card: '"+key+"'\n")
-      raise Exception
-
-    q = self.inventory[key]
+    try:
+      q = self.inventory.DelCard(cardname, set_code)
+    except inv.NotFoundError as e:
+      raise e
 
     self.num_cards_shown -= 1
     self.num_cards_total -= 1
     self.UpdateNumShown()
 
-    if (q <= 1):
-      #delete from list/inventory
-      del self.inventory[key]
-      self.lvInvList.DeleteItem(i)
-      if(i > 0):
-        self.lvInvList.Select(i-1)
-        self.lvInvList.EnsureVisible(i-1)
-      return
-
-    self.inventory[key] = q - 1
     if not self.dirtyinventory:
       self.dirtyinventory = 1
       self.UpdateTitle()
-    self.lvInvList.SetStringItem(i, 2, `self.inventory[key]`)
-    self.lvInvList.EnsureVisible(i)
+
+    if q > 0:
+      self.lvInvList.SetStringItem(i, 2, f"{q}")
+      self.lvInvList.EnsureVisible(i)
+    else:
+      self.lvInvList.DeleteItem(i)
+      if i > 0:
+        self.lvInvList.Select(i-1)
+        self.lvInvList.EnsureVisible(i-1)
 
 
   def LoadInventory(self, event):
-    inven = {}
     dlg = wx.FileDialog(self, message="Load file...", 
       defaultDir=self.current_file_path,
       defaultFile="", 
       wildcard="*.inv", 
-      style = wx.OPEN | wx.CHANGE_DIR)
+      style = wx.FD_OPEN | wx.FD_CHANGE_DIR)
 
     if dlg.ShowModal() != wx.ID_OK:
-      #print "Canceled"
+      #print("Canceled")
       return
 
     path = dlg.GetPath()
 
-    #print "Loading from:", path
-    with open(path, 'r') as f:
-      i = 0
-      line = ""
-      try:
-        for i, line in enumerate(f):
-          name, set_code, quantity = line.strip().split('|')
-          if name == "Name":
-            continue
-          quantity = int(quantity)
-          if quantity <= 0:
-            sys.stderr.write("Invalid quantity for",key)
-            continue
+    inven = {}
 
-          key = self.CardKey(name, set_code)
-          if key not in inven:
-            inven[key] = 0
-          inven[key] += quantity
-      except ValueError:
-        dlg = wx.MessageDialog(self, "There was a problem reading the "
-                      "inventory file.  See line %d:\n%s" % (i+1, line),
-                      "Error Reading File",
-                      wx.OK)
-        dlg.ShowModal()
-        return
-    #print "Successfully loaded."
+    #print("Loading from:", path)
+    try:
+      self.inventory.ReadFromFile(path)
+    except inv.InvalidFileError as e:
+      dlg = wx.MessageDialog(self, "There was a problem reading the "
+                    "inventory file.  See line %d:\n%s" % (e.line_num, e.line),
+                    "Error Reading File",
+                    wx.OK)
+      dlg.ShowModal()
+      return
+    #print("Successfully loaded.")
+
     self.current_file_path, self.current_file_name = os.path.split(path)
-    self.inventory = inven
     self.dirtyinventory = 0
     self.UpdateTitle()
     self.RefreshInvList()
 
+
   def CheckSaveChanges(self):
-    """Returns whether the user wants to save; returns True on cancellation."""
+    """Asks the user to save returns 'True' if the user cancelled the op."""
     if not self.dirtyinventory:
       return False
 
@@ -509,11 +475,12 @@ class InventoryEditorFrame(wx.Frame):
     elif result == wx.ID_CANCEL:
       return True
 
+
   def NewInventory(self, event):
     if self.CheckSaveChanges():
       return
 
-    self.inventory = {}
+    self.inventory = inv.Inventory()
 
     self.num_cards_shown = 0
     self.num_cards_total = 0
@@ -538,30 +505,25 @@ class InventoryEditorFrame(wx.Frame):
       defaultDir = self.current_file_path, 
       defaultFile = self.current_file_name,
       wildcard = "*.inv", 
-      style = wx.SAVE | wx.OVERWRITE_PROMPT)
+      style = wx.FD_SAVE | wx.FD_OVERWRITE_PROMPT)
 
     if dlg.ShowModal() == wx.ID_OK:
       b, f = os.path.split(dlg.GetPath())
-      print "Saving to:", b, ",", f
+      print("Saving to:", b, ",", f)
 
       self.current_file_path = b
       self.current_file_name = f
 
       self.WriteFile()
     else:
-      #print "Canceled!"
+      #print("Canceled!")
       pass
 
   def WriteFile(self):
     fname = os.path.join(self.current_file_path, self.current_file_name)
-    keys = self.inventory.keys()
-    keys.sort()
-    with open(fname, 'w') as f:
-      f.write("|".join(["Name", "Set", "Quantity"]) + "\n")
-      for k in keys:
-        name, set_code = self.DecodeCardKey(k)
-        print 'writing name', name
-        f.write("|".join([name, set_code, str(self.inventory[k])]) + "\n")
+
+    self.inventory.WriteToFile(fname)
+
     self.dirtyinventory = 0
     self.UpdateTitle()
 
@@ -571,11 +533,11 @@ class InventoryEditorFrame(wx.Frame):
     self.Close()
 
   def OnVisTainted(self, evt):
-    #print "Refreshing visible cards list"
+    #print("Refreshing visible cards list")
     self.RefreshMatchCriteria()
     self.visibilitytainted = 1
     if not self.isUpdatingLists:
-      thread.start_new(self.ThRefreshCardList, ())
+      _thread.start_new_thread(self.ThRefreshCardList, ())
 
 
   def tmp_parse_fmc_from_file(self):
@@ -586,20 +548,10 @@ class InventoryEditorFrame(wx.Frame):
         n, s, r, p = l.strip().split('|')
         array.append([n,s,r,p])
       except:
-        print l
+        print(l)
         raise
 
     return array
-
-  def GetCardValue(self, k):
-    n,s = self.DecodeCardKey(k)
-    k = self.CardKey(n[:40],s).lower()
-    if key not in self.prices:
-      sys.stderr.write("ERR: no price for card '"+k+"'\n")
-      #num_err += 1
-      #continue
-      raise NoPriceError
-    return self.prices[k]
 
 
   # General Utility functions
@@ -618,22 +570,22 @@ class InventoryEditorFrame(wx.Frame):
 
     self.lvInvList.DeleteAllItems()
 
-    keys = self.inventory.keys()
-    keys.sort()
-    i = 0
     self.num_cards_shown = 0
     self.num_cards_total = 0
-    for k in keys:
-      self.num_cards_total += self.inventory[k]
-      if self.visiblecards[k]:
-        n,s = self.DecodeCardKey(k)
-        self.lvInvList.InsertStringItem(i, n)
-        self.lvInvList.SetStringItem(i, 1, s)
-        self.lvInvList.SetStringItem(i, 2, `self.inventory[k]`)
-        self.num_cards_shown += self.inventory[k]
-        i += 1
+    index = 0
+
+    for (cardname, set_code, quantity) in self.inventory.GetContents():
+      self.num_cards_total += quantity
+      if self.visiblecards[(cardname, set_code)]:
+        self.lvInvList.InsertStringItem(index, cardname)
+        self.lvInvList.SetStringItem(index, 1, set_code)
+        self.lvInvList.SetStringItem(index, 2, f"{quantity}")
+        self.num_cards_shown += quantity
+        index += 1
       else:
-        print "Not visible: '"+k+"'"
+        print("Not visible: '%s/%s'" % (cardname, set_code))
+
+
     self.UpdateNumShown()
 
   def ThRefreshCardList(self):
@@ -660,63 +612,51 @@ class InventoryEditorFrame(wx.Frame):
         self.lvCardList.DeleteAllItems()
         self.lvInvList.DeleteAllItems()
 
-        #print "Beginning refresh loop"
-        for (name, set_code, rarity) in self.CardList:
+        #print("Beginning refresh loop")
+        for (cardname, set_code, rarity) in self.CardList:
           if self.visibilitytainted: 
-            #print "Throwing exception"
+            #print("Throwing exception")
             raise ResetError
 
-          # Construct the card key
-          key = self.CardKey(name, set_code)
-
           # Count the inventory
-          try:
-            self.num_cards_total += self.inventory[key]
-          except KeyError:
-            pass
+          self.num_cards_total += self.inventory.GetQuantity(cardname, set_code)
 
           # See whether card *name* should be shown
-          if name not in cardNameMatchMap:
-            cardNameMatchMap[name] = self.MatchSearchCriteria(name)
+          if cardname not in cardNameMatchMap:
+            cardNameMatchMap[cardname] = self.MatchSearchCriteria(cardname)
 
           visible = (
-              cardNameMatchMap[name] and
+              cardNameMatchMap[cardname] and
               rarity in self.allowedRarities and
               (set_code in self.allowedSets or self.showAllVersions))
 
-          if rarity not in self.cbRarity.keys():
-            print "UNKNOWN Rarity: %s" % rarity
-
-          self.visiblecards[key] = visible
+          self.visiblecards[(cardname, set_code)] = visible
           if visible:
             # Add entry to card list
             row = self.lvCardList.GetItemCount()
-            self.lvCardList.InsertStringItem(row, name)
+            self.lvCardList.InsertStringItem(row, cardname)
             self.lvCardList.SetStringItem(row, 1, set_code)
 
             # Add entry to inventory list (if card is in inventory)
-            try:
-              count = self.inventory[key]
-              if count:
-                row = self.lvInvList.GetItemCount()
-                self.lvInvList.InsertStringItem(row, name)
-                self.lvInvList.SetStringItem(row, 1, set_code)
-                self.lvInvList.SetStringItem(row, 2, `count`)
-                self.num_cards_shown += count
-            except KeyError:
-              pass
+            count = self.inventory.GetQuantity(cardname, set_code)
+            if count:
+              row = self.lvInvList.GetItemCount()
+              self.lvInvList.InsertStringItem(row, cardname)
+              self.lvInvList.SetStringItem(row, 1, set_code)
+              self.lvInvList.SetStringItem(row, 2, f"{count}")
+              self.num_cards_shown += count
       except ResetError:
-        print "Visibility updated while refreshing, restarting..."
+        print("Visibility updated while refreshing, restarting...")
         pass
 
-    #print "Finished refresh loop"
+    #print("Finished refresh loop")
     self.isUpdatingLists = 0
-    self.SetLeftStatus(""+`self.lvCardList.GetItemCount()`+" cards")
+    self.SetLeftStatus(f"{self.lvCardList.GetItemCount()} cards")
     self.UpdateNumShown()
 
   def UpdateNumShown(self):
-    self.SetRightStatus("Cards Showing: "+`self.num_cards_shown`+
-                      " / "+`self.num_cards_total`)
+    self.SetRightStatus(f"Cards Showing: {self.num_cards_shown}"+
+                      f" / {self.num_cards_total}")
   def UpdateTitle(self):
     str = FRAME_TITLE_STR + " - ["
 
@@ -733,35 +673,28 @@ class InventoryEditorFrame(wx.Frame):
     self.SetTitle(str)
 
 
-  def CardKey(self, name, set_code):
-    return "%s-%s" % (name, set_code)
-
-  def DecodeCardKey(self, key):
-    i = key.rfind('-')
-    return key[:i], key[i+1:]
-
   def MatchSearchCriteria(self, name):
     try:
       setOK = len(self.CardSetsMap[name].intersection(self.allowedSets)) > 0
       catOK = self.CardCategories[name] in self.allowedCategories
       return setOK and catOK
     except KeyError:
-      print "Card %s isn't in CardSetsMap or CardCategories" % name
+      print("Card %s isn't in CardSetsMap or CardCategories" % name)
       pass
     return False
 
   def RefreshMatchCriteria(self):
     self.allowedRarities = set(
-        [k for (k, v) in self.cbRarity.iteritems() if v.GetValue()])
+        [k for (k, v) in self.cbRarity.items() if v.GetValue()])
     if not self.allowedRarities:
       self.allowedRarities = self.cbRarity.keys()
     self.allowedCategories = set(
-        [k for (k, v) in self.cbCategory.iteritems() if v.GetValue()])
+        [k for (k, v) in self.cbCategory.items() if v.GetValue()])
     if not self.allowedCategories:
       self.allowedCategories = self.cbCategory.keys()
 
     self.allowedSets = set(
-        [k for (k, v) in self.sets.iteritems() if v.IsEnabled()])
+        [k for (k, v) in self.sets.items() if v.IsEnabled()])
     self.showAllVersions = self.cbShowAll.GetValue()
 
   def GetSelectedCard(self):
@@ -773,7 +706,7 @@ class InventoryEditorFrame(wx.Frame):
     cardname = self.lvCardList.GetItemText(i)
     set_code = self.lvCardList.GetItem(i, 1).GetText()
 
-    #print "Card found:", cardname, '['+set_code+']'
+    #print("Card found:", cardname, '['+set_code+']')
 
     return (cardname, set_code)
 

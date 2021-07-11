@@ -1,12 +1,18 @@
+Arrogant Bloodlord|U
 Affa Guard Hound|U
 Akoum Boulderfoot|U
 Angelheart Vial|R
 All Is Dust|M
 Ancient Stirrings|C
-Arrogant Bloodlord|U
 Artisan of Kozilek|U
 Aura Gnarlid|C
 Aura Finesse|C
+Khalni Hydra|M
+Knight of Cliffhaven|C
+Kor Line-Slinger|C
+Kozilek's Predator|C
+Kor Spiritdancer|R
+Kozilek, Butcher of Truth|M
 Bala Ged Scorpion|C
 Awakening Zone|R
 Battle Rampart|C
@@ -23,26 +29,7 @@ Broodwarden|U
 Brood Birthing|C
 Cadaver Imp|C
 Caravan Escort|C
-Conquering Manticore|R
 Champion's Drake|C
-Cast Through Time|M
-Consuming Vapors|R
-Consume the Meek|R
-Contaminated Ground|C
-Coralhelm Commander|R
-Curse of Wizardry|U
-Crab Umbra|U
-Corpsehatch|U
-Daggerback Basilisk|C
-Dawnglare Invoker|C
-Death Cultist|C
-Deathless Angel|R
-Khalni Hydra|M
-Knight of Cliffhaven|C
-Kor Line-Slinger|C
-Kor Spiritdancer|R
-Kozilek's Predator|C
-Kozilek, Butcher of Truth|M
 Lagac Lizard|C
 Lighthouse Chronologist|M
 Lavafume Invoker|C
@@ -122,6 +109,32 @@ Soulsurge Elemental|U
 Spawnsire of Ulamog|R
 Spawning Breath|C
 Sphinx-Bone Wand|R
+Sphinx of Magosi|R
+Spider Umbra|C
+Splinter Twin|R
+Sporecap Spider|C
+Stalwart Shield-Bearers|C
+Staggershock|C
+Student of Warfare|R
+Stomper Cub|C
+Surrakar Spellblade|R
+Suffer the Past|U
+Survival Cache|U
+Surreal Memoir|U
+Swamp|L
+Conquering Manticore|R
+Cast Through Time|M
+Consuming Vapors|R
+Consume the Meek|R
+Contaminated Ground|C
+Coralhelm Commander|R
+Curse of Wizardry|U
+Crab Umbra|U
+Corpsehatch|U
+Daggerback Basilisk|C
+Dawnglare Invoker|C
+Death Cultist|C
+Deathless Angel|R
 Demonic Appetite|C
 Devastating Summons|R
 Deprive|C
@@ -160,44 +173,6 @@ Gigantomancer|R
 Glory Seeker|C
 Gloomhunter|C
 Goblin Arsonist|C
-Sphinx of Magosi|R
-Spider Umbra|C
-Splinter Twin|R
-Sporecap Spider|C
-Stalwart Shield-Bearers|C
-Staggershock|C
-Student of Warfare|R
-Stomper Cub|C
-Surrakar Spellblade|R
-Suffer the Past|U
-Survival Cache|U
-Surreal Memoir|U
-Swamp|L
-Tajuru Preserver|R
-Thought Gorger|R
-Totem-Guide Hartebeest|C
-Time of Heroes|U
-Traitorous Instinct|U
-Training Grounds|R
-Transcendent Master|M
-Tuktuk the Explorer|R
-Ulamog's Crusher|C
-Ulamog, the Infinite Gyre|M
-Umbra Mystic|R
-Valakut Fireboar|U
-Unified Will|U
-Vent Sentinel|C
-Venerated Teacher|C
-Vendetta|C
-Vengevine|M
-Wall of Omens|U
-Virulent Swipe|U
-Warmonger's Chariot|U
-Wildheart Invoker|C
-Wrap in Flames|C
-World at War|R
-Zof Shade|C
-Zulaport Enforcer|C
 Goblin Tunneler|C
 Gravity Well|U
 Gravitational Shift|R
@@ -231,3 +206,28 @@ Kargan Dragonlord|M
 Kazandu Tuskcaller|R
 Kiln Fiend|C
 Keening Stone|R
+Tajuru Preserver|R
+Thought Gorger|R
+Totem-Guide Hartebeest|C
+Time of Heroes|U
+Traitorous Instinct|U
+Training Grounds|R
+Transcendent Master|M
+Tuktuk the Explorer|R
+Ulamog's Crusher|C
+Ulamog, the Infinite Gyre|M
+Umbra Mystic|R
+Valakut Fireboar|U
+Unified Will|U
+Vent Sentinel|C
+Venerated Teacher|C
+Vendetta|C
+Vengevine|M
+Wall of Omens|U
+Virulent Swipe|U
+Warmonger's Chariot|U
+Wildheart Invoker|C
+Wrap in Flames|C
+World at War|R
+Zof Shade|C
+Zulaport Enforcer|C

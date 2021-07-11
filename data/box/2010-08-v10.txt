@@ -2,8 +2,8 @@ Black Vise|M
 Aether Vial|M
 Ivory Tower|M
 Isochron Scepter|M
-Jester's Cap|M
 Karn, Silver Golem|M
+Jester's Cap|M
 Mirari|M
 Masticore|M
 Sol Ring|M

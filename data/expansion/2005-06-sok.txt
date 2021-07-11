@@ -1,4 +1,4 @@
-Burning-Eye Zubera|U
+Barrel Down Sokenzan|C
 Adamaro, First to Desire|R
 Akki Drillmaster|C
 Aether Shockwave|U
@@ -8,10 +8,10 @@ Araba Mothrider|C
 Arashi, the Sky Asunder|R
 Ayumi, the Last Visitor|R
 Ashes of the Fallen|R
-Barrel Down Sokenzan|C
 Bounteous Kirin|R
 Blood Clock|R
 Briarknit Kami|U
+Burning-Eye Zubera|U
 Celestial Kirin|R
 Captive Flame|U
 Charge Across the Araba|U
@@ -59,6 +59,8 @@ Hand of Honor|U
 Homura's Essence|R
 Haru-Onna|U
 Hidetsugu's Second Rite|R
+Homura, Human Ascendant|R
+Ideas Unbound|C
 Miren, the Moaning Well|R
 Moonbow Illusionist|C
 Molting Skin|U
@@ -68,45 +70,16 @@ Nightsoil Kami|C
 Neverending Torment|R
 O-Naginata|U
 Nikko-Onna|U
-Homura, Human Ascendant|R
-Ideas Unbound|C
-Iizuka the Ruthless|R
-Infernal Kirin|R
-Iname as One|R
-Inner Calm, Outer Strength|C
-Into the Fray|C
-Inner-Chamber Guard|U
-Inner Fire|C
-Jiwari, the Earth Aflame|R
-Ivory Crane Netsuke|U
-Kagemaro's Clutch|C
-Kagemaro, First to Suffer|R
-Kaho, Minamo Historian|R
-Kami of Empty Graves|C
-Kami of the Crescent Moon|R
-Kami of the Tended Garden|U
-Kashi-Tribe Elite|U
-Kataki, War's Wage|R
-Kiri-Onna|U
-Kemuri-Onna|U
-Kiku's Shadow|U
-Kitsune Bonesetter|C
-Kitsune Dawnblade|C
-Kitsune Loreweaver|C
-Kiyomaro, First to Stand|R
-Kuon's Essence|R
-Kuon, Ogre Ascendant|R
-Kuro's Taken|C
-Locust Miser|U
-Manriki-Gusari|U
-Maga, Traitor to Mortals|R
-Matsu-Tribe Birdstalker|C
-Masumaro, First to Live|R
-Michiko Konda, Truth Seeker|R
-Measure of Wickedness|U
-Meishin, the Mind Cage|R
-Mikokoro, Center of the Sea|R
-Minamo Scrollkeeper|C
+Oboro Breezecaller|C
+Oboro, Palace in the Clouds|R
+Oboro Envoy|U
+Okina Nightwatch|C
+Oni of Wild Places|U
+One with Nothing|R
+Overwhelming Intellect|U
+Oppressive Will|C
+Pain's Reward|R
+Path of Anger's Flame|C
 Plow Through Reito|C
 Pithing Needle|R
 Promise of Bunrei|R
@@ -148,23 +121,50 @@ Soramaro, First to Dream|R
 Spiraling Embers|C
 Soratami Cloud Chariot|U
 Spiritual Visit|C
+Iizuka the Ruthless|R
+Infernal Kirin|R
+Iname as One|R
+Inner Calm, Outer Strength|C
+Into the Fray|C
+Inner-Chamber Guard|U
+Inner Fire|C
+Jiwari, the Earth Aflame|R
+Ivory Crane Netsuke|U
+Kagemaro's Clutch|C
+Kagemaro, First to Suffer|R
+Kaho, Minamo Historian|R
+Kami of Empty Graves|C
+Kami of the Crescent Moon|R
+Kami of the Tended Garden|U
+Kashi-Tribe Elite|U
+Kataki, War's Wage|R
+Kiri-Onna|U
+Kemuri-Onna|U
+Kiku's Shadow|U
+Kitsune Bonesetter|C
+Kitsune Dawnblade|C
+Kitsune Loreweaver|C
+Kiyomaro, First to Stand|R
+Kuon's Essence|R
+Kuon, Ogre Ascendant|R
+Kuro's Taken|C
+Locust Miser|U
+Manriki-Gusari|U
+Maga, Traitor to Mortals|R
+Matsu-Tribe Birdstalker|C
+Masumaro, First to Live|R
+Michiko Konda, Truth Seeker|R
+Measure of Wickedness|U
+Meishin, the Mind Cage|R
+Mikokoro, Center of the Sea|R
+Minamo Scrollkeeper|C
 Stampeding Serow|U
 Sunder from Within|U
 Tomb of Urami|R
 Thoughts of Ruin|R
 Torii Watchward|C
 Trusted Advisor|U
-Wine of Blood and Iron|R
-Oboro Breezecaller|C
-Oboro, Palace in the Clouds|R
-Oboro Envoy|U
-Okina Nightwatch|C
-Oni of Wild Places|U
-One with Nothing|R
-Overwhelming Intellect|U
-Oppressive Will|C
 Undying Flames|R
-Pain's Reward|R
 Twincast|R
-Path of Anger's Flame|C
+Wine of Blood and Iron|R
 Yuki-Onna|U

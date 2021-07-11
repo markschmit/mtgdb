@@ -1,5 +1,4 @@
-Cockatrice|S
-Consecrate Land|S
+Claws of Gix|S
 Arena|S
 Akroma, Angel of Wrath|S
 Auratog|S
@@ -11,8 +10,9 @@ Bad Moon|S
 Avoid Fate|S
 Browbeat|S
 Call of the Herd|S
-Claws of Gix|S
+Cockatrice|S
 Coalition Victory|S
+Consecrate Land|S
 Craw Giant|S
 Dandan|S
 Conspiracy|S
@@ -88,11 +88,11 @@ Spike Feeder|S
 Spined Sliver|S
 Spitting Slug|S
 Stormscape Familiar|S
+Squire|S
 Stormbind|S
 Suq'Ata Lancer|S
 Stupor|S
 Swamp Mosquito|S
-Squire|S
 Thallid|S
 Teferi's Moat|S
 Thornscape Battlemage|S

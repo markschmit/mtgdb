@@ -1,4 +1,4 @@
-Crawling Filth|C
+Day of Destiny|R
 Akki Blizzard-Herder|C
 Ashen Monstrosity|U
 Akki Raider|U
@@ -18,8 +18,8 @@ Child of Thorns|C
 Chisei, Heart of Oceans|R
 Crack the Earth|C
 Clash of Realities|R
+Crawling Filth|C
 Cunning Bandit|U
-Day of Destiny|R
 Disrupting Shoal|R
 Empty-Shrine Kannushi|U
 Eradicate|U

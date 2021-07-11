@@ -1,7 +1,7 @@
-Aether Charge|U
+Accursed Centaur|C
 Airborne Aid|C
 Aggravated Assault|R
-Accursed Centaur|C
+Aether Charge|U
 Airdrop Condor|U
 Akroma's Vengeance|R
 Akroma's Blessing|U
@@ -98,96 +98,6 @@ Dwarven Blastminer|U
 Ebonblade Reaper|R
 Elven Riders|U
 Elvish Guidance|C
-Elvish Pathcutter|C
-Elvish Pioneer|C
-Elvish Scrapper|U
-Elvish Vanguard|R
-Elvish Warrior|C
-Embermage Goblin|U
-Endemic Plague|R
-Enchantress's Presence|R
-Entrails Feaster|R
-Essence Fracture|U
-Erratic Explosion|C
-Everglove Courier|U
-Exalted Angel|R
-Fade from Memory|U
-Explosive Vegetation|U
-Fallen Cleric|C
-Festering Goblin|C
-Feeding Frenzy|U
-False Cure|R
-Fleeting Aven|U
-Flamestick Courier|U
-Fever Charm|C
-Foothill Guide|C
-Flooded Strand|R
-Frightshroud Courier|U
-Forgotten Cave|C
-Forest|L
-Ghosthelm Courier|U
-Gangrenous Goliath|R
-Future Sight|R
-Glarecaster|R
-Gigapede|R
-Glory Seeker|C
-Gluttonous Zombie|U
-Goblin Machinist|U
-Goblin Burrows|U
-Goblin Piledriver|R
-Goblin Pyromancer|R
-Goblin Sharpshooter|R
-Goblin Sky Raider|C
-Goblin Sledder|C
-Goblin Taskmaster|C
-Grand Melee|R
-Grand Coliseum|R
-Gravel Slinger|C
-Grassland Crusader|C
-Gratuitous Violence|R
-Gravespawn Sovereign|R
-Grinning Demon|R
-Graxiplon|U
-Gustcloak Harrier|C
-Gustcloak Runner|C
-Gustcloak Savior|R
-Gustcloak Sentinel|U
-Gustcloak Skirmisher|U
-Haunted Cadaver|C
-Harsh Mercy|R
-Headhunter|U
-Head Games|R
-Heedless One|U
-Imagecrafter|C
-Hystrodon|R
-Improvised Armor|U
-Ixidor, Reality Sculptor|R
-Information Dealer|C
-Infest|U
-Invigorating Boon|U
-Inspirit|U
-Insurrection|R
-Ironfist Crusher|U
-Ixidor's Will|C
-Island|L
-Kaboom!|R
-Jareth, Leonine Titan|R
-Kamahl, Fist of Krosa|R
-Kamahl's Summons|U
-Krosan Groundshaker|U
-Krosan Colossus|R
-Krosan Tusker|C
-Lavamancer's Skill|C
-Leery Fogbeast|C
-Lay Waste|C
-Lonely Sandbar|C
-Lightning Rift|U
-Mage's Guile|C
-Mana Echoes|R
-Menacing Ogre|R
-Meddle|U
-Mistform Dreamer|C
-Misery Charm|C
 Mistform Mask|C
 Mistform Mutant|U
 Mistform Shrieker|U
@@ -279,6 +189,96 @@ Starlit Sanctum|U
 Standardize|R
 Strongarm Tactics|R
 Steely Resolve|R
+Elvish Pathcutter|C
+Elvish Pioneer|C
+Elvish Scrapper|U
+Elvish Vanguard|R
+Elvish Warrior|C
+Embermage Goblin|U
+Endemic Plague|R
+Enchantress's Presence|R
+Entrails Feaster|R
+Essence Fracture|U
+Erratic Explosion|C
+Everglove Courier|U
+Fallen Cleric|C
+Festering Goblin|C
+Feeding Frenzy|U
+False Cure|R
+Fleeting Aven|U
+Flamestick Courier|U
+Fever Charm|C
+Foothill Guide|C
+Flooded Strand|R
+Frightshroud Courier|U
+Forgotten Cave|C
+Forest|L
+Ghosthelm Courier|U
+Gangrenous Goliath|R
+Future Sight|R
+Glarecaster|R
+Gigapede|R
+Glory Seeker|C
+Gluttonous Zombie|U
+Goblin Machinist|U
+Goblin Burrows|U
+Goblin Piledriver|R
+Goblin Pyromancer|R
+Goblin Sharpshooter|R
+Goblin Sky Raider|C
+Goblin Sledder|C
+Goblin Taskmaster|C
+Grand Melee|R
+Grand Coliseum|R
+Exalted Angel|R
+Fade from Memory|U
+Gravel Slinger|C
+Explosive Vegetation|U
+Grassland Crusader|C
+Gratuitous Violence|R
+Gravespawn Sovereign|R
+Grinning Demon|R
+Graxiplon|U
+Gustcloak Harrier|C
+Gustcloak Runner|C
+Gustcloak Savior|R
+Gustcloak Sentinel|U
+Gustcloak Skirmisher|U
+Haunted Cadaver|C
+Harsh Mercy|R
+Headhunter|U
+Head Games|R
+Heedless One|U
+Imagecrafter|C
+Hystrodon|R
+Improvised Armor|U
+Ixidor, Reality Sculptor|R
+Information Dealer|C
+Infest|U
+Invigorating Boon|U
+Inspirit|U
+Insurrection|R
+Ironfist Crusher|U
+Ixidor's Will|C
+Island|L
+Kaboom!|R
+Jareth, Leonine Titan|R
+Kamahl, Fist of Krosa|R
+Kamahl's Summons|U
+Krosan Groundshaker|U
+Krosan Colossus|R
+Krosan Tusker|C
+Lavamancer's Skill|C
+Leery Fogbeast|C
+Lay Waste|C
+Lonely Sandbar|C
+Lightning Rift|U
+Mage's Guile|C
+Mana Echoes|R
+Menacing Ogre|R
+Meddle|U
+Mistform Dreamer|C
+Misery Charm|C
 Sunfire Balm|U
 Supreme Inquisitor|R
 Symbiotic Beast|U

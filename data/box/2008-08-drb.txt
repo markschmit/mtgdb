@@ -1,11 +1,11 @@
 Bladewing the Risen|R
 Dragon Whelp|R
-Draco|R
 Bogardan Hellkite|R
-Hellkite Overlord|R
+Draco|R
+Kokusho, the Evening Star|R
 Ebon Dragon|R
 Dragonstorm|R
-Kokusho, the Evening Star|R
+Hellkite Overlord|R
 Form of the Dragon|R
 Rith, the Awakener|R
 Niv-Mizzet, the Firemind|R

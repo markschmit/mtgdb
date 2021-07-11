@@ -1,3 +1,4 @@
+Convolute|C
 Agrus Kos, Wojek Veteran|R
 Auratouched Mage|U
 Barbarian Riftcutter|C
@@ -8,10 +9,6 @@ Benevolent Ancestor|C
 Birds of Paradise|R
 Blockbuster|U
 Blazing Archon|R
-Woodwraith Corrupter|R
-Woodwraith Strangler|C
-Wojek Siren|C
-Zephyr Spirit|C
 Bloodbond March|R
 Blood Funnel|R
 Bloodletter Quill|R
@@ -49,7 +46,6 @@ Conclave Phalanx|U
 Conclave's Blessing|C
 Consult the Necrosages|C
 Congregation at Dawn|U
-Convolute|C
 Courier Hawk|C
 Copy Enchantment|R
 Cyclopean Snare|U
@@ -289,3 +285,7 @@ Watery Grave|R
 Woebringer Demon|R
 Wojek Apothecary|U
 Wojek Embermage|U
+Woodwraith Corrupter|R
+Woodwraith Strangler|C
+Wojek Siren|C
+Zephyr Spirit|C

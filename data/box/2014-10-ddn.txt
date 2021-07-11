@@ -1,6 +1,6 @@
 Banefire|R
-Act of Treason|C
 Aquamorph Entity|C
+Act of Treason|C
 Arcanis the Omnipotent|M
 Arrow Volley Trap|U
 Arc Trail|U
@@ -9,8 +9,8 @@ Beetleback Chief|U
 Bone Splinters|C
 Dregscape Zombie|C
 Dauntless Onslaught|U
-Faerie Impostor|U
 Echo Tracer|C
+Faerie Impostor|U
 Evolving Wilds|C
 Faerie Invaders|C
 Fleeting Distraction|C
@@ -24,22 +24,22 @@ Fury of the Horde|R
 Goblin Bombardment|U
 Goblin Deathraiders|C
 Goblin Warchief|U
-Hell's Thunder|R
 Hellraiser Goblin|U
 Hussar Patrol|C
+Hell's Thunder|R
 Hold the Line|R
 Island|L
 Infantry Veteran|C
 Impulse|C
 Inferno Trap|U
+Jeskai Elder|U
 Kathari Bomber|C
 Kor Hookmaster|C
-Jeskai Elder|U
-Krenko, Mob Boss|R
 Krenko's Command|C
-Leonin Snarecaster|C
-Lightning Helix|U
+Krenko, Mob Boss|R
 Lightning Angel|R
+Lightning Helix|U
+Leonin Snarecaster|C
 Lone Missionary|C
 Master Decoy|C
 Mardu Heart-Piercer|U
@@ -47,9 +47,9 @@ Mana Leak|C
 Nomad Outpost|U
 Mountain|L
 Mystic Monastery|U
+Ogre Battledriver|R
 Oni of Wild Places|U
 Plains|L
-Ogre Battledriver|R
 Orcish Cannonade|C
 Repeal|C
 Reckless Abandon|C

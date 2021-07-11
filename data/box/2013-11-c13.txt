@@ -1,15 +1,20 @@
-Kher Keep|R
-Khalni Garden|C
-Kongming, "Sleeping Dragon"|R
-Kirtar's Wrath|R
-Krosan Tusker|C
-Krosan Grip|U
-Krosan Warchief|U
-Leafdrake Roost|U
-Lim-Dûl's Vault|U
-Leonin Bladetrap|U
-Llanowar Reborn|U
-Lonely Sandbar|C
+Aerie Mystics|U
+Act of Authority|R
+Acidic Slime|U
+Ajani's Pridemate|U
+Aethermage's Touch|R
+Angel of Finality|R
+Akoum Refuge|U
+Arcane Melee|R
+Arcane Denial|C
+Annihilate|U
+Arcane Sanctum|U
+Archangel|U
+Augur of Bolas|U
+Armillary Sphere|C
+Army of the Damned|M
+Avenger of Zendikar|M
+Curse of Chaos|U
 Lu Xun, Scholar General|R
 Magus of the Arena|R
 Marath, Will of the Wild|M
@@ -88,16 +93,17 @@ Savage Twister|U
 Scarland Thrinax|U
 Secluded Steppe|C
 Seaside Citadel|U
-Derevi, Empyrial Tactician|M
-Dimir Guildgate|C
-Disciple of Griselbrand|U
-Dirge of Dread|C
-Diviner Spirit|U
-Dismiss|U
-Djinn of Infinite Deceits|R
-Divinity of Pride|R
-Dromar's Charm|U
-Drifting Meadow|C
+Seer's Sundial|R
+Sejiri Refuge|U
+Selesnya Charm|U
+Sek'Kuar, Deathkeeper|R
+Selesnya Guildgate|C
+Selesnya Sanctuary|C
+Selesnya Guildmage|U
+Selesnya Signet|C
+Serene Master|R
+Sharding Sphinx|R
+Serra Avatar|M
 Druidic Satchel|R
 Drumhunter|U
 Dungeon Geists|R
@@ -167,17 +173,18 @@ Jwar Isle Refuge|U
 Karmic Guide|R
 Kazandu Tuskcaller|R
 Kazandu Refuge|U
-Seer's Sundial|R
-Sejiri Refuge|U
-Selesnya Charm|U
-Sek'Kuar, Deathkeeper|R
-Selesnya Guildgate|C
-Selesnya Sanctuary|C
-Selesnya Guildmage|U
-Selesnya Signet|C
-Serene Master|R
-Sharding Sphinx|R
-Serra Avatar|M
+Kher Keep|R
+Khalni Garden|C
+Kongming, "Sleeping Dragon"|R
+Kirtar's Wrath|R
+Krosan Tusker|C
+Krosan Grip|U
+Krosan Warchief|U
+Leafdrake Roost|U
+Lim-Dûl's Vault|U
+Leonin Bladetrap|U
+Llanowar Reborn|U
+Lonely Sandbar|C
 Shattergang Brothers|M
 Sharuum the Hegemon|M
 Silklash Spider|R
@@ -271,22 +278,6 @@ Wild Ricochet|R
 Wrath of God|R
 Wonder|U
 Witch Hunt|R
-Arcane Sanctum|U
-Acidic Slime|U
-Aerie Mystics|U
-Act of Authority|R
-Ajani's Pridemate|U
-Aethermage's Touch|R
-Angel of Finality|R
-Akoum Refuge|U
-Arcane Melee|R
-Arcane Denial|C
-Annihilate|U
-Augur of Bolas|U
-Archangel|U
-Armillary Sphere|C
-Army of the Damned|M
-Avenger of Zendikar|M
 Augury Adept|R
 Azorius Chancery|C
 Azami, Lady of Scrolls|R
@@ -299,16 +290,16 @@ Baloth Woodcrasher|U
 Bane of Progress|R
 Barren Moor|C
 Bant Panorama|C
-Basalt Monolith|U
 Behemoth Sledge|U
+Basalt Monolith|U
 Boros Guildgate|C
 Bojuka Bog|C
 Blood Rites|U
 Blue Sun's Zenith|R
 Boros Garrison|C
 Boros Charm|U
-Borrowing 100,000 Arrows|U
 Brilliant Plan|U
+Borrowing 100,000 Arrows|U
 Brooding Saurian|R
 Capricious Efreet|R
 Charmbreaker Devils|R
@@ -316,8 +307,8 @@ Carnage Altar|U
 Command Tower|C
 Charnelhoard Wurm|R
 Conjurer's Closet|R
-Control Magic|U
 Contested Cliffs|R
+Control Magic|U
 Crater Hellion|R
 Cradle of Vitality|R
 Crumbling Necropolis|U
@@ -325,7 +316,6 @@ Crosis's Charm|U
 Crawlspace|R
 Cruel Ultimatum|R
 Cultivate|C
-Curse of Chaos|U
 Curse of Inertia|U
 Curse of Predation|U
 Curse of Shallow Graves|U
@@ -333,9 +323,19 @@ Curse of the Forsaken|U
 Darksteel Mutation|U
 Darksteel Ingot|U
 Deadwood Treefolk|U
+Deceiver Exarch|U
 Deathbringer Thoctar|R
 Death Grasp|R
-Deceiver Exarch|U
 Deep Analysis|C
 Decree of Pain|R
 Deepfire Elemental|U
+Derevi, Empyrial Tactician|M
+Dimir Guildgate|C
+Disciple of Griselbrand|U
+Diviner Spirit|U
+Dirge of Dread|C
+Divinity of Pride|R
+Dismiss|U
+Djinn of Infinite Deceits|R
+Dromar's Charm|U
+Drifting Meadow|C

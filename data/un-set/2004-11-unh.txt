@@ -1,4 +1,4 @@
-Drawn Together|R
+Collector Protector|R
 Ambiguity|R
 _____|U
 Aesthetic Consultation|R
@@ -23,11 +23,11 @@ Cheap Ass|C
 City of Ass|R
 Circle of Protection: Art|C
 Creature Guy|U
-Collector Protector|R
 Curse of the Fire Penguin|R
 Double Header|C
 Deal Damage|U
 Duh|C
+Drawn Together|R
 Dumb Ass|C
 Elvish House Party|U
 Erase (Not the Urza's Legacy One)|C

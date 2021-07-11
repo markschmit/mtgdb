@@ -1,58 +1,31 @@
+Jaws of Stone|U
 Anger|U
-Bloodfire Kavu|U
 Aether Membrane|U
-Augury Owl|C
 Angelic Shield|U
+Augury Owl|C
 Armillary Sphere|C
-Azorius Chancery|C
 Bloodfire Colossus|R
 Cache Raiders|U
+Bloodfire Kavu|U
 Chartooth Cougar|C
 Coral Fighters|U
 Clone|R
+Azorius Chancery|C
 Cosi's Ravager|C
 Cryptic Annelid|U
 Earth Servant|U
 Downhill Charge|C
 Fiery Hellhound|C
-Galepowder Mage|R
 Flood Plain|U
+Galepowder Mage|R
 Geyser Glider|U
 Greater Stone Spirit|U
 Jedit's Dragoons|C
 Island|L
-Jaws of Stone|U
 Kor Cartographer|C
 Journeyer's Kite|R
-Scroll Thief|C
-Seismic Strike|C
-Searing Blaze|C
-Sejiri Refuge|U
-Sigil of Sleep|C
-Slith Strider|U
-Sky Spirit|U
-Sphinx of Uthuun|R
-Soaring Seacliff|C
-Spire Barrage|C
-Steel of the Godhead|C
-Sunblast Angel|R
-Torchling|R
-Venser, the Sojourner|M
-Vanish into Memory|U
-Vulshok Battlegear|U
-Volley of Boulders|R
-Vulshok Berserker|C
-Vulshok Morningstar|U
-Vulshok Sorcerer|C
-Wall of Denial|U
-Whitemane Lion|C
-Wayfarer's Bauble|C
-Windreaver|R
-Stone Giant|U
-Minamo Sightbender|U
 Koth of the Hammer|M
-Lithophage|R
-Mountain|L
+Minamo Sightbender|U
 Mistmeadow Witch|U
 Neurok Invisimancer|C
 Overrule|C
@@ -62,9 +35,36 @@ Pilgrim's Eye|C
 Path to Exile|U
 Plated Geopede|C
 Plains|L
-Primal Plasma|C
 Preordain|C
 Pygmy Pyrosaur|C
+Primal Plasma|C
 Safe Passage|C
-Revoke Existence|C
 Sawtooth Loon|U
+Revoke Existence|C
+Scroll Thief|C
+Seismic Strike|C
+Searing Blaze|C
+Sejiri Refuge|U
+Sigil of Sleep|C
+Slith Strider|U
+Lithophage|R
+Sky Spirit|U
+Sphinx of Uthuun|R
+Soaring Seacliff|C
+Stone Giant|U
+Spire Barrage|C
+Steel of the Godhead|C
+Sunblast Angel|R
+Venser, the Sojourner|M
+Torchling|R
+Vanish into Memory|U
+Mountain|L
+Vulshok Battlegear|U
+Volley of Boulders|R
+Vulshok Berserker|C
+Vulshok Morningstar|U
+Vulshok Sorcerer|C
+Wall of Denial|U
+Whitemane Lion|C
+Wayfarer's Bauble|C
+Windreaver|R

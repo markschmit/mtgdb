@@ -1,11 +1,11 @@
-Armistice|R
+Aerial Caravan|R
+Alabaster Wall|C
+Afterlife|U
 Alley Grifters|C
 Ancestral Mask|C
 Ballista Squad|U
 Arms Dealer|U
-Aerial Caravan|R
-Alabaster Wall|C
-Afterlife|U
+Armistice|R
 Arrest|U
 Assembly Hall|R
 Balloon Peddler|C
@@ -52,6 +52,70 @@ Cho-Arrim Legate|U
 Cho-Manno's Blessing|C
 Cho-Manno, Revolutionary|R
 Cinder Elemental|U
+Close Quarters|U
+Clear the Land|R
+Cloud Sprite|C
+Collective Unconscious|R
+Coastal Piracy|U
+Common Cause|R
+Conspiracy|R
+Corrupt Official|R
+Cornered Market|R
+Cowardice|R
+Counterspell|C
+Crag Saurian|R
+Crackdown|R
+Crenellated Wall|U
+Credit Voucher|U
+Crash|C
+Crossbow Infantry|C
+Crooked Scales|R
+Customs Depot|U
+Crumbling Sanctuary|R
+Dark Ritual|C
+Ignoble Soldier|U
+Indentured Djinn|U
+Insubordination|C
+Instigator|R
+Ivory Mask|R
+Invigorate|C
+Intimidation|U
+Inviolability|C
+Island|L
+Iron Lance|U
+Jeweled Torque|U
+Jhovall Queen|R
+Jhovall Rider|U
+Kris Mage|C
+Karn's Touch|R
+Kyren Glider|C
+Kyren Archive|R
+Kyren Legate|U
+Kyren Sniper|C
+Kyren Negotiations|U
+Larceny|U
+Land Grant|C
+Kyren Toy|R
+Last Breath|U
+Lava Runner|R
+Lightning Hounds|C
+Liability|R
+Ley Line|U
+Lumbering Satyr|U
+Lithophage|R
+Lure|U
+Lunge|C
+Maggot Therapy|C
+Magistrate's Veto|U
+Magistrate's Scepter|R
+Megatherium|R
+Mercadian Atlas|R
+Mercadia's Downfall|U
+Mercadian Bazaar|U
+Mercadian Lift|R
+Midnight Ritual|R
+Misdirection|R
+Misshapen Fiend|C
 Molting Harpy|U
 Misstep|C
 Monkey Cage|R
@@ -100,72 +164,6 @@ Righteous Aura|U
 Rishadan Airship|C
 Rishadan Brigand|R
 Rishadan Cutpurse|C
-Rishadan Footpad|U
-Rishadan Port|R
-Rishadan Pawnshop|R
-Robber Fly|U
-Rock Badger|U
-Rushwood Dryad|C
-Rouse|C
-Rushwood Grove|U
-Rushwood Elemental|R
-Rushwood Herbalist|C
-Rushwood Legate|U
-Sacred Prey|C
-Saber Ants|U
-Sailmonger|U
-Sand Squid|R
-Saprazzan Bailiff|R
-Sandstone Needle|C
-Saprazzan Breaker|U
-Saprazzan Heir|R
-Saprazzan Cove|U
-Saprazzan Legate|U
-Saprazzan Outrigger|C
-Saprazzan Raider|C
-Scandalmonger|U
-Saprazzan Skerry|C
-Seismic Mage|R
-Security Detail|R
-Shock Troops|C
-Sever Soul|C
-Silent Assassin|R
-Shoving Match|U
-Silverglade Elemental|C
-Silverglade Pathfinder|U
-Snake Pit|U
-Skulking Fugitive|C
-Sizzle|C
-Skull of Ramos|R
-Snorting Gahr|C
-Soothsaying|U
-Soothing Balm|C
-Snuff Out|C
-Soul Channeling|C
-Spidersilk Armor|C
-Specter's Wail|C
-Spiritual Focus|R
-Close Quarters|U
-Clear the Land|R
-Cloud Sprite|C
-Collective Unconscious|R
-Coastal Piracy|U
-Common Cause|R
-Conspiracy|R
-Corrupt Official|R
-Cornered Market|R
-Cowardice|R
-Counterspell|C
-Crag Saurian|R
-Crackdown|R
-Crenellated Wall|U
-Credit Voucher|U
-Crash|C
-Crossbow Infantry|C
-Crooked Scales|R
-Customs Depot|U
-Crumbling Sanctuary|R
-Dark Ritual|C
 Darting Merfolk|C
 Deadly Insect|C
 Dawnstrider|R
@@ -211,21 +209,66 @@ Furious Assault|C
 General's Regalia|R
 Gerrard's Irregulars|C
 Giant Caterpillar|C
+Rishadan Footpad|U
+Rishadan Port|R
+Rishadan Pawnshop|R
+Robber Fly|U
+Rock Badger|U
+Rushwood Dryad|C
+Rouse|C
+Rushwood Grove|U
+Rushwood Elemental|R
+Rushwood Herbalist|C
+Rushwood Legate|U
+Sacred Prey|C
+Saber Ants|U
+Sailmonger|U
+Sand Squid|R
+Saprazzan Bailiff|R
+Sandstone Needle|C
+Saprazzan Breaker|U
+Saprazzan Heir|R
+Saprazzan Cove|U
+Saprazzan Legate|U
+Saprazzan Outrigger|C
+Saprazzan Raider|C
+Scandalmonger|U
+Saprazzan Skerry|C
+Seismic Mage|R
+Security Detail|R
+Shock Troops|C
+Sever Soul|C
+Silent Assassin|R
+Shoving Match|U
+Silverglade Elemental|C
+Silverglade Pathfinder|U
+Snake Pit|U
+Skulking Fugitive|C
+Sizzle|C
+Skull of Ramos|R
+Snorting Gahr|C
+Soothsaying|U
+Soothing Balm|C
+Snuff Out|C
+Soul Channeling|C
+Spidersilk Armor|C
+Specter's Wail|C
+Spiritual Focus|R
 Spontaneous Generation|R
 Squall|C
 Squallmonger|U
 Squee, Goblin Nabob|R
-Squeeze|R
 Stamina|U
+Squeeze|R
 Steadfast Guard|C
-Stinging Barrier|C
 Statecraft|R
+Stinging Barrier|C
 Strongarm Thug|U
 Story Circle|U
 Stone Rain|C
+Sustenance|U
 Subterranean Hangar|U
 Task Force|C
-Sustenance|U
 Swamp|L
 Tectonic Break|R
 Territorial Dispute|R
@@ -234,9 +277,9 @@ Tidal Bore|C
 Thrashing Wumpus|R
 Thieves' Auction|R
 Thwart|U
+Thunderclap|C
 Tiger Claws|C
 Tidal Kraken|R
-Thunderclap|C
 Timid Drake|U
 Tonic Peddler|U
 Tower of the Magistrate|R
@@ -247,11 +290,11 @@ Trade Routes|R
 Unnatural Hunger|R
 Trap Runner|U
 Two-Headed Dragon|R
-Undertaker|C
 Tremor|C
+Undertaker|C
 Vendetta|C
-Uphill Battle|U
 Unmask|R
+Uphill Battle|U
 Venomous Dragonfly|C
 Venomous Breath|U
 Vine Dryad|R
@@ -260,15 +303,6 @@ Vine Trellis|C
 Wall of Distortion|C
 Volcanic Wind|U
 Warmonger|U
-War Tax|U
-War Cadence|U
-Wild Jhovall|C
-Waterfront Bouncer|C
-Warpath|U
-Wave of Reckoning|R
-Worry Beads|R
-Wishmonger|U
-Word of Blasting|U
 Ghoul's Feast|U
 Glowing Anemone|U
 Groundskeeper|U
@@ -285,51 +319,17 @@ High Seas|U
 Hoodwink|C
 Hired Giant|U
 Honor the Fallen|R
-Horn of Ramos|R
 Horn of Plenty|R
-Howling Wolf|C
+Horn of Ramos|R
 Horned Troll|C
+Howling Wolf|C
 Hunted Wumpus|U
-Ignoble Soldier|U
-Indentured Djinn|U
-Insubordination|C
-Instigator|R
-Ivory Mask|R
-Invigorate|C
-Intimidation|U
-Inviolability|C
-Island|L
-Iron Lance|U
-Jeweled Torque|U
-Jhovall Queen|R
-Jhovall Rider|U
-Kris Mage|C
-Karn's Touch|R
-Kyren Glider|C
-Kyren Archive|R
-Kyren Legate|U
-Kyren Sniper|C
-Kyren Negotiations|U
-Larceny|U
-Land Grant|C
-Kyren Toy|R
-Last Breath|U
-Lava Runner|R
-Lightning Hounds|C
-Liability|R
-Ley Line|U
-Lumbering Satyr|U
-Lithophage|R
-Lure|U
-Lunge|C
-Maggot Therapy|C
-Magistrate's Veto|U
-Magistrate's Scepter|R
-Megatherium|R
-Mercadian Atlas|R
-Mercadia's Downfall|U
-Mercadian Bazaar|U
-Mercadian Lift|R
-Midnight Ritual|R
-Misdirection|R
-Misshapen Fiend|C
+War Tax|U
+War Cadence|U
+Wild Jhovall|C
+Waterfront Bouncer|C
+Warpath|U
+Wave of Reckoning|R
+Worry Beads|R
+Wishmonger|U
+Word of Blasting|U

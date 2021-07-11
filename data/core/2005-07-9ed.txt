@@ -28,8 +28,8 @@ Blessed Orator|U
 Blaze|U
 Blinding Angel|R
 Blinking Spirit|R
-Bloodfire Colossus|R
 Bog Wraith|U
+Bloodfire Colossus|R
 Blood Moon|R
 Bog Imp|C
 Booby Trap|R
@@ -44,9 +44,9 @@ Circle of Protection: Black|U
 Clone|R
 Coercion|C
 Coat of Arms|R
-Consume Spirit|U
-Confiscate|U
 Contaminated Bond|C
+Confiscate|U
+Consume Spirit|U
 Cowardice|R
 Counsel of the Soratami|C
 Crafty Pathmage|C
@@ -84,6 +84,51 @@ Exhaustion|U
 Fear|C
 Fellwar Stone|U
 Festering Goblin|C
+Firebreathing|C
+Final Punishment|R
+Fishliver Oil|C
+Fleeting Image|R
+Flowstone Crusher|U
+Flashfires|U
+Flame Wave|U
+Flight|C
+Flowstone Shambler|C
+Foot Soldiers|C
+Flowstone Slide|R
+Forest|L
+Force of Nature|R
+Foul Imp|C
+Form of the Dragon|R
+Fugitive Wizard|C
+Giant Cockroach|C
+Furnace of Rath|R
+Giant Spider|C
+Giant Growth|C
+Glorious Anthem|R
+Gift of Estates|U
+Glory Seeker|C
+Gluttonous Zombie|U
+Goblin Balloon Brigade|U
+Goblin Brigand|C
+Goblin Chariot|C
+Goblin Mountaineer|C
+Goblin King|R
+Goblin Piker|C
+Goblin Sky Raider|C
+Greater Good|R
+Grizzly Bears|C
+Gravedigger|C
+Grave Pact|R
+Groundskeeper|U
+Hell's Caretaker|R
+Guerrilla Tactics|U
+Highway Robber|C
+Hollow Dogs|C
+Hill Giant|C
+Holy Strength|C
+Holy Day|C
+Horned Turtle|C
+Honor Guard|C
 Howling Mine|R
 Horror of Horrors|U
 Hunted Wumpus|U
@@ -171,54 +216,9 @@ Rampant Growth|C
 Raise Dead|C
 Ravenous Rats|C
 Razortooth Rats|C
-Regeneration|U
 Reflexes|C
 Reclaim|C
-Firebreathing|C
-Final Punishment|R
-Fishliver Oil|C
-Fleeting Image|R
-Flowstone Crusher|U
-Flashfires|U
-Flame Wave|U
-Flight|C
-Flowstone Shambler|C
-Foot Soldiers|C
-Flowstone Slide|R
-Forest|L
-Force of Nature|R
-Foul Imp|C
-Form of the Dragon|R
-Fugitive Wizard|C
-Giant Cockroach|C
-Furnace of Rath|R
-Giant Spider|C
-Giant Growth|C
-Glorious Anthem|R
-Gift of Estates|U
-Glory Seeker|C
-Gluttonous Zombie|U
-Goblin Balloon Brigade|U
-Goblin Brigand|C
-Goblin Chariot|C
-Goblin Mountaineer|C
-Goblin King|R
-Goblin Piker|C
-Goblin Sky Raider|C
-Greater Good|R
-Grizzly Bears|C
-Gravedigger|C
-Grave Pact|R
-Groundskeeper|U
-Hell's Caretaker|R
-Guerrilla Tactics|U
-Highway Robber|C
-Hollow Dogs|C
-Hill Giant|C
-Holy Strength|C
-Holy Day|C
-Horned Turtle|C
-Honor Guard|C
+Regeneration|U
 Reminisce|U
 Relentless Assault|R
 Reverse Damage|R

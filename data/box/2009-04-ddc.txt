@@ -1,5 +1,5 @@
-Barren Moor|C
 Abyssal Gatekeeper|C
+Barter in Blood|U
 Abyssal Specter|U
 Angel of Mercy|U
 Akroma, Angel of Wrath|M
@@ -7,7 +7,7 @@ Angelic Benediction|U
 Angel's Feather|U
 Angelic Page|C
 Angelic Protector|U
-Barter in Blood|U
+Barren Moor|C
 Angelsong|C
 Breeding Pit|U
 Cackling Imp|C

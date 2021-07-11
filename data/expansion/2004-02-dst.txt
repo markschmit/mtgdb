@@ -1,8 +1,9 @@
-Aether Vial|U
-Aether Snap|R
-Ageless Entity|R
 Arcane Spyglass|C
 Angel's Feather|U
+Aether Vial|U
+Dross Golem|C
+Aether Snap|R
+Ageless Entity|R
 Arcbound Bruiser|C
 Arcbound Crusher|U
 Arcbound Fiend|U
@@ -17,16 +18,16 @@ Arcbound Worker|C
 Auriok Glaivemaster|C
 Auriok Siege Sled|U
 Blinkmoth Nexus|R
+Burden of Greed|C
 Barbed Lightning|C
 Carry Away|U
-Burden of Greed|C
 Chittering Rats|C
 Chimeric Egg|U
 Coretapper|U
-Crazed Goblin|C
 Chromescale Drake|R
-Darksteel Brute|U
+Crazed Goblin|C
 Darksteel Citadel|C
+Darksteel Brute|U
 Darksteel Colossus|R
 Darksteel Gargoyle|U
 Darksteel Forge|R
@@ -37,11 +38,10 @@ Death-Mask Duplicant|U
 Demon's Horn|U
 Dismantle|U
 Death Cloud|R
-Drill-Skimmer|C
 Dragon's Claw|U
+Drill-Skimmer|C
 Drooling Ogre|C
 Eater of Days|R
-Dross Golem|C
 Echoing Calm|C
 Echoing Courage|C
 Echoing Decay|C
@@ -85,8 +85,8 @@ Metal Fatigue|C
 Murderous Spoils|U
 Mycosynth Lattice|R
 Myr Landshaper|C
-Myr Moonvessel|C
 Myr Matrix|R
+Myr Moonvessel|C
 Nemesis Mask|U
 Neurok Prodigy|C
 Neurok Transmuter|U
@@ -120,36 +120,36 @@ Second Sight|U
 Scrounge|U
 Shield of Kaldra|R
 Shunt|R
-Skullclamp|U
 Shriveling Rot|R
 Specter's Shroud|U
+Skullclamp|U
 Slobad, Goblin Tinkerer|R
-Soulscour|R
 Spawning Pit|U
-Steelshaper Apprentice|R
 Spincrusher|U
+Soulscour|R
 Spellbinder|R
 Spire Golem|C
+Steelshaper Apprentice|R
 Stand Together|U
 Sundering Titan|R
 Stir the Pride|U
-Sword of Fire and Ice|R
-Sword of Light and Shadow|R
 Surestrike Trident|U
+Sword of Light and Shadow|R
 Synod Artificer|R
-Tangle Golem|C
+Sword of Fire and Ice|R
 Talon of Pain|U
+Tangle Golem|C
 Tangle Spider|C
-Tel-Jilad Outrider|C
 Tanglewalker|U
+Tel-Jilad Outrider|C
 Tears of Rage|U
 Tel-Jilad Wolf|C
-Thought Dissector|R
 Test of Faith|U
+Thought Dissector|R
 Thunderstaff|U
 Trinisphere|R
-Turn the Tables|R
 Unforge|C
+Turn the Tables|R
 Vedalken Engineer|C
 Ur-Golem's Eye|C
 Viridian Acolyte|C
@@ -157,9 +157,9 @@ Vex|C
 Viridian Zealot|R
 Voltaic Construct|U
 Vulshok Morningstar|C
+Well of Lost Dreams|R
 Vulshok War Boar|U
 Wand of the Elements|R
-Whispersilk Cloak|C
 Wurm's Tooth|U
 Wirefly Hive|U
-Well of Lost Dreams|R
+Whispersilk Cloak|C

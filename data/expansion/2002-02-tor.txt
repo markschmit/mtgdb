@@ -1,11 +1,11 @@
-Ambassador Laquatus|R
+Arrogant Wurm|U
+Alter Reality|R
 Acorn Harvest|C
 Accelerate|C
-Alter Reality|R
+Ambassador Laquatus|R
 Angel of Retribution|R
-Arrogant Wurm|U
-Aquamoeba|C
 Anurid Scavenger|U
+Aquamoeba|C
 Aven Trooper|C
 Balshan Collaborator|U
 Balthor the Stout|R
@@ -88,6 +88,8 @@ Nantuko Cultivator|R
 Nantuko Shade|R
 Obsessive Search|C
 Nostalgic Dreams|R
+Violent Eruption|U
+Zombie Trailblazer|U
 Narcissism|U
 Organ Grinder|C
 Pardic Arsonist|U
@@ -139,5 +141,3 @@ Turbulent Dreams|R
 Transcendence|R
 Unhinge|C
 Vengeful Dreams|R
-Violent Eruption|U
-Zombie Trailblazer|U

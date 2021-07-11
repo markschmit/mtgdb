@@ -1,19 +1,25 @@
-Aethersnipe|C
-Banefire|R
+Apostle's Blessing|C
 Air Servant|U
-Agony Warp|U
+Algae Gharial|U
 Alloy Myr|C
 All Is Dust|R
 All Suns' Dawn|R
-Algae Gharial|U
 Ant Queen|R
 Apocalypse Hydra|R
 Argent Sphinx|R
 Aquastrand Spider|C
-Apostle's Blessing|C
+Agony Warp|U
+Lorescale Coatl|U
+Matca Rioters|C
+Mana Leak|C
+Aethersnipe|C
+Mighty Leap|C
+Mirran Crusader|R
+Midnight Banshee|R
 Artisan of Kozilek|U
 Arrest|C
 Ashenmoor Gouger|U
+Banefire|R
 Azorius Chancery|U
 Bitterblossom|M
 Battlegrace Angel|R
@@ -24,68 +30,35 @@ Blood Ogre|C
 Blinkmoth Nexus|R
 Bloodshot Trainee|U
 Bloodthrone Vampire|C
-Boros Garrison|U
 Bone Splinters|C
 Boros Swiftblade|U
+Boros Garrison|U
+Cathodion|C
 Burst Lightning|C
 Brute Force|C
-Celestial Purge|U
 Chimeric Mass|R
-Cathodion|C
+Celestial Purge|U
 Cloud Elemental|C
 Commune with Nature|C
 Comet Storm|M
 Combust|U
 Conclave Phalanx|C
+Copper Carapace|C
 Court Homunculus|C
 Cranial Plating|U
-Copper Carapace|C
 Creakwood Liege|R
 Culling Dais|U
 Cryptic Command|R
-Cytoplast Root-Kin|U
 Daggerclaw Imp|U
 Dark Confidant|M
+Cytoplast Root-Kin|U
 Darksteel Axe|U
+Darksteel Citadel|C
 Daybreak Coronet|R
 Death Denied|C
-Darksteel Citadel|C
-Devouring Greed|U
-Deathmark|U
-Kozilek's Predator|C
-Lightning Bolt|U
-Kitesail|C
-Kor Duelist|U
-Kiki-Jiki, Mirror Breaker|M
-Kozilek, Butcher of Truth|M
-Lodestone Golem|R
-Leyline of Sanctity|R
-Dismember|U
-Dimir Aqueduct|U
-Hellkite Charger|R
-Hurkyl's Recall|R
-Horde of Notions|R
-Hikari, Twilight Guardian|U
-Incandescent Soulstoke|U
-Indomitable Archangel|R
-Inner-Flame Igniter|C
-Inexorable Tide|R
-Izzet Boilerworks|U
-Instill Infection|C
-Iona, Shield of Emeria|M
-Kami of Ancient Law|C
-Karn Liberated|M
-Karplusan Strider|U
-Kavu Primarch|C
-Lodestone Myr|R
-Long-Forgotten Gohei|R
-Lorescale Coatl|U
-Mana Leak|C
-Matca Rioters|C
-Mighty Leap|C
-Midnight Banshee|R
-Mirran Crusader|R
-Mirror Entity|R
+Dimir Guildmage|U
+Dragonsoul Knight|C
+Dispatch|U
 Moonlit Strider|C
 Mox Opal|M
 Mortarpod|U
@@ -93,8 +66,8 @@ Mulldrifter|U
 Myr Enforcer|C
 Mutagenic Growth|U
 Nameless Inversion|C
-Mystic Snake|R
 Myrsmith|U
+Mystic Snake|R
 Necroskitter|R
 Narcolepsy|C
 Necrogenesis|U
@@ -102,43 +75,103 @@ Nest Invader|C
 Nobilis of War|R
 Niv-Mizzet, the Firemind|R
 Noble Hierarch|R
+Dread Drone|C
+Duskhunter Bat|C
+Drooling Groodion|U
+Electrolyze|U
+Eldrazi Temple|U
+Emrakul, the Aeons Torn|M
+Elesh Norn, Grand Cenobite|M
+Endrek Sahr, Master Breeder|R
+Etched Champion|R
+Etched Monstrosity|R
+Etched Oracle|U
+Ethercaste Knight|U
+Evolving Wilds|C
+Expedition Map|U
+Eye of Ugin|R
+Everflowing Chalice|U
+Faerie Mechanist|C
+Flayer Husk|C
+Flashfreeze|U
+Fulminator Mage|R
+Frogmite|C
+Fiery Fall|C
+Fortify|C
+Ghost Council of Orzhova|R
+Ghostly Changeling|C
+Glassdust Hulk|U
+Gnarlid Pack|C
+Glint Hawk Idol|C
+Goblin Fireslinger|C
+Goblin War Paint|C
+Gorehorn Minotaurs|C
+Golgari Rot Farm|U
+Gruul Turf|U
+Grim Affliction|C
+Guile|R
+Gust-Skimmer|C
+Helium Squirter|C
+Hearthfire Hobgoblin|U
+Hellkite Charger|R
+Gut Shot|C
+Hikari, Twilight Guardian|U
+Hurkyl's Recall|R
+Horde of Notions|R
+Indomitable Archangel|R
+Inexorable Tide|R
+Incandescent Soulstoke|U
+Inner-Flame Igniter|C
+Izzet Boilerworks|U
+Instill Infection|C
+Iona, Shield of Emeria|M
+Kami of Ancient Law|C
+Karplusan Strider|U
+Karn Liberated|M
+Kavu Primarch|C
+Kitesail|C
+Kiki-Jiki, Mirror Breaker|M
+Kor Duelist|U
+Kozilek's Predator|C
+Kozilek, Butcher of Truth|M
+Leyline of Sanctity|R
+Lightning Bolt|U
+Lodestone Golem|R
+Lodestone Myr|R
+Mirror Entity|R
+Long-Forgotten Gohei|R
 Novijen Sages|U
 Orzhov Basilica|U
-Oblivion Ring|U
-Otherworldly Journey|C
-Pillory of the Sleepless|U
-Overwhelming Stampede|R
-Overwhelm|U
-Pelakka Wurm|U
+Surrakar Spellblade|R
 Plagued Rusalka|C
 Plaxcaster Frogling|U
 Precursor Golem|R
-Plummet|C
 Primeval Titan|M
+Plummet|C
 Puppeteer Clique|R
 Profane Command|R
-Rakdos Carnarium|U
 Qumulox|U
+Rakdos Carnarium|U
 Raise the Alarm|C
-Rampant Growth|C
 Reassembling Skeleton|U
+Rampant Growth|C
 Restless Apparition|U
 Repeal|C
-Remand|U
 Root-Kin Ally|U
+Remand|U
 Runed Servitor|C
 Savage Twister|U
 Rusted Relic|C
 Scatter the Seeds|C
+Scavenger Drake|U
 Scion of the Wild|C
 Scuttling Death|C
-Scavenger Drake|U
 Scute Mob|R
 Selesnya Sanctuary|U
+Selesnya Guildmage|U
 Shadowmage Infiltrator|R
 Shrivel|C
 Shrewd Hatchling|U
-Selesnya Guildmage|U
 Sickle Ripper|C
 Sickleslicer|C
 Sign in Blood|C
@@ -154,26 +187,25 @@ Somber Hoverguard|C
 Soulbright Flamekin|C
 Spellskite|R
 Spectral Procession|U
-Spikeshot Elder|R
 Sphere of the Suns|C
+Spikeshot Elder|R
 Spitebellows|U
 Splinter Twin|R
 Steady Progress|C
 Spread the Sickness|U
-Stoic Rebuttal|C
 Stormblood Berserker|U
+Stoic Rebuttal|C
 Sunforger|R
 Sundering Vitae|C
-Sunspear Shikari|C
 Sylvan Bounty|C
 Sunlance|C
-Surrakar Spellblade|R
 Surgical Extraction|R
+Sunspear Shikari|C
 Swans of Bryn Argoll|R
 Taj-Nar Swordsmith|U
 Terashi's Grasp|C
-Tarmogoyf|M
 Telling Time|C
+Tarmogoyf|M
 Tezzeret the Seeker|M
 Thief of Hope|C
 Tezzeret's Gambit|U
@@ -205,45 +237,13 @@ Wolfbriar Elemental|R
 Worldheart Phoenix|U
 Wrecking Ball|U
 Wrap in Flames|C
-Dimir Guildmage|U
-Dragonsoul Knight|C
-Dispatch|U
-Duskhunter Bat|C
-Dread Drone|C
-Drooling Groodion|U
-Electrolyze|U
-Eldrazi Temple|U
-Emrakul, the Aeons Torn|M
-Elesh Norn, Grand Cenobite|M
-Endrek Sahr, Master Breeder|R
-Etched Champion|R
-Etched Monstrosity|R
-Etched Oracle|U
-Ethercaste Knight|U
-Evolving Wilds|C
-Everflowing Chalice|U
-Expedition Map|U
-Eye of Ugin|R
-Faerie Mechanist|C
-Flayer Husk|C
-Flashfreeze|U
-Fiery Fall|C
-Fulminator Mage|R
-Frogmite|C
-Fortify|C
-Ghost Council of Orzhova|R
-Ghostly Changeling|C
-Glassdust Hulk|U
-Gnarlid Pack|C
-Glint Hawk Idol|C
-Goblin Fireslinger|C
-Goblin War Paint|C
-Gorehorn Minotaurs|C
-Golgari Rot Farm|U
-Gruul Turf|U
-Grim Affliction|C
-Guile|R
-Gust-Skimmer|C
-Helium Squirter|C
-Hearthfire Hobgoblin|U
-Gut Shot|C
+Oblivion Ring|U
+Otherworldly Journey|C
+Pillory of the Sleepless|U
+Overwhelming Stampede|R
+Overwhelm|U
+Pelakka Wurm|U
+Deathmark|U
+Devouring Greed|U
+Dismember|U
+Dimir Aqueduct|U

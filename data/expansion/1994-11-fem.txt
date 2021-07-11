@@ -24,6 +24,7 @@ Ebon Stronghold|U
 Elven Lyre|R
 Elvish Farmer|R
 Elvish Hunter|C
+Elvish Scout|C
 Farrel's Mantle|U
 Farrel's Zealot|C
 Farrelite Priest|U
@@ -36,7 +37,6 @@ Goblin Grenade|C
 Goblin War Drums|C
 Goblin Warrens|R
 Hand of Justice|R
-Elvish Scout|C
 Heroism|U
 Havenwood Battleground|U
 Hollow Trees|R

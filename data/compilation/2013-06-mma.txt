@@ -1,3 +1,100 @@
+Academy Ruins|R
+Veteran Armorer|C
+Vendilion Clique|M
+Vivid Grove|U
+Verdeloth the Ancient|R
+Vedalken Shackles|M
+Vivid Marsh|U
+Vivid Creek|U
+Vivid Crag|U
+Chalice of the Void|R
+Careful Consideration|U
+Citanul Woodreaders|C
+Kitchen Finks|U
+Cloudgoat Ranger|U
+City of Brass|R
+Countryside Crusher|R
+Cold-Eyed Selkie|R
+Court Homunculus|C
+Crush Underfoot|C
+Dakmor Salvage|U
+Cryptic Command|R
+Dampen Thought|C
+Dark Confidant|M
+Deepcavern Imp|C
+Death Denied|C
+Death Cloud|R
+Death Rattle|U
+Demigod of Revenge|R
+Desperate Ritual|U
+Divinity of Pride|R
+Drag Down|C
+Dispeller's Capsule|C
+Doubling Season|R
+Dreamspoiler Witches|C
+Dragonstorm|R
+Durkwood Baloth|C
+Earwig Squad|R
+Echoing Truth|C
+Echoing Courage|C
+Electrolyze|U
+Engineered Explosives|R
+Elspeth, Knight-Errant|M
+Empty the Warrens|C
+Epochrasite|U
+Errant Ephemeron|C
+Esperzoa|U
+Erratic Mutation|C
+Etched Oracle|U
+Ethersworn Canonist|R
+Eternal Witness|U
+Etherium Sculptor|C
+Extirpate|R
+Executioner's Capsule|U
+Facevaulter|C
+Faerie Macabre|C
+Faerie Mechanist|C
+Festering Goblin|C
+Feudkiller's Verdict|U
+Figure of Destiny|R
+Flickerwisp|U
+Fiery Fall|C
+Frogmite|C
+Giant Dustwasp|C
+Fury Charm|C
+Glacial Ray|C
+Gifts Ungiven|R
+Glen Elendra Archmage|R
+Gleam of Resistance|C
+Grand Arbiter Augustin IV|R
+Greater Mossdog|C
+Glimmervoid|R
+Greater Gargadon|R
+Grapeshot|C
+Grinning Ignus|U
+Hammerheim Deadeye|C
+Hillcomber Giant|C
+Hana Kami|C
+Ivory Giant|C
+Horobi's Whisper|U
+Imperiosaur|C
+Incremental Growth|U
+Jhoira of the Ghitu|R
+Jugan, the Rising Star|M
+Keiga, the Tide Star|M
+Kataki, War's Wage|R
+Kira, Great Glass-Spinner|R
+Kiki-Jiki, Mirror Breaker|M
+Kithkin Greatheart|C
+Knight of the Reliquary|R
+Kodama's Reach|C
+Kokusho, the Evening Star|M
+Latchkey Faerie|C
+Krosan Grip|U
+Lightning Helix|U
+Lava Spike|C
+Life from the Loam|R
+Logic Knot|C
 Mad Auntie|U
 Lotus Bloom|R
 Maelstrom Pulse|R
@@ -97,14 +194,6 @@ Traumatic Visions|C
 Tromp the Domains|U
 Trygon Predator|U
 Vedalken Dismisser|C
-Vendilion Clique|M
-Vedalken Shackles|M
-Verdeloth the Ancient|R
-Veteran Armorer|C
-Vivid Grove|U
-Vivid Creek|U
-Vivid Crag|U
-Vivid Marsh|U
 Vivid Meadow|U
 Walker of the Grove|C
 War-Spike Changeling|C
@@ -113,117 +202,28 @@ Warren Weirding|C
 Worm Harvest|U
 Woodfall Primus|R
 Yosei, the Morning Star|M
-Auriok Salvagers|R
-Avian Changeling|C
-Blightspeaker|C
-Blind-Spot Giant|C
-Blinkmoth Nexus|R
-Academy Ruins|R
-Blinding Beam|C
-Adarkar Valkyrie|R
 Absorb Vis|C
+Adarkar Valkyrie|R
 Aether Vial|R
 Aether Spellbomb|C
 Aethersnipe|C
 Amrou Seekers|C
 Amrou Scout|C
-Angel's Grace|R
 Arcbound Ravager|R
+Angel's Grace|R
 Arcbound Stinger|C
 Arcbound Wanderer|C
-Auntie's Snitch|U
 Arcbound Worker|C
-Grinning Ignus|U
-Hammerheim Deadeye|C
-Hillcomber Giant|C
-Hana Kami|C
-Horobi's Whisper|U
-Ivory Giant|C
-Imperiosaur|C
-Incremental Growth|U
-Jhoira of the Ghitu|R
-Kataki, War's Wage|R
-Jugan, the Rising Star|M
-Keiga, the Tide Star|M
-Kira, Great Glass-Spinner|R
-Kiki-Jiki, Mirror Breaker|M
-Kithkin Greatheart|C
-Kitchen Finks|U
-Countryside Crusher|R
-Cold-Eyed Selkie|R
-Court Homunculus|C
-Crush Underfoot|C
-Cryptic Command|R
-Dakmor Salvage|U
-Dampen Thought|C
-Dark Confidant|M
-Deepcavern Imp|C
-Death Cloud|R
-Death Denied|C
-Death Rattle|U
-Demigod of Revenge|R
-Desperate Ritual|U
-Divinity of Pride|R
-Dispeller's Capsule|C
-Drag Down|C
-Doubling Season|R
-Dreamspoiler Witches|C
-Dragonstorm|R
-Durkwood Baloth|C
-Echoing Truth|C
-Earwig Squad|R
-Echoing Courage|C
-Electrolyze|U
-Engineered Explosives|R
-Elspeth, Knight-Errant|M
-Empty the Warrens|C
-Epochrasite|U
-Errant Ephemeron|C
-Esperzoa|U
-Erratic Mutation|C
-Etched Oracle|U
-Eternal Witness|U
-Etherium Sculptor|C
-Ethersworn Canonist|R
-Executioner's Capsule|U
-Extirpate|R
-Faerie Macabre|C
-Facevaulter|C
-Faerie Mechanist|C
-Festering Goblin|C
-Feudkiller's Verdict|U
-Fiery Fall|C
-Figure of Destiny|R
-Flickerwisp|U
-Frogmite|C
-Giant Dustwasp|C
-Glacial Ray|C
-Fury Charm|C
-Gifts Ungiven|R
-Glen Elendra Archmage|R
-Greater Mossdog|C
-Grand Arbiter Augustin IV|R
-Gleam of Resistance|C
-Glimmervoid|R
-Greater Gargadon|R
-Grapeshot|C
-Knight of the Reliquary|R
-Kodama's Reach|C
-Kokusho, the Evening Star|M
-Latchkey Faerie|C
-Krosan Grip|U
-Lightning Helix|U
-Lava Spike|C
-Life from the Loam|R
-Logic Knot|C
+Auntie's Snitch|U
+Auriok Salvagers|R
+Avian Changeling|C
+Blightspeaker|C
+Blind-Spot Giant|C
+Blinkmoth Nexus|R
+Blinding Beam|C
 Blood Moon|R
 Bonesplitter|C
 Bound in Silence|C
 Brute Force|C
 Bridge from Below|R
 Cenn's Enlistment|C
-Careful Consideration|U
-Chalice of the Void|R
-Citanul Woodreaders|C
-Cloudgoat Ranger|U
-City of Brass|R

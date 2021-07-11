@@ -1,69 +1,69 @@
-Dragon Whelp|U
-Captive Flame|U
-Breath of Darigaaz|U
-Caravan Escort|C
-Claws of Valakut|C
-Dragon Fodder|C
-Cone of Flame|U
-Cinder Wall|C
+Alaborn Cavalier|U
 Benalish Lancer|C
 Armillary Sphere|C
 Bloodmark Mentor|U
 Bogardan Hellkite|M
 Bogardan Rager|C
-Alaborn Cavalier|U
-Dragonspeaker Shaman|U
+Breath of Darigaaz|U
+Captive Flame|U
+Caravan Escort|C
+Claws of Valakut|C
+Dragon Fodder|C
+Cinder Wall|C
+Cone of Flame|U
+Dragon Whelp|U
 Dragon's Claw|U
-Edge of Autumn|C
-Forest|L
-Grasslands|U
 Fiery Fall|C
+Dragonspeaker Shaman|U
+Edge of Autumn|C
 Fire-Belly Changeling|C
+Forest|L
 Griffin Guide|U
+Grasslands|U
 Ghostfire|C
 Henge Guardian|U
-Harm's Way|U
-Juniper Order Ranger|U
-Jaws of Stone|U
 Heroes' Reunion|U
-Kilnmouth Dragon|R
+Harm's Way|U
+Jaws of Stone|U
+Juniper Order Ranger|U
 Kabira Vindicator|U
+Kilnmouth Dragon|R
 Kinsbaile Cavalier|R
-Skyhunter Patrol|C
 Knight Exemplar|R
+Knight of the White Orchid|R
 Knight of Cliffhaven|C
 Knight of Meadowgrain|U
 Knight of the Reliquary|M
-Knight of the White Orchid|R
 Knotvine Paladin|R
 Leonin Skyhunter|U
+Lionheart Maverick|C
 Loxodon Warhammer|R
 Mordant Dragon|R
 Mountain|L
-Lionheart Maverick|C
 Mighty Leap|C
 Mudbutton Torchrunner|C
-Oblivion Ring|C
 Paladin of Prahv|U
+Oblivion Ring|C
 Plover Knights|C
 Plains|L
 Reciprocate|U
 Punishing Fire|U
 Seething Song|C
-Reprisal|U
 Seismic Strike|C
 Sejiri Steppe|C
 Selesnya Sanctuary|C
+Reprisal|U
 Shiv's Embrace|U
 Shivan Hellkite|R
 Silver Knight|U
 Sigil Blessing|C
 Skirk Prospector|C
-Spitting Earth|C
+Skyhunter Patrol|C
 Spidersilk Armor|C
 Steward of Valeron|C
-Test of Faith|U
+Spitting Earth|C
 Temporary Insanity|U
+Test of Faith|U
 Thunder Dragon|R
 Voracious Dragon|R
 Treetop Village|U

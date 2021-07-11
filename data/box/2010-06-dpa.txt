@@ -1,15 +1,15 @@
-Cancel|C
+Civic Wayfinder|C
 Abyssal Specter|U
 Air Elemental|U
 Act of Treason|U
 Ascendant Evincar|R
-Cinder Pyromancer|C
 Blanchwood Armor|U
+Cinder Pyromancer|C
 Banefire|R
-Blaze|U
 Bloodmark Mentor|U
+Blaze|U
+Cancel|C
 Boomerang|C
-Civic Wayfinder|C
 Cloud Sprite|C
 Consume Spirit|U
 Coat of Arms|R

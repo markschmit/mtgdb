@@ -1,4 +1,3 @@
-Soul Burn|S
 Abyssal Specter|S
 Balduvian Bears|S
 Balduvian Horde|S
@@ -24,8 +23,8 @@ Icy Manipulator|S
 Karplusan Forest|S
 Jokulhaups|S
 Lava Burst|S
-Orcish Cannoneers|S
 Lhurgoyf|S
+Orcish Cannoneers|S
 Lim-Dul's High Guard|S
 Mountain|S
 Necropotence|S
@@ -34,6 +33,7 @@ Phyrexian War Beast|S
 Shatter|S
 Pyroclasm|S
 Pillage|S
+Soul Burn|S
 Storm Shaman|S
 Swamp|S
 Sulfurous Springs|S

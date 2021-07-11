@@ -1,7 +1,7 @@
-Demonfire|R
+Island|L
 Air Elemental|U
-Bottle Gnomes|U
 Aethersnipe|C
+Bottle Gnomes|U
 Ancestral Vision|R
 Brine Elemental|U
 Chandra Nalaar|M
@@ -11,14 +11,15 @@ Cone of Flame|U
 Condescend|C
 Daze|C
 Errant Ephemeron|C
+Demonfire|R
 Fathom Seer|C
 Fact or Fiction|U
 Fireblast|C
 Firebolt|C
 Fireball|U
 Fireslinger|C
-Flame Javelin|U
 Flamekin Brawler|C
+Flame Javelin|U
 Flametongue Kavu|U
 Flamewave Invoker|U
 Fledgling Mawcor|U
@@ -30,7 +31,6 @@ Hostility|R
 Ingot Chewer|C
 Inner-Flame Acolyte|C
 Jace Beleren|M
-Island|L
 Magma Jet|U
 Keldon Megaliths|U
 Man-o'-War|C

@@ -1,13 +1,12 @@
-Fledgling Osprey|C
 Academy Rector|R
 Ancient Silverback|R
 Aether Sting|U
 Apprentice Necromancer|R
 Archery Training|U
-Bloodshot Cyclops|R
+Blizzard Elemental|R
 Aura Thief|R
 Attrition|R
-Blizzard Elemental|R
+Bloodshot Cyclops|R
 Body Snatcher|R
 Braidwood Sextant|U
 Braidwood Cup|U
@@ -27,9 +26,9 @@ Covetous Dragon|R
 Compost|U
 Disease Carriers|C
 Disappear|U
+Elvish Lookout|C
 Dying Wail|C
 Donate|R
-Elvish Lookout|C
 Elvish Piper|R
 Emperor Crocodile|R
 Extruder|U
@@ -41,6 +40,7 @@ Fend Off|C
 Fatigue|C
 Field Surgeon|C
 Gamekeeper|U
+Fledgling Osprey|C
 Flame Jet|C
 Fodder Cannon|U
 Flicker|R

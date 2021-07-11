@@ -1,4 +1,3 @@
-Dragon Blood|U
 Alpha Myr|C
 Aether Spellbomb|C
 Altar's Light|U
@@ -53,6 +52,7 @@ Deconstruct|C
 Disciple of the Vault|C
 Dream's Grip|C
 Domineer|U
+Dragon Blood|U
 Dross Harvester|R
 Dross Prowler|C
 Dross Scorpion|C

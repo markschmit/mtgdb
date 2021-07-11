@@ -24,9 +24,9 @@ Coral Helm|R
 Damping Field|U
 Crumble|C
 Detonate|U
-Dragon Engine|C
-Dwarven Weaponsmith|U
 Drafna's Restoration|C
+Dwarven Weaponsmith|U
+Dragon Engine|C
 Feldon's Cane|U
 Energy Flux|U
 Gaea's Avenger|R
@@ -37,24 +37,24 @@ Grapeshot Catapult|C
 Hurkyl's Recall|R
 Haunting Wind|U
 Ivory Tower|U
-Jalum Tome|U
-Millstone|U
-Mightstone|U
 Martyrs of Korlis|U
-Mishra's Factory|U
+Millstone|U
+Jalum Tome|U
 Mishra's War Machine|R
+Mightstone|U
+Mishra's Factory|U
 Obelisk of Undoing|R
-Mishra's Workshop|R
+Orcish Mechanics|C
 Onulet|U
 Phyrexian Gremlins|C
+Mishra's Workshop|R
 Ornithopter|C
-Orcish Mechanics|C
 Power Artifact|U
-Rakalite|U
+Priest of Yawgmoth|C
 Powerleech|U
 Primal Clay|U
+Rakalite|U
 Reverse Polarity|C
-Priest of Yawgmoth|C
 Reconstruction|C
 Rocket Launcher|U
 Sage of Lat-Nam|C

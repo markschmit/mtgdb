@@ -1,3 +1,51 @@
+Accorder's Shield|U
+Accursed Spirit|C
+Advocate of the Beast|C
+Act of Treason|C
+Ajani's Chosen|R
+Air Servant|U
+Ajani, Caller of the Pride|M
+Angelic Accord|U
+Altar's Reap|C
+Angelic Wall|C
+Archaeomancer|C
+Armored Cancrix|C
+Archangel of Thune|M
+Artificer's Hex|U
+Banisher Priest|U
+Auramancer|C
+Awaken the Ancient|R
+Battle Sliver|U
+Barrage of Expendables|U
+Blessing|U
+Blur Sliver|C
+Blood Bairn|C
+Bogbrew Witch|R
+Bonescythe Sliver|R
+Brave the Elements|U
+Bramblecrush|U
+Briarpack Alpha|U
+Brindle Boar|C
+Blightcaster|U
+Burning Earth|R
+Bubbling Cauldron|U
+Cancel|C
+Canyon Minotaur|C
+Capashen Knight|C
+Chandra's Outrage|C
+Celestial Flare|C
+Chandra's Phoenix|R
+Chandra, Pyromaster|M
+Charging Griffin|C
+Child of Night|C
+Claustrophobia|C
+Colossal Whale|R
+Clone|R
+Coral Merfolk|C
+Congregate|U
+Corpse Hauler|C
+Cyclops Tyrant|C
+Corrupt|U
 Liliana's Reaver|R
 Manaweft Sliver|U
 Liturgy of Blood|C
@@ -117,54 +165,6 @@ Xathrid Necromancer|R
 Wring Flesh|C
 Zephyr Charge|C
 Academy Raider|C
-Accorder's Shield|U
-Accursed Spirit|C
-Advocate of the Beast|C
-Act of Treason|C
-Ajani's Chosen|R
-Air Servant|U
-Ajani, Caller of the Pride|M
-Angelic Accord|U
-Altar's Reap|C
-Angelic Wall|C
-Archaeomancer|C
-Armored Cancrix|C
-Archangel of Thune|M
-Artificer's Hex|U
-Banisher Priest|U
-Auramancer|C
-Awaken the Ancient|R
-Battle Sliver|U
-Barrage of Expendables|U
-Blightcaster|U
-Blessing|U
-Blood Bairn|C
-Bogbrew Witch|R
-Bonescythe Sliver|R
-Brave the Elements|U
-Bramblecrush|U
-Briarpack Alpha|U
-Brindle Boar|C
-Blur Sliver|C
-Burning Earth|R
-Bubbling Cauldron|U
-Cancel|C
-Canyon Minotaur|C
-Capashen Knight|C
-Chandra's Outrage|C
-Celestial Flare|C
-Chandra's Phoenix|R
-Chandra, Pyromaster|M
-Charging Griffin|C
-Child of Night|C
-Claustrophobia|C
-Colossal Whale|R
-Clone|R
-Coral Merfolk|C
-Congregate|U
-Corpse Hauler|C
-Cyclops Tyrant|C
-Corrupt|U
 Darksteel Forge|M
 Dark Favor|C
 Dark Prophecy|R
@@ -189,23 +189,23 @@ Duress|C
 Elvish Mystic|C
 Elixir of Immortality|U
 Enlarge|U
+Encroaching Wastes|U
 Festering Newt|C
 Essence Scatter|C
-Encroaching Wastes|U
 Fiendslayer Paladin|R
 Fireshrieker|U
 Fleshpulper Giant|U
 Flames of the Firebrand|U
-Forest|L
 Fog|C
 Frost Breath|C
 Galerider Sliver|R
 Fortify|C
+Garruk's Horde|R
 Garruk, Caller of Beasts|M
 Giant Spider|C
 Giant Growth|C
 Gladecover Scout|C
-Garruk's Horde|R
+Forest|L
 Gnawing Zombie|U
 Glimpse the Future|U
 Goblin Diplomats|R
@@ -221,14 +221,14 @@ Hunt the Weak|C
 Illusionary Armor|U
 Imposing Sovereign|R
 Indestructibility|R
-Island|L
 Into the Wilds|R
 Jace's Mindseeker|R
 Jace, Memory Adept|M
 Kalonian Hydra|M
 Kalonian Tusker|U
+Lifebane Zombie|R
 Lay of the Land|C
 Lava Axe|C
-Lifebane Zombie|R
+Island|L
 Lightning Talons|C
 Liliana of the Dark Realms|M

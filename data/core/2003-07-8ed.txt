@@ -1,9 +1,9 @@
-Angel of Mercy|U
+Anaba Shaman|C
 Abyssal Specter|U
 Air Elemental|U
 Ambition's Cost|U
 Aladdin's Ring|R
-Anaba Shaman|C
+Angel of Mercy|U
 Angelic Page|C
 Ardent Militia|U
 Archivist|R
@@ -63,91 +63,6 @@ Death Pits of Rath|R
 Deathgazer|U
 Deepwood Ghoul|C
 Deflection|R
-Razorfoot Griffin|C
-Reflexes|C
-Redeem|C
-Regeneration|C
-Remove Soul|C
-Relentless Assault|R
-Rewind|U
-Revive|U
-Rhox|R
-Ridgeline Rager|C
-Royal Assassin|R
-Rolling Stones|R
-Rod of Ruin|U
-Rushwood Dryad|C
-Rukh Egg|R
-Sabretooth Tiger|C
-Sacred Nectar|C
-Sacred Ground|R
-Sage of Lat-Nam|R
-Samite Healer|C
-Sage Owl|C
-Salt Marsh|U
-Savannah Lions|R
-Sanctimony|U
-Scathe Zombies|C
-Seasoned Marshal|U
-Sea Monster|C
-Searing Wind|R
-Serpent Warrior|C
-Seismic Assault|R
-Severed Legion|C
-Serra Angel|R
-Sever Soul|U
-Shivan Dragon|R
-Shifting Sky|R
-Shatter|C
-Shock|C
-Shivan Oasis|U
-Shock Troops|C
-Slay|U
-Skull of Orm|R
-Sizzle|C
-Spellbook|U
-Sneaky Homunculus|C
-Soul Feast|U
-Solidarity|C
-Spiketail Hatchling|U
-Spineless Thug|C
-Spined Wurm|C
-Spitting Spider|U
-Spirit Link|U
-Spreading Algae|U
-Standing Troops|C
-Staunch Defenders|U
-Star Compass|U
-Steal Artifact|U
-Story Circle|R
-Storm Crow|C
-Stone Rain|C
-Stream of Life|U
-Sudden Impact|U
-Suntail Hawk|C
-Swamp|L
-Sunweb|R
-Swarm of Rats|U
-Sword Dancer|U
-Telepathy|U
-Teferi's Puzzle Box|R
-Temporal Adept|R
-Thieving Magpie|U
-Thieves' Auction|R
-Thorn Elemental|R
-Trade Routes|R
-Throne of Bone|U
-Tidal Kraken|R
-Trained Armodon|C
-Tremor|C
-Treasure Trove|U
-Tundra Wolves|C
-Unholy Strength|C
-Two-Headed Dragon|R
-Twiddle|C
-Underworld Dreams|R
-Urza's Armor|R
-Urborg Volcano|U
 Defense Grid|R
 Diabolic Tutor|U
 Dehydration|C
@@ -203,27 +118,77 @@ Goblin Chariot|C
 Goblin Glider|U
 Goblin Raider|C
 Goblin King|R
-Hammer of Bogardan|R
-Gravedigger|C
-Grave Pact|R
 Grizzly Bears|C
-Guerrilla Tactics|U
-Healing Salve|C
-Hibernation|U
-Hill Giant|C
-Holy Day|C
-Holy Strength|C
-Horned Troll|C
-Honor Guard|C
-Horned Turtle|C
-Hulking Cyclops|U
-Howling Mine|R
-Hunted Wumpus|U
-Inspiration|C
-Inferno|R
-Index|C
-Intrepid Hero|R
-Invisibility|U
+Gravedigger|C
+Solidarity|C
+Spiketail Hatchling|U
+Spineless Thug|C
+Spined Wurm|C
+Spitting Spider|U
+Spirit Link|U
+Spreading Algae|U
+Standing Troops|C
+Staunch Defenders|U
+Star Compass|U
+Steal Artifact|U
+Story Circle|R
+Storm Crow|C
+Stone Rain|C
+Stream of Life|U
+Sudden Impact|U
+Suntail Hawk|C
+Swamp|L
+Sunweb|R
+Swarm of Rats|U
+Sword Dancer|U
+Telepathy|U
+Teferi's Puzzle Box|R
+Temporal Adept|R
+Thieving Magpie|U
+Thieves' Auction|R
+Thorn Elemental|R
+Trade Routes|R
+Throne of Bone|U
+Tidal Kraken|R
+Trained Armodon|C
+Tremor|C
+Treasure Trove|U
+Tundra Wolves|C
+Unholy Strength|C
+Two-Headed Dragon|R
+Twiddle|C
+Underworld Dreams|R
+Urza's Armor|R
+Urborg Volcano|U
+Unsummon|C
+Urza's Mine|U
+Urza's Power Plant|U
+Urza's Tower|U
+Vampiric Spirit|R
+Venerable Monk|C
+Verduran Enchantress|R
+Vexing Arcanix|R
+Vernal Bloom|R
+Viashino Sandstalker|U
+Vine Trellis|C
+Vicious Hunger|C
+Wall of Air|U
+Volcanic Hammer|C
+Wall of Spears|U
+Wall of Stone|U
+Wall of Swords|U
+Western Paladin|R
+Warped Devotion|R
+Wood Elves|C
+Wind Drake|C
+Wooden Sphere|U
+Wing Snare|U
+Worship|R
+Wrath of Marit Lage|U
+Wrath of God|R
+Yavimaya Enchantress|U
+Zur's Weirding|R
+Zombify|U
 Intruder Alarm|R
 Jayemdae Tome|R
 Island|L
@@ -235,15 +200,6 @@ Lava Axe|C
 Larceny|R
 Lava Hounds|R
 Lesser Gargadon|U
-Noble Purpose|R
-Ogre Taskmaster|U
-Obliterate|R
-Okk|R
-Oracle's Attendants|R
-Orcish Artillery|U
-Pacifism|C
-Orcish Spy|C
-Patagia Golem|U
 Lightning Elemental|C
 Lhurgoyf|R
 Lightning Blast|U
@@ -274,6 +230,25 @@ Monstrous Growth|C
 Moss Monster|C
 Nantuko Disciple|C
 Mountain|L
+Hammer of Bogardan|R
+Grave Pact|R
+Guerrilla Tactics|U
+Healing Salve|C
+Hibernation|U
+Hill Giant|C
+Holy Strength|C
+Holy Day|C
+Horned Troll|C
+Honor Guard|C
+Horned Turtle|C
+Hulking Cyclops|U
+Howling Mine|R
+Hunted Wumpus|U
+Inspiration|C
+Inferno|R
+Index|C
+Intrepid Hero|R
+Invisibility|U
 Murderous Betrayal|R
 Naturalize|C
 Natural Affinity|R
@@ -281,6 +256,15 @@ Nekrataal|U
 Nausea|C
 Norwood Ranger|C
 Nightmare|R
+Noble Purpose|R
+Ogre Taskmaster|U
+Obliterate|R
+Okk|R
+Oracle's Attendants|R
+Orcish Artillery|U
+Pacifism|C
+Orcish Spy|C
+Patagia Golem|U
 Panic Attack|C
 Persecute|R
 Peach Garden Oath|U
@@ -304,32 +288,48 @@ Raise Dead|C
 Rain of Blades|U
 Ravenous Rats|C
 Rampant Growth|C
-Unsummon|C
-Urza's Mine|U
-Urza's Power Plant|U
-Urza's Tower|U
-Vampiric Spirit|R
-Venerable Monk|C
-Verduran Enchantress|R
-Vexing Arcanix|R
-Vernal Bloom|R
-Viashino Sandstalker|U
-Vine Trellis|C
-Vicious Hunger|C
-Wall of Air|U
-Volcanic Hammer|C
-Wall of Spears|U
-Wall of Stone|U
-Wall of Swords|U
-Western Paladin|R
-Warped Devotion|R
-Wood Elves|C
-Wind Drake|C
-Wooden Sphere|U
-Wing Snare|U
-Worship|R
-Wrath of Marit Lage|U
-Wrath of God|R
-Yavimaya Enchantress|U
-Zur's Weirding|R
-Zombify|U
+Razorfoot Griffin|C
+Reflexes|C
+Redeem|C
+Regeneration|C
+Remove Soul|C
+Relentless Assault|R
+Rewind|U
+Revive|U
+Rhox|R
+Ridgeline Rager|C
+Royal Assassin|R
+Rolling Stones|R
+Rod of Ruin|U
+Rushwood Dryad|C
+Rukh Egg|R
+Sabretooth Tiger|C
+Sacred Nectar|C
+Sacred Ground|R
+Sage of Lat-Nam|R
+Samite Healer|C
+Sage Owl|C
+Salt Marsh|U
+Savannah Lions|R
+Sanctimony|U
+Scathe Zombies|C
+Seasoned Marshal|U
+Sea Monster|C
+Searing Wind|R
+Serpent Warrior|C
+Seismic Assault|R
+Severed Legion|C
+Serra Angel|R
+Sever Soul|U
+Shivan Dragon|R
+Shifting Sky|R
+Shatter|C
+Shock|C
+Shivan Oasis|U
+Shock Troops|C
+Slay|U
+Skull of Orm|R
+Sizzle|C
+Spellbook|U
+Sneaky Homunculus|C
+Soul Feast|U

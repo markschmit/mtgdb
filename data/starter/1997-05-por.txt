@@ -1,4 +1,4 @@
-Ebon Dragon|R
+Gorilla Warrior|C
 Alabaster Dragon|R
 Anaconda|U
 Alluring Scent|R
@@ -41,15 +41,16 @@ Cruel Bargain|R
 Deep Wood|U
 Cruel Tutor|R
 Deep-Sea Serpent|U
-Devoted Hero|C
 Defiant Stand|U
 Desert Drake|U
 Déjà Vu|C
+Devoted Hero|C
 Devastation|R
 Djinn of the Lamp|R
 Dry Spell|U
 Dread Charge|R
 Dread Reaper|R
+Ebon Dragon|R
 Earthquake|R
 Elite Cat Warrior|C
 Elvish Ranger|C
@@ -74,7 +75,6 @@ Giant Octopus|C
 Giant Spider|C
 Goblin Bully|C
 Gift of Estates|R
-Gorilla Warrior|C
 Grizzly Bears|C
 Gravedigger|U
 Harsh Justice|R

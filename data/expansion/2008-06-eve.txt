@@ -1,5 +1,5 @@
+Clout of the Dominus|C
 Aerie Ouphes|C
-Crag Puca|U
 Antler Skulkin|C
 Altar Golem|R
 Archon of Justice|R
@@ -23,8 +23,8 @@ Cinder Pyromancer|C
 Cauldron Haze|U
 Chaotic Backlash|U
 Cold-Eyed Selkie|R
-Clout of the Dominus|C
 Crackleburr|R
+Crag Puca|U
 Creakwood Ghoul|U
 Creakwood Liege|R
 Deathbringer Liege|R
@@ -43,6 +43,79 @@ Duergar Assailant|C
 Duergar Mine-Captain|U
 Duergar Hedge-Mage|U
 Duskdale Wurm|U
+Endless Horizons|R
+Edge of the Divinity|C
+Endure|U
+Evershrike|R
+Fable of Wolf and Owl|R
+Fang Skulkin|C
+Fetid Heath|R
+Favor of the Overbeing|C
+Fire at Will|C
+Fiery Bombardment|R
+Figure of Destiny|R
+Flame Jab|C
+Flooded Grove|R
+Flickerwisp|U
+Gilder Bairn|U
+Gift of the Deity|C
+Glamerdye|R
+Groundling Pouncer|U
+Glen Elendra Archmage|R
+Grazing Kelpie|C
+Gwyllion Hedge-Mage|U
+Hag Hedge-Mage|U
+Hallowed Burial|R
+Hatchet Bully|U
+Harvest Gwyllion|C
+Hearthfire Hobgoblin|U
+Hateflayer|R
+Heartlash Cinder|C
+Hoof Skulkin|C
+Helix Pinnacle|R
+Hobgoblin Dragoon|C
+Hotheaded Giant|C
+Impelled Giant|U
+Idle Thoughts|U
+Indigo Faerie|U
+Jawbone Skulkin|C
+Invert the Skies|U
+Inundate|R
+Inside Out|C
+Kithkin Spellduster|C
+Kithkin Zealot|C
+Leering Emblem|R
+Lingering Tormentor|U
+Light from Within|R
+Loyal Gyrfalcon|U
+Marshdrinker Giant|U
+Merrow Bonegnawer|C
+Merrow Levitator|C
+Mindwrack Liege|R
+Monstrify|C
+Mirror Sheen|R
+Murkfiend Liege|R
+Necroskitter|R
+Moonhold|U
+Needle Specter|R
+Nettle Sentinel|C
+Nip Gwyllion|C
+Nightmare Incursion|R
+Nightsky Mimic|C
+Nobilis of War|R
+Noggle Bridgebreaker|C
+Noggle Bandit|C
+Noggle Hedge-Mage|U
+Noggle Ransacker|U
+Noxious Hatchling|U
+Nucklavee|U
+Oona's Grace|C
+Odious Trow|C
+Outrage Shaman|U
+Overbeing of Myth|R
+Patrol Signaler|U
+Puncture Blast|C
+Primalcrux|R
 Phosphorescent Feast|U
 Pyrrhic Revival|R
 Raven's Crime|C
@@ -105,76 +178,3 @@ Waves of Aggression|R
 Wistful Selkie|U
 Worm Harvest|R
 Woodlurker Mimic|C
-Endless Horizons|R
-Edge of the Divinity|C
-Endure|U
-Evershrike|R
-Fable of Wolf and Owl|R
-Fang Skulkin|C
-Fetid Heath|R
-Favor of the Overbeing|C
-Fire at Will|C
-Fiery Bombardment|R
-Figure of Destiny|R
-Flame Jab|C
-Flooded Grove|R
-Flickerwisp|U
-Gilder Bairn|U
-Gift of the Deity|C
-Glamerdye|R
-Groundling Pouncer|U
-Glen Elendra Archmage|R
-Grazing Kelpie|C
-Gwyllion Hedge-Mage|U
-Hag Hedge-Mage|U
-Hallowed Burial|R
-Hatchet Bully|U
-Harvest Gwyllion|C
-Hearthfire Hobgoblin|U
-Hateflayer|R
-Heartlash Cinder|C
-Hoof Skulkin|C
-Helix Pinnacle|R
-Hobgoblin Dragoon|C
-Hotheaded Giant|C
-Impelled Giant|U
-Idle Thoughts|U
-Indigo Faerie|U
-Jawbone Skulkin|C
-Invert the Skies|U
-Inundate|R
-Inside Out|C
-Kithkin Spellduster|C
-Kithkin Zealot|C
-Leering Emblem|R
-Lingering Tormentor|U
-Light from Within|R
-Loyal Gyrfalcon|U
-Marshdrinker Giant|U
-Merrow Bonegnawer|C
-Merrow Levitator|C
-Mindwrack Liege|R
-Necroskitter|R
-Monstrify|C
-Mirror Sheen|R
-Murkfiend Liege|R
-Moonhold|U
-Noggle Bridgebreaker|C
-Noggle Bandit|C
-Noggle Hedge-Mage|U
-Noggle Ransacker|U
-Noxious Hatchling|U
-Nucklavee|U
-Oona's Grace|C
-Odious Trow|C
-Outrage Shaman|U
-Overbeing of Myth|R
-Patrol Signaler|U
-Puncture Blast|C
-Primalcrux|R
-Needle Specter|R
-Nettle Sentinel|C
-Nip Gwyllion|C
-Nightmare Incursion|R
-Nightsky Mimic|C
-Nobilis of War|R

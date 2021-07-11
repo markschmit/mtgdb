@@ -1,70 +1,29 @@
-Lightning Elemental|S
+Pacifism|S
+Opportunity|S
 Abyssal Specter|S
 Advance Scout|S
 Air Elemental|S
 Angelic Page|S
 Argothian Elder|S
-Living Death|S
-Maniacal Rage|S
-Man-o'-War|S
-Manta Riders|S
-Master Decoy|S
-Mana Leak|S
-Mountain|S
-Mogg Hollows|S
-Nekrataal|S
-Pacifism|S
-Opportunity|S
-Phyrexian Ghoul|S
-Pestilence|S
-Pincher Beetles|S
-Plated Rootwalla|S
-Plains|S
-Prodigal Sorcerer|S
-Polluted Mire|S
-Raging Goblin|S
-Reanimate|S
-Ray of Command|S
-River Boa|S
-Remote Isle|S
-Rolling Thunder|S
-Sadistic Glee|S
 Arc Lightning|S
 Armored Pegasus|S
 Blinking Spirit|S
 Azure Drake|S
 Cackling Fiend|S
-Broken Fall|S
 Control Magic|S
+Broken Fall|S
 Cinder Marsh|S
 Catastrophe|S
 Crazed Skirge|S
 Counterspell|S
-Dirtcowl Wurm|S
-Dark Ritual|S
-Curfew|S
-Elvish Lyrist|S
-Disruptive Student|S
-Disenchant|S
-Drifting Meadow|S
-Fertile Ground|S
-Fecundity|S
-Forest|S
-Exhume|S
-Fire Ants|S
-Giant Growth|S
-Flood|S
-Gorilla Warrior|S
-Heat Ray|S
-Healing Salve|S
-Infantry Veteran|S
-Hurricane|S
-Lhurgoyf|S
-Land Tax|S
-Llanowar Elves|S
-Island|S
-Sanctum Custodian|S
+Windfall|S
+Remote Isle|S
+Rolling Thunder|S
+Sadistic Glee|S
 Sanctum Guardian|S
+Steam Blast|S
+Weakness|S
+Sanctum Custodian|S
 Scaled Wurm|S
 Sandstorm|S
 Scryb Sprites|S
@@ -79,27 +38,68 @@ Slippery Karst|S
 Songstitcher|S
 Spike Colony|S
 Soul Warden|S
-Spike Feeder|S
 Spike Weaver|S
-Spike Worker|S
+Spike Feeder|S
 Sun Clasp|S
+Spike Worker|S
 Subversion|S
 Symbiosis|S
-Steam Blast|S
 Swords to Plowshares|S
 Swamp|S
 Terror|S
 Syphon Soul|S
 Thalakos Lowlands|S
-Tranquility|S
 Trumpeting Armodon|S
-Unnerve|S
+Tranquility|S
 Uthden Troll|S
 Village Elder|S
 Vec Townships|S
-Weakness|S
+Unnerve|S
+Wall of Heat|S
 Wildfire Emissary|S
 Wrath of God|S
-Wall of Heat|S
 Wind Drake|S
-Windfall|S
+Dirtcowl Wurm|S
+Dark Ritual|S
+Curfew|S
+Elvish Lyrist|S
+Disruptive Student|S
+Drifting Meadow|S
+Disenchant|S
+Fertile Ground|S
+Exhume|S
+Fecundity|S
+Forest|S
+Fire Ants|S
+Giant Growth|S
+Flood|S
+Gorilla Warrior|S
+Heat Ray|S
+Infantry Veteran|S
+Hurricane|S
+Healing Salve|S
+Lhurgoyf|S
+Island|S
+Land Tax|S
+Llanowar Elves|S
+Lightning Elemental|S
+Living Death|S
+Maniacal Rage|S
+Man-o'-War|S
+Mana Leak|S
+Master Decoy|S
+Manta Riders|S
+Mogg Hollows|S
+Mountain|S
+Phyrexian Ghoul|S
+Nekrataal|S
+Pestilence|S
+Pincher Beetles|S
+Prodigal Sorcerer|S
+Plated Rootwalla|S
+Plains|S
+Polluted Mire|S
+Raging Goblin|S
+Reanimate|S
+Ray of Command|S
+River Boa|S

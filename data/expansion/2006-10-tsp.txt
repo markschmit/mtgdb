@@ -1,29 +1,111 @@
 Academy Ruins|R
-Flamecore Elemental|C
+Aspect of Mongoose|U
 Aether Web|C
+Fool's Demise|U
 Aetherflame Wall|C
 Amrou Seekers|C
 Amrou Scout|C
 Ancient Grudge|C
 Ancestral Vision|R
 Angel's Grace|R
+Ashcoat Bear|C
+Assembly-Worker|U
+Assassinate|C
+Barbed Shocker|U
+Basal Sliver|C
+Basalt Gargoyle|U
+Benalish Cavalry|C
+Bogardan Hellkite|R
+Blazing Blade Askari|C
+Bewilder|C
+Bogardan Rager|C
+Bonesplitter Sliver|C
+Brine Elemental|U
+Brass Gnat|C
+Call to the Netherworld|C
+Calciform Pools|U
+Cancel|C
+Careful Consideration|U
+Candles of Leng|R
+Castle Raptors|C
+Cavalry Master|U
+Celestial Crusader|U
+Children of Korlis|C
+Chameleon Blur|C
+Chronatog Totem|U
+Chromatic Star|C
+Chronosavant|R
+Clockwork Hydra|U
+Clockspinning|C
+Cloudchaser Kestrel|C
+Coral Trickster|C
+Coal Stoker|C
+Conflagrate|U
+Corpulent Corpse|C
+Crookclaw Transmuter|C
+Cyclopean Giant|C
+Curse of the Cabal|R
+D'Avenant Healer|C
+Deathspore Thallid|C
+Dark Withering|C
+Dementia Sliver|U
+Deep-Sea Kraken|R
+Detainment Spell|C
+Demonic Collusion|R
+Draining Whelk|R
+Divine Congregation|C
+Dralnu, Lich Lord|R
+Dreadship Reef|U
+Dread Return|U
+Dream Stalker|C
+Drifter il-Dal|C
+Drudge Reavers|C
+Durkwood Baloth|C
+Durkwood Tracker|U
+Duskrider Peregrine|U
+Endrek Sahr, Master Breeder|R
+Empty the Warrens|C
+Errant Doomsayers|C
+Errant Ephemeron|C
+Eternity Snare|C
+Faceless Devourer|U
+Evil Eye of Urborg|U
+Evangelize|R
+Fallen Ideal|U
+Feebleness|C
+Fathom Seer|C
+Firemaw Kavu|U
+Firewake Sliver|U
+Flagstones of Trokair|R
+Flamecore Elemental|C
+Fledgling Mawcor|U
+Flickering Spirit|C
+Flowstone Channeler|C
+Gemstone Caverns|R
+Ghitu Firebreathing|C
+Ghostflame Sliver|U
+Goblin Skycutter|C
+Glass Asp|C
+Gorgon Recluse|C
+Griffin Guide|U
+Greater Gargadon|R
+Grapeshot|C
+Greenseeker|C
+Harmonic Sliver|U
+Gustcloak Cavalier|U
+Ground Rift|C
+Havenwood Wurm|C
+Haunting Hymn|U
+Hypergenesis|R
+Herd Gnarr|C
 Ib Halfheart, Goblin Tactician|R
-Hivestone|R
-Icatian Crier|C
-Ironclaw Buzzardiers|C
-Ignite Memories|U
-Ith, High Arcanist|R
-Island|L
-Ixidron|R
-Ivory Giant|C
-Jedit's Dragoons|C
-Jaya Ballard, Task Mage|R
 Jhoira's Timebug|C
+Jedit's Dragoons|C
 Kaervek the Merciless|R
 Keldon Halberdier|C
 Knight of the Holy Nimbus|U
-Kher Keep|R
 Liege of the Pit|R
+Kher Keep|R
 Lightning Axe|C
 Krosan Grip|U
 Lim-Dûl the Necromancer|R
@@ -35,8 +117,8 @@ Magus of the Candelabra|R
 Lotus Bloom|R
 Magus of the Jar|R
 Magus of the Mirror|R
-Magus of the Scroll|R
 Mana Skimmer|C
+Magus of the Scroll|R
 Mangara of Corondor|R
 Might Sliver|U
 Might of Old Krosa|U
@@ -48,21 +130,41 @@ Momentary Blink|C
 Molten Slagheap|U
 Molder|C
 Moonlace|R
-Mwonvuli Acid-Moss|C
 Mountain|L
 Mystical Teachings|C
+Mwonvuli Acid-Moss|C
 Nantuko Shaman|C
 Nether Traitor|R
 Nightshade Assassin|U
 Norin the Wary|R
-Opaline Sliver|U
 Opal Guardian|R
+Opaline Sliver|U
 Ophidian Eye|C
 Outrider en-Kor|U
 Orcish Cannonade|C
 Paradox Haze|U
 Paradise Plume|U
 Pardic Dragon|R
+Hivestone|R
+Icatian Crier|C
+Ironclaw Buzzardiers|C
+Ignite Memories|U
+Ith, High Arcanist|R
+Island|L
+Ixidron|R
+Ivory Giant|C
+Jaya Ballard, Task Mage|R
+Foriysian Interceptor|C
+Forest|L
+Fortify|C
+Foriysian Totem|U
+Fortune Thief|R
+Fungus Sliver|R
+Fungal Reaches|U
+Gaze of Justice|C
+Fury Sliver|U
+Gauntlet of Power|R
+Gemhide Sliver|C
 Pendelhaven Elder|U
 Pentarch Ward|C
 Pentarch Paladin|R
@@ -93,36 +195,6 @@ Sage of Epityr|C
 Sangrophage|C
 Saltcrusted Steppe|U
 Savage Thallid|C
-Ashcoat Bear|C
-Aspect of Mongoose|U
-Assembly-Worker|U
-Assassinate|C
-Barbed Shocker|U
-Basal Sliver|C
-Basalt Gargoyle|U
-Benalish Cavalry|C
-Bogardan Hellkite|R
-Blazing Blade Askari|C
-Bewilder|C
-Bogardan Rager|C
-Bonesplitter Sliver|C
-Brine Elemental|U
-Brass Gnat|C
-Call to the Netherworld|C
-Calciform Pools|U
-Cancel|C
-Careful Consideration|U
-Candles of Leng|R
-Castle Raptors|C
-Cavalry Master|U
-Celestial Crusader|U
-Children of Korlis|C
-Chameleon Blur|C
-Chronatog Totem|U
-Chromatic Star|C
-Chronosavant|R
-Clockwork Hydra|U
-Clockspinning|C
 Sarpadian Empires, Vol. VII|R
 Scarwood Treefolk|C
 Screeching Sliver|C
@@ -212,75 +284,3 @@ Word of Seizing|R
 Yavimaya Dryad|U
 Wurmcalling|R
 Zealot il-Vec|C
-Cloudchaser Kestrel|C
-Coral Trickster|C
-Coal Stoker|C
-Conflagrate|U
-Corpulent Corpse|C
-Crookclaw Transmuter|C
-Cyclopean Giant|C
-Curse of the Cabal|R
-D'Avenant Healer|C
-Deathspore Thallid|C
-Dark Withering|C
-Dementia Sliver|U
-Deep-Sea Kraken|R
-Detainment Spell|C
-Demonic Collusion|R
-Draining Whelk|R
-Divine Congregation|C
-Dralnu, Lich Lord|R
-Dreadship Reef|U
-Dread Return|U
-Dream Stalker|C
-Drifter il-Dal|C
-Drudge Reavers|C
-Durkwood Baloth|C
-Durkwood Tracker|U
-Duskrider Peregrine|U
-Endrek Sahr, Master Breeder|R
-Empty the Warrens|C
-Errant Doomsayers|C
-Errant Ephemeron|C
-Eternity Snare|C
-Faceless Devourer|U
-Evil Eye of Urborg|U
-Evangelize|R
-Fallen Ideal|U
-Feebleness|C
-Fathom Seer|C
-Firemaw Kavu|U
-Firewake Sliver|U
-Flagstones of Trokair|R
-Griffin Guide|U
-Greater Gargadon|R
-Grapeshot|C
-Greenseeker|C
-Harmonic Sliver|U
-Gustcloak Cavalier|U
-Ground Rift|C
-Havenwood Wurm|C
-Haunting Hymn|U
-Hypergenesis|R
-Herd Gnarr|C
-Fledgling Mawcor|U
-Flickering Spirit|C
-Flowstone Channeler|C
-Fool's Demise|U
-Foriysian Interceptor|C
-Forest|L
-Fortify|C
-Foriysian Totem|U
-Fortune Thief|R
-Fungus Sliver|R
-Fungal Reaches|U
-Gaze of Justice|C
-Fury Sliver|U
-Gauntlet of Power|R
-Gemhide Sliver|C
-Gemstone Caverns|R
-Ghitu Firebreathing|C
-Ghostflame Sliver|U
-Goblin Skycutter|C
-Glass Asp|C
-Gorgon Recluse|C

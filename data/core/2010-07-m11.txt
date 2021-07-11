@@ -1,31 +1,57 @@
-Angel's Feather|U
 Acidic Slime|U
-Aether Adept|C
 Act of Treason|C
+Aether Adept|C
 Ajani Goldmane|M
 Air Servant|U
 Ajani's Pridemate|U
 Ajani's Mantra|C
 Alluring Siren|U
-Angelic Arbiter|R
+Angel's Feather|U
 Ancient Hellkite|R
+Angelic Arbiter|R
 Armored Ascension|U
 Arc Runner|C
 Armored Cancrix|C
 Assault Griffin|C
 Assassinate|C
 Awakener Druid|U
-Augury Owl|C
 Autumn's Veil|U
-Baneslayer Angel|M
-Back to Nature|U
 Azure Drake|C
+Augury Owl|C
+Baneslayer Angel|M
 Barony Vampire|C
+Back to Nature|U
 Berserkers of Blood Ridge|C
 Birds of Paradise|R
 Black Knight|U
 Blinding Mage|C
+Bloodthrone Vampire|C
+Bloodcrazed Goblin|C
+Blood Tithe|C
+Brindle Boar|C
+Bog Raiders|C
+Call to Mind|U
+Brittle Effigy|R
+Cancel|C
+Canyon Minotaur|C
+Captivating Vampire|R
+Chandra Nalaar|M
+Celestial Purge|U
+Chandra's Outrage|C
+Chandra's Spitfire|U
+Diminish|C
+Child of Night|C
+Cloud Crusader|C
+Cloud Elemental|C
+Clone|R
+Conundrum Sphinx|R
+Combust|U
+Cudgel Troll|U
+Crystal Ball|U
+Corrupt|U
 Cyclops Gladiator|R
+Condemn|U
+Dark Tutelage|R
 Cultivate|C
 Day of Judgment|R
 Deathmark|U
@@ -34,7 +60,6 @@ Demolish|C
 Demon of Death's Gate|M
 Destructive Force|R
 Diabolic Tutor|U
-Diminish|C
 Doom Blade|C
 Disentomb|C
 Dragon's Claw|U
@@ -47,67 +72,14 @@ Earth Servant|U
 Elite Vanguard|U
 Elvish Archdruid|R
 Elixir of Immortality|U
-Bloodcrazed Goblin|C
-Blood Tithe|C
-Brindle Boar|C
-Bog Raiders|C
-Brittle Effigy|R
-Call to Mind|U
-Cancel|C
-Canyon Minotaur|C
-Captivating Vampire|R
-Chandra Nalaar|M
-Celestial Purge|U
-Conundrum Sphinx|R
-Chandra's Spitfire|U
-Chandra's Outrage|C
-Child of Night|C
-Cloud Crusader|C
-Cloud Elemental|C
-Condemn|U
-Clone|R
-Combust|U
-Cudgel Troll|U
-Crystal Ball|U
-Bloodthrone Vampire|C
-Corrupt|U
-Dark Tutelage|R
-Leyline of Punishment|R
-Leyline of Anticipation|R
-Leyline of Sanctity|R
-Leyline of the Void|R
-Leyline of Vitality|R
-Lightning Bolt|C
-Liliana Vess|M
-Liliana's Specter|C
-Liliana's Caress|U
-Llanowar Elves|C
-Magma Phoenix|R
-Manic Vandal|C
-Mana Leak|C
-Maritime Guard|C
-Merfolk Sovereign|R
-Mass Polymorph|R
-Mind Control|U
-Merfolk Spy|C
-Mighty Leap|C
-Mitotic Slime|R
-Mind Rot|C
-Nantuko Shade|R
-Mountain|L
-Mystifying Maze|R
-Necrotic Plague|R
-Nature's Spiral|U
 Ember Hauler|U
-Fauna Shaman|R
-Excommunicate|C
 Fiery Hellhound|C
 Fire Servant|U
 Fling|C
 Fireball|U
+Flashfreeze|U
 Fog|C
 Foresee|C
-Flashfreeze|U
 Gaea's Revenge|M
 Forest|L
 Frost Titan|M
@@ -119,50 +91,19 @@ Giant Spider|C
 Giant Growth|C
 Goblin Balloon Brigade|C
 Glacial Fortress|R
-Goblin Piker|C
 Goblin Chieftain|R
+Goblin Piker|C
 Goblin Tunneler|C
 Goldenglow Moth|C
 Gravedigger|C
 Grave Titan|M
+Greater Basilisk|C
 Harbor Serpent|C
 Hoarding Dragon|R
 Haunting Echoes|R
-Greater Basilisk|C
 Holy Strength|C
-Honor of the Pure|R
-Howling Banshee|U
-Hornet Sting|C
-Ice Cage|C
-Hunters' Feast|C
-Infantry Veteran|C
-Inferno Titan|M
-Incite|C
-Island|L
-Inspired Charge|C
-Jace Beleren|M
-Jace's Ingenuity|U
-Jace's Erasure|C
-Jinxed Idol|R
-Juggernaut|U
-Knight Exemplar|R
-Lava Axe|C
-Kraken's Eye|U
-Naturalize|C
-Nether Horror|C
-Quag Sickness|C
-Reassembling Skeleton|U
-Relentless Rats|U
-Redirect|R
-Roc Egg|U
-Rise from the Grave|U
-Reverberate|R
-Rotting Legion|C
-Rootbound Crag|R
-Royal Assassin|R
-Runeclaw Bear|C
-Scroll Thief|C
-Sacred Wolf|C
+Fauna Shaman|R
+Excommunicate|C
 Safe Passage|C
 Serra Ascendant|R
 Serra Angel|U
@@ -212,13 +153,76 @@ Wild Griffin|C
 Wild Evocation|R
 Yavimaya Wurm|C
 Wurm's Tooth|U
+Prodigal Pyromancer|U
+Protean Hydra|R
+Pyroclasm|U
+Pyretic Ritual|C
+Quag Sickness|C
+Reassembling Skeleton|U
+Relentless Rats|U
+Redirect|R
+Roc Egg|U
+Rise from the Grave|U
+Reverberate|R
+Rotting Legion|C
+Rootbound Crag|R
+Royal Assassin|R
+Runeclaw Bear|C
+Scroll Thief|C
+Sacred Wolf|C
+Hornet Sting|C
+Honor of the Pure|R
+Howling Banshee|U
+Ice Cage|C
+Hunters' Feast|C
+Inferno Titan|M
+Infantry Veteran|C
+Incite|C
+Island|L
+Inspired Charge|C
+Jace Beleren|M
+Jace's Ingenuity|U
+Jace's Erasure|C
+Jinxed Idol|R
+Juggernaut|U
+Knight Exemplar|R
+Lava Axe|C
+Leyline of Punishment|R
+Kraken's Eye|U
+Leyline of Anticipation|R
+Leyline of the Void|R
+Leyline of Vitality|R
+Leyline of Sanctity|R
+Lightning Bolt|C
+Liliana Vess|M
+Liliana's Specter|C
+Liliana's Caress|U
+Magma Phoenix|R
+Llanowar Elves|C
+Mana Leak|C
+Manic Vandal|C
+Maritime Guard|C
+Mass Polymorph|R
+Mind Control|U
+Merfolk Sovereign|R
+Merfolk Spy|C
+Mighty Leap|C
+Mitotic Slime|R
+Mind Rot|C
+Nantuko Shade|R
+Mountain|L
+Mystifying Maze|R
+Necrotic Plague|R
+Naturalize|C
+Nature's Spiral|U
+Nether Horror|C
 Negate|C
 Nightwing Shade|C
 Obstinate Baloth|R
-Pacifism|C
 Ornithopter|U
 Overwhelming Stampede|R
 Palace Guard|C
+Pacifism|C
 Phantom Beast|C
 Phylactery Lich|R
 Platinum Angel|M
@@ -226,9 +230,5 @@ Plains|L
 Primal Cocoon|C
 Preordain|C
 Plummet|C
-Prized Unicorn|U
-Prodigal Pyromancer|U
-Protean Hydra|R
-Pyroclasm|U
-Pyretic Ritual|C
 Primeval Titan|M
+Prized Unicorn|U

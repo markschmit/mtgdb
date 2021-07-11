@@ -1,45 +1,45 @@
-Fountain of Youth|R
-Fissure|C
-Ashes to Ashes|C
+Ball Lightning|R
+Apprentice Wizard|R
 Angry Mob|R
 Amnesia|R
-Apprentice Wizard|R
-Ball Lightning|R
+Ashes to Ashes|C
 Blood Moon|R
 Banshee|R
 Blood of the Martyr|R
 Barl's Cage|R
+Bog Imp|C
 Bog Rats|C
 Brainwash|C
-Bog Imp|C
 Book of Rass|R
 Bone Flute|R
 Brothers of Fire|R
 Carnivorous Plant|C
 Cleansing|R
-City of Shadows|R
 Cave People|R
-Coal Golem|R
+City of Shadows|R
 Curse Artifact|R
+Coal Golem|R
 Dark Heart of the Wood|C
+Diabolic Machine|R
 Dance of Many|R
 Dark Sphere|R
-Diabolic Machine|R
 Deep Water|C
 Eater of the Dead|R
 Drowned|C
 Dust to Dust|C
 Electric Eel|R
 Elves of Deep Shadow|R
-Exorcist|R
 Erosion|C
 Eternal Flame|R
 Fellwar Stone|R
+Exorcist|R
 Festival|C
 Fasting|R
 Fire Drake|R
 Fire and Brimstone|R
 Flood|R
+Fountain of Youth|R
+Fissure|C
 Frankenstein's Monster|R
 Ghost Ship|C
 Gaea's Touch|C
@@ -82,15 +82,15 @@ Preacher|R
 Pikemen|C
 Rag Man|R
 Psychic Allergy|R
-Riptide|C
 Reflecting Mirror|R
+Riptide|C
 Safe Haven|R
-Runesword|R
 Savaen Elves|C
-Scarecrow|R
 Scarwood Bandits|R
-Scarwood Hag|R
+Scarecrow|R
+Runesword|R
 Scarwood Goblins|C
+Scarwood Hag|R
 Scavenger Folk|C
 Sisters of the Flame|R
 Season of the Witch|R
@@ -99,21 +99,21 @@ Skull of Orm|R
 Spitting Slug|R
 Stone Calendar|R
 Squire|C
+Standing Stones|R
 Sunken City|C
 Tormod's Crypt|R
-Standing Stones|R
 Tangle Kelp|R
 Tivadar's Crusade|R
-The Fallen|R
 Tower of Coireall|R
-Tracker|R
 Venom|C
+Tracker|R
+The Fallen|R
 Uncle Istvan|R
 War Barge|R
-Wand of Ith|R
 Water Wurm|C
+Wand of Ith|R
 Whippoorwill|R
 Witch Hunter|R
 Wormwood Treefolk|R
-Word of Binding|C
 Worms of the Earth|R
+Word of Binding|C

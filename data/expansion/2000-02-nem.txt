@@ -1,8 +1,9 @@
-Animate Land|U
-Air Bladder|C
-Ancient Hydra|U
+Chieftain en-Dal|U
 Aether Barrier|R
 Accumulated Knowledge|C
+Ancient Hydra|U
+Air Bladder|C
+Animate Land|U
 Angelic Favor|U
 Arc Mage|U
 Ascendant Evincar|R
@@ -15,7 +16,6 @@ Belbe's Portal|R
 Blinding Angel|R
 Bola Warrior|C
 Carrion Wall|U
-Chieftain en-Dal|U
 Coiling Woodworm|U
 Cloudskate|C
 Complex Automaton|R
@@ -32,9 +32,9 @@ Dominate|U
 Fanatical Devotion|C
 Eye of Yawgmoth|R
 Flame Rift|C
-Flowstone Crusher|C
-Flint Golem|U
 Flowstone Armor|U
+Flint Golem|U
+Flowstone Crusher|C
 Flowstone Slide|R
 Flowstone Overseer|R
 Flowstone Thopter|U
@@ -107,9 +107,9 @@ Seal of Fire|C
 Seal of Removal|C
 Seal of Strength|C
 Shrieking Mogg|R
-Silkenfist Fighter|C
 Silkenfist Order|U
 Sivvi's Valor|R
+Silkenfist Fighter|C
 Sivvi's Ruse|U
 Skyshroud Behemoth|R
 Skyshroud Cutter|C

@@ -1,3 +1,4 @@
+Cryptic Annelid|U
 Akroma's Memorial|R
 Angel of Salvation|R
 Arcanum Wings|U
@@ -23,7 +24,6 @@ Cloud Key|R
 Chronomantic Escape|U
 Coalition Relic|R
 Cloudseeder|U
-Cryptic Annelid|U
 Cutthroat il-Dal|C
 Dakmor Salvage|U
 Cyclical Evolution|U
@@ -81,8 +81,8 @@ Llanowar Empath|C
 Llanowar Mentor|U
 Logic Knot|C
 Llanowar Reborn|U
-Lucent Liminid|C
 Lost Auramancers|U
+Lucent Liminid|C
 Lost Hours|C
 Lymph Sliver|C
 Lumithread Field|C

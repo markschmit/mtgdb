@@ -1,6 +1,6 @@
-Air Elemental|U
-Aladdin's Ring|R
 Aladdin's Lamp|R
+Aladdin's Ring|R
+Air Elemental|U
 Animate Artifact|U
 Animate Dead|U
 Animate Wall|R
@@ -37,8 +37,8 @@ Circle of Protection: Green|C
 Circle of Protection: Red|C
 Circle of Protection: White|C
 Clockwork Beast|R
-Cockatrice|R
 Clone|U
+Cockatrice|R
 Contract from Below|R
 Control Magic|U
 Conservator|U
@@ -73,22 +73,7 @@ Drudge Skeletons|C
 Dwarven Warriors|C
 Dwarven Weaponsmith|U
 Earth Elemental|U
-Earthbind|C
-El-Hajjaj|R
-Earthquake|R
 Ebony Horse|R
-Elvish Archers|R
-Erg Raiders|C
-Energy Flux|U
-Evil Presence|U
-Farmstead|R
-Eye for an Eye|R
-Fear|C
-Fastbond|R
-Fire Elemental|U
-Feedback|U
-Firebreathing|C
-Fireball|C
 Flying Carpet|R
 Flight|C
 Flashfires|U
@@ -98,41 +83,19 @@ Force of Nature|R
 Frozen Shade|C
 Fork|R
 Giant Growth|C
-Fungusaur|R
 Gaea's Liege|R
+Fungusaur|R
 Giant Spider|C
 Gloom|U
 Glasses of Urza|U
 Granite Gargoyle|R
+Goblin Balloon Brigade|U
 Goblin King|R
 Green Ward|U
-Goblin Balloon Brigade|U
 Gray Ogre|C
 Grizzly Bears|C
 Healing Salve|C
-Magical Hack|R
-Mahamoti Djinn|R
-Mana Short|R
-Manabarbs|R
-Mana Flare|R
-Meekstone|R
-Mana Vault|R
-Mesa Pegasus|C
-Merfolk of the Pearl Trident|C
-Mind Twist|R
-Mijae Djinn|R
-Mishra's War Machine|R
-Mons's Goblin Raiders|C
-Millstone|R
-Mountain|L
-Nether Shadow|R
-Nettling Imp|U
-Nightmare|R
-Nevinyrral's Disk|R
-Northern Paladin|R
 Guardian Angel|C
-Obsianus Golem|U
-Magnetic Mountain|R
 Helm of Chatzuk|R
 Hill Giant|C
 Holy Armor|C
@@ -149,101 +112,43 @@ Ironroot Treefolk|C
 Iron Star|U
 Island Sanctuary|R
 Island|L
-Ivory Cup|U
 Jade Monolith|R
-Ivory Tower|R
 Jandor's Ring|R
+Ivory Tower|R
+Ivory Cup|U
 Jandor's Saddlebags|R
 Jayemdae Tome|R
 Juggernaut|U
 Karma|U
-Keldon Warlord|U
 Jump|C
-Kudzu|R
+Keldon Warlord|U
 Kird Ape|C
+Kudzu|R
 Ley Druid|U
 Kormus Bell|R
 Lance|U
 Lifeforce|U
 Library of Leng|U
-Lifetap|U
-Lifelace|R
-Lightning Bolt|C
-Living Artifact|R
-Living Wall|U
-Living Lands|R
-Llanowar Elves|C
-Lord of Atlantis|R
-Lure|U
-Lord of the Pit|R
-Orcish Artillery|U
-Onulet|R
-Ornithopter|U
-Orcish Oriflamme|U
-Paralyze|C
-Pearled Unicorn|C
-Pestilence|C
-Personal Incarnation|R
-Phantasmal Terrain|C
-Phantasmal Forces|U
-Phantom Monster|U
-Plague Rats|C
-Swamp|L
-Taiga|R
-Swords to Plowshares|U
-The Hive|R
-Terror|C
-The Rack|U
-Thicket Basilisk|U
-Timber Wolves|R
-Throne of Bone|U
-Thoughtlace|R
-Titania's Song|R
-Tranquility|C
-Tsunami|U
-Tropical Island|R
-Tundra|R
-Tunnel|U
-Underground Sea|R
-Unstable Mutation|C
-Unholy Strength|C
-Uthden Troll|U
-Pirate Ship|R
-Plateau|R
-Power Leak|C
-Plains|L
-Primal Clay|R
-Power Surge|R
-Power Sink|C
-Prodigal Sorcerer|C
-Psychic Venom|C
-Reconstruction|C
-Raise Dead|C
-Purelace|R
-Red Ward|U
-Regeneration|C
-Red Elemental Blast|C
-Reverse Damage|R
-Resurrection|U
-Regrowth|U
-Reverse Polarity|U
-Righteousness|R
-Roc of Kher Ridges|R
-Rod of Ruin|U
-Rock Hydra|R
-Rocket Launcher|R
-Royal Assassin|R
-Samite Healer|C
-Savannah Lions|R
-Sacrifice|U
-Savannah|R
-Scathe Zombies|C
-Scavenging Ghoul|U
+Earthbind|C
+Fireball|C
+El-Hajjaj|R
+Earthquake|R
+Elvish Archers|R
+Erg Raiders|C
+Energy Flux|U
+Evil Presence|U
+Farmstead|R
+Eye for an Eye|R
+Fear|C
+Fire Elemental|U
+Fastbond|R
+Feedback|U
+Firebreathing|C
 Scryb Sprites|C
 Scrubland|R
 Sedge Troll|R
-Sengir Vampire|U
 Sea Serpent|C
+Sengir Vampire|U
 Serendib Efreet|R
 Shanodin Dryads|C
 Serra Angel|U
@@ -264,6 +169,26 @@ Stream of Life|C
 Stone Giant|U
 Sunglasses of Urza|R
 Stone Rain|C
+Swamp|L
+Taiga|R
+Swords to Plowshares|U
+The Hive|R
+Terror|C
+The Rack|U
+Thicket Basilisk|U
+Timber Wolves|R
+Throne of Bone|U
+Thoughtlace|R
+Tranquility|C
+Titania's Song|R
+Tsunami|U
+Tropical Island|R
+Tunnel|U
+Tundra|R
+Underground Sea|R
+Unholy Strength|C
+Unstable Mutation|C
+Uthden Troll|U
 Unsummon|C
 Verduran Enchantress|R
 Vesuvan Doppelganger|R
@@ -294,3 +219,78 @@ Wrath of God|R
 Wooden Sphere|U
 Winter Orb|R
 Zombie Master|R
+Lifetap|U
+Lifelace|R
+Lightning Bolt|C
+Living Artifact|R
+Living Wall|U
+Living Lands|R
+Llanowar Elves|C
+Lord of Atlantis|R
+Lure|U
+Lord of the Pit|R
+Magnetic Mountain|R
+Magical Hack|R
+Mahamoti Djinn|R
+Mana Vault|R
+Mana Short|R
+Mana Flare|R
+Manabarbs|R
+Meekstone|R
+Merfolk of the Pearl Trident|C
+Mesa Pegasus|C
+Mind Twist|R
+Mijae Djinn|R
+Mishra's War Machine|R
+Millstone|R
+Mons's Goblin Raiders|C
+Nether Shadow|R
+Mountain|L
+Nettling Imp|U
+Nightmare|R
+Nevinyrral's Disk|R
+Northern Paladin|R
+Obsianus Golem|U
+Orcish Artillery|U
+Onulet|R
+Ornithopter|U
+Orcish Oriflamme|U
+Paralyze|C
+Pearled Unicorn|C
+Pestilence|C
+Personal Incarnation|R
+Phantasmal Terrain|C
+Phantasmal Forces|U
+Phantom Monster|U
+Plague Rats|C
+Red Ward|U
+Regeneration|C
+Reverse Damage|R
+Resurrection|U
+Regrowth|U
+Reverse Polarity|U
+Righteousness|R
+Roc of Kher Ridges|R
+Rod of Ruin|U
+Rocket Launcher|R
+Rock Hydra|R
+Royal Assassin|R
+Sacrifice|U
+Samite Healer|C
+Savannah|R
+Scathe Zombies|C
+Savannah Lions|R
+Scavenging Ghoul|U
+Pirate Ship|R
+Plateau|R
+Power Leak|C
+Plains|L
+Primal Clay|R
+Power Surge|R
+Power Sink|C
+Prodigal Sorcerer|C
+Psychic Venom|C
+Reconstruction|C
+Raise Dead|C
+Purelace|R
+Red Elemental Blast|C

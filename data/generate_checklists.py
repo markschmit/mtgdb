@@ -9,18 +9,20 @@ import re
 import sys
 import urllib2
 
+from mtgutil import sets
+
 from lxml import etree
 
-class Set(object):
-  def __init__(self, date_str, name, code, set_type):
-    self.date_str = date_str
-    self.name = name
-    self.code = code
-    self.set_type = set_type
-
-  def __str__(self):
-    return "%s (%s) - %s" % (self.name, self.code, self.date_str)
-
+#class Set(object):
+#  def __init__(self, date_str, name, code, set_type):
+#    self.date_str = date_str
+#    self.name = name
+#    self.code = code
+#    self.set_type = set_type
+#
+#  def __str__(self):
+#    return "%s (%s) - %s" % (self.name, self.code, self.date_str)
+#
 
 class Card(object):
   def __init__(self, name, rarity):
@@ -32,40 +34,49 @@ class Card(object):
 
 
 def parseSets(filename):
-  f = open(filename)
   setMap = {}
-  for i, line in enumerate(f.xreadlines()):
-    if line.strip().startswith("#"):
-      continue
 
-    parts = line.strip().split("\t")
+  db = sets.SetsDB(filename)
+  set_list = db.GetSets()
 
-    if len(parts) < 5:
-      #print "Skipping line %d without much data: %s" je
-      continue
-
-    (date_str, name, code, set_type) = (parts[0], parts[1], parts[3], parts[4])
-
-    # See if this is MTGO-only set
-    if len(parts) >= 6 and "Magic Online" in parts[5]:
-      #print "Skipping MTGO-only set on line %d: %s" % (i, str(parts))
-      continue
-
-    if not code:
-      #print "Skipping set without code on line %d: %s" % (i, str(parts))
-      continue
-
-    if "(" in code:
-      code = code.split("(")[0].strip()
-
-    if set_type.endswith(" set"):
-      set_type = set_type[:-4]
-
-    s = Set(date_str, name, code, set_type)
-    setMap[(date_str, code)] = s
-    
+  for s in db.GetSets():
+    setMap[(s.date_str, s.code)] = s
   return setMap
 
+#  f = open(filename)
+#  setMap = {}
+#  for i, line in enumerate(f.xreadlines()):
+#    if line.strip().startswith("#"):
+#      continue
+#
+#    parts = line.strip().split("\t")
+#
+#    if len(parts) < 5:
+#      #print "Skipping line %d without much data: %s" je
+#      continue
+#
+#    (date_str, name, code, set_type) = (parts[0], parts[1], parts[3], parts[4])
+#
+#    # See if this is MTGO-only set
+#    if len(parts) >= 6 and "Magic Online" in parts[5]:
+#      #print "Skipping MTGO-only set on line %d: %s" % (i, str(parts))
+#      continue
+#
+#    if not code:
+#      #print "Skipping set without code on line %d: %s" % (i, str(parts))
+#      continue
+#
+#    if "(" in code:
+#      code = code.split("(")[0].strip()
+#
+#    if set_type.endswith(" set"):
+#      set_type = set_type[:-4]
+#
+#    s = Set(date_str, name, code, set_type)
+#    setMap[(date_str, code)] = s
+#    
+#  return setMap
+#
 
 
 def normalizeName(name):

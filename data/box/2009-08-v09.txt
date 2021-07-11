@@ -1,5 +1,5 @@
-Berserk|M
 Channel|M
+Berserk|M
 Balance|M
 Gifts Ungiven|M
 Goblin Lackey|M
@@ -8,8 +8,8 @@ Kird Ape|M
 Necropotence|M
 Lotus Petal|M
 Sensei's Divining Top|M
-Tinker|M
 Serendib Efreet|M
-Trinisphere|M
+Tinker|M
 Skullclamp|M
+Trinisphere|M
 Strip Mine|M

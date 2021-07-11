@@ -1,91 +1,135 @@
-Galvanic Juggernaut|U
+Altar's Reap|C
+Boneyard Wurm|U
+Bonds of Faith|C
 Abattoir Ghoul|U
 Abbey Griffin|C
 Ambush Viper|C
-Altar's Reap|C
 Angel of Flight Alabaster|R
 Ancient Grudge|C
+Angelic Overseer|M
+Armored Skaab|C
+Avacyn's Pilgrim|C
+Avacynian Priest|C
+Balefire Dragon|M
+Back from the Brink|R
+Bane of Hanweir|U
+Blasphemous Act|R
+Battleground Geist|U
+Bitterheart Witch|U
+Blazing Torch|C
+Bloodcrazed Neonate|C
+Bloodgift Demon|R
+Bloodline Keeper|R
+Brimstone Volley|C
+Bump in the Night|C
+Brain Weevil|C
+Bramblecrush|U
+Burning Vengeance|U
+Butcher's Cleaver|U
+Cackling Counterpart|R
+Cellar Door|U
+Chapel Geist|C
+Champion of the Parish|R
+Caravan Vigil|C
+Charmbreaker Devils|R
+Civilized Scholar|U
+Claustrophobia|C
+Creeping Renaissance|R
+Cloistered Youth|U
+Clifftop Retreat|R
+Corpse Lunge|C
+Cobbled Wings|C
+Creepy Doll|R
+Crossway Vampire|C
+Curse of Death's Hold|R
+Curiosity|U
+Curse of Oblivion|C
+Curse of Stalked Prey|R
+Devil's Play|R
+Dearly Departed|R
+Dead Weight|C
 Delver of Secrets|C
 Demonmail Hauberk|U
 Deranged Assistant|C
-Doomed Traveler|C
-Disciple of Griselbrand|U
-Devil's Play|R
+Daybreak Ranger|R
+Curse of the Bloody Tome|C
+Curse of the Nightly Hunt|U
+Curse of the Pierced Heart|C
+Darkthicket Wolf|C
 Desperate Ravings|U
+Forest|L
+Fiend Hunter|U
+Forbidden Alchemy|C
+Fortress Crab|C
+Full Moon's Rise|U
+Frightful Delusion|C
+Gallows Warden|U
+Furor of the Bitten|C
+Galvanic Juggernaut|U
+Garruk Relentless|M
+Gatstaf Howler|U
+Garruk, the Veil-Cursed|M
+Geist of Saint Traft|M
+Gavony Township|R
+Gatstaf Shepherd|U
+Geistcatcher's Rig|U
+Geist-Honored Monk|R
+Ghost Quarter|U
+Ghostly Possession|C
 Diregraf Ghoul|U
+Disciple of Griselbrand|U
+Doomed Traveler|C
+Divine Reckoning|R
+Dissipate|U
 Elder Cathar|C
+Dream Twist|C
 Elder of Laurels|R
 Elite Inquisitor|R
 Evil Twin|R
 Endless Ranks of the Dead|R
-Dream Twist|C
 Essence of the Wild|M
 Falkenrath Marauders|R
 Falkenrath Noble|U
 Feral Ridgewolf|C
 Feeling of Dread|C
 Festerhide Boar|C
-Fiend Hunter|U
-Forest|L
-Forbidden Alchemy|C
-Fortress Crab|C
-Full Moon's Rise|U
-Frightful Delusion|C
-Furor of the Bitten|C
-Gallows Warden|U
-Divine Reckoning|R
-Dissipate|U
-Garruk Relentless|M
-Garruk, the Veil-Cursed|M
-Gatstaf Howler|U
-Graveyard Shovel|U
-Grimgrin, Corpse-Born|M
-Grimoire of the Dead|M
-Grave Bramble|C
-Grizzled Outcasts|C
-Gruesome Deformity|C
-Hamlet Captain|U
-Gutter Grime|R
-Heartless Summoning|R
-Heretic's Punishment|R
-Hanweir Watchkeep|U
-Hinterland Harbor|R
-Harvest Pyre|C
-Hollowhenge Scavenger|U
-Homicidal Brute|U
-Howlpack Alpha|R
-Infernal Plunge|C
-Howlpack of Estwald|C
-Hysterical Blindness|C
-Inquisitor's Flail|U
-Instigator Gang|R
-Insectile Aberration|C
-Into the Maw of Hell|U
-Invisible Stalker|U
-Intangible Virtue|U
-Island|L
-Ironfang|C
-Isolated Chapel|R
-Kessig Cagebreakers|R
-Krallenhorde Wantons|C
-Gatstaf Shepherd|U
-Geist of Saint Traft|M
-Gavony Township|R
-Geist-Honored Monk|R
-Geistcatcher's Rig|U
-Ghostly Possession|C
-Ghost Quarter|U
 Geistflame|C
 Ghoulcaller's Chant|C
 Ghoulcaller's Bell|C
 Ghoulraiser|C
 Grasp of Phantoms|U
 Gnaw to the Bone|C
+Grave Bramble|C
+Grimgrin, Corpse-Born|M
+Graveyard Shovel|U
+Grimoire of the Dead|M
+Grizzled Outcasts|C
+Gruesome Deformity|C
+Hamlet Captain|U
+Gutter Grime|R
+Hanweir Watchkeep|U
+Homicidal Brute|U
+Hollowhenge Scavenger|U
+Howlpack Alpha|R
+Howlpack of Estwald|C
+Hysterical Blindness|C
+Inquisitor's Flail|U
+Infernal Plunge|C
+Insectile Aberration|C
+Instigator Gang|R
+Into the Maw of Hell|U
+Intangible Virtue|U
+Invisible Stalker|U
+Island|L
+Ironfang|C
+Kessig Cagebreakers|R
+Krallenhorde Wantons|C
+Isolated Chapel|R
 Kessig Wolf|C
 Kessig Wolf Run|R
-Kruin Outlaw|R
 Kindercatch|C
 Laboratory Maniac|R
+Kruin Outlaw|R
 Lantern Spirit|U
 Liliana of the Veil|M
 Lord of Lineage|R
@@ -93,65 +137,71 @@ Ludevic's Abomination|R
 Lost in the Mist|C
 Ludevic's Test Subject|R
 Makeshift Mauler|C
+Lumberknot|U
 Manor Gargoyle|R
 Make a Wish|U
-Lumberknot|U
-Markov Patrician|C
 Manor Skeleton|C
+Markov Patrician|C
 Mask of Avacyn|U
 Mausoleum Guard|U
-Mayor of Avabruck|R
 Maw of the Mire|C
+Mayor of Avabruck|R
 Mentor of the Meek|R
 Memory's Journey|U
 Merciless Predator|U
-Mikaeus, the Lunarch|M
+Heartless Summoning|R
+Harvest Pyre|C
+Heretic's Punishment|R
+Hinterland Harbor|R
 Midnight Haunting|U
+Mikaeus, the Lunarch|M
 Mindshrieker|R
 Mirror-Mad Phantasm|M
 Moment of Heroism|C
 Moldgraf Monstrosity|R
 Moon Heron|C
-Moorland Haunt|R
 Moan of the Unhallowed|U
+Moorland Haunt|R
 Morkrut Banshee|U
+Moonmist|C
 Murder of Crows|U
 Mountain|L
-Moonmist|C
 Mulch|C
 Nevermore|R
-Naturalize|C
 Nephalia Drownyard|R
+Naturalize|C
+Nightfall Predator|R
 Night Revelers|C
 Nightbird's Clutches|C
 Night Terrors|C
-Nightfall Predator|R
 Olivia Voldaren|M
 One-Eyed Scarecrow|C
-Parallel Lives|R
 Orchard Spirit|C
 Paraselene|U
-Past in Flames|M
+Parallel Lives|R
 Pitchburn Devils|C
+Past in Flames|M
+Purify the Grave|U
 Plains|L
 Rage Thrower|U
-Purify the Grave|U
 Prey Upon|C
 Rakish Heir|U
 Rally the Peasants|U
-Rampaging Werewolf|C
 Rebuke|C
 Ranger's Guile|C
+Rampaging Werewolf|C
 Reaper from the Abyss|M
 Reckless Waif|U
-Riot Devils|C
-Rolling Temblor|U
 Rooftop Storm|R
+Rolling Temblor|U
 Rotting Fensnake|C
+Riot Devils|C
 Runechanter's Pike|R
 Scourge of Geier Reach|U
-Runic Repetition|U
 Screeching Bat|U
+Runic Repetition|U
+Army of the Damned|M
+Ashmouth Hound|C
 Selfless Cathar|C
 Selhoff Occultist|C
 Sensory Deprivation|C
@@ -160,19 +210,35 @@ Sever the Bloodline|R
 Silent Departure|C
 Shimmering Grotto|C
 Silver-Inlaid Dagger|U
-Silverchase Fox|C
 Skaab Goliath|U
+Silverchase Fox|C
 Skaab Ruinator|M
 Skeletal Grimace|C
-Skirsdag High Priest|R
 Skirsdag Cultist|U
+Skirsdag High Priest|R
 Slayer of the Wicked|U
 Smite the Monstrous|C
-Somberwald Spider|C
-Spectral Flight|C
 Snapcaster Mage|R
-Think Twice|C
+Spectral Flight|C
+Somberwald Spider|C
+Spare from Evil|C
+Spectral Rider|U
+Spidery Grasp|C
+Spider Spawning|U
+Splinterfright|R
+Stitched Drake|C
+Stensia Bloodhall|R
+Stalking Vampire|U
+Stitcher's Apprentice|C
+Stromkirk Noble|R
+Stromkirk Patrol|C
+Stony Silence|R
+Swamp|L
+Sulfur Falls|R
+Sturmgeist|R
+Terror of Kruin Pass|R
 Thraben Militia|C
+Think Twice|C
 Thraben Purebloods|C
 Thraben Sentry|C
 Tormented Pariah|C
@@ -190,85 +256,19 @@ Undead Alchemist|R
 Unburial Rites|U
 Unholy Fiend|U
 Vampire Interloper|C
-Urgent Exorcism|C
 Unruly Mob|C
+Urgent Exorcism|C
 Victim of Night|C
 Vampiric Fury|C
 Village Bell-Ringer|C
-Village Cannibals|U
 Village Ironsmith|C
+Village Cannibals|U
 Villagers of Estwald|C
-Voiceless Spirit|C
 Walking Corpse|C
+Wildblood Pack|R
+Voiceless Spirit|C
 Wooden Stake|C
 Witchbane Orb|R
-Wildblood Pack|R
 Woodland Sleuth|C
 Woodland Cemetery|R
 Wreath of Geists|U
-Terror of Kruin Pass|R
-Spare from Evil|C
-Spectral Rider|U
-Spidery Grasp|C
-Spider Spawning|U
-Splinterfright|R
-Stalking Vampire|U
-Stitched Drake|C
-Stensia Bloodhall|R
-Stitcher's Apprentice|C
-Stromkirk Noble|R
-Stony Silence|R
-Stromkirk Patrol|C
-Swamp|L
-Sturmgeist|R
-Sulfur Falls|R
-Armored Skaab|C
-Angelic Overseer|M
-Ashmouth Hound|C
-Army of the Damned|M
-Avacyn's Pilgrim|C
-Avacynian Priest|C
-Balefire Dragon|M
-Back from the Brink|R
-Bane of Hanweir|U
-Battleground Geist|U
-Bitterheart Witch|U
-Blazing Torch|C
-Blasphemous Act|R
-Bloodcrazed Neonate|C
-Bloodgift Demon|R
-Bloodline Keeper|R
-Boneyard Wurm|U
-Bonds of Faith|C
-Brain Weevil|C
-Brimstone Volley|C
-Bramblecrush|U
-Bump in the Night|C
-Burning Vengeance|U
-Caravan Vigil|C
-Cackling Counterpart|R
-Butcher's Cleaver|U
-Cellar Door|U
-Chapel Geist|C
-Champion of the Parish|R
-Charmbreaker Devils|R
-Claustrophobia|C
-Civilized Scholar|U
-Cloistered Youth|U
-Clifftop Retreat|R
-Cobbled Wings|C
-Creeping Renaissance|R
-Corpse Lunge|C
-Creepy Doll|R
-Crossway Vampire|C
-Curiosity|U
-Curse of Oblivion|C
-Curse of Death's Hold|R
-Curse of Stalked Prey|R
-Curse of the Bloody Tome|C
-Curse of the Nightly Hunt|U
-Darkthicket Wolf|C
-Curse of the Pierced Heart|C
-Daybreak Ranger|R
-Dearly Departed|R
-Dead Weight|C

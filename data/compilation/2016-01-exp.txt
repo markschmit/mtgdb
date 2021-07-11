@@ -1,4 +1,3 @@
-Smoldering Marsh|M
 Arid Mesa|M
 Ancient Tomb|M
 Bloodstained Mire|M
@@ -8,8 +7,8 @@ Canopy Vista|M
 Cinder Glade|M
 Cascade Bluffs|M
 Flooded Grove|M
-Eye of Ugin|M
 Dust Bowl|M
+Eye of Ugin|M
 Fire-Lit Thicket|M
 Fetid Heath|M
 Flooded Strand|M
@@ -17,27 +16,28 @@ Forbidden Orchard|M
 Godless Shrine|M
 Graven Cairns|M
 Hallowed Fountain|M
-Kor Haven|M
 Horizon Canopy|M
+Kor Haven|M
 Marsh Flats|M
 Mana Confluence|M
-Mystic Gate|M
 Misty Rainforest|M
+Mystic Gate|M
 Overgrown Tomb|M
 Prairie Stream|M
 Polluted Delta|M
 Sacred Foundry|M
 Rugged Prairie|M
+Smoldering Marsh|M
 Scalding Tarn|M
 Stomping Ground|M
 Steam Vents|M
-Sunken Hollow|M
 Strip Mine|M
+Sunken Hollow|M
 Tectonic Edge|M
-Sunken Ruins|M
 Temple Garden|M
-Verdant Catacombs|M
+Sunken Ruins|M
 Twilight Mire|M
+Verdant Catacombs|M
 Wasteland|M
 Watery Grave|M
 Wooded Bastion|M

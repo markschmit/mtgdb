@@ -1,3 +1,15 @@
+Spitemare|U
+Surveilling Sprite|C
+Pain/Suffering|U
+Swamp|L
+Sylvan Bounty|C
+Undermine|R
+Terramorphic Expanse|C
+Wild Nacatl|C
+Titanic Ultimatum|R
+Vapor Snag|C
+Vitu-Ghazi, the City-Tree|U
+Woolly Thoctar|U
 Ageless Entity|R
 Ajani Vengeant|M
 Agonizing Demise|C
@@ -5,13 +17,13 @@ Ajani's Pridemate|U
 Ajani's Mantra|C
 Behemoth Sledge|U
 Blazing Specter|R
+Canyon Wildcat|C
 Brackwater Elemental|C
 Briarhorn|U
 Crumbling Necropolis|U
-Canyon Wildcat|C
 Countersquall|U
-Dimir Cutpurse|R
 Cruel Ultimatum|R
+Dimir Cutpurse|R
 Deep Analysis|U
 Essence Warden|C
 Elder Mastery|U
@@ -29,27 +41,27 @@ Grixis Charm|U
 Igneous Pouncer|C
 Icy Manipulator|U
 Jade Mage|U
-Jhessian Zombies|C
 Island|L
+Jhessian Zombies|C
 Kazandu Refuge|U
 Jungle Shrine|U
-Lightning Helix|U
 Kird Ape|U
+Lightning Helix|U
 Lead the Stampede|U
 Loam Lion|U
-Loxodon Hierarch|R
 Morgue Toad|C
+Loxodon Hierarch|R
 Marisi's Twinclaws|U
 Moroii|U
 Mountain|L
 Nacatl Hunt-Pride|U
 Nicol Bolas, Planeswalker|M
+Nightscape Familiar|C
 Naya Charm|U
 Ogre Savant|C
 Obelisk of Grixis|C
-Plains|L
-Nightscape Familiar|C
 Sylvan Ranger|C
+Plains|L
 Pride of Lions|U
 Qasali Pridemage|C
 Profane Command|R
@@ -63,15 +75,3 @@ Slavering Nulls|U
 Slave of Bolas|U
 Steamcore Weird|C
 Spite/Malice|U
-Spitemare|U
-Surveilling Sprite|C
-Swamp|L
-Pain/Suffering|U
-Sylvan Bounty|C
-Undermine|R
-Terramorphic Expanse|C
-Wild Nacatl|C
-Titanic Ultimatum|R
-Vitu-Ghazi, the City-Tree|U
-Vapor Snag|C
-Woolly Thoctar|U

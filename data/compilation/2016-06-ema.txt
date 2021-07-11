@@ -1,74 +1,21 @@
-Twisted Abomination|C
-Sphinx of the Steel Wind|M
-Timberwatch Elf|U
-Tidal Wave|C
-Toxic Deluge|R
-Tooth and Claw|U
-Ticking Gnomes|U
-Squadron Hawk|C
-Stingscourger|C
-Stupefying Touch|C
-Swiftwater Cliffs|C
-Sulfuric Vortex|R
-Sylvan Library|R
-Sylvan Might|C
-Swords to Plowshares|U
-Thornwood Falls|C
-Thornweald Archer|C
-Sprite Noble|U
-Thunderclap Wyvern|U
-Tragic Slip|C
-Torrent of Souls|U
-Trygon Predator|U
-Tranquil Cove|C
-Undying Rage|C
-Urborg Uprising|C
-Vampiric Tutor|M
-Unexpectedly Absent|R
-Victimize|U
-Vindicate|R
-Void|R
-Visara the Dreadful|R
-Wall of Omens|U
-Wake of Vultures|C
-Wakedancer|C
-Warden of Evos Isle|C
-War Priest of Thune|U
-Wee Dragonauts|U
-Wasteland|R
-Welkin Guide|C
-Whitemane Lion|C
-Werebear|C
-Wildfire Emissary|C
-Winter Orb|R
-Wind-Scarred Crag|C
-Worn Powerstone|U
-Wirewood Symbiote|U
-Wonder|U
-Worldgorger Dragon|M
-Wrath of God|R
-Xantid Swarm|R
-Zealous Persecution|U
-Yavimaya Enchantress|C
-Young Pyromancer|U
-Arcanis the Omnipotent|R
 Abundant Growth|C
+Ancestral Mask|U
 Animate Dead|U
 Argothian Enchantress|M
-Ancestral Mask|U
-Armadillo Cloak|U
 Annihilate|U
-Ashnod's Altar|U
+Armadillo Cloak|U
+Arcanis the Omnipotent|R
 Avarax|C
-Aven Riftwatcher|C
 Baleful Strix|R
-Balance|M
-Ballynock Cohort|C
+Ashnod's Altar|U
+Aven Riftwatcher|C
 Battle Squadron|U
-Beetleback Chief|U
-Benevolent Bodyguard|C
+Balance|M
 Blightsoil Druid|C
+Benevolent Bodyguard|C
 Blood Artist|U
+Ballynock Cohort|C
+Beetleback Chief|U
 Bloodbraid Elf|U
 Blossoming Sands|C
 Bloodfell Caves|C
@@ -129,6 +76,51 @@ Force of Will|M
 Fog|C
 Gaea's Blessing|U
 Future Sight|R
+Pilgrim's Eye|C
+Prodigal Sorcerer|U
+Plague Witch|C
+Price of Progress|U
+Prismatic Lens|U
+Rancor|U
+Relic of Progenitus|U
+Reckless Charge|C
+Roar of the Wurm|U
+Regal Force|R
+Rugged Highlands|C
+Roots|C
+Rorix Bladewing|R
+Scoured Barrens|C
+Screeching Skaab|C
+Seal of Strength|C
+Seal of Cleansing|C
+Second Thoughts|C
+Seismic Stomp|C
+Sengir Autocrat|U
+Sentinel Spider|C
+Sensei's Divining Top|R
+Serendib Efreet|R
+Shaman of the Pack|U
+Serra Angel|U
+Shardless Agent|R
+Siege-Gang Commander|R
+Shoreline Ranger|C
+Shelter|C
+Sinkhole|R
+Silvos, Rogue Elemental|R
+Silent Departure|C
+Skulking Ghost|C
+Soulcatcher|U
+Sneak Attack|M
+Sphinx of the Steel Wind|M
+Squadron Hawk|C
+Stingscourger|C
+Sprite Noble|U
+Prowling Pangolin|C
+Quiet Speculation|U
+Pyrokinesis|R
+Pyroblast|U
+Raise the Alarm|C
+Rally the Peasants|C
 Gamble|R
 Gaseous Form|C
 Ghitu Slinger|U
@@ -185,65 +177,73 @@ Mindless Automaton|U
 Millikin|U
 Mistral Charger|C
 Mishra's Factory|U
+Stupefying Touch|C
+Swiftwater Cliffs|C
+Sulfuric Vortex|R
+Swords to Plowshares|U
+Sylvan Library|R
+Sylvan Might|C
+Thornweald Archer|C
+Thunderclap Wyvern|U
+Thornwood Falls|C
+Ticking Gnomes|U
+Timberwatch Elf|U
+Tidal Wave|C
+Toxic Deluge|R
+Tooth and Claw|U
+Torrent of Souls|U
+Tragic Slip|C
+Trygon Predator|U
+Tranquil Cove|C
+Twisted Abomination|C
+Undying Rage|C
+Urborg Uprising|C
+Unexpectedly Absent|R
+Vampiric Tutor|M
+Victimize|U
+Void|R
+Vindicate|R
+Visara the Dreadful|R
+Wall of Omens|U
+Wake of Vultures|C
+Wakedancer|C
+War Priest of Thune|U
+Warden of Evos Isle|C
+Wee Dragonauts|U
+Worn Powerstone|U
+Wirewood Symbiote|U
+Wonder|U
+Worldgorger Dragon|M
+Xantid Swarm|R
+Wrath of God|R
+Yavimaya Enchantress|C
+Young Pyromancer|U
+Zealous Persecution|U
+Wasteland|R
+Welkin Guide|C
+Whitemane Lion|C
+Werebear|C
+Wildfire Emissary|C
+Winter Orb|R
+Wind-Scarred Crag|C
 Mogg Fanatic|C
 Mogg War Marshal|C
 Monk Idealist|C
 Mother of Runes|R
 Natural Order|M
-Mystical Tutor|R
 Nature's Claim|C
+Mystical Tutor|R
 Nausea|C
 Nekrataal|U
 Necropotence|M
 Night's Whisper|C
 Nevinyrral's Disk|R
 Nimble Mongoose|C
+Phyrexian Rager|C
 Orcish Oriflamme|C
 Oona's Grace|C
 Pacifism|C
 Peregrine Drake|C
 Phantom Monster|C
-Phyrexian Ingester|U
-Phyrexian Rager|C
 Phyrexian Gargantua|U
-Pilgrim's Eye|C
-Plague Witch|C
-Prismatic Lens|U
-Price of Progress|U
-Prodigal Sorcerer|U
-Prowling Pangolin|C
-Quiet Speculation|U
-Pyrokinesis|R
-Pyroblast|U
-Raise the Alarm|C
-Rally the Peasants|C
-Relic of Progenitus|U
-Reckless Charge|C
-Rancor|U
-Roar of the Wurm|U
-Regal Force|R
-Roots|C
-Rugged Highlands|C
-Rorix Bladewing|R
-Scoured Barrens|C
-Screeching Skaab|C
-Seal of Strength|C
-Seal of Cleansing|C
-Second Thoughts|C
-Seismic Stomp|C
-Sengir Autocrat|U
-Sentinel Spider|C
-Sensei's Divining Top|R
-Serendib Efreet|R
-Shaman of the Pack|U
-Serra Angel|U
-Shardless Agent|R
-Siege-Gang Commander|R
-Shoreline Ranger|C
-Shelter|C
-Sinkhole|R
-Silent Departure|C
-Silvos, Rogue Elemental|R
-Skulking Ghost|C
-Soulcatcher|U
-Sneak Attack|M
+Phyrexian Ingester|U

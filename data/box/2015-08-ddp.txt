@@ -1,17 +1,17 @@
-Grazing Gladehart|C
 Artisan of Kozilek|U
-Caravan Escort|C
+Bloodthrone Vampire|C
+Affa Guard Hound|U
 Akoum Refuge|U
 Avenger of Zendikar|M
 Beastbreaker of Bala Ged|U
 Bloodrite Invoker|C
 Butcher of Malakir|R
-Bloodthrone Vampire|C
+Caravan Escort|C
 Cadaver Imp|C
 Corpsehatch|U
-Dominator Drone|C
-Daggerback Basilisk|C
 Consume the Meek|R
+Daggerback Basilisk|C
+Dominator Drone|C
 Eldrazi Spawn|C
 Emrakul's Hatcher|C
 Eldrazi Temple|U
@@ -22,6 +22,7 @@ Frontier Guide|U
 Forest|L
 Forked Bolt|C
 Graypelt Hunter|C
+Grazing Gladehart|C
 Graypelt Refuge|U
 Heartstabber Mosquito|C
 Harrow|C
@@ -30,41 +31,40 @@ Induce Despair|C
 Hellion Eruption|R
 Hellion|C
 It That Betrays|R
-Joraga Bard|C
-Knight of Cliffhaven|C
 Kabira Vindicator|U
+Joraga Bard|C
 Khalni Heart Expedition|C
 Makindi Griffin|C
 Magmaw|R
+Knight of Cliffhaven|C
 Mind Stone|U
-Pawn of Ulamog|U
 Marsh Casualties|U
 Mountain|L
 Oblivion Sower|M
 Ondu Giant|C
-Oust|U
+Pawn of Ulamog|U
 Plant|C
 Plains|L
 Read the Bones|C
+Oust|U
 Primal Command|R
 Repel the Darkness|C
 Retreat to Kazandu|U
 Rocky Tar Pit|U
 Runed Servitor|U
-Affa Guard Hound|U
-Scute Mob|R
 Sheer Drop|C
-Seer's Sundial|R
+Scute Mob|R
 Stirring Wildwood|R
 Smother|U
+Seer's Sundial|R
 Stonework Puma|C
-Tajuru Archer|U
 Swamp|L
+Tajuru Archer|U
 Territorial Baloth|C
 Torch Slinger|C
 Turntimber Basilisk|U
 Ulamog's Crusher|C
-Veteran Warleader|R
-Wildheart Invoker|C
-Vampire Nighthawk|U
 Turntimber Grove|C
+Vampire Nighthawk|U
+Wildheart Invoker|C
+Veteran Warleader|R

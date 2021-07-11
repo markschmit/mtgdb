@@ -1,12 +1,12 @@
-Bramblewood Paragon|S
-Doran, the Siege Tower|S
-Blood Knight|S
-Groundbreaker|S
 Electrolyze|S
 Imperious Perfect|S
 Niv-Mizzet, the Firemind|S
 Rakdos Guildmage|S
+Voidslime|S
 Mutavault|S
 Serra Avenger|S
 Urza's Factory|S
-Voidslime|S
+Blood Knight|S
+Bramblewood Paragon|S
+Doran, the Siege Tower|S
+Groundbreaker|S

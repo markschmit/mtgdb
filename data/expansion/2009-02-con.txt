@@ -1,16 +1,16 @@
-Brackwater Elemental|C
+Blood Tyrant|R
 Aerie Mystics|U
 Absorb Vis|C
-Apocalypse Hydra|M
-Ancient Ziggurat|U
 Asha's Favor|C
+Ancient Ziggurat|U
+Apocalypse Hydra|M
 Armillary Sphere|C
 Aven Trailblazer|C
 Aven Squire|C
 Beacon Behemoth|C
 Banefire|R
 Bloodhall Ooze|R
-Blood Tyrant|R
+Brackwater Elemental|C
 Bone Saw|C
 Canyon Minotaur|C
 Child of Alara|M
@@ -30,19 +30,19 @@ Darklit Gargoyle|C
 Dark Temper|C
 Dragonsoul Knight|U
 Drag Down|C
-Dreadwing|U
 Elder Mastery|U
+Dreadwing|U
 Esper Cormorants|C
 Ethersworn Adjudicator|M
-Esperzoa|U
 Exploding Borders|C
+Esperzoa|U
 Exotic Orchard|R
 Extractor Demon|R
 Faerie Mechanist|C
 Fleshformer|U
 Filigree Fracture|U
-Fiery Fall|C
 Frontline Sage|C
+Fiery Fall|C
 Font of Mythos|R
 Giltspire Avenger|R
 Fusion Elemental|U
@@ -55,8 +55,8 @@ Grixis Slavedriver|U
 Gwafa Hazid, Profiteer|R
 Hellkite Hatchling|U
 Hellspark Elemental|U
-Infectious Horror|C
 Ignite Disorder|U
+Infectious Horror|C
 Inkwell Leviathan|R
 Jhessian Balmgiver|U
 Kederekt Parasite|R
@@ -72,8 +72,8 @@ Manaforce Mace|U
 Mana Cylix|C
 Maniacal Rage|C
 Martial Coup|R
-Mark of Asylum|R
 Master Transmuter|R
+Mark of Asylum|R
 Matca Rioters|C
 Mirror-Sigil Sergeant|M
 Might of Alara|C
@@ -91,24 +91,24 @@ Paragon of the Amesha|U
 Parasitic Strix|C
 Pestilent Kathari|C
 Path to Exile|U
-Quenchable Fire|C
 Rakka Mar|R
+Quenchable Fire|C
 Progenitus|M
 Rhox Bodyguard|C
 Reliquary Tower|U
 Rhox Meditant|C
 Rotting Rats|C
-Sacellum Archers|U
 Rupture Spire|C
 Salvage Slasher|C
+Sacellum Archers|U
 Scarland Thrinax|U
 Scattershot Archer|C
 Scepter of Fugue|R
 Scepter of Dominance|R
 Scepter of Insight|R
 Scornful Aether-Lich|U
-Sedraxis Alchemist|C
 Shambling Remains|U
+Sedraxis Alchemist|C
 Sigil of the Empty Throne|R
 Shard Convergence|U
 Sludge Strider|U
@@ -123,23 +123,23 @@ Thornling|M
 Toxic Iguanar|C
 Tukatongue Thallid|C
 Traumatic Visions|C
-Unsummon|C
 Unstable Frontier|U
-Vagrant Plowbeasts|U
 Valeron Outlander|C
+Vagrant Plowbeasts|U
+Unsummon|C
 Valiant Guard|C
 Vectis Agents|C
-Vedalken Outlander|C
 Viashino Slaughtermaster|U
+Vedalken Outlander|C
 Voices from the Void|U
-View from Above|U
 Volcanic Fallout|U
 Voracious Dragon|R
 Wall of Reverence|R
+View from Above|U
 Wandering Goblins|C
 Worldheart Phoenix|R
 Wild Leotau|C
 Wretched Banquet|C
-Worldly Counsel|C
 Yoke of the Damned|C
+Worldly Counsel|C
 Zombie Outlander|C

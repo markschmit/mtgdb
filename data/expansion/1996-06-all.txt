@@ -1,6 +1,6 @@
-Aesthir Glider|C
-Agent of Stromgald|C
 Ashnod's Cylix|R
+Agent of Stromgald|C
+Aesthir Glider|C
 Astrolabe|C
 Arcane Denial|C
 Awesome Presence|C
@@ -25,16 +25,16 @@ Elvish Bard|U
 Elvish Ranger|C
 Dystopia|R
 Elvish Spirit Guide|U
-Enslaved Scout|C
 Energy Arc|U
 Exile|R
 Errand of Duty|C
 False Demise|C
+Enslaved Scout|C
 Fevered Strength|C
 Feast or Famine|C
 Fatal Lore|R
-Floodwater Dam|R
 Force of Will|U
+Floodwater Dam|R
 Foresight|C
 Fyndhorn Druid|C
 Gift of the Woods|C
@@ -43,10 +43,10 @@ Gorilla Berserkers|C
 Gorilla Chieftain|C
 Gorilla Shaman|C
 Guerrilla Tactics|C
-Helm of Obedience|R
 Gorilla War Cry|C
-Hail Storm|U
 Gustha's Scepter|R
+Hail Storm|U
+Helm of Obedience|R
 Heart of Yavimaya|R
 Inheritance|U
 Ivory Gargoyle|R
@@ -54,26 +54,46 @@ Insidious Bookworms|C
 Juniper Order Advocate|U
 Keeper of Tresserhorn|R
 Kaysa|R
+Thawing Glaciers|R
+Taste of Paradise|C
+Thought Lash|R
+Tidal Control|R
+Tornado|R
+Unlikely Alliance|U
+Undergrowth|C
+Varchild's Crusader|C
+Varchild's War-Riders|R
+Veteran's Voice|C
+Urza's Engine|U
+Viscerid Drone|U
+Viscerid Armor|C
+Wild Aesthir|C
+Whip Vine|C
+Whirling Catapult|U
+Wandering Mage|R
+Winter's Night|R
+Yavimaya Ants|U
+Yavimaya Ancients|C
 Kjeldoran Escort|C
 Kjeldoran Home Guard|U
-Kjeldoran Outpost|R
 Kjeldoran Pride|C
+Kjeldoran Outpost|R
 Krovikan Horror|R
 Krovikan Plague|U
+Lat-Nam's Legacy|C
 Lake of the Dead|R
 Library of Lat-Nam|R
 Lim-Dûl's High Guard|C
 Lim-Dûl's Vault|U
-Lat-Nam's Legacy|C
-Lodestone Bauble|R
 Lim-Dûl's Paladin|U
+Lodestone Bauble|R
 Martyrdom|C
 Mystic Compass|U
 Lord of Tresserhorn|R
+Mishra's Groundbreaker|U
 Misinformation|U
 Misfortune|R
 Nature's Blessing|U
-Mishra's Groundbreaker|U
 Nature's Chosen|U
 Noble Steeds|C
 Nature's Wrath|R
@@ -95,9 +115,9 @@ Ritual of the Machine|R
 Royal Herbalist|C
 Royal Decree|R
 Scars of the Veteran|U
+Seasoned Tactician|U
 Scarab of the Unseen|U
 School of the Unseen|U
-Seasoned Tactician|U
 Shield Sphere|U
 Sheltered Valley|R
 Soldevi Adnate|C
@@ -110,9 +130,9 @@ Soldevi Sentry|C
 Soldevi Steam Beast|C
 Soldier of Fortune|U
 Spiny Starfish|U
-Stench of Decay|C
 Splintering Wind|R
 Storm Cauldron|R
+Stench of Decay|C
 Storm Crow|C
 Storm Elemental|U
 Storm Shaman|C
@@ -122,23 +142,3 @@ Surge of Strength|U
 Suffocation|U
 Swamp Mosquito|C
 Sworn Defender|R
-Thawing Glaciers|R
-Taste of Paradise|C
-Thought Lash|R
-Tidal Control|R
-Tornado|R
-Unlikely Alliance|U
-Undergrowth|C
-Urza's Engine|U
-Varchild's Crusader|C
-Varchild's War-Riders|R
-Veteran's Voice|C
-Viscerid Armor|C
-Viscerid Drone|U
-Wandering Mage|R
-Wild Aesthir|C
-Whip Vine|C
-Whirling Catapult|U
-Winter's Night|R
-Yavimaya Ancients|C
-Yavimaya Ants|U

@@ -1,4 +1,5 @@
 Animate Dead|U
+Hidden Horror|U
 Avatar of Woe|R
 Buried Alive|U
 Blazing Archon|R
@@ -6,22 +7,21 @@ Cabal Therapy|U
 Crystal Vein|U
 Crosis, the Purger|R
 Diabolic Servitude|U
-Dread Return|U
-Entomb|R
 Duress|C
+Dread Return|U
 Ebon Stronghold|U
+Entomb|R
+Exhume|C
 Faceless Butcher|C
-Hidden Horror|U
 Inkwell Leviathan|R
 Putrid Imp|C
-Exhume|C
 Polluted Mire|C
-Sickening Dreams|U
 Last Rites|C
 Swamp|L
+Reanimate|U
+Sickening Dreams|U
 Sphinx of the Steel Wind|M
 Terastodon|R
 Twisted Abomination|C
-Reanimate|U
-Verdant Force|R
 Zombie Infestation|U
+Verdant Force|R

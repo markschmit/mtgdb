@@ -1,3 +1,4 @@
+Cathedral Sanctifier|C
 Abattoir Ghoul|U
 Barter in Blood|U
 Angel|C
@@ -5,17 +6,15 @@ Appetite for Brains|U
 Bonds of Faith|C
 Butcher Ghoul|C
 Butcher's Cleaver|U
-Cathedral Sanctifier|C
-Champion of the Parish|R
 Captain of the Mists|R
 Chapel Geist|C
+Cobbled Wings|C
 Dearly Departed|R
 Compelling Deterrence|U
 Diregraf Captain|U
-Cobbled Wings|C
 Diregraf Ghoul|U
-Doomed Traveler|C
 Dismal Backwater|C
+Doomed Traveler|C
 Driver of the Dead|C
 Dread Return|U
 Elder Cathar|C
@@ -24,48 +23,49 @@ Emancipation Angel|U
 Falkenrath Noble|U
 Fiend Hunter|U
 Gather the Townsfolk|C
-Forbidden Alchemy|C
-Goldnight Redeemer|U
-Ghoulraiser|C
 Geist of Saint Traft|M
+Goldnight Redeemer|U
+Forbidden Alchemy|C
+Ghoulraiser|C
 Gravecrawler|R
 Gryff Vanguard|C
 Harvester of Souls|R
-Zombie|C
 Havengul Runebinder|R
 Increasing Devotion|R
 Human|C
 Human Frailty|U
-Island|L
 Makeshift Mauler|C
+Island|L
 Mindwrack Demon|M
-Momentary Blink|C
-Mist Raven|C
 Moorland Inquisitor|C
+Momentary Blink|C
 Moan of the Unhallowed|U
+Mist Raven|C
 Nephalia Smuggler|U
-Plains|L
 Rebuke|C
-Pore Over the Pages|U
+Plains|L
 Scrapskin Drake|C
+Sever the Bloodline|R
+Pore Over the Pages|U
 Relentless Skaabs|U
 Screeching Skaab|C
-Sever the Bloodline|R
 Seraph Sanctuary|C
+Champion of the Parish|R
 Sharpened Pitchfork|U
-Spectral Gateguards|C
 Slayer of the Wicked|U
+Spectral Gateguards|C
 Stitched Drake|C
 Spirit|C
 Tandem Lookout|U
 Swamp|L
 Thraben Heretic|U
 Tooth Collector|U
-Tower Geist|U
 Topplegeist|U
+Tower Geist|U
 Tribute to Hunger|U
 Tranquil Cove|C
 Unbreathing Horde|R
-Victim of Night|C
 Village Bell-Ringer|C
+Victim of Night|C
 Voice of the Provinces|C
+Zombie|C

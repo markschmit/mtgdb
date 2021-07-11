@@ -1,11 +1,11 @@
+Bala Ged Scorpion|C
 Ambition's Cost|U
 Altar's Reap|C
 Abundance|R
-Bala Ged Scorpion|C
 Briarhorn|U
-Cadaver Imp|C
 Blistergrub|C
 Carrier Thrall|U
+Cadaver Imp|C
 Citanul Woodreaders|C
 Civic Wayfinder|C
 Crop Rotation|C
@@ -17,51 +17,51 @@ Despoiler of Souls|R
 Eldrazi Scion|C
 Doom Blade|U
 Disfigure|C
-Elvish Visionary|C
 Elemental|C
 Fertilid|C
 Fertile Thicket|C
+Elvish Visionary|C
 Fetid Imp|C
 Forest|L
-Gaea's Blessing|U
 Foul Imp|C
 Giant Scorpion|C
-Hideous End|C
+Gaea's Blessing|U
 Gilt-Leaf Seer|C
+Hideous End|C
 Grim Discovery|C
 Jaddi Lifestrider|U
 Indulgent Tormentor|R
 Innocent Blood|C
 Leechridden Swamp|U
 Khalni Garden|C
-Natural Connection|C
 Mire's Toll|C
+Natural Connection|C
 Mosswort Bridge|R
 Nissa's Chosen|C
-Oakgnarl Warrior|C
 Nissa, Voice of Zendikar|M
 Ob Nixilis Reignited|M
+Oakgnarl Warrior|C
 Oran-Rief Hydra|R
 Oran-Rief Invoker|C
 Plant|C
 Pestilence Demon|R
 Priest of the Blood Rite|R
 Renegade Demon|C
-Quest for the Gravelord|U
 Saddleback Lagac|C
+Quest for the Gravelord|U
 Scythe Leopard|U
 Shadows of the Past|U
-Smallpox|U
 Seek the Horizon|U
+Smallpox|U
 Thicket Elemental|R
 Squelching Leeches|U
-Swamp|L
 Tendrils of Corruption|C
+Swamp|L
 Thornweald Archer|C
 Unhallowed Pact|C
 Treetop Village|U
 Walker of the Grove|U
 Vines of the Recluse|C
+Woodborn Behemoth|U
 Wood Elves|C
 Zombie Giant|C
-Woodborn Behemoth|U

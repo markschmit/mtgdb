@@ -1,6 +1,7 @@
+Bone Shredder|U
+Angelic Curator|C
 Angel's Trumpet|U
 About Face|C
-Angelic Curator|C
 Archivist|R
 Anthroplasm|R
 Avalanche Riders|U
@@ -8,7 +9,6 @@ Beast of Burden|R
 Aura Flux|C
 Bloated Toad|U
 Blessed Reversal|R
-Bone Shredder|U
 Bouncing Beebles|C
 Burst of Energy|C
 Brink of Madness|R
@@ -27,9 +27,9 @@ Deranged Hermit|R
 Devout Harpist|C
 Erase|C
 Engineered Plague|U
-Expendable Troops|C
-Eviscerator|R
 Fleeting Image|R
+Eviscerator|R
+Expendable Troops|C
 Faerie Conclave|U
 Fog of Gnats|C
 Frantic Search|C
@@ -53,8 +53,8 @@ Iron Will|C
 Iron Maiden|R
 Jhoira's Toolbox|U
 Karmic Guide|R
-Last-Ditch Effort|U
 King Crab|U
+Last-Ditch Effort|U
 Lava Axe|C
 Knighthood|U
 Lone Wolf|U

@@ -1,4 +1,34 @@
-Divine Intervention|R
+Eternal Warrior|U
+Durkwood Boars|C
+Dream Coat|U
+Elder Spawn|R
+Dwarven Song|U
+Elder Land Wurm|R
+Elven Riders|R
+Emerald Dragonfly|C
+Enchanted Being|C
+Energy Tap|C
+Enchantment Alteration|C
+Equinox|C
+Abomination|U
+Adun Oakenshield|R
+Acid Rain|R
+Aisling Leprechaun|C
+Adventurers' Guildhouse|U
+Aerathi Berserker|U
+Akron Legionnaire|R
+Alabaster Potion|C
+Al-abara's Carpet|R
+Alchor's Tomb|R
+All Hallow's Eve|R
+Amrou Kithkin|C
+Angus Mackenzie|R
+Angelic Voices|R
+Anti-Magic Aura|C
+Arena of the Ancients|R
+Arboria|U
+Arcades Sabboth|R
+Avoid Fate|C
 Axelrod Gunnarson|R
 Ayesha Tanaka|R
 Azure Drake|U
@@ -30,6 +60,7 @@ Concordant Crossroads|R
 Cocoon|U
 Craw Giant|U
 Cosmic Horror|R
+Active Volcano|C
 Crimson Kobolds|C
 Crevasse|U
 Crimson Manticore|R
@@ -42,76 +73,10 @@ Demonic Torment|U
 Deadfall|U
 Devouring Deep|C
 Divine Offering|C
-Active Volcano|C
-Abomination|U
-Adun Oakenshield|R
-Acid Rain|R
-Aisling Leprechaun|C
-Adventurers' Guildhouse|U
-Aerathi Berserker|U
-Akron Legionnaire|R
-Alabaster Potion|C
-Al-abara's Carpet|R
-Alchor's Tomb|R
-All Hallow's Eve|R
-Amrou Kithkin|C
-Angus Mackenzie|R
-Angelic Voices|R
-Anti-Magic Aura|C
-Arena of the Ancients|R
-Arboria|U
-Arcades Sabboth|R
-Avoid Fate|C
-Hyperion Blacksmith|U
-Horror of Horrors|U
-Hunding Gjornersen|U
-Ichneumon Druid|U
-Imprison|R
-Immolation|C
-In the Eye of Chaos|R
-Indestructible Aura|C
-Infernal Medusa|U
-Infinite Authority|R
-Ivory Guardians|U
-Invoke Prejudice|R
-Jasmine Boreal|U
-Jacques le Vert|R
-Jerrard of the Closed Fist|U
-Jedit Ojanen|U
-Johan|R
-Juxtapose|R
-Jovial Evil|R
-Karakas|U
-Keepers of the Faith|C
-Kasimir the Lone Wolf|U
-Kei Takahashi|R
-Knowledge Vault|R
-Killer Bees|R
-Kismet|U
-Kobold Drill Sergeant|U
-Kobold Overlord|R
-Kobold Taskmaster|U
-Kobolds of Kher Keep|C
-Lady Evangela|R
-Kry Shield|U
-Lady Caleria|R
-Land Tax|U
-Lady Orca|U
-Land Equilibrium|R
-Land's Edge|R
-Lesser Werewolf|U
-Lifeblood|R
-Life Matrix|R
-Life Chisel|U
-Lord Magnus|U
-Livonya Silone|R
-Living Plane|R
-Marble Priest|U
-Lost Soul|C
-Mana Matrix|R
-Mana Drain|U
+Divine Intervention|R
+Disharmony|R
+Divine Transformation|R
 Marhault Elsdragon|U
-Master of the Hunt|R
 Moat|R
 Mold Demon|R
 Mirror Universe|R
@@ -151,10 +116,10 @@ Rapid Fire|R
 Ramses Overdark|R
 Red Mana Battery|U
 Rasputin Dreamweaver|R
+Relic Barrier|U
+Rebirth|R
 Reincarnation|U
 Recall|R
-Rebirth|R
-Relic Barrier|U
 Relic Bind|U
 Remove Soul|C
 Remove Enchantments|C
@@ -185,79 +150,24 @@ Spinal Villain|R
 Spirit Shackle|C
 Spirit Link|U
 Stangg|R
-Spiritual Sanctuary|R
 Storm World|R
 Storm Seeker|U
+Spiritual Sanctuary|R
 Sunastian Falconer|U
-Sylvan Library|U
 Subdue|C
+Sylvan Library|U
 Sword of the Ages|R
 Sylvan Paradise|U
 Syphon Soul|C
 Takklemaggot|U
-Tetsuo Umezawa|R
 Teleport|R
+Tetsuo Umezawa|R
 Telekinesis|R
 Tempest Efreet|R
 The Brute|C
 The Abyss|R
 The Lady of the Mountain|U
 The Tabernacle at Pendrell Vale|R
-The Wretched|R
-Thunder Spirit|R
-Time Elemental|R
-Tobias Andrion|U
-Torsten Von Ursus|U
-Tolaria|U
-Touch of Darkness|U
-Tor Wauki|U
-Transmutation|C
-Triassic Egg|R
-Tundra Wolves|C
-Tuknir Deathlock|R
-Underworld Dreams|U
-Undertow|U
-Typhoon|R
-Unholy Citadel|U
-Untamed Wilds|U
-Urborg|U
-Vaevictis Asmadi|R
-Ur-Drago|R
-Vampire Bats|C
-Venarian Gold|C
-Walking Dead|C
-Voodoo Doll|R
-Visions|U
-Wall of Caltrops|C
-Wall of Dust|U
-Wall of Earth|C
-Wall of Heat|C
-Wall of Light|U
-Wall of Opposition|R
-Wall of Putrid Flesh|U
-Wall of Shadows|C
-Wall of Tombstones|U
-Wall of Vapor|C
-Wall of Wonder|U
-Whirling Dervish|U
-Willow Satyr|R
-White Mana Battery|U
-Winter Blast|R
-Winds of Change|U
-Disharmony|R
-Divine Transformation|R
-Durkwood Boars|C
-Dream Coat|U
-Elder Spawn|R
-Dwarven Song|U
-Elder Land Wurm|R
-Elven Riders|R
-Emerald Dragonfly|C
-Enchanted Being|C
-Energy Tap|C
-Enchantment Alteration|C
-Equinox|C
-Eternal Warrior|U
 Fallen Angel|U
 Evil Eye of Orms-by-Gore|U
 Eureka|R
@@ -301,9 +211,99 @@ Hell Swarm|C
 Heaven's Gate|U
 Horn of Deafening|R
 Hell's Caretaker|R
-Hornet Cobra|C
 Holy Day|C
 Hellfire|R
+Hornet Cobra|C
+Hyperion Blacksmith|U
+Horror of Horrors|U
+Hunding Gjornersen|U
+Ichneumon Druid|U
+Imprison|R
+Immolation|C
+In the Eye of Chaos|R
+Infernal Medusa|U
+Indestructible Aura|C
+Infinite Authority|R
+Ivory Guardians|U
+Invoke Prejudice|R
+Jasmine Boreal|U
+Jacques le Vert|R
+Jerrard of the Closed Fist|U
+Jedit Ojanen|U
+Johan|R
+Juxtapose|R
+Jovial Evil|R
+Karakas|U
+Keepers of the Faith|C
+Kasimir the Lone Wolf|U
+Kei Takahashi|R
+Knowledge Vault|R
+Killer Bees|R
+Kobold Drill Sergeant|U
+Kismet|U
+Kobold Overlord|R
+Kobold Taskmaster|U
+Kobolds of Kher Keep|C
+Lady Caleria|R
+Lady Evangela|R
+Kry Shield|U
+Land Tax|U
+Lady Orca|U
+Land Equilibrium|R
+Land's Edge|R
+Lesser Werewolf|U
+Lifeblood|R
+Life Matrix|R
+Life Chisel|U
+Living Plane|R
+Lord Magnus|U
+Livonya Silone|R
+Marble Priest|U
+Lost Soul|C
+Mana Matrix|R
+Mana Drain|U
+Master of the Hunt|R
+The Wretched|R
+Thunder Spirit|R
+Time Elemental|R
+Tobias Andrion|U
+Torsten Von Ursus|U
+Tolaria|U
+Touch of Darkness|U
+Tor Wauki|U
+Transmutation|C
+Triassic Egg|R
+Tundra Wolves|C
+Tuknir Deathlock|R
+Underworld Dreams|U
+Undertow|U
+Typhoon|R
+Unholy Citadel|U
+Untamed Wilds|U
+Urborg|U
+Vaevictis Asmadi|R
+Ur-Drago|R
+Vampire Bats|C
+Venarian Gold|C
+Walking Dead|C
+Voodoo Doll|R
+Visions|U
+Wall of Caltrops|C
+Wall of Dust|U
+Wall of Earth|C
+Wall of Heat|C
+Wall of Light|U
+Wall of Opposition|R
+Wall of Putrid Flesh|U
+Wall of Shadows|C
+Wall of Tombstones|U
+Wall of Vapor|C
+Wall of Wonder|U
+Whirling Dervish|U
+Willow Satyr|R
+White Mana Battery|U
+Winter Blast|R
+Winds of Change|U
 Wolverine Pack|C
 Wood Elemental|R
 Zephyr Falcon|C

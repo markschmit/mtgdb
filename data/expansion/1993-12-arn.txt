@@ -1,5 +1,5 @@
-Repentant Blacksmith|U
-Oubliette|C
+Diamond Valley|U
+Desert|L
 Aladdin|U
 Abu Ja'far|U
 Aladdin's Lamp|U
@@ -19,50 +19,50 @@ Dandan|C
 Cyclone|U
 Dancing Scimitar|U
 Desert Nomads|C
-Desert|L
-Diamond Valley|U
 Desert Twister|U
 Drop of Honey|U
 Ebony Horse|U
 El-Hajjaj|U
 Erg Raiders|C
 Erhnam Djinn|U
-Fishliver Oil|C
 Elephant Graveyard|U
+Fishliver Oil|C
 Eye for an Eye|U
 Flying Carpet|U
 Ghazban Ogre|C
-Flying Men|C
 Giant Tortoise|C
-Guardian Beast|U
+Flying Men|C
 Hasran Ogress|C
+Guardian Beast|U
+Hurr Jackal|C
 Ifh-Biff Efreet|U
 Island of Wak-Wak|U
-Hurr Jackal|C
-Jandor's Ring|U
 Island Fish Jasconius|U
+Jandor's Ring|U
 Jandor's Saddlebags|U
-Junun Efreet|U
 Jeweled Bird|U
+Junun Efreet|U
 Jihad|U
 Juzam Djinn|U
 King Suleiman|U
-Magnetic Mountain|U
 Khabal Ghoul|U
-Kird Ape|C
 Library of Alexandria|U
+Magnetic Mountain|U
+Kird Ape|C
 Merchant Ship|U
 Mijae Djinn|U
 Metamorphosis|C
-Pyramids|U
-Nafs Asp|C
 Moorish Cavalry|C
+Pyramids|U
 Mountain|U
+Nafs Asp|C
+Old Man of the Sea|U
 Oasis|U
 Piety|C
-Old Man of the Sea|U
+Oubliette|C
 Ring of Ma'rûf|U
 Sandals of Abdallah|U
+Repentant Blacksmith|U
 Rukh Egg|C
 Serendib Djinn|U
 Sandstorm|C

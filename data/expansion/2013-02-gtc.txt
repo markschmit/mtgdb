@@ -1,48 +1,16 @@
-Adaptive Snapjaw|C
-Murder Investigation|U
-Act of Treason|C
-Aetherize|U
-Aerial Maneuver|C
-Agoraphobia|U
-Alms Beast|R
-Alpha Authority|U
-Angelic Skirmisher|R
-Angelic Edict|C
-Armored Transport|C
-Assault Griffin|C
-Arrows of Justice|U
-Aurelia's Fury|M
+Debtor's Pulpit|U
 Assemble the Legion|R
-Balustrade Spy|C
 Aurelia, the Warleader|M
-Bane Alley Broker|U
 Basilica Guards|C
-Basilica Screecher|C
+Bane Alley Broker|U
+Aurelia's Fury|M
 Bioshift|C
-Biomass Mutation|R
+Basilica Screecher|C
 Beckon Apparition|C
+Biomass Mutation|R
+Balustrade Spy|C
 Biovisionary|R
 Bomber Corps|C
-Nimbus Swimmer|U
-Mugging|C
-Naturalize|C
-Nightveil Specter|R
-Mystic Genesis|R
-Nav Squad Commandos|C
-Ogre Slumlord|R
-One Thousand Lashes|U
-Obzedat, Ghost Council|M
-Ooze Flux|R
-Orzhov Guildgate|C
-Ordruun Veteran|U
-Orzhov Charm|U
-Paranoid Delusions|C
-Orzhov Keyrune|U
-Predator's Rapport|C
-Primal Visitation|C
-Prophetic Prism|C
-Pit Fight|C
-Prime Speaker Zegana|M
 Blind Obedience|R
 Boros Charm|U
 Borborygmos Enraged|M
@@ -72,71 +40,8 @@ Crypt Ghast|R
 Death's Approach|C
 Deathpact Angel|M
 Deathcult Rogue|C
-Debtor's Pulpit|U
-Diluvian Primordial|R
-Devour Flesh|C
-Dimir Guildgate|C
-Dimir Charm|U
-Dinrova Horror|U
-Dimir Keyrune|U
-Disciple of the Old Ways|C
-Drakewing Krasis|C
-Domri Rade|M
-Duskmantle Guildmage|U
-Duskmantle Seer|M
-Dutiful Thrull|C
-Elusive Krasis|U
-Dying Wish|U
-Ember Beast|C
-Executioner's Swing|C
-Enter the Infinite|M
-Experiment One|U
-Fathom Mage|R
-Firefist Striker|U
-Firemane Avenger|R
-Forced Adaptation|C
-Five-Alarm Fire|R
-Purge the Profane|C
-Rapid Hybridization|U
-Razortip Whip|C
-Realmwright|R
-Riot Gear|C
-Righteous Charge|U
-Ripscale Predator|U
-Rubblebelt Raiders|R
-Psychic Strike|C
-Ruination Wurm|C
-Sacred Foundry|R
-Rubblehulk|R
-Rust Scarab|U
-Sage's Row Denizen|C
-Sapphire Drake|U
-Scab-Clan Charger|C
-Scorchwalker|C
-Sepulchral Primordial|R
-Scatter Arc|C
-Shadow Alley Denizen|C
-Shambleshark|C
-Shadow Slice|C
-Serene Remembrance|U
-Shielded Passage|C
-Shattering Blow|C
-Simic Charm|U
-Signal the Clans|R
 Simic Fluxmage|U
 Simic Guildgate|C
-Thespian's Stage|R
-Tin Street Market|C
-Tower Defense|U
-Totally Lost|C
-Towering Thunderfist|C
-Treasury Thrull|R
-Truefire Paladin|U
-Undercity Informer|U
-Undercity Plague|R
-Urban Evolution|U
-Unexpected Results|R
-Urbis Protector|U
 Simic Manipulator|R
 Simic Keyrune|U
 Skarrg Goliath|R
@@ -156,20 +61,139 @@ Spark Trooper|R
 Spire Tracer|C
 Stomping Ground|R
 Stolen Identity|R
+Watery Grave|R
+Way of the Thief|C
+Wight of Precinct Six|U
+Whispering Madness|R
+Wojek Halberdiers|C
+Wildwood Rebirth|C
+Wrecking Ogre|R
+Zarichi Tiger|C
+Zameck Guildmage|U
+Zhur-Taa Swine|C
 Sunhome Guildmage|U
 Structural Collapse|C
 Sylvan Primordial|R
 Syndic of Tithes|C
 Syndicate Enforcer|C
 Thrull Parasite|U
+Thespian's Stage|R
+Tin Street Market|C
+Tower Defense|U
+Totally Lost|C
+Towering Thunderfist|C
+Treasury Thrull|R
+Truefire Paladin|U
+Undercity Informer|U
+Unexpected Results|R
+Undercity Plague|R
+Urban Evolution|U
+Urbis Protector|U
+Verdant Haven|C
+Viashino Shanktail|U
+Vizkopa Confessor|U
+Vizkopa Guildmage|U
+Wasteland Viper|U
+Warmind Infantry|C
+Voidwalk|U
+Diluvian Primordial|R
+Adaptive Snapjaw|C
+Devour Flesh|C
+Dimir Guildgate|C
+Dinrova Horror|U
+Dimir Charm|U
+Dimir Keyrune|U
+Disciple of the Old Ways|C
+Drakewing Krasis|C
+Domri Rade|M
+Duskmantle Guildmage|U
+Duskmantle Seer|M
+Dutiful Thrull|C
+Elusive Krasis|U
+Aetherize|U
+Aerial Maneuver|C
+Act of Treason|C
+Agoraphobia|U
+Alms Beast|R
+Alpha Authority|U
+Angelic Skirmisher|R
+Angelic Edict|C
+Armored Transport|C
+Assault Griffin|C
+Arrows of Justice|U
+Millennial Gargoyle|C
+Midnight Recovery|C
+Miming Slime|U
+Mind Grind|R
+Mindeye Drake|U
+Merfolk of the Depths|U
+Molten Primordial|R
+Nimbus Swimmer|U
+Murder Investigation|U
+Mortus Strider|C
+Mugging|C
+Naturalize|C
+Mystic Genesis|R
+Nightveil Specter|R
+Nav Squad Commandos|C
+Ogre Slumlord|R
+Obzedat, Ghost Council|M
+Dying Wish|U
+Experiment One|U
+Ember Beast|C
+Executioner's Swing|C
+Enter the Infinite|M
+Firefist Striker|U
+Fathom Mage|R
+Firemane Avenger|R
+Forced Adaptation|C
+Five-Alarm Fire|R
 Fortress Cyclops|U
 Foundry Champion|R
 Foundry Street Denizen|C
 Frilled Oculus|C
-Gruul Charm|U
 Frenzied Tilling|U
 Frontline Medic|R
 Gateway Shade|U
+Ordruun Veteran|U
+Ooze Flux|R
+Orzhov Guildgate|C
+Orzhov Charm|U
+Paranoid Delusions|C
+Orzhov Keyrune|U
+Predator's Rapport|C
+Prophetic Prism|C
+Primal Visitation|C
+Pit Fight|C
+Psychic Strike|C
+Prime Speaker Zegana|M
+Purge the Profane|C
+Rapid Hybridization|U
+Razortip Whip|C
+Realmwright|R
+One Thousand Lashes|U
+Riot Gear|C
+Ripscale Predator|U
+Rubblebelt Raiders|R
+Righteous Charge|U
+Ruination Wurm|C
+Rubblehulk|R
+Rust Scarab|U
+Sacred Foundry|R
+Sage's Row Denizen|C
+Sapphire Drake|U
+Scab-Clan Charger|C
+Scatter Arc|C
+Sepulchral Primordial|R
+Scorchwalker|C
+Shadow Alley Denizen|C
+Serene Remembrance|U
+Shadow Slice|C
+Shambleshark|C
+Simic Charm|U
+Shielded Passage|C
+Shattering Blow|C
+Signal the Clans|R
 Furious Resistance|C
 Ghor-Clan Rampager|U
 Giant Adephage|M
@@ -181,6 +205,7 @@ Greenside Watcher|C
 Ground Assault|U
 Grisly Spectacle|C
 Gridlock|U
+Gruul Charm|U
 Gruul Guildgate|C
 Gruul Ragebeast|R
 Gruul Keyrune|U
@@ -204,27 +229,10 @@ Incursion Specialist|U
 Immortal Servitude|R
 Ivy Lane Denizen|C
 Keymaster Rogue|C
-Verdant Haven|C
-Viashino Shanktail|U
-Vizkopa Confessor|U
-Vizkopa Guildmage|U
-Wasteland Viper|U
-Warmind Infantry|C
-Voidwalk|U
-Watery Grave|R
-Way of the Thief|C
-Wight of Precinct Six|U
-Whispering Madness|R
-Wojek Halberdiers|C
-Wildwood Rebirth|C
-Wrecking Ogre|R
-Zameck Guildmage|U
-Zarichi Tiger|C
-Zhur-Taa Swine|C
 Kingpin's Pet|C
 Killing Glare|U
-Last Thoughts|C
 Knight of Obligation|U
+Last Thoughts|C
 Knight Watch|C
 Legion Loyalist|R
 Lazav, Dimir Mastermind|M
@@ -239,11 +247,3 @@ Master Biomancer|M
 Merciless Eviction|R
 Mental Vapors|U
 Metropolis Sprite|C
-Merfolk of the Depths|U
-Millennial Gargoyle|C
-Midnight Recovery|C
-Mind Grind|R
-Miming Slime|U
-Mindeye Drake|U
-Molten Primordial|R
-Mortus Strider|C

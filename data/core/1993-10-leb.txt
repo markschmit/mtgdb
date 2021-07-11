@@ -1,5 +1,5 @@
 Air Elemental|U
-Dragon Whelp|U
+Black Lotus|R
 Animate Artifact|U
 Ancestral Recall|R
 Animate Dead|U
@@ -17,7 +17,6 @@ Black Knight|U
 Birds of Paradise|R
 Berserk|U
 Black Vise|U
-Black Lotus|R
 Black Ward|U
 Blessing|R
 Blaze of Glory|R
@@ -66,6 +65,7 @@ Dingus Egg|R
 Disintegrate|C
 Disrupting Scepter|R
 Disenchant|C
+Dragon Whelp|U
 Drudge Skeletons|C
 Drain Power|R
 Drain Life|C
@@ -156,10 +156,10 @@ Magical Hack|R
 Mana Vault|R
 Mana Short|R
 Mana Flare|R
-Merfolk of the Pearl Trident|C
+Mesa Pegasus|C
 Meekstone|R
 Manabarbs|R
-Mesa Pegasus|C
+Merfolk of the Pearl Trident|C
 Mox Pearl|R
 Mons's Goblin Raiders|C
 Mind Twist|R

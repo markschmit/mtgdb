@@ -1,7 +1,3 @@
-Battle of Wits|R
-Battleflight Eagle|C
-Aven Squire|C
-Bladetusk Boar|C
 Acidic Slime|U
 Ajani's Sunstriker|C
 Ajani, Caller of the Pride|M
@@ -14,6 +10,10 @@ Arms Dealer|U
 Arctic Aven|U
 Attended Knight|C
 Augur of Bolas|U
+Battleflight Eagle|C
+Aven Squire|C
+Battle of Wits|R
+Bladetusk Boar|C
 Bloodhunter Bat|C
 Blood Reckoning|U
 Bloodthrone Vampire|C
@@ -36,16 +36,6 @@ Craterize|C
 Cower in Fear|U
 Crippling Blight|C
 Crimson Muckwader|U
-Crusader of Odric|U
-Deadly Recluse|C
-Dark Favor|C
-Divine Favor|C
-Disciple of Bolas|R
-Diabolic Revelation|R
-Divination|C
-Disentomb|C
-Door to Nothingness|R
-Tricks of the Trade|C
 Serra Angel|U
 Serpent's Gift|C
 Serra Avenger|R
@@ -57,21 +47,21 @@ Show of Valor|C
 Silklash Spider|R
 Silvercoat Lion|C
 Sphinx of Uthuun|R
-Sleep|U
 Slumbering Dragon|R
+Sleep|U
 Spelltwine|R
 Smelt|C
 Spiked Baloth|C
 Stuffy Doll|R
-Staff of Nin|R
 Stormtide Leviathan|R
+Staff of Nin|R
 Sublime Archangel|M
 Swamp|L
 Sunpetal Grove|R
 Talrand's Invocation|U
 Talrand, Sky Summoner|R
-Switcheroo|U
 Thundermaw Hellkite|M
+Switcheroo|U
 Thragtusk|R
 Timberpack Wolf|C
 Torch Fiend|U
@@ -80,6 +70,43 @@ Tormented Soul|C
 Touch of the Eternal|R
 Tormod's Crypt|U
 Trading Post|R
+Tricks of the Trade|C
+Trumpet Blast|C
+Turn to Slag|C
+Unsummon|C
+Vastwood Gorger|C
+Vampire Nighthawk|U
+Vampire Nocturnus|M
+Vedalken Entrancer|C
+Veilborn Ghoul|U
+Void Stalker|R
+Vile Rebirth|C
+Volcanic Strength|C
+Volcanic Geyser|U
+Walking Corpse|C
+Wall of Fire|C
+War Priest of Thune|U
+War Falcon|C
+Warclamp Mastiff|C
+Watercourser|C
+Wind Drake|C
+Welkin Tern|C
+Wild Guess|C
+Xathrid Gorgon|R
+Wit's End|R
+Yeva's Forcemage|C
+Worldfire|M
+Yeva, Nature's Herald|R
+Zombie Goliath|C
+Crusader of Odric|U
+Deadly Recluse|C
+Dark Favor|C
+Disciple of Bolas|R
+Divine Favor|C
+Divination|C
+Disentomb|C
+Diabolic Revelation|R
+Door to Nothingness|R
 Divine Verdict|C
 Downpour|C
 Drowned Catacomb|R
@@ -87,8 +114,8 @@ Dragon Hatchling|C
 Dragonskull Summit|R
 Duress|C
 Duskdale Wurm|U
-Duskmantle Prowler|U
 Duty-Bound Dead|C
+Duskmantle Prowler|U
 Elixir of Immortality|U
 Elderscale Wurm|M
 Elvish Archdruid|R
@@ -182,33 +209,6 @@ Quirion Dryad|R
 Public Execution|U
 Rancor|U
 Rain of Blades|U
-Turn to Slag|C
-Trumpet Blast|C
-Unsummon|C
-Vastwood Gorger|C
-Vampire Nighthawk|U
-Vampire Nocturnus|M
-Vedalken Entrancer|C
-Veilborn Ghoul|U
-Void Stalker|R
-Vile Rebirth|C
-Volcanic Strength|C
-Volcanic Geyser|U
-Walking Corpse|C
-Wall of Fire|C
-War Priest of Thune|U
-War Falcon|C
-Warclamp Mastiff|C
-Watercourser|C
-Wind Drake|C
-Welkin Tern|C
-Wild Guess|C
-Xathrid Gorgon|R
-Wit's End|R
-Yeva's Forcemage|C
-Worldfire|M
-Yeva, Nature's Herald|R
-Zombie Goliath|C
 Ravenous Rats|C
 Ranger's Path|C
 Reckless Brute|C

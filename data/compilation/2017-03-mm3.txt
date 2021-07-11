@@ -1,28 +1,56 @@
-Aethertow|C
-Agent of Masks|U
-Ancient Grudge|U
-Arachnus Spinner|U
+Ghor-Clan Rampager|U
+Gaea's Anthem|U
+Gideon's Lawkeeper|C
+Forbidden Alchemy|C
+Ghostly Flicker|C
+Flickerwisp|U
+Desecration Demon|R
+Dimir Guildgate|C
+Dinrova Horror|C
+Dimir Signet|U
+Dregscape Zombie|C
+Domri Rade|M
+Dragon Fodder|C
+Dynacharge|C
+Druid's Deliverance|C
+Entomber Exarch|U
+Evil Twin|R
+Entreat the Angels|M
+Extractor Demon|R
+Explore|C
+Falkenrath Aristocrat|R
+Eyes in the Skies|C
+Falkenrath Noble|C
+Fiery Justice|R
+Familiar's Ruse|U
+Fists of Ironwood|C
 Aethermage's Touch|R
+Abyssal Specter|U
+Abrupt Decay|R
+Advent of the Wurm|R
+Agent of Masks|U
+Aethertow|C
+Arachnus Spinner|U
+Ancient Grudge|U
+Agony Warp|C
 Arachnus Web|C
 Arid Mesa|R
-Agony Warp|C
-Advent of the Wurm|R
 Arcane Sanctum|U
 Attended Knight|C
 Augur of Bolas|C
-Blade Splicer|R
 Auger Spree|C
 Avacyn's Pilgrim|C
 Azorius Guildgate|C
-Bonfire of the Damned|M
-Bone Splinters|C
-Blood Moon|R
 Azure Mage|U
 Azorius Signet|U
 Banishing Stroke|U
 Baloth Cage Trap|U
 Basilisk Collar|R
 Battle-Rattle Shaman|C
+Blade Splicer|R
+Bonfire of the Damned|M
+Bone Splinters|C
+Blood Moon|R
 Boros Guildgate|C
 Boros Reckoner|R
 Bronzebeak Moa|U
@@ -45,128 +73,13 @@ Craterhoof Behemoth|M
 Crumbling Necropolis|U
 Damnation|R
 Cruel Ultimatum|R
+Cyclonic Rift|R
 Deadeye Navigator|R
 Damping Matrix|R
-Cyclonic Rift|R
 Death's Shadow|R
-Deputy of Acquittals|C
 Death-Hood Cobra|C
+Deputy of Acquittals|C
 Delirium Skeins|C
-Desecration Demon|R
-Dinrova Horror|C
-Dimir Guildgate|C
-Dimir Signet|U
-Domri Rade|M
-Dragon Fodder|C
-Dregscape Zombie|C
-Dynacharge|C
-Druid's Deliverance|C
-Entomber Exarch|U
-Evil Twin|R
-Entreat the Angels|M
-Extractor Demon|R
-Explore|C
-Eyes in the Skies|C
-Falkenrath Noble|C
-Falkenrath Aristocrat|R
-Fiery Justice|R
-Familiar's Ruse|U
-Fists of Ironwood|C
-Gaea's Anthem|U
-Flickerwisp|U
-Forbidden Alchemy|C
-Ghor-Clan Rampager|U
-Gideon's Lawkeeper|C
-Ghostly Flicker|C
-Gifts Ungiven|R
-Giantbaiting|C
-Gift of Orzhova|C
-Gnawing Zombie|C
-Goblin Assault|U
-Goblin Electromancer|C
-Golgari Guildgate|C
-Golgari Germination|U
-Goblin Guide|R
-Golgari Rotwurm|C
-Graceful Reprieve|C
-Golgari Signet|U
-Grafdigger's Cage|R
-Grisly Spectacle|C
-Grixis Slavedriver|C
-Grasp of Phantoms|C
-Griselbrand|M
-Gruul Guildgate|C
-Ground Assault|C
-Gruul War Chant|U
-Gruul Signet|U
-Izzet Signet|U
-Kathari Bomber|C
-Kor Hookmaster|C
-Kor Skyfisher|C
-Lingering Souls|U
-Kraken Hatchling|C
-Linvala, Keeper of Silence|M
-Liliana of the Veil|M
-Lone Missionary|C
-Madcap Skills|C
-Master Splicer|U
-Marsh Flats|R
-Magma Jet|C
-Mind Shatter|R
-Might of Old Krosa|U
-Mist Raven|C
-Mistmeadow Witch|U
-Mizzium Mortars|R
-Mogg Flunkies|C
-Misty Rainforest|R
-Hanweir Lancer|C
-Hellrider|R
-Harmonize|U
-Hungry Spriggan|C
-Intangible Virtue|U
-Inquisition of Kozilek|U
-Izzet Charm|U
-Izzet Guildgate|C
-Jungle Shrine|U
-Abrupt Decay|R
-Abyssal Specter|U
-Moroii|U
-Momentary Blink|C
-Molten Rain|U
-Mortician Beetle|C
-Mudbutton Torchrunner|C
-Obzedat, Ghost Council|R
-Mystical Teachings|C
-Mystic Genesis|U
-Night Terrors|C
-Niv-Mizzet, Dracogenius|R
-Ogre Jailbreaker|C
-Olivia Voldaren|M
-Past in Flames|M
-Orzhov Guildgate|C
-Opportunity|U
-Orzhov Signet|U
-Path to Exile|U
-Penumbra Spider|C
-Phantasmal Image|R
-Pit Keeper|C
-Pilfered Plans|C
-Primal Command|R
-Pitfall Trap|C
-Putrefy|U
-Pyrewild Shaman|U
-Rakdos Guildgate|C
-Pyromancer Ascension|R
-Pyroclasm|U
-Ranger of Eos|R
-Rakdos Signet|U
-Rhox War Monk|U
-Restoration Angel|R
-Recover|C
-Rewind|C
-Revive|C
-Rubblebelt Maaka|C
-Rootborn Defenses|C
 Scalding Tarn|R
 Savage Lands|U
 Scavenging Ooze|R
@@ -177,73 +90,160 @@ Seal of Primordium|C
 Seal of Doom|U
 Seaside Citadel|U
 Séance|R
-Selesnya Guildgate|C
 Sedraxis Specter|U
 Sensor Splicer|C
+Selesnya Guildgate|C
 Selesnya Signet|U
 Sever the Bloodline|R
 Serum Visions|U
 Shimmering Grotto|C
 Simic Guildgate|C
-Simic Sky Swallower|R
 Simic Signet|U
 Sin Collector|U
+Simic Sky Swallower|R
 Skirsdag Cultist|U
 Skyknight Legionnaire|C
-Slaughterhorn|C
 Snapcaster Mage|M
+Slaughterhorn|C
 Slime Molding|C
-Soul Manipulation|U
 Soul Ransom|U
+Soul Manipulation|U
 Soul Warden|C
 Spell Pierce|C
 Spike Jester|C
 Sphinx's Revelation|M
 Spire Monitor|C
+Sprouting Thrinax|U
 Strength in Numbers|C
 Stony Silence|R
 Stoic Angel|R
-Sprouting Thrinax|U
 Sunhome Guildmage|U
-Summoning Trap|R
-Sylvan Ranger|C
 Sundering Growth|C
-Talon Trooper|C
+Sylvan Ranger|C
 Tandem Lookout|C
-Teleportal|U
+Talon Trooper|C
 Tarmogoyf|M
 Tattermunge Witch|U
+Teleportal|U
+Temporal Mastery|M
 Terminate|U
 Thornscape Battlemage|U
-Temporal Mastery|M
-Thundersong Trumpeter|U
 Terminus|R
-Thragtusk|R
-Traitorous Instinct|C
-Tower Gargoyle|U
+Thundersong Trumpeter|U
 Thunderous Wrath|C
+Traitorous Instinct|C
+Thragtusk|R
+Tower Gargoyle|U
 Torrent of Souls|U
 Ulvenwald Tracker|R
 Unflinching Courage|U
 Unburial Rites|U
-Urbis Protector|U
 Urban Evolution|U
+Urbis Protector|U
 Vampire Aristocrat|C
 Vampire Nighthawk|U
-Venser, Shaper Savant|R
 Vanish into Memory|U
 Vital Splicer|U
+Venser, Shaper Savant|R
 Verdant Catacombs|R
 Vithian Stinger|U
-Wall of Denial|U
 Voice of Resurgence|M
+Wall of Denial|U
 Wake the Reflections|C
 Wall of Frost|U
-Wing Splicer|U
 Wayfaring Temple|U
+Wing Splicer|U
 Woolly Thoctar|U
 Wingcrafter|C
 Youthful Knight|C
 Wort, the Raidmother|R
 Zealous Conscripts|R
 Zur the Enchanter|R
+Summoning Trap|R
+Gift of Orzhova|C
+Giantbaiting|C
+Gnawing Zombie|C
+Gifts Ungiven|R
+Goblin Assault|U
+Goblin Guide|R
+Goblin Electromancer|C
+Golgari Guildgate|C
+Golgari Germination|U
+Golgari Rotwurm|C
+Graceful Reprieve|C
+Golgari Signet|U
+Grasp of Phantoms|C
+Grisly Spectacle|C
+Grafdigger's Cage|R
+Grixis Slavedriver|C
+Griselbrand|M
+Gruul Guildgate|C
+Ground Assault|C
+Gruul War Chant|U
+Hanweir Lancer|C
+Gruul Signet|U
+Hellrider|R
+Hungry Spriggan|C
+Harmonize|U
+Intangible Virtue|U
+Inquisition of Kozilek|U
+Izzet Charm|U
+Izzet Guildgate|C
+Jungle Shrine|U
+Izzet Signet|U
+Kathari Bomber|C
+Kor Hookmaster|C
+Kor Skyfisher|C
+Liliana of the Veil|M
+Kraken Hatchling|C
+Linvala, Keeper of Silence|M
+Lone Missionary|C
+Lingering Souls|U
+Madcap Skills|C
+Master Splicer|U
+Marsh Flats|R
+Magma Jet|C
+Might of Old Krosa|U
+Mist Raven|C
+Mind Shatter|R
+Misty Rainforest|R
+Mistmeadow Witch|U
+Mizzium Mortars|R
+Mogg Flunkies|C
+Moroii|U
+Momentary Blink|C
+Molten Rain|U
+Mortician Beetle|C
+Mudbutton Torchrunner|C
+Obzedat, Ghost Council|R
+Mystical Teachings|C
+Niv-Mizzet, Dracogenius|R
+Mystic Genesis|U
+Ogre Jailbreaker|C
+Night Terrors|C
+Olivia Voldaren|M
+Past in Flames|M
+Orzhov Guildgate|C
+Opportunity|U
+Orzhov Signet|U
+Path to Exile|U
+Penumbra Spider|C
+Pit Keeper|C
+Pilfered Plans|C
+Primal Command|R
+Phantasmal Image|R
+Pitfall Trap|C
+Putrefy|U
+Pyrewild Shaman|U
+Rakdos Guildgate|C
+Pyromancer Ascension|R
+Pyroclasm|U
+Rakdos Signet|U
+Ranger of Eos|R
+Restoration Angel|R
+Rhox War Monk|U
+Recover|C
+Rewind|C
+Revive|C
+Rubblebelt Maaka|C
+Rootborn Defenses|C

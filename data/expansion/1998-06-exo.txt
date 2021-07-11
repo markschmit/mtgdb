@@ -1,3 +1,4 @@
+Dauthi Jackal|C
 Allay|C
 Aether Tide|C
 Angelic Blessing|C
@@ -7,9 +8,9 @@ Carnophage|C
 Bequeathal|C
 Cartographer|U
 Charging Paladin|C
-Cat Burglar|C
 Cinder Crawler|C
 Cataclysm|R
+Cat Burglar|C
 Coat of Arms|R
 City of Traitors|R
 Convalescence|R
@@ -19,7 +20,6 @@ Culling the Weak|C
 Curiosity|U
 Cursed Flesh|C
 Dauthi Cutthroat|U
-Dauthi Jackal|C
 Dauthi Warlord|U
 Dizzying Gaze|C
 Death's Duet|C
@@ -47,11 +47,11 @@ Keeper of the Dead|U
 Keeper of the Flame|U
 Keeper of the Light|U
 Keeper of the Mind|U
+Killer Whale|U
 Mage il-Vec|C
 Limited Resources|R
 Kor Chant|C
 Manabond|R
-Killer Whale|U
 Maniacal Rage|C
 Mana Breach|U
 Memory Crystal|R
@@ -74,23 +74,23 @@ Oath of Mages|R
 Oath of Scholars|R
 Ogre Shaman|R
 Paladin en-Vec|R
-Peace of Mind|U
 Onslaught|C
+Peace of Mind|U
 Paroxysm|U
 Pandemonium|R
 Pegasus Stampede|U
 Penance|U
 Pit Spawn|R
 Plaguebearer|R
+Price of Progress|U
 Plated Rootwalla|C
 Predatory Hunger|C
-Price of Progress|U
 Pygmy Troll|C
 Rabid Wolverines|C
 Raging Goblin|C
+Reaping the Rewards|C
 Ravenous Baboons|R
 Reckless Ogre|C
-Reaping the Rewards|C
 Recurring Nightmare|R
 Reconnaissance|U
 Reclaim|C

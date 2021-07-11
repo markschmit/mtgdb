@@ -1,16 +1,69 @@
-Breath of Malfegor|C
+Bloodbraid Elf|U
+Anathemancer|U
 Architects of Will|C
 Arsenal Thresher|C
 Aven Mimeomancer|R
-Anathemancer|U
 Ardent Plea|U
 Bant Sureblade|C
 Bant Sojourners|C
 Behemoth Sledge|U
-Bituminous Blast|U
-Bloodbraid Elf|U
 Blitz Hellion|R
+Bituminous Blast|U
 Captured Sunlight|C
+Breath of Malfegor|C
+Brainbite|C
+Cerodon Yearling|C
+Colossal Might|C
+Cloven Casting|R
+Dauntless Escort|R
+Crystallization|C
+Deadshot Minotaur|C
+Deathbringer Thoctar|R
+Demonic Dread|C
+Defiler of Souls|M
+Demonspine Whip|U
+Double Negative|U
+Deny Reality|C
+Dragon Broodmother|M
+Drastic Revelation|U
+Dragon Appeasement|U
+Enlisted Wurm|U
+Enigma Sphinx|R
+Esper Stormblade|C
+Esper Sojourners|C
+Ethercaste Knight|C
+Etherium Abomination|C
+Ethersworn Shieldmage|C
+Finest Hour|R
+Fieldmist Borderpost|C
+Etherwrought Page|U
+Fight to the Death|R
+Filigree Angel|R
+Flurry of Wings|U
+Glassdust Hulk|C
+Firewild Borderpost|C
+Giant Ambush Beetle|U
+Godtracker of Jund|C
+Lightning Reaver|R
+Lich Lord of Unx|R
+Lavalanche|R
+Lord of Extinction|M
+Lorescale Coatl|U
+Maelstrom Nexus|M
+Madrush Cyclops|R
+Maelstrom Pulse|R
+Mage Slayer|U
+Magefire Wings|C
+Marrow Chomper|U
+Marisi's Twinclaws|U
+Mask of Riddles|U
+Meddling Mage|R
+Mayael's Aria|R
+Mind Funeral|U
+Messenger Falcons|U
+Mistvein Borderpost|C
+Monstrous Carabid|C
+Naya Hushblade|C
 Morbid Bloom|U
 Mycoid Shepherd|R
 Naya Sojourners|C
@@ -37,8 +90,8 @@ Sigil Captain|U
 Sigiled Behemoth|C
 Singe-Mind Ogre|C
 Skyclaw Thrash|U
-Sphinx of the Steel Wind|M
 Soul Manipulation|C
+Sphinx of the Steel Wind|M
 Slave of Bolas|U
 Sovereigns of Lost Alara|R
 Spellbound Dragon|R
@@ -62,52 +115,17 @@ Vectis Dominator|C
 Vedalken Ghoul|C
 Vedalken Heretic|R
 Vengeful Rebirth|U
-Veinfire Borderpost|C
 Violent Outburst|C
+Veinfire Borderpost|C
 Vithian Renegades|U
 Wall of Denial|U
 Winged Coatl|C
 Wildfield Borderpost|C
 Wargate|R
 Zealous Persecution|U
-Brainbite|C
-Cerodon Yearling|C
-Colossal Might|C
-Cloven Casting|R
-Dauntless Escort|R
-Crystallization|C
-Deadshot Minotaur|C
-Deathbringer Thoctar|R
-Demonic Dread|C
-Defiler of Souls|M
-Demonspine Whip|U
-Double Negative|U
-Deny Reality|C
-Dragon Broodmother|M
-Drastic Revelation|U
-Dragon Appeasement|U
-Enlisted Wurm|U
-Enigma Sphinx|R
-Esper Sojourners|C
-Ethercaste Knight|C
-Esper Stormblade|C
-Etherium Abomination|C
-Ethersworn Shieldmage|C
-Finest Hour|R
-Fieldmist Borderpost|C
-Etherwrought Page|U
-Fight to the Death|R
-Filigree Angel|R
-Knotvine Paladin|R
-Leonin Armorguard|C
-Flurry of Wings|U
-Glassdust Hulk|C
-Firewild Borderpost|C
-Giant Ambush Beetle|U
-Godtracker of Jund|C
 Glory of Warfare|R
-Grixis Sojourners|C
 Gloryscale Viashino|U
+Grixis Sojourners|C
 Gorger Wurm|C
 Grixis Grimblade|C
 Grizzled Leotau|C
@@ -117,29 +135,11 @@ Illusory Demon|U
 Jenara, Asura of War|M
 Intimidation Bolt|U
 Jhessian Zombies|C
-Jund Hackblade|C
 Jund Sojourners|C
+Jund Hackblade|C
 Kathari Bomber|C
 Karrthus, Tyrant of Jund|M
 Kathari Remnant|U
 Knight of New Alara|R
-Lightning Reaver|R
-Lich Lord of Unx|R
-Lavalanche|R
-Lord of Extinction|M
-Lorescale Coatl|U
-Maelstrom Nexus|M
-Madrush Cyclops|R
-Maelstrom Pulse|R
-Mage Slayer|U
-Magefire Wings|C
-Marrow Chomper|U
-Marisi's Twinclaws|U
-Mask of Riddles|U
-Meddling Mage|R
-Mayael's Aria|R
-Mind Funeral|U
-Messenger Falcons|U
-Mistvein Borderpost|C
-Monstrous Carabid|C
-Naya Hushblade|C
+Knotvine Paladin|R
+Leonin Armorguard|C

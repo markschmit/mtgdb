@@ -1,4 +1,4 @@
-Cavern Harpy|C
+Caldera Kavu|C
 Alpha Kavu|U
 Allied Strategies|U
 Amphibious Kavu|C
@@ -6,8 +6,8 @@ Ancient Spider|R
 Arctic Merfolk|C
 Aurora Griffin|C
 Aura Blast|C
-Caldera Kavu|C
 Bog Down|C
+Cavern Harpy|C
 Crosis's Catacombs|U
 Confound|C
 Cloud Cover|R
@@ -25,14 +25,14 @@ Doomsday Specter|R
 Dominaria's Judgment|R
 Dralnu's Pet|R
 Draco|R
+Dralnu's Crusade|R
 Dromar's Charm|U
 Dromar's Cavern|U
-Dralnu's Crusade|R
 Ertai's Trickery|U
+Eladamri's Call|R
 Escape Routes|C
 Ertai, the Corrupted|R
 Exotic Disease|U
-Eladamri's Call|R
 Falling Timber|C
 Flametongue Kavu|U
 Fleetfoot Panther|U
@@ -49,9 +49,9 @@ Hobble|C
 Hunting Drake|C
 Horned Kavu|C
 Hull Breach|C
-Insolence|C
 Implode|U
 Kavu Recluse|C
+Insolence|C
 Keldon Mantle|C
 Lashknife Barrier|U
 Keldon Twilight|R
@@ -93,8 +93,8 @@ Pygmy Kavu|C
 Quirion Dryad|R
 Questing Phelddagrif|R
 Quirion Explorer|C
-Razing Snidd|U
 Radiant Kavu|R
+Razing Snidd|U
 Rith's Grove|U
 Rith's Charm|U
 Root Greevil|C
@@ -108,14 +108,14 @@ Shifting Sky|U
 Silver Drake|C
 Shriek of Dread|C
 Sisay's Ingenuity|C
+Skyship Weatherlight|R
 Sinister Strength|C
 Singe|C
-Skyship Weatherlight|R
 Slay|U
 Skyshroud Blessing|U
-Sleeping Potion|C
 Slingshot Goblin|C
 Steel Leaf Paladin|C
+Sleeping Potion|C
 Sparkcaster|U
 Star Compass|U
 Stormscape Battlemage|U

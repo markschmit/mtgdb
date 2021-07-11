@@ -1,5 +1,4 @@
-Beacon of Creation|R
-Beacon of Immortality|R
+Devour in Shadow|U
 Acquire|R
 Abuna's Chant|C
 Anodet Lurker|C
@@ -16,6 +15,8 @@ Baton of Courage|C
 Avarice Totem|U
 Battered Golem|C
 Beacon of Destruction|R
+Beacon of Creation|R
+Beacon of Immortality|R
 Beacon of Tomorrows|R
 Beacon of Unrest|R
 Blasting Station|U
@@ -41,7 +42,6 @@ Dawn's Reflection|C
 Crucible of Worlds|R
 Desecration Elemental|R
 Disruption Aura|U
-Devour in Shadow|U
 Doubling Cube|R
 Door to Nothingness|R
 Dross Crocodile|C
@@ -76,32 +76,34 @@ Helm of Kaldra|R
 Heliophial|C
 Hoverguard Sweepers|R
 Horned Helm|C
-Staff of Domination|R
-Summoner's Egg|R
-Stasis Cocoon|C
-Steelshaper's Gift|U
-Summoning Station|R
-Suncrusher|R
-Suntouched Myr|C
 Sylvok Explorer|C
 Synod Centurion|U
 Tel-Jilad Lifebreather|C
 Tangle Asp|C
 Tel-Jilad Justice|U
 Thermal Navigator|C
+Thought Courier|C
 Tornado Elemental|R
 Trinket Mage|C
-Vedalken Mastermind|U
-Thought Courier|C
 Tyrranax|C
 Vedalken Shackles|R
 Vanquish|U
+Vedalken Mastermind|U
 Vedalken Orrery|R
 Vicious Betrayal|C
 Viridian Lorebearers|U
 Viridian Scout|C
 Vulshok Sorcerer|C
 Wayfarer's Bauble|C
+Spectral Shift|R
+Stand Firm|C
+Staff of Domination|R
+Stasis Cocoon|C
+Summoner's Egg|R
+Steelshaper's Gift|U
+Suncrusher|R
+Summoning Station|R
+Suntouched Myr|C
 Into Thin Air|C
 Infused Arrows|U
 Ion Storm|R
@@ -149,8 +151,8 @@ Roar of Reclamation|R
 Rude Awakening|R
 Salvaging Station|R
 Sawtooth Thresher|C
-Screaming Fury|C
 Serum Visions|C
+Screaming Fury|C
 Shattered Dreams|U
 Silent Arbiter|R
 Skyhunter Skirmisher|U
@@ -161,5 +163,3 @@ Spark Elemental|C
 Solarion|R
 Sparring Collar|C
 Spinal Parasite|U
-Spectral Shift|R
-Stand Firm|C

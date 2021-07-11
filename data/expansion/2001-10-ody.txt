@@ -1,26 +1,26 @@
-Aether Burst|C
+Ancestral Tribute|R
 Aegis of Honor|R
-Aboshan, Cephalid Emperor|R
-Acceptable Losses|C
 Abandoned Outpost|C
+Aboshan, Cephalid Emperor|R
 Aboshan's Desire|C
+Acceptable Losses|C
 Afflict|C
+Aether Burst|C
 Angelic Wall|C
 Amugaba|R
 Anarchist|C
-Ancestral Tribute|R
 Animal Boneyard|U
 Ashen Firebeast|R
 Auramancer|C
 Aura Graft|U
-Aven Cloudchaser|C
+Aven Fisher|C
 Atogatog|R
 Aven Archer|U
 Aven Flock|C
-Aven Windreader|C
-Aven Fisher|C
 Aven Smokeweaver|U
+Aven Windreader|C
 Aven Shrine|R
+Aven Cloudchaser|C
 Balshan Beguiler|U
 Balancing Act|R
 Balshan Griffin|U
@@ -30,10 +30,10 @@ Bamboozle|U
 Barbarian Ring|U
 Battle of Wits|R
 Battle Strain|U
-Bearscape|R
 Blessed Orator|U
-Beloved Chaplain|U
+Bearscape|R
 Beast Attack|U
+Beloved Chaplain|U
 Blazing Salvo|C
 Bloodcurdler|R
 Bomb Squad|R
@@ -66,8 +66,8 @@ Chatter of the Squirrel|C
 Charmed Pendant|R
 Childhood Horror|U
 Cognivore|R
-Coffin Purge|C
 Chlorophant|R
+Coffin Purge|C
 Confessor|C
 Crypt Creeper|C
 Concentrate|U
@@ -85,55 +85,8 @@ Delaying Shield|R
 Deep Reconnaissance|U
 Demolish|U
 Deluge|U
-Nimble Mongoose|U
-Nantuko Elder|U
-Nantuko Mentor|R
-Need for Speed|R
-Nantuko Shrine|R
-New Frontiers|R
-Nefarious Lich|R
-Deserted Temple|R
-Demoralize|C
-Devoted Caretaker|R
-Diligent Farmhand|C
-Diabolic Tutor|U
-Dematerialize|C
-Dirty Wererat|C
-Divine Sacrament|R
-Dogged Hunter|R
-Divert|R
-Druid Lyrist|C
-Dreamwinder|C
-Druid's Call|U
-Dwarven Grunt|C
-Dusk Imp|C
-Dwarven Strike Force|U
-Dwarven Shrine|R
-Dwarven Recruiter|U
-Earth Rift|C
-Earnest Fellowship|R
-Elephant Ambush|C
-Engulfing Flames|U
-Ember Beast|C
-Entomb|R
-Embolden|C
-Escape Artist|C
-Epicenter|R
-Face of Fear|U
-Extract|R
-Execute|U
-Famished Ghoul|U
-Fervent Denial|U
-Filthy Cur|C
-Flame Burst|C
-Fledgling Imp|C
-Firebolt|C
-Forest|L
-Frightcrawler|C
-Frenetic Ogre|U
-Gorilla Titan|U
-Ghastly Demise|C
-Gallantry|U
+Mindslicer|R
+Metamorphic Wurm|U
 Graceful Antelope|R
 Ground Seal|R
 Gravedigger|C
@@ -142,8 +95,8 @@ Gravestorm|R
 Hallowed Healer|C
 Hint of Insanity|R
 Haunting Echoes|R
-Holistic Wisdom|R
 Howling Gale|U
+Holistic Wisdom|R
 Immobilizing Ink|C
 Infected Vermin|U
 Impulsive Maneuvers|R
@@ -151,12 +104,12 @@ Iridescent Angel|R
 Innocent Blood|C
 Ivy Elemental|R
 Island|L
+Junk Golem|R
 Kamahl's Desire|C
 Kamahl, Pit Fighter|R
-Junk Golem|R
 Kirtar's Desire|C
-Krosan Archer|C
 Karmic Justice|R
+Krosan Archer|C
 Kirtar's Wrath|R
 Krosan Avenger|C
 Krosan Beast|R
@@ -164,40 +117,87 @@ Last Rites|C
 Laquatus's Creativity|U
 Leaf Dancer|C
 Lava Blister|U
-Lieutenant Kirtar|R
 Limestone Golem|U
+Lieutenant Kirtar|R
 Life Burst|C
 Magnivore|R
-Lithatog|U
 Liquid Fire|U
-Mad Dog|C
+Lithatog|U
 Luminous Guardian|U
+Mad Dog|C
 Malevolent Awakening|U
 Magma Vein|U
 Master Apothecary|R
-Metamorphic Wurm|U
-Millikin|U
+Dematerialize|C
+Deserted Temple|R
+Demoralize|C
+Devoted Caretaker|R
+Diligent Farmhand|C
+Diabolic Tutor|U
+Dirty Wererat|C
+Dogged Hunter|R
+Divine Sacrament|R
+Divert|R
+Dreamwinder|C
+Druid Lyrist|C
+Druid's Call|U
+Dwarven Grunt|C
+Dusk Imp|C
+Dwarven Recruiter|U
+Dwarven Shrine|R
+Dwarven Strike Force|U
+Earth Rift|C
+Earnest Fellowship|R
+Ember Beast|C
+Elephant Ambush|C
+Embolden|C
+Entomb|R
+Engulfing Flames|U
+Escape Artist|C
+Epicenter|R
+Face of Fear|U
+Extract|R
+Execute|U
+Famished Ghoul|U
+Filthy Cur|C
+Fervent Denial|U
+Flame Burst|C
+Fledgling Imp|C
+Firebolt|C
+Frenetic Ogre|U
+Forest|L
+Frightcrawler|C
+Gorilla Titan|U
+Ghastly Demise|C
+Gallantry|U
 Minotaur Explorer|U
-Mindslicer|R
 Mind Burst|C
+Millikin|U
 Mine Layer|R
-Mirari|R
 Moment's Peace|C
+Mirari|R
 Molten Influence|R
 Morbid Hunger|C
 Morgue Theft|C
 Mortivore|R
 Mossfire Valley|R
-Mossfire Egg|U
 Mountain|L
+Mossfire Egg|U
 Muscle Burst|C
 Mudhole|R
 Mystic Crusader|R
 Mystic Enforcer|R
 Mystic Penitent|U
 Mystic Visionary|C
-Nantuko Disciple|C
 Mystic Zealot|C
+Nantuko Disciple|C
+Nantuko Elder|U
+Nantuko Mentor|R
+Nantuko Shrine|R
+Need for Speed|R
+New Frontiers|R
+Nefarious Lich|R
+Nimble Mongoose|U
 Nomad Decoy|U
 Nut Collector|R
 Nomad Stadium|U

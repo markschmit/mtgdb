@@ -1,16 +1,16 @@
+Abduction|U
+Abjure|C
 Alms|C
-Arctic Wolves|U
-Abyssal Gatekeeper|C
-Aether Flash|U
+Aboroth|R
 Agonizing Memories|U
+Abyssal Gatekeeper|C
+Abeyance|R
+Aether Flash|U
 Alabaster Dragon|R
 Angelic Renewal|C
 Ancestral Knowledge|R
+Arctic Wolves|U
 Apathy|C
-Abjure|C
-Aboroth|R
-Abeyance|R
-Abduction|U
 Ardent Militia|C
 Argivian Restoration|U
 Argivian Find|U
@@ -125,9 +125,9 @@ Relearn|U
 Roc Hatchling|U
 Rogue Elephant|C
 Sawtooth Ogre|C
+Scorched Ruins|R
 Sage Owl|C
 Serenity|R
-Scorched Ruins|R
 Serrated Biskelion|U
 Serra's Blessing|U
 Soul Shepherd|C
@@ -162,6 +162,6 @@ Veteran Explorer|U
 Well of Knowledge|R
 Wave of Terror|R
 Vitalize|C
-Winding Canyons|R
 Xanthic Statue|R
+Winding Canyons|R
 Zombie Scavengers|C

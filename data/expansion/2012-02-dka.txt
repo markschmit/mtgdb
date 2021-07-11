@@ -1,34 +1,15 @@
-Artful Dodge|C
+Altar of the Lost|U
 Afflicted Deserter|U
 Archangel's Light|M
-Altar of the Lost|U
 Alpha Brawl|R
 Archdemon of Greed|R
 Avacyn's Collar|U
+Artful Dodge|C
 Beguiler of Wills|M
 Bar the Door|C
 Bone to Ash|C
 Black Cat|C
 Break of Day|C
-Somberwald Dryad|C
-Spiteful Shadows|C
-Sorin, Lord of Innistrad|M
-Soul Seizer|U
-Stormbound Geist|C
-Strangleroot Geist|U
-Stromkirk Captain|U
-Talons of Falkenrath|C
-Sudden Disappearance|R
-Thraben Doomsayer|R
-Thought Scour|C
-Thalia, Guardian of Thraben|R
-Thraben Heretic|U
-Tovolar's Magehunter|R
-Tragic Slip|C
-Tower Geist|U
-Torch Fiend|C
-Tracker's Instincts|U
-Ulvenwald Bear|C
 Blood Feud|U
 Briarpack Alpha|U
 Burden of Guilt|C
@@ -74,8 +55,8 @@ Fires of Undeath|C
 Gather the Townsfolk|C
 Forge Devil|C
 Fling|C
-Geralf's Messenger|R
 Gavony Ironwright|U
+Geralf's Messenger|R
 Geralf's Mindcrusher|R
 Ghastly Haunting|U
 Gravecrawler|R
@@ -90,6 +71,21 @@ Harrowing Journey|U
 Gruesome Discovery|C
 Haunted Fengraf|C
 Havengul Lich|M
+Unhallowed Cathar|C
+Undying Evil|C
+Village Survivors|U
+Vault of the Archangel|R
+Vengeful Vampire|U
+Warden of the Wall|U
+Vorapede|M
+Wolfbitten Captive|R
+Wild Hunger|C
+Werewolf Ransacker|U
+Wakedancer|U
+Wolfhunter's Quiver|U
+Withengar Unbound|M
+Young Wolf|C
+Wrack with Madness|C
 Havengul Runebinder|R
 Headless Skaab|C
 Heavy Mattock|C
@@ -145,27 +141,31 @@ Saving Grasp|C
 Scorned Villager|C
 Screeching Skaab|C
 Secrets of the Dead|U
-Shattered Perception|U
-Séance|R
-Unhallowed Cathar|C
-Undying Evil|C
-Vengeful Vampire|U
-Vault of the Archangel|R
-Village Survivors|U
-Warden of the Wall|U
-Wakedancer|U
-Vorapede|M
-Werewolf Ransacker|U
-Wolfbitten Captive|R
-Withengar Unbound|M
-Wolfhunter's Quiver|U
-Wild Hunger|C
-Young Wolf|C
-Wrack with Madness|C
-Zombie Apocalypse|R
 Shriekgeist|C
+Séance|R
+Shattered Perception|U
 Sightless Ghoul|C
 Silverclaw Griffin|C
 Silverpelt Werewolf|U
 Skirsdag Flayer|U
 Skillful Lunge|C
+Somberwald Dryad|C
+Sorin, Lord of Innistrad|M
+Spiteful Shadows|C
+Soul Seizer|U
+Stormbound Geist|C
+Strangleroot Geist|U
+Stromkirk Captain|U
+Talons of Falkenrath|C
+Sudden Disappearance|R
+Thalia, Guardian of Thraben|R
+Thraben Doomsayer|R
+Thought Scour|C
+Thraben Heretic|U
+Tovolar's Magehunter|R
+Torch Fiend|C
+Tragic Slip|C
+Tower Geist|U
+Tracker's Instincts|U
+Ulvenwald Bear|C
+Zombie Apocalypse|R

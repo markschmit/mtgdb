@@ -1,4 +1,3 @@
-Fervent Charge|R
 Ana Disciple|C
 Aether Mutation|U
 Anavolver|R
@@ -44,8 +43,9 @@ Enlistment Officer|U
 False Dawn|R
 Evasive Action|U
 Savage Gorilla|C
-Flowstone Charger|U
 Foul Presence|U
+Fervent Charge|R
+Flowstone Charger|U
 Gaea's Balance|U
 Fungal Shambler|R
 Gaea's Skyfolk|C

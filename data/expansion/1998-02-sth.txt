@@ -1,9 +1,5 @@
-Gliding Licid|U
-Heat of Battle|U
-Hermit Druid|R
-Hammerhead Shark|C
-Grave Pact|R
-Heartstone|U
+Elven Rite|U
+Endangered Armodon|C
 Acidic Sliver|U
 Bandage|C
 Awakening|R
@@ -34,8 +30,6 @@ Dream Prowler|C
 Duct Crawler|C
 Dungeon Shade|C
 Evacuation|R
-Endangered Armodon|C
-Elven Rite|U
 Ensnaring Bridge|R
 Fling|C
 Fanning the Flames|U
@@ -46,6 +40,12 @@ Flowstone Mauler|R
 Flowstone Shambler|C
 Furnace Spirit|C
 Foul Imp|C
+Gliding Licid|U
+Heat of Battle|U
+Hermit Druid|R
+Hammerhead Shark|C
+Grave Pact|R
+Heartstone|U
 Honor Guard|C
 Hibernation Sliver|U
 Hesitation|U
@@ -120,8 +120,8 @@ Stronghold Taskmaster|U
 Sword of the Chosen|R
 Tempting Licid|U
 Temper|U
-Tidal Warrior|C
 Thalakos Deceiver|R
+Tidal Warrior|C
 Tidal Surge|C
 Venerable Monk|C
 Torment|C
@@ -129,9 +129,9 @@ Tortured Existence|C
 Victual Sliver|U
 Verdant Touch|R
 Volrath's Laboratory|R
-Volrath's Stronghold|R
 Volrath's Gardens|R
 Volrath's Shapeshifter|R
+Volrath's Stronghold|R
 Walking Dream|U
 Wall of Blossoms|U
 Wall of Essence|U

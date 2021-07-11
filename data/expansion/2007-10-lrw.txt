@@ -1,5 +1,5 @@
+Battle Mastery|U
 Adder-Staff Boggart|C
-Elvish Harbinger|U
 Aethersnipe|C
 Ajani Goldmane|R
 Amoeboid Changeling|C
@@ -12,16 +12,15 @@ Ashling's Prerogative|R
 Austere Command|R
 Avian Changeling|C
 Axegrinder Giant|C
-Battle Mastery|U
 Battlewand Oak|C
 Black Poplar Shaman|C
 Benthicore|U
 Blades of Velis Vel|C
 Blind-Spot Giant|C
 Bog Hoodlums|C
-Bog-Strider Ash|C
 Boggart Birth Rite|C
 Boggart Forager|C
+Bog-Strider Ash|C
 Boggart Harbinger|U
 Boggart Loggers|C
 Boggart Shenanigans|U
@@ -38,39 +37,139 @@ Caterwauling Boggart|C
 Ceaseless Searblades|U
 Chandra Nalaar|R
 Cenn's Heir|C
-Changeling Berserker|U
 Changeling Hero|U
+Changeling Berserker|U
 Changeling Titan|U
-Cloudcrown Oak|C
 Cloudgoat Ranger|U
+Cloudcrown Oak|C
 Colfenor's Plans|R
 Cloudthresher|R
 Colfenor's Urn|R
 Consuming Bonfire|C
+Crush Underfoot|U
+Deathrender|R
+Dauntless Dourbark|R
+Crib Swap|U
+Cryptic Command|R
+Deeptread Merrow|C
+Dawnfluke|C
+Dreamspoiler Witches|C
+Doran, the Siege Tower|R
+Dolmen Gate|R
+Drowner of Secrets|U
+Dread|R
+Elvish Branchbender|C
+Elvish Eulogist|C
+Ego Erasure|U
+Elvish Harbinger|U
+Epic Proportions|R
+Elvish Promenade|U
+Entangling Trap|U
+Elvish Handservant|C
+Exiled Boggart|C
+Ethereal Whiskergill|U
+Eyeblight's Ending|C
+Eyes of the Wisent|R
+Faerie Harbinger|U
+Facevaulter|C
+Faerie Tauntings|U
+Faerie Trickery|C
+Fathom Trawl|R
+Familiar's Ruse|U
+Faultgrinder|C
+Fallowsage|U
+Favor of the Mighty|R
+Fertile Ground|C
+Fire-Belly Changeling|C
+Final Revels|U
+Flamekin Bladewhirl|U
+Fistful of Force|C
+Flamekin Brawler|C
+Flamekin Harbinger|U
+Fodder Launch|U
+Flamekin Spitfire|U
+Kithkin Mourncaller|U
+Forced Fruition|R
+Forest|L
+Footbottom Feast|C
+Galepowder Mage|R
+Gaddock Teeg|R
+Garruk Wildspeaker|R
+Ghostly Changeling|U
+Giant Harbinger|U
+Gilt-Leaf Ambush|C
+Giant's Ire|C
+Gilt-Leaf Seer|C
+Gilt-Leaf Palace|R
+Glarewielder|U
+Glen Elendra Pranksters|U
+Glimmerdust Nap|C
+Goatnapper|U
+Goldmeadow Harrier|C
+Goldmeadow Stalwart|U
+Guardian of Cloverdell|U
+Harpoon Sniper|U
+Hamletback Goliath|R
+Guile|R
+Heal the Scars|C
+Hearthcage Giant|U
+Herbal Poultice|C
+Heat Shimmer|R
+Hillcomber Giant|C
+Hoofprints of the Stag|R
+Hoarder's Greed|U
+Hornet Harasser|C
+Horde of Notions|R
+Hunt Down|C
+Howltooth Hollow|R
+Hostility|R
+Imperious Perfect|U
+Hunter of Eyeblights|U
+Immaculate Magistrate|R
+Hurly-Burly|C
+Incandescent Soulstoke|R
+Incremental Growth|U
+Incendiary Command|R
+Ingot Chewer|C
+Inkfathom Divers|C
+Inner-Flame Acolyte|C
+Inner-Flame Igniter|U
+Jace Beleren|R
 Island|L
 Jagged-Scar Archers|U
 Judge of Currents|C
-Kinsbaile Balloonist|C
 Kinsbaile Skirmisher|C
-Kithkin Daggerdare|C
+Kinsbaile Balloonist|C
 Kithkin Greatheart|C
+Kithkin Daggerdare|C
 Kithkin Harbinger|U
+Goldmeadow Dodger|C
 Kithkin Healer|C
-Kithkin Mourncaller|U
 Knight of Meadowgrain|U
 Knucklebone Witch|R
+Windbrisk Heights|R
+Wings of Velis Vel|C
+Wizened Cenn|U
+Wispmare|C
+Woodland Changeling|C
+Wort, Boggart Auntie|R
+Woodland Guidance|U
+Wren's Run Packmaster|R
+Wren's Run Vanquisher|U
+Wydwen, the Biting Gale|R
+Zephyr Net|C
 Lairwatch Giant|C
 Lace with Moonglove|C
 Lash Out|C
 Lammastide Weave|U
-Liliana Vess|R
 Leaf Gilder|C
+Liliana Vess|R
 Lignify|C
 Lys Alana Huntmaster|C
 Lowland Oaf|C
-Lys Alana Scarblade|U
 Marsh Flitter|U
 Mad Auntie|R
+Lys Alana Scarblade|U
 Makeshift Mannequin|U
 Masked Admirers|R
 Merrow Commerce|U
@@ -86,9 +185,9 @@ Mosswort Bridge|R
 Mournwhelk|C
 Mudbutton Torchrunner|C
 Nameless Inversion|C
-Mulldrifter|C
 Nath of the Gilt-Leaf|R
 Nath's Buffoon|C
+Mulldrifter|C
 Nath's Elite|C
 Nectar Faerie|U
 Neck Snap|C
@@ -97,13 +196,13 @@ Nettlevine Blight|R
 Needle Drop|C
 Oaken Brawler|C
 Nova Chaser|R
-Oakgnarl Warrior|C
 Oona's Prowler|R
 Oblivion Ring|C
+Oakgnarl Warrior|C
 Paperfin Rascal|C
-Pestermite|C
 Peppersmoke|C
 Plains|L
+Pestermite|C
 Plover Knights|C
 Ponder|C
 Pollen Lullaby|U
@@ -113,8 +212,8 @@ Protective Bubble|C
 Prowess of the Fair|U
 Rebellion of the Flamekin|U
 Quill-Slinger Boggart|C
-Purity|R
 Ringskipper|C
+Purity|R
 Rings of Brighthearth|R
 Rootgrapple|C
 Runed Stalactite|C
@@ -126,8 +225,8 @@ Secluded Glen|R
 Sentinels of Glen Elendra|C
 Shapesharer|R
 Sentry Oak|U
-Shields of Velis Vel|C
 Shelldock Isle|R
+Shields of Velis Vel|C
 Shriekmaw|U
 Shimmering Grotto|C
 Silvergill Adept|U
@@ -185,102 +284,3 @@ Wellgabber Apothecary|C
 Weed Strangle|C
 Wild Ricochet|R
 Whirlpool Whelm|C
-Windbrisk Heights|R
-Wings of Velis Vel|C
-Wizened Cenn|U
-Wispmare|C
-Woodland Changeling|C
-Wort, Boggart Auntie|R
-Woodland Guidance|U
-Wren's Run Packmaster|R
-Wren's Run Vanquisher|U
-Wydwen, the Biting Gale|R
-Zephyr Net|C
-Crush Underfoot|U
-Crib Swap|U
-Deathrender|R
-Dauntless Dourbark|R
-Cryptic Command|R
-Dawnfluke|C
-Deeptread Merrow|C
-Drowner of Secrets|U
-Doran, the Siege Tower|R
-Dolmen Gate|R
-Dreamspoiler Witches|C
-Dread|R
-Elvish Branchbender|C
-Ego Erasure|U
-Elvish Eulogist|C
-Elvish Handservant|C
-Elvish Promenade|U
-Epic Proportions|R
-Entangling Trap|U
-Ethereal Whiskergill|U
-Exiled Boggart|C
-Eyeblight's Ending|C
-Eyes of the Wisent|R
-Faerie Harbinger|U
-Facevaulter|C
-Faerie Tauntings|U
-Faerie Trickery|C
-Fathom Trawl|R
-Fallowsage|U
-Familiar's Ruse|U
-Faultgrinder|C
-Favor of the Mighty|R
-Fertile Ground|C
-Fire-Belly Changeling|C
-Final Revels|U
-Flamekin Bladewhirl|U
-Fistful of Force|C
-Flamekin Brawler|C
-Flamekin Harbinger|U
-Flamekin Spitfire|U
-Fodder Launch|U
-Forced Fruition|R
-Footbottom Feast|C
-Forest|L
-Gaddock Teeg|R
-Galepowder Mage|R
-Garruk Wildspeaker|R
-Ghostly Changeling|U
-Giant Harbinger|U
-Gilt-Leaf Ambush|C
-Giant's Ire|C
-Gilt-Leaf Seer|C
-Gilt-Leaf Palace|R
-Glarewielder|U
-Glen Elendra Pranksters|U
-Glimmerdust Nap|C
-Goldmeadow Dodger|C
-Goatnapper|U
-Goldmeadow Harrier|C
-Goldmeadow Stalwart|U
-Guardian of Cloverdell|U
-Harpoon Sniper|U
-Hamletback Goliath|R
-Guile|R
-Hearthcage Giant|U
-Heal the Scars|C
-Herbal Poultice|C
-Heat Shimmer|R
-Hillcomber Giant|C
-Hoofprints of the Stag|R
-Hoarder's Greed|U
-Hornet Harasser|C
-Horde of Notions|R
-Hunt Down|C
-Howltooth Hollow|R
-Hostility|R
-Imperious Perfect|U
-Hunter of Eyeblights|U
-Immaculate Magistrate|R
-Hurly-Burly|C
-Incandescent Soulstoke|R
-Incremental Growth|U
-Incendiary Command|R
-Ingot Chewer|C
-Inkfathom Divers|C
-Inner-Flame Acolyte|C
-Inner-Flame Igniter|U
-Jace Beleren|R

@@ -1,48 +1,33 @@
-Invigorate|C
 Albino Troll|U
+Invigorate|C
+Krosan Tusker|C
+Basking Rootwalla|C
 Bad Moon|R
 Blastoderm|C
-Basking Rootwalla|C
 Beast Attack|U
-Deathgreeter|C
 Corrupt|U
-Elephant Guide|U
+Deathgreeter|C
 Drudge Skeletons|C
+Elephant Guide|U
 Faerie Macabre|C
 Enslave|U
 Fleshbag Marauder|U
-Garruk Wildspeaker|M
 Forest|L
+Garruk Wildspeaker|M
 Genju of the Cedars|U
 Genju of the Fens|U
-Harmonize|U
 Ghost-Lit Stalker|U
-Giant Growth|C
 Howling Banshee|U
+Giant Growth|C
+Harmonize|U
 Hideous End|C
 Indrik Stomphowler|U
 Ichor Slick|C
 Keening Banshee|U
-Urborg Syphon-Mage|C
-Vampire Bats|C
-Vicious Hunger|C
-Vine Trellis|C
-Wall of Bone|U
-Wild Mongrel|C
-Wirewood Savage|C
-Windstorm|U
-Snuff Out|C
-Slippery Karst|C
-Treetop Village|U
-Swamp|L
-Tendrils of Corruption|C
-Stampeding Wildebeests|U
-Twisted Abomination|C
-Krosan Tusker|C
-Liliana Vess|M
 Lignify|C
-Phyrexian Rager|C
 Nature's Lore|C
+Phyrexian Rager|C
+Liliana Vess|M
 Mutilate|R
 Polluted Mire|C
 Overrun|U
@@ -53,5 +38,20 @@ Ravenous Rats|C
 Rude Awakening|R
 Rise from the Grave|U
 Serrated Arrows|C
-Skeletal Vampire|R
 Sign in Blood|C
+Skeletal Vampire|R
+Snuff Out|C
+Treetop Village|U
+Stampeding Wildebeests|U
+Slippery Karst|C
+Swamp|L
+Tendrils of Corruption|C
+Urborg Syphon-Mage|C
+Twisted Abomination|C
+Vampire Bats|C
+Vine Trellis|C
+Vicious Hunger|C
+Wall of Bone|U
+Wild Mongrel|C
+Wirewood Savage|C
+Windstorm|U

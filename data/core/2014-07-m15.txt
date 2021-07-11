@@ -1,46 +1,72 @@
-Meditation Puzzle|C
-Midnight Guard|C
-Meteorite|U
-Military Intelligence|U
-Might Makes Right|U
-Miner's Bane|C
-Mind Rot|C
-Mind Sculpt|C
-Necrobite|C
-Mountain|L
-Necrogen Scudder|U
-Naturalize|C
-Necromancer's Assistant|C
-Negate|C
-Nightfire Giant|U
-Necromancer's Stockpile|R
-Netcaster Spider|C
-Nimbus of the Isles|C
-Nightmare|R
+Constricting Sliver|U
+Coral Barrier|C
+Accursed Spirit|C
+Aegis Angel|R
+Act on Impulse|U
+Aggressive Mining|R
+Aetherspouts|R
+Aeronaut Tinkerer|C
+Ajani Steadfast|M
+Ajani's Pridemate|U
+Altac Bloodseeker|U
+Amphin Pathmage|C
+Avarice Amulet|R
+Avacyn, Guardian Angel|R
+Battle Mastery|U
+Back to Nature|U
+Ancient Silverback|U
+Belligerent Sliver|U
+Battlefield Forge|R
+Blood Host|U
+Black Cat|C
+Blastfire Bolt|C
+Boonweaver Giant|U
+Borderland Marauder|C
+Brawler's Plate|U
+Bronze Sable|C
+Brood Keeper|U
+Burning Anger|R
+Carrion Crow|C
+Carnivorous Moss-Beast|C
+Cancel|C
+Centaur Courser|C
+Caustic Tar|U
+Caves of Koilos|R
+Chandra, Pyromaster|M
+Charging Rhino|C
+Chasm Skulker|R
+Chief Engineer|R
+Chronostutter|C
+Child of Night|C
+Chord of Calling|R
+Circle of Flame|U
+Clear a Path|C
+Cone of Flame|U
+Congregate|U
 Nissa, Worldwaker|M
 Nissa's Expedition|U
 Ob Nixilis, Unshackled|R
-Obelisk of Urd|R
 Oppressive Rays|C
+Obelisk of Urd|R
 Paragon of Eternal Wilds|U
 Oreskos Swiftclaw|C
 Ornithopter|C
-Paragon of Fierce Defiance|U
 Overwhelm|U
+Paragon of Fierce Defiance|U
+Paragon of Gathering Mists|U
 Paragon of New Dawns|U
 Paragon of Open Graves|U
 Perilous Vault|M
-Paragon of Gathering Mists|U
-Phyrexian Revoker|R
 Peel from Reality|C
+Phyrexian Revoker|R
 Plains|L
 Phytotitan|R
-Pillar of Light|C
 Polymorphist's Jest|R
+Pillar of Light|C
 Preeminent Captain|R
-Plummet|C
 Quickling|U
 Profane Memento|U
+Plummet|C
 Raise the Alarm|C
 Radiant Fountain|C
 Ranger's Guile|C
@@ -48,20 +74,82 @@ Razorfoot Griffin|C
 Reclamation Sage|U
 Research Assistant|C
 Resolute Archangel|R
-Return to the Ranks|R
 Roaring Primadox|U
+Return to the Ranks|R
 Rogue's Gloves|U
-Restock|U
 Rotfeaster Maggot|C
+Rummaging Goblin|C
+Restock|U
 Runeclaw Bear|C
+Crippling Blight|C
+Covenant of Blood|C
+Inferno Fist|C
+Into the Void|U
+Crowd's Favor|C
+Crucible of Fire|R
+Cruel Sadist|R
+Darksteel Citadel|U
+Dauntless River Marshal|U
+Diffusion Sliver|U
+Devouring Light|U
+Divination|C
+Divine Favor|C
+Dissipate|U
+Elvish Mystic|C
+Divine Verdict|C
+Ensoul Artifact|U
+Encrust|C
+Endless Obedience|U
+Eternal Thirst|C
+Ephemeral Shields|C
+Feast on the Fallen|U
+Evolving Wilds|C
+Feral Incarnation|U
+Festergloom|C
+Flesh to Dust|C
+First Response|U
+Forest|L
+Foundry Street Denizen|C
+Forge Devil|C
+Frenzied Goblin|U
+Fugitive Wizard|C
+Frost Lynx|C
+Furnace Whelp|U
+Gargoyle Sentinel|U
+Garruk's Packleader|U
+Garruk, Apex Predator|M
+Geist of the Moors|U
+Gather Courage|U
+Generator Servant|C
+Genesis Hydra|R
+Glacial Crasher|C
+Goblin Kaboomist|R
+Goblin Rabblemaster|R
+Goblin Roughrider|C
+Hammerhand|C
+Gravedigger|U
+Grindclock|R
+Haunted Plate Mail|R
+Heliod's Pilgrim|C
+Hoarding Dragon|R
+Heat Ray|U
+Hot Soup|U
+Hornet Nest|R
+Hornet Queen|R
+Hunter's Ambush|C
+Hunt the Weak|C
+Hushwing Gryff|R
+Illusory Angel|U
+Hydrosurge|C
+Indulgent Tormentor|R
+In Garruk's Wake|R
 Sanctified Charge|C
 Sacred Armory|U
-Rummaging Goblin|C
 Satyr Wayfinder|C
+Scrapyard Mongrel|C
 Scuttling Doom Engine|R
 Selfless Cathar|C
 Seismic Strike|C
-Scrapyard Mongrel|C
 Sengir Vampire|U
 Seraph of the Masses|U
 Shadowcloak Vampire|C
@@ -78,96 +166,22 @@ Sign in Blood|C
 Sliver Hivelord|M
 Solemn Offering|C
 Soul of Innistrad|M
+Soul of New Phyrexia|M
 Soul of Ravnica|M
 Soul of Shandalar|M
-Soul of New Phyrexia|M
 Soul of Theros|M
 Soul of Zendikar|M
-Soulmender|C
 Spectra Ward|R
+Soulmender|C
 Stab Wound|U
-Staff of the Flame Magus|U
 Spirit Bonds|R
-Staff of the Mind Magus|U
+Staff of the Flame Magus|U
 Staff of the Death Magus|U
-Staff of the Wild Magus|U
+Staff of the Mind Magus|U
 Staff of the Sun Magus|U
+Staff of the Wild Magus|U
 Stain the Mind|R
 Statute of Denial|C
-Brawler's Plate|U
-Borderland Marauder|C
-Bronze Sable|C
-Brood Keeper|U
-Burning Anger|R
-Carrion Crow|C
-Carnivorous Moss-Beast|C
-Cancel|C
-Caustic Tar|U
-Centaur Courser|C
-Caves of Koilos|R
-Chandra, Pyromaster|M
-Charging Rhino|C
-Chasm Skulker|R
-Chief Engineer|R
-Child of Night|C
-Chronostutter|C
-Chord of Calling|R
-Circle of Flame|U
-Clear a Path|C
-Cone of Flame|U
-Congregate|U
-Coral Barrier|C
-Constricting Sliver|U
-Crippling Blight|C
-Covenant of Blood|C
-Crucible of Fire|R
-Crowd's Favor|C
-Cruel Sadist|R
-Darksteel Citadel|U
-Dauntless River Marshal|U
-Devouring Light|U
-Diffusion Sliver|U
-Divination|C
-Divine Favor|C
-Dissipate|U
-Elvish Mystic|C
-Divine Verdict|C
-Ensoul Artifact|U
-Encrust|C
-Endless Obedience|U
-Eternal Thirst|C
-Ephemeral Shields|C
-Feast on the Fallen|U
-Evolving Wilds|C
-Feral Incarnation|U
-Flesh to Dust|C
-First Response|U
-Festergloom|C
-Forest|L
-Forge Devil|C
-Foundry Street Denizen|C
-Frenzied Goblin|U
-Aegis Angel|R
-Accursed Spirit|C
-Act on Impulse|U
-Aggressive Mining|R
-Aeronaut Tinkerer|C
-Aetherspouts|R
-Ajani Steadfast|M
-Altac Bloodseeker|U
-Amphin Pathmage|C
-Ajani's Pridemate|U
-Ancient Silverback|U
-Avarice Amulet|R
-Avacyn, Guardian Angel|R
-Battle Mastery|U
-Back to Nature|U
-Belligerent Sliver|U
-Battlefield Forge|R
-Blood Host|U
-Black Cat|C
-Blastfire Bolt|C
-Boonweaver Giant|U
 Stoke the Flames|U
 Sunblade Elf|U
 Stormtide Leviathan|R
@@ -176,12 +190,12 @@ The Chain Veil|M
 Swamp|L
 Terra Stomper|R
 Thundering Giant|C
+Tireless Missionaries|C
 Torch Fiend|C
 Titanic Growth|C
-Tireless Missionaries|C
+Triplicate Spirits|C
 Tormod's Crypt|U
 Turn to Frog|U
-Triplicate Spirits|C
 Typhoid Rats|C
 Ulcerate|U
 Tyrant's Machine|C
@@ -207,63 +221,49 @@ Xathrid Slyblade|U
 Yisan, the Wanderer Bard|R
 Yavimaya Coast|R
 Zof Shade|C
-Furnace Whelp|U
-Gargoyle Sentinel|U
-Garruk's Packleader|U
-Garruk, Apex Predator|M
-Geist of the Moors|U
-Gather Courage|U
-Generator Servant|C
-Genesis Hydra|R
-Glacial Crasher|C
-Goblin Kaboomist|R
-Goblin Rabblemaster|R
-Goblin Roughrider|C
-Hammerhand|C
-Gravedigger|U
-Hoarding Dragon|R
-Grindclock|R
-Haunted Plate Mail|R
-Heliod's Pilgrim|C
-Heat Ray|U
-Hot Soup|U
-Hornet Nest|R
-Hornet Queen|R
-Hunter's Ambush|C
-Hunt the Weak|C
-Hushwing Gryff|R
-Illusory Angel|U
-Hydrosurge|C
-Indulgent Tormentor|R
-In Garruk's Wake|R
-Inferno Fist|C
-Into the Void|U
 Inspired Charge|C
 Invasive Species|C
 Invisibility|C
 Jace, the Living Guildpact|M
 Island|L
 Jace's Ingenuity|U
-Jalira, Master Polymorphist|R
 Jorubai Murk Lurker|U
 Kalonian Twingrove|R
+Jalira, Master Polymorphist|R
 Juggernaut|U
 Kapsho Kitefins|U
-Kinsbaile Skirmisher|C
 Kird Chieftain|U
-Krenko's Enforcer|C
+Kinsbaile Skirmisher|C
 Kurkesh, Onakke Ancient|R
+Krenko's Enforcer|C
 Leeching Sliver|U
 Lava Axe|C
 Lightning Strike|C
 Life's Legacy|R
 Liliana Vess|M
+Living Totem|C
 Mahamoti Djinn|R
 Llanowar Wastes|R
 Marked by Honor|C
 Master of Predicaments|R
 Mass Calcify|R
-Living Totem|C
+Meditation Puzzle|C
 Mercurial Pretender|R
-Fugitive Wizard|C
-Frost Lynx|C
+Midnight Guard|C
+Meteorite|U
+Military Intelligence|U
+Might Makes Right|U
+Mind Rot|C
+Miner's Bane|C
+Mind Sculpt|C
+Necrobite|C
+Mountain|L
+Necrogen Scudder|U
+Naturalize|C
+Necromancer's Assistant|C
+Negate|C
+Necromancer's Stockpile|R
+Nightfire Giant|U
+Netcaster Spider|C
+Nimbus of the Isles|C
+Nightmare|R

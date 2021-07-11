@@ -1,12 +1,12 @@
 Azorius Guildmage|S
-Budoka Pupil|S
 Ass Whuppin'|S
+Budoka Pupil|S
 Force of Nature|S
-Ghost-Lit Raider|S
-Ichiga, Who Topples Oaks|S
 Dimir Guildmage|S
+Ghost-Lit Raider|S
 Hedge Troll|S
 Gruul Guildmage|S
+Ichiga, Who Topples Oaks|S
 Shivan Dragon|S
 Rukh Egg|S
 Storm Entity|S

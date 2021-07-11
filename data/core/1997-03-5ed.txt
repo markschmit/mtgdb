@@ -1,12 +1,12 @@
+Aladdin's Ring|R
+Akron Legionnaire|R
+Abyssal Specter|U
+Abbey Gargoyles|U
 Aether Storm|U
 Adarkar Wastes|R
 Air Elemental|U
-Akron Legionnaire|R
-Aladdin's Ring|R
 Alabaster Potion|C
 Ambush Party|C
-Abyssal Specter|U
-Abbey Gargoyles|U
 An-Havva Constable|R
 Amulet of Kroog|C
 Animate Wall|R
@@ -57,8 +57,8 @@ Caribou Range|R
 Carrion Ants|U
 Cat Warriors|C
 Castle|U
-Chub Toad|C
 Cave People|U
+Chub Toad|C
 Circle of Protection: Black|C
 Circle of Protection: Artifacts|U
 Circle of Protection: Blue|C
@@ -150,6 +150,93 @@ Forget|R
 Forest|L
 Fountain of Youth|U
 Foxfire|C
+Prodigal Sorcerer|C
+Psychic Venom|C
+Rabid Wombat|U
+Pyrotechnics|U
+Pyroblast|U
+Radjan Spirit|U
+Ray of Command|C
+Rag Man|R
+Recall|R
+Raise Dead|C
+Reef Pirates|C
+Regeneration|C
+Righteousness|R
+Repentant Blacksmith|C
+Remove Soul|C
+Reverse Damage|R
+Rod of Ruin|U
+Sabretooth Tiger|C
+Ruins of Trokair|U
+Samite Healer|C
+Sacred Boon|U
+Scaled Wurm|C
+Sand Silos|R
+Scathe Zombies|C
+Scavenger Folk|C
+Scryb Sprites|C
+Sea Spirit|U
+Sea Serpent|C
+Sea Sprite|U
+Seasinger|U
+Segovian Leviathan|U
+Sengir Autocrat|R
+Serra Bestiary|U
+Seraph|R
+Serpent Generator|R
+Serra Paladin|U
+Shanodin Dryads|C
+Shapeshifter|U
+Shield Bearer|C
+Shatterstorm|U
+Shatter|C
+Shivan Dragon|R
+Shield Wall|C
+Sibilant Spirit|R
+Shrink|C
+Sleight of Mind|R
+Skull Catapult|U
+Smoke|R
+Sorceress Queen|R
+Soul Net|U
+Soul Barrier|C
+Spirit Link|U
+Spell Blast|C
+Steal Artifact|U
+Stasis|R
+Stampede|R
+Stone Spirit|U
+Stone Giant|U
+Stone Rain|C
+Stromgald Cabal|R
+Stream of Life|C
+Svyelunite Temple|U
+Sulfurous Springs|R
+Swamp|L
+Tarpan|C
+Sylvan Library|R
+Terror|C
+Tawnos's Weaponry|U
+The Brute|C
+The Wretched|R
+The Hive|R
+Thicket Basilisk|U
+Thrull Retainer|U
+Throne of Bone|U
+Time Elemental|R
+Time Bomb|R
+Torture|C
+Titania's Song|R
+Tranquility|C
+Touch of Death|C
+Tsunami|U
+Truce|R
+Tundra Wolves|C
+Unholy Strength|C
+Underground River|R
+Twiddle|C
+Unstable Mutation|C
 Frozen Shade|C
 Funeral March|C
 Fyndhorn Elder|U
@@ -159,29 +246,6 @@ Game of Chaos|R
 Ghazban Ogre|C
 Gauntlets of Chaos|R
 Giant Spider|C
-Mons's Goblin Raiders|C
-Living Lands|R
-Lord of Atlantis|R
-Lost Soul|C
-Magus of the Unseen|R
-Lure|U
-Lord of the Pit|R
-Magical Hack|R
-Mana Vault|R
-Mana Flare|R
-Mana Clash|R
-Manabarbs|R
-Marsh Viper|C
-Merfolk of the Pearl Trident|C
-Memory Lapse|C
-Meekstone|R
-Mesa Pegasus|C
-Mesa Falcon|C
-Mind Ravel|C
-Mind Bomb|U
-Millstone|R
-Mindstab Thrull|C
-Mind Warp|U
 Giant Growth|C
 Giant Strength|C
 Glacial Wall|U
@@ -263,91 +327,29 @@ Library of Leng|U
 Living Artifact|R
 Lifetap|U
 Llanowar Elves|C
-Shivan Dragon|R
-Shield Wall|C
-Sibilant Spirit|R
-Shrink|C
-Sleight of Mind|R
-Skull Catapult|U
-Smoke|R
-Sorceress Queen|R
-Soul Net|U
-Soul Barrier|C
-Spirit Link|U
-Spell Blast|C
-Steal Artifact|U
-Stasis|R
-Stampede|R
-Stone Spirit|U
-Stone Giant|U
-Stone Rain|C
-Stromgald Cabal|R
-Stream of Life|C
-Svyelunite Temple|U
-Sulfurous Springs|R
-Swamp|L
-Tarpan|C
-Sylvan Library|R
-Terror|C
-Tawnos's Weaponry|U
-The Brute|C
-The Wretched|R
-The Hive|R
-Thicket Basilisk|U
-Thrull Retainer|U
-Throne of Bone|U
-Time Elemental|R
-Time Bomb|R
-Torture|C
-Titania's Song|R
-Tranquility|C
-Touch of Death|C
-Tsunami|U
-Truce|R
-Tundra Wolves|C
-Unholy Strength|C
-Underground River|R
-Twiddle|C
-Unstable Mutation|C
-Updraft|C
-Untamed Wilds|U
-Unsummon|C
-Urza's Avenger|R
-Urza's Mine|C
-Urza's Bauble|U
-Urza's Tower|C
-Urza's Power Plant|C
-Vampire Bats|C
-Verduran Enchantress|R
-Venom|C
-Vodalian Soldiers|C
-Wall of Bone|U
-Wall of Air|U
-Wall of Brambles|U
-Wall of Fire|U
-Wall of Spears|C
-Wall of Stone|U
-Wall of Swords|U
-War Mammoth|C
-Wanderlust|U
-Warp Artifact|R
-Whirling Dervish|U
-Weakness|C
-White Knight|U
-Wind Spirit|U
-Wild Growth|C
-Winter Blast|U
-Winds of Change|R
-Winter Orb|R
-Wolverine Pack|U
-Word of Blasting|U
-Wooden Sphere|U
-Wrath of God|R
-Wyluli Wolf|R
-Xenic Poltergeist|R
-Zephyr Falcon|C
-Zombie Master|R
-Zur's Weirding|R
+Living Lands|R
+Lord of Atlantis|R
+Lost Soul|C
+Lord of the Pit|R
+Lure|U
+Magus of the Unseen|R
+Magical Hack|R
+Mana Vault|R
+Mana Flare|R
+Mana Clash|R
+Manabarbs|R
+Marsh Viper|C
+Merfolk of the Pearl Trident|C
+Memory Lapse|C
+Meekstone|R
+Mesa Pegasus|C
+Mesa Falcon|C
+Mind Ravel|C
+Mind Bomb|U
+Millstone|R
+Mind Warp|U
+Mindstab Thrull|C
+Mons's Goblin Raiders|C
 Mole Worms|U
 Mountain Goat|C
 Mountain|L
@@ -391,44 +393,42 @@ Primordial Ooze|U
 Primal Clay|R
 Primal Order|R
 Prismatic Ward|C
-Prodigal Sorcerer|C
-Psychic Venom|C
-Rabid Wombat|U
-Pyrotechnics|U
-Pyroblast|U
-Radjan Spirit|U
-Ray of Command|C
-Rag Man|R
-Recall|R
-Raise Dead|C
-Reef Pirates|C
-Regeneration|C
-Righteousness|R
-Repentant Blacksmith|C
-Remove Soul|C
-Reverse Damage|R
-Rod of Ruin|U
-Sabretooth Tiger|C
-Ruins of Trokair|U
-Samite Healer|C
-Sacred Boon|U
-Scaled Wurm|C
-Sand Silos|R
-Scathe Zombies|C
-Scavenger Folk|C
-Scryb Sprites|C
-Sea Spirit|U
-Sea Serpent|C
-Sea Sprite|U
-Seasinger|U
-Segovian Leviathan|U
-Sengir Autocrat|R
-Serra Bestiary|U
-Seraph|R
-Serpent Generator|R
-Serra Paladin|U
-Shanodin Dryads|C
-Shapeshifter|U
-Shield Bearer|C
-Shatterstorm|U
-Shatter|C
+Updraft|C
+Untamed Wilds|U
+Unsummon|C
+Urza's Avenger|R
+Urza's Mine|C
+Urza's Bauble|U
+Urza's Tower|C
+Urza's Power Plant|C
+Vampire Bats|C
+Verduran Enchantress|R
+Venom|C
+Vodalian Soldiers|C
+Wall of Bone|U
+Wall of Air|U
+Wall of Brambles|U
+Wall of Fire|U
+Wall of Spears|C
+Wall of Stone|U
+Wall of Swords|U
+War Mammoth|C
+Wanderlust|U
+Warp Artifact|R
+Whirling Dervish|U
+Weakness|C
+White Knight|U
+Wind Spirit|U
+Wild Growth|C
+Winter Blast|U
+Winds of Change|R
+Winter Orb|R
+Wolverine Pack|U
+Word of Blasting|U
+Wooden Sphere|U
+Wrath of God|R
+Wyluli Wolf|R
+Xenic Poltergeist|R
+Zephyr Falcon|C
+Zombie Master|R
+Zur's Weirding|R

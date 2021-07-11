@@ -1,26 +1,10 @@
-Circle of Protection: Green|C
-Disenchant|C
-Circle of Protection: Red|C
-Circle of Protection: White|C
-Clairvoyance|C
-Cloak of Confusion|C
-Crown of the Ages|R
-Conquer|U
-Cold Snap|U
-Cooperation|C
-Counterspell|C
-Curse of Marit Lage|R
-Dance of the Dead|U
-Dark Ritual|C
+Dire Wolves|C
 Dark Banishing|C
 Deflection|R
 Death Ward|C
 Demonic Consultation|U
 Despotic Scepter|R
 Diabolic Vision|U
-Dire Wolves|C
-Dread Wight|R
-Drift of the Dead|U
 Abyssal Specter|U
 Adarkar Sentinel|U
 Adarkar Unicorn|C
@@ -39,8 +23,8 @@ Armor of Faith|C
 Ashen Ghoul|U
 Arnjlot's Ascent|C
 Aurochs|C
-Balduvian Bears|C
 Balduvian Barbarians|C
+Balduvian Bears|C
 Avalanche|U
 Balduvian Conjurer|U
 Balduvian Hydra|R
@@ -74,7 +58,23 @@ Chaos Lord|R
 Circle of Protection: Blue|C
 Chub Toad|C
 Circle of Protection: Black|C
+Circle of Protection: Green|C
+Circle of Protection: Red|C
+Circle of Protection: White|C
+Clairvoyance|C
+Cloak of Confusion|C
+Crown of the Ages|R
+Conquer|U
+Cold Snap|U
+Cooperation|C
+Counterspell|C
+Curse of Marit Lage|R
+Dance of the Dead|U
+Dark Ritual|C
+Dread Wight|R
 Dreams of the Dead|U
+Disenchant|C
+Drift of the Dead|U
 Earthlore|C
 Dwarven Armory|R
 Drought|U

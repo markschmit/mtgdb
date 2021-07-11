@@ -1,8 +1,9 @@
 Iona, Shield of Emeria|M
+Lightning Angel|M
 Akroma, Angel of Wrath|M
 Akroma, Angel of Fury|M
-Archangel of Strife|M
 Avacyn, Angel of Hope|M
+Archangel of Strife|M
 Aurelia, the Warleader|M
 Baneslayer Angel|M
 Exalted Angel|M
@@ -10,6 +11,5 @@ Entreat the Angels|M
 Iridescent Angel|M
 Jenara, Asura of War|M
 Platinum Angel|M
-Lightning Angel|M
 Serra Angel|M
 Tariel, Reckoner of Souls|M

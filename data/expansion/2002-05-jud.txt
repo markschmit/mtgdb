@@ -1,19 +1,21 @@
-Benevolent Bodyguard|C
 Ancestor's Chosen|U
+Giant Warthog|C
+Goretusk Firebeast|C
+Aven Fogbringer|C
+Arcane Teachings|C
 Anurid Barkripper|C
 Anger|U
 Anurid Brushhopper|R
 Anurid Swarmsnapper|U
-Arcane Teachings|C
-Aven Fogbringer|C
 Balthor the Defiled|R
 Aven Warcraft|U
 Barbarian Bully|C
 Battlefield Scrounger|C
 Battlewise Aven|C
 Battle Screech|U
-Border Patrol|C
+Benevolent Bodyguard|C
 Book Burning|C
+Border Patrol|C
 Browbeat|U
 Brawn|U
 Breaking Point|R
@@ -31,59 +33,11 @@ Cunning Wish|R
 Crush of Wurms|R
 Death Wish|R
 Dwarven Bloodboiler|R
-Lost in Thought|C
-Masked Gorgon|R
-Mirror Wall|C
-Mental Note|C
-Mirari's Wake|R
-Morality Shift|R
-Mist of Stagnation|R
-Nantuko Monastery|U
-Nantuko Tracer|C
-Nomad Mythmaker|R
-Nullmage Advocate|C
-Phantom Centaur|U
-Phantom Flock|U
-Phantom Nantuko|R
-Phantom Nishoba|R
-Phantom Nomad|C
-Phantom Tiger|C
-Prismatic Strands|C
-Planar Chaos|U
-Pulsemage Advocate|R
-Rats' Feast|C
-Quiet Speculation|U
-Riftstone Portal|U
-Ray of Revelation|C
-Scalpelexis|R
-Suntail Hawk|C
-Swelter|U
-Sutured Ghoul|R
-Sylvan Safekeeper|R
-Swirling Sandstorm|C
-Thriss, Nantuko Primus|R
-Test of Endurance|R
-Telekinetic Bonds|R
-Selfless Exorcist|R
-Shaman's Trance|R
-Seedtime|R
-Serene Sunset|U
-Shieldmage Advocate|C
-Solitary Confinement|R
-Silver Seraph|R
-Soulcatchers' Aerie|U
-Soulgorger Orgg|U
-Spellgorger Barbarian|C
-Spurnmage Advocate|U
-Spirit Cairn|U
-Spelljack|R
-Sudden Strength|C
-Stitch Together|U
 Defy Gravity|C
 Dwarven Driller|U
 Dwarven Scorcher|C
-Earsplitting Rats|C
 Elephant Guide|U
+Earsplitting Rats|C
 Epic Struggle|R
 Envelop|C
 Ember Shot|C
@@ -98,8 +52,16 @@ Forcemage Advocate|U
 Folk Medicine|C
 Genesis|R
 Funeral Pyre|C
-Giant Warthog|C
-Goretusk Firebeast|C
+Mist of Stagnation|R
+Nantuko Monastery|U
+Nantuko Tracer|C
+Nomad Mythmaker|R
+Nullmage Advocate|C
+Phantom Centaur|U
+Phantom Flock|U
+Phantom Nantuko|R
+Phantom Nishoba|R
+Phantom Nomad|C
 Glory|R
 Grip of Amnesia|C
 Golden Wish|R
@@ -123,7 +85,45 @@ Liberated Dwarf|C
 Lead Astray|C
 Living Wish|R
 Lightning Surge|R
+Lost in Thought|C
+Masked Gorgon|R
+Mirror Wall|C
+Mirari's Wake|R
+Mental Note|C
+Morality Shift|R
+Phantom Tiger|C
+Prismatic Strands|C
+Planar Chaos|U
+Pulsemage Advocate|R
+Rats' Feast|C
+Quiet Speculation|U
+Riftstone Portal|U
+Ray of Revelation|C
+Scalpelexis|R
+Selfless Exorcist|R
+Shaman's Trance|R
+Seedtime|R
+Serene Sunset|U
+Shieldmage Advocate|C
+Solitary Confinement|R
+Silver Seraph|R
+Soulcatchers' Aerie|U
+Soulgorger Orgg|U
+Spellgorger Barbarian|C
+Spurnmage Advocate|U
+Spirit Cairn|U
+Spelljack|R
+Sudden Strength|C
+Stitch Together|U
+Suntail Hawk|C
+Swelter|U
+Sutured Ghoul|R
+Sylvan Safekeeper|R
+Swirling Sandstorm|C
 Trained Pronghorn|C
+Test of Endurance|R
+Telekinetic Bonds|R
+Thriss, Nantuko Primus|R
 Toxic Stench|C
 Treacherous Vampire|U
 Treacherous Werewolf|C

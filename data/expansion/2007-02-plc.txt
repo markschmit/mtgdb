@@ -1,61 +1,17 @@
-Blightspeaker|C
-Dawn Charm|C
-Dash Hopes|C
+Darkheart Sliver|U
 Aeon Chronicler|R
 Ana Battlemage|U
-Serendib Sorcerer|R
-Seal of Primordium|C
-Serra Sphinx|R
-Serra's Boon|U
-Shade of Trokair|C
-Shaper Parasite|C
-Shivan Wumpus|R
-Shivan Meteor|U
-Simian Spirit Guide|C
-Shrouded Lore|U
-Sinew Sliver|C
-Skirk Shaman|C
-Sophic Centaur|U
-Spitting Sliver|C
-Spellshift|R
-Stingscourger|C
-Stonecloaker|U
-Stormfront Riders|U
-Sulfur Elemental|U
-Tidewalker|U
-Synchronous Sliver|C
-Sunlance|C
-Teneb, the Harvester|R
-Temporal Extortion|R
-Timbermare|R
-Timebender|U
-Torchling|R
-Timecrafting|U
-Rough/Tumble|U
-Treacherous Urge|U
-Urborg, Tomb of Yawgmoth|R
-Vampiric Link|C
-Utopia Vow|C
-Veiling Oddity|C
-Vitaspore Thallid|C
-Venarian Glimmer|U
-Voidstone Gargoyle|R
-Volcano Hellion|R
-Waning Wurm|U
-Vorosh, the Hunter|R
-Whitemane Lion|C
-Wistful Thinking|C
-Wild Pair|R
 Aether Membrane|U
 Akroma, Angel of Fury|R
 Aquamorph Entity|C
 Auramancer's Guise|U
-Battering Sliver|C
-Benalish Commander|R
-Big Game Hunter|U
 Aven Riftwatcher|C
-Blood Knight|U
+Benalish Commander|R
+Battering Sliver|C
+Big Game Hunter|U
+Blightspeaker|C
 Bog Serpent|C
+Blood Knight|U
 Body Double|R
 Braids, Conjurer Adept|R
 Cautery Sliver|U
@@ -64,17 +20,14 @@ Calciderm|U
 Brute Force|C
 Boom/Bust|R
 Citanul Woodreaders|C
-Circle of Affliction|U
 Chronozoa|R
 Crovax, Ascendant Hero|R
-Roiling Horror|R
-Saltblast|U
-Uktabi Drake|C
-Saltfield Recluse|C
+Circle of Affliction|U
 Cradle to Grave|C
 Gossamer Phantasm|C
-Darkheart Sliver|U
 Damnation|R
+Dawn Charm|C
+Dash Hopes|C
 Deadly Grub|C
 Deadwood Treefolk|U
 Dismal Failure|U
@@ -135,9 +88,9 @@ Mirri the Cursed|R
 Molten Firebird|R
 Mycologist|U
 Muck Drubb|U
-Needlepeak Spider|C
 Necrotic Sliver|U
 Oros, the Avenger|R
+Needlepeak Spider|C
 Null Profusion|R
 Numot, the Devastator|R
 Ovinize|U
@@ -163,3 +116,50 @@ Ridged Kusite|C
 Retether|R
 Riftmarked Knight|U
 Riptide Pilferer|U
+Roiling Horror|R
+Saltblast|U
+Serendib Sorcerer|R
+Saltfield Recluse|C
+Seal of Primordium|C
+Serra Sphinx|R
+Serra's Boon|U
+Shade of Trokair|C
+Shaper Parasite|C
+Shivan Wumpus|R
+Shivan Meteor|U
+Simian Spirit Guide|C
+Shrouded Lore|U
+Sinew Sliver|C
+Skirk Shaman|C
+Sophic Centaur|U
+Spitting Sliver|C
+Spellshift|R
+Stingscourger|C
+Stonecloaker|U
+Stormfront Riders|U
+Sulfur Elemental|U
+Tidewalker|U
+Synchronous Sliver|C
+Sunlance|C
+Teneb, the Harvester|R
+Temporal Extortion|R
+Timbermare|R
+Timebender|U
+Torchling|R
+Timecrafting|U
+Rough/Tumble|U
+Treacherous Urge|U
+Uktabi Drake|C
+Urborg, Tomb of Yawgmoth|R
+Vampiric Link|C
+Utopia Vow|C
+Veiling Oddity|C
+Vitaspore Thallid|C
+Venarian Glimmer|U
+Voidstone Gargoyle|R
+Volcano Hellion|R
+Waning Wurm|U
+Vorosh, the Hunter|R
+Whitemane Lion|C
+Wistful Thinking|C
+Wild Pair|R

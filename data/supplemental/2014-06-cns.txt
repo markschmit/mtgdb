@@ -44,94 +44,6 @@ Deal Broker|R
 Deathrender|R
 Deathreap Ritual|U
 Dimir Doppelganger|R
-Tyrant's Choice|C
-Unhallowed Pact|C
-Unexpected Potential|U
-Unquestioned Authority|U
-Vampire Hexmage|U
-Valor Made Real|C
-Vent Sentinel|C
-Vow of Duty|U
-Vedalken Orrery|R
-Victimize|U
-Volcanic Fallout|U
-Wakedancer|C
-Warmonger's Chariot|U
-Whispergear Sneak|C
-Wolfbriar Elemental|R
-Wakestone Gargoyle|U
-Wind Dancer|U
-Woodvine Elemental|U
-Wrap in Vigor|C
-Wrap in Flames|C
-Wood Sage|U
-Worldknit|R
-Zombie Goliath|C
-Phage the Untouchable|M
-Plagued Rusalka|U
-Plated Seastrider|C
-Pitchburn Devils|C
-Plummet|C
-Plea for Power|R
-Power of Fire|C
-Pride Guardian|C
-Predator's Howl|U
-Power Play|U
-Pristine Angel|M
-Provoke|C
-Quag Vampires|C
-Quicksand|U
-Reckless Scholar|C
-Reflecting Pool|R
-Realm Seekers|R
-Reign of the Pit|R
-Reckless Spite|U
-Reito Lantern|U
-Relic Crush|U
-Rousing of Souls|C
-Reya Dawnbringer|R
-Respite|C
-Rout|R
-Runed Servitor|U
-Sakura-Tribe Elder|C
-Scourge of the Throne|M
-Scaled Wurm|C
-Screaming Seahawk|C
-Secrets of Paradise|C
-Secret Summoning|U
-Selvala's Charge|U
-Selvala's Enforcer|C
-Selvala, Explorer Returned|R
-Shoreline Ranger|C
-Sentinel Dispatch|C
-Silent Arbiter|R
-Silverchase Fox|C
-Skitter of Lizards|C
-Skeletal Scrying|U
-Soulcatcher|U
-Sky Spirit|U
-Spectral Searchlight|U
-Smallpox|U
-Spiritmonger|R
-Spontaneous Combustion|U
-Sporecap Spider|C
-Split Decision|U
-Squirrel Nest|U
-Stifle|R
-Stasis Cell|C
-Stronghold Discipline|C
-Stave Off|C
-Sulfuric Vortex|R
-Swords to Plowshares|U
-Necromantic Thirst|C
-Nature's Claim|C
-Noble Templar|C
-Paliano, the High City|R
-Orcish Cannonade|C
-Peace Strider|U
-Pernicious Deed|M
-Pelakka Wurm|U
-Pillarfield Ox|C
 Doomed Traveler|C
 Decimate|R
 Drakestown Forgotten|R
@@ -143,9 +55,51 @@ Elephant Guide|U
 Elvish Aberration|C
 Enclave Elite|C
 Enraged Revolutionary|C
-Explorer's Scope|U
 Fact or Fiction|U
+Explorer's Scope|U
+Swords to Plowshares|U
+Syphon Soul|C
+Traveler's Cloak|C
+Terastodon|R
+Torch Fiend|C
+Treasonous Ogre|U
+Tragic Slip|C
+Trumpet Blast|C
+Turn the Tide|C
+Twisted Abomination|C
+Typhoid Rats|C
+Uncontrollable Anger|U
+Tyrant's Choice|C
+Unhallowed Pact|C
+Unexpected Potential|U
+Unquestioned Authority|U
+Vampire Hexmage|U
+Valor Made Real|C
+Vent Sentinel|C
+Vedalken Orrery|R
+Vow of Duty|U
+Volcanic Fallout|U
+Victimize|U
+Wakedancer|C
+Wakestone Gargoyle|U
+Warmonger's Chariot|U
+Whispergear Sneak|C
+Wolfbriar Elemental|R
+Wind Dancer|U
+Woodvine Elemental|U
+Wood Sage|U
+Wrap in Vigor|C
+Wrap in Flames|C
+Worldknit|R
+Zombie Goliath|C
 Exploration|R
+Pillarfield Ox|C
+Phage the Untouchable|M
+Plagued Rusalka|U
+Pitchburn Devils|C
+Plated Seastrider|C
+Plummet|C
+Plea for Power|R
 Extract from Darkness|U
 Favorable Winds|U
 Fires of Yavimaya|U
@@ -188,17 +142,6 @@ Marchesa's Emissary|C
 Mana Geyser|C
 Marchesa's Smuggler|U
 Minamo Scrollkeeper|C
-Syphon Soul|C
-Traveler's Cloak|C
-Trumpet Blast|C
-Terastodon|R
-Twisted Abomination|C
-Uncontrollable Anger|U
-Typhoid Rats|C
-Torch Fiend|C
-Treasonous Ogre|U
-Tragic Slip|C
-Turn the Tide|C
 Marchesa, the Black Rose|M
 Mirrodin's Core|U
 Mirari's Wake|M
@@ -208,3 +151,60 @@ Morkrut Banshee|U
 Muzzio, Visionary Architect|M
 Muzzio's Preparations|C
 Mortify|U
+Necromantic Thirst|C
+Nature's Claim|C
+Noble Templar|C
+Paliano, the High City|R
+Orcish Cannonade|C
+Peace Strider|U
+Pernicious Deed|M
+Pelakka Wurm|U
+Power of Fire|C
+Pride Guardian|C
+Predator's Howl|U
+Power Play|U
+Pristine Angel|M
+Quag Vampires|C
+Provoke|C
+Realm Seekers|R
+Quicksand|U
+Reckless Scholar|C
+Reflecting Pool|R
+Reign of the Pit|R
+Reckless Spite|U
+Reito Lantern|U
+Relic Crush|U
+Rousing of Souls|C
+Reya Dawnbringer|R
+Respite|C
+Rout|R
+Runed Servitor|U
+Sakura-Tribe Elder|C
+Scourge of the Throne|M
+Scaled Wurm|C
+Screaming Seahawk|C
+Secrets of Paradise|C
+Secret Summoning|U
+Selvala's Charge|U
+Selvala's Enforcer|C
+Shoreline Ranger|C
+Selvala, Explorer Returned|R
+Sentinel Dispatch|C
+Silent Arbiter|R
+Silverchase Fox|C
+Skitter of Lizards|C
+Skeletal Scrying|U
+Soulcatcher|U
+Spectral Searchlight|U
+Sky Spirit|U
+Smallpox|U
+Spiritmonger|R
+Spontaneous Combustion|U
+Split Decision|U
+Sporecap Spider|C
+Squirrel Nest|U
+Stifle|R
+Stasis Cell|C
+Stronghold Discipline|C
+Stave Off|C
+Sulfuric Vortex|R

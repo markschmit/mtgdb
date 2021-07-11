@@ -1,7 +1,6 @@
-Dakkon Blackblade|R
-Cyclone|R
-Akron Legionnaire|R
 Abu Ja'far|U
+Akron Legionnaire|R
+Ivory Guardians|U
 Arena of the Ancients|R
 Active Volcano|C
 Angelic Voices|R
@@ -31,6 +30,8 @@ Dance of Many|R
 Cuombajj Witches|C
 Craw Giant|U
 D'Avenant Archer|C
+Cyclone|R
+Dakkon Blackblade|R
 Dandan|C
 Emerald Dragonfly|C
 Divine Offering|C
@@ -45,27 +46,26 @@ Fountain of Youth|C
 Flash Flood|C
 Gabriel Angelfire|R
 Ghazban Ogre|C
+Goblin Artisans|U
 Giant Slug|C
 Goblin Digging Team|C
 Goblin Shrine|C
-Goblin Artisans|U
 Goblins of the Flarg|C
 Hasran Ogress|C
 Hell's Caretaker|R
 Indestructible Aura|C
 Horn of Deafening|R
-Ivory Guardians|U
 Juxtapose|R
-Jeweled Bird|R
 Jalum Tome|R
+Jeweled Bird|R
 Keepers of the Faith|C
-Kei Takahashi|U
 Johan|R
+Kei Takahashi|U
 Metamorphosis|C
+Land's Edge|R
 Living Armor|C
 Marhault Elsdragon|U
 Mountain Yeti|C
-Land's Edge|R
 Nebuchadnezzar|R
 Petra Sphinx|R
 Obelisk of Undoing|R
@@ -76,27 +76,27 @@ Puppet Master|U
 Rabid Wombat|U
 Remove Soul|C
 Rakalite|R
-Recall|U
 Repentant Blacksmith|C
 Runesword|C
 Revelation|R
+Recall|U
+Scavenger Folk|C
 Rubinia Soulsinger|R
 Safe Haven|R
-Scavenger Folk|C
 Shield Wall|U
 Sentinel|R
 Serpent Generator|R
 Sivitri Scarzam|U
-Shimian Night Stalker|U
 Stangg|R
 Sol'kanar the Swamp King|R
+Shimian Night Stalker|U
 Takklemaggot|U
 Storm Seeker|U
 The Fallen|U
 The Wretched|R
 Teleport|R
-Transmutation|C
 Tobias Andrion|U
+Transmutation|C
 Tormod's Crypt|C
 Tor Wauki|U
 Triassic Egg|R
@@ -106,9 +106,9 @@ Urza's Power Plant|C
 Voodoo Doll|R
 Vaevictis Asmadi|R
 Wall of Heat|C
-Wall of Opposition|U
-Wall of Vapor|C
 Wall of Shadows|C
+Wall of Vapor|C
+Wall of Opposition|U
 Wall of Wonder|U
 War Elephant|C
 Witch Hunter|U

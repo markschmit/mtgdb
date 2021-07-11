@@ -1,19 +1,18 @@
-Cryptic Command|S
 Blightning|S
 Bituminous Blast|S
 Burst Lightning|S
-Brave the Elements|S
 Cancel|S
-Condemn|S
-Cruel Edict|S
-Celestial Purge|S
+Brave the Elements|S
 Corrupt|S
+Celestial Purge|S
+Cruel Edict|S
+Condemn|S
 Damnation|S
-Day of Judgment|S
+Cryptic Command|S
 Disenchant|S
-Powder Keg|S
-Doom Blade|S
+Day of Judgment|S
 Fireball|S
+Doom Blade|S
 Flame Javelin|S
 Giant Growth|S
 Harmonize|S
@@ -21,26 +20,27 @@ Hinder|S
 Harrow|S
 Hypnotic Specter|S
 Lightning Bolt|S
-Infest|S
 Incinerate|S
-Mana Leak|S
 Lightning Helix|S
+Infest|S
+Mana Leak|S
 Mortify|S
 Mana Tithe|S
 Nameless Inversion|S
 Negate|S
 Ponder|S
 Oxidize|S
+Powder Keg|S
 Psionic Blast|S
 Psychatog|S
 Pyroclasm|S
 Rampant Growth|S
-Putrefy|S
 Reciprocate|S
+Putrefy|S
 Remove Soul|S
-Recollect|S
 Searing Blaze|S
 Sign in Blood|S
+Recollect|S
 Terminate|S
 Tidings|S
 Terror|S
@@ -48,6 +48,6 @@ Treasure Hunt|S
 Unmake|S
 Wasteland|S
 Voidmage Prodigy|S
-Volcanic Fallout|S
 Zombify|S
+Volcanic Fallout|S
 Wrath of God|S

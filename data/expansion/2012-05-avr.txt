@@ -1,12 +1,66 @@
+Angel of Glory's Rise|R
+Ulvenwald Tracker|R
+Tyrant of Discord|R
+Undead Executioner|C
+Uncanny Speed|C
+Unhallowed Pact|C
+Vanguard's Shield|C
+Vexing Devil|R
+Vessel of Endless Rest|U
+Vanishment|U
+Voice of the Provinces|C
+Vigilante Justice|U
+Wandering Wolf|C
+Vorstclaw|U
+Wildwood Geist|C
+Wolfir Avenger|U
+Wild Defiance|R
+Wingcrafter|C
+Wolfir Silverheart|R
+Zealous Conscripts|R
+Yew Spirit|U
+Zealous Strike|C
+Trusted Forcemage|C
+Sheltering Word|C
+Seraph Sanctuary|C
+Silverblade Paladin|R
+Sigarda, Host of Herons|M
+Snare the Skies|C
+Slayers' Stronghold|R
+Somberwald Sage|R
+Somberwald Vigilante|C
+Soul of the Harvest|R
+Soulcage Fiend|C
+Spectral Gateguards|C
+Spectral Prison|C
+Stern Mentor|U
+Spirit Away|R
+Stonewright|U
+Stolen Goods|R
+Swamp|L
+Tamiyo, the Moon Sage|M
+Tandem Lookout|U
+Temporal Mastery|M
+Terminus|R
+Thatcher Revolt|C
+Terrifying Presence|C
+Thraben Valiant|C
+Thunderous Wrath|U
+Thunderbolt|C
+Timberland Guide|C
+Tormentor's Trident|U
+Tibalt, the Fiend-Blooded|M
+Treacherous Pit-Dweller|R
+Triumph of Ferocity|U
+Triumph of Cruelty|U
+Abundant Growth|C
+Alchemist's Apprentice|C
+Amass the Components|C
 Aggravate|U
 Alchemist's Refuge|R
-Angel of Glory's Rise|R
 Angel's Mercy|C
 Angel of Jubilation|R
 Angel's Tomb|U
-Abundant Growth|C
-Amass the Components|C
-Alchemist's Apprentice|C
 Angelic Armaments|U
 Angelic Wall|C
 Arcane Melee|R
@@ -105,6 +159,32 @@ Hanweir Lancer|C
 Harvester of Souls|R
 Haunted Guardian|U
 Havengul Skaab|C
+Havengul Vampire|U
+Heirs of Stromkirk|C
+Herald of War|R
+Holy Justiciar|U
+Hound of Griselbrand|R
+Homicidal Seclusion|U
+Hunted Ghoul|C
+Howlgeist|U
+Human Frailty|U
+Infinite Reflection|R
+Island|L
+Into the Void|U
+Kessig Malcontents|U
+Joint Assault|C
+Kruin Striker|C
+Killing Wave|R
+Latch Seeker|U
+Lair Delve|C
+Lightning Mauler|U
+Leap of Faith|C
+Lightning Prowess|U
+Lone Revenant|R
+Lunar Mystic|R
+Maalfeld Twins|U
+Malicious Intent|C
+Mad Prophet|C
 Marrow Bats|U
 Malignus|M
 Mental Agony|C
@@ -134,38 +214,7 @@ Polluted Dead|C
 Predator's Gambit|C
 Raging Poltergeist|C
 Primal Surge|M
-Scalding Devil|C
-Rush of Blood|U
-Scrapskin Drake|C
-Scroll of Griselbrand|C
-Searchlight Geist|C
-Seraph of Dawn|C
-Scroll of Avacyn|C
-Second Guess|U
-Sheltering Word|C
-Silverblade Paladin|R
-Seraph Sanctuary|C
-Sigarda, Host of Herons|M
-Snare the Skies|C
-Slayers' Stronghold|R
-Somberwald Sage|R
-Somberwald Vigilante|C
-Soul of the Harvest|R
-Soulcage Fiend|C
-Spectral Gateguards|C
-Spectral Prison|C
-Stern Mentor|U
-Spirit Away|R
-Stonewright|U
-Stolen Goods|R
-Swamp|L
-Tamiyo, the Moon Sage|M
-Tandem Lookout|U
-Terminus|R
-Temporal Mastery|M
-Terrifying Presence|C
 Reforge the Soul|R
-Thatcher Revolt|C
 Rain of Thorns|U
 Renegade Demon|C
 Restoration Angel|R
@@ -175,60 +224,11 @@ Riot Ringleader|C
 Righteous Blow|C
 Rotcrown Ghoul|C
 Rite of Ruin|R
-Hound of Griselbrand|R
-Homicidal Seclusion|U
-Latch Seeker|U
-Leap of Faith|C
-Lair Delve|C
-Lightning Mauler|U
-Lightning Prowess|U
-Lone Revenant|R
-Lunar Mystic|R
-Maalfeld Twins|U
-Malicious Intent|C
-Mad Prophet|C
-Hunted Ghoul|C
-Howlgeist|U
-Human Frailty|U
-Infinite Reflection|R
-Island|L
-Into the Void|U
-Kessig Malcontents|U
-Joint Assault|C
-Kruin Striker|C
-Killing Wave|R
-Thraben Valiant|C
-Tibalt, the Fiend-Blooded|M
-Thunderous Wrath|U
-Thunderbolt|C
-Tormentor's Trident|U
-Timberland Guide|C
-Treacherous Pit-Dweller|R
-Triumph of Ferocity|U
-Triumph of Cruelty|U
-Trusted Forcemage|C
-Ulvenwald Tracker|R
-Tyrant of Discord|R
-Undead Executioner|C
-Uncanny Speed|C
-Unhallowed Pact|C
-Vanguard's Shield|C
-Vexing Devil|R
-Vanishment|U
-Vessel of Endless Rest|U
-Voice of the Provinces|C
-Vigilante Justice|U
-Wandering Wolf|C
-Vorstclaw|U
-Wildwood Geist|C
-Wild Defiance|R
-Wolfir Avenger|U
-Wolfir Silverheart|R
-Wingcrafter|C
-Zealous Conscripts|R
-Yew Spirit|U
-Zealous Strike|C
-Havengul Vampire|U
-Heirs of Stromkirk|C
-Herald of War|R
-Holy Justiciar|U
+Scalding Devil|C
+Rush of Blood|U
+Scrapskin Drake|C
+Scroll of Griselbrand|C
+Scroll of Avacyn|C
+Searchlight Geist|C
+Seraph of Dawn|C
+Second Guess|U

@@ -1,10 +1,12 @@
-Alaborn Veteran|R
+Bear Cub|C
+Bloodcurdling Scream|U
+Air Elemental|U
 Alaborn Cavalier|U
 Alaborn Grenadier|C
 Alaborn Musketeer|C
 Alaborn Trooper|C
 Abyssal Nightstalker|U
-Air Elemental|U
+Alaborn Veteran|R
 Alaborn Zealot|U
 Ancient Craving|R
 Alluring Scent|R
@@ -18,8 +20,6 @@ Archangel|R
 Armageddon|R
 Armored Griffin|U
 Barbtooth Wurm|C
-Bloodcurdling Scream|U
-Bear Cub|C
 Bargain|U
 Blaze|U
 Bee Sting|U
@@ -78,9 +78,9 @@ Moaning Spirit|C
 Mind Rot|C
 Mountain|L
 Monstrous Growth|C
-Mystic Denial|U
-Muck Rats|C
 Natural Spring|C
+Muck Rats|C
+Mystic Denial|U
 Nature's Lore|C
 Nightstalker Engine|R
 Norwood Archers|C
@@ -133,9 +133,9 @@ Talas Warrior|R
 Talas Scout|C
 Temple Acolyte|C
 Temple Elder|U
-Theft of Dreams|U
 Temporal Manipulation|R
 Tidal Surge|C
+Theft of Dreams|U
 Touch of Brilliance|C
 Time Ebb|C
 Town Sentry|C

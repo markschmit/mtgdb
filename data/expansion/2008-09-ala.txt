@@ -1,9 +1,66 @@
+Ad Nauseam|R
+Dispeller's Capsule|C
 Ajani Vengeant|M
 Agony Warp|C
-Ad Nauseam|R
 Akrasan Squire|C
+Crumbling Necropolis|U
+Cunning Lethemancer|R
+Dawnray Archer|U
+Cylian Elf|C
+Cruel Ultimatum|R
+Deathgreeter|C
+Death Baron|R
+Deft Duelist|C
+Demon's Herald|U
+Dragon Fodder|C
+Empyrial Archangel|M
+Etherium Astrolabe|U
+Dragon's Herald|U
+Dregscape Zombie|C
+Dreg Reaver|C
+Druid of the Anima|C
+Elspeth, Knight-Errant|M
+Drumhunter|U
+Elvish Visionary|C
+Esper Battlemage|U
 Algae Gharial|U
 Angel's Herald|U
+Esper Panorama|C
+Exuberant Firestoker|U
+Fatestitcher|U
+Filigree Sages|U
+Feral Hydra|R
+Flameblast Dragon|R
+Fire-Field Ogre|U
+Fleshbag Marauder|U
+Gift of the Gargantuan|C
+Forest|L
+Esper Charm|U
+Etherium Sculptor|C
+Ethersworn Canonist|R
+Executioner's Capsule|C
+Excommunicate|C
+Hindering Light|C
+Hellkite Overlord|M
+Hissing Iguanar|C
+Incurable Ogre|C
+Immortal Coil|R
+Island|L
+Invincible Hymn|R
+Infest|U
+Goblin Deathraiders|C
+Gather Specimens|R
+Glaze Fiend|C
+Goblin Assault|R
+Goblin Mountaineer|C
+Grixis Panorama|C
+Godtoucher|C
+Godsire|M
+Grixis Battlemage|U
+Grixis Charm|U
+Guardians of Akrasa|C
+Gustrider Exuberant|C
+Hell's Thunder|R
 Angelsong|C
 Angelic Benediction|U
 Archdemon of Unx|R
@@ -17,49 +74,6 @@ Behemoth's Herald|U
 Blister Beetle|C
 Blightning|C
 Blood Cultist|U
-Fleshbag Marauder|U
-Goblin Deathraiders|C
-Forest|L
-Gift of the Gargantuan|C
-Gather Specimens|R
-Glaze Fiend|C
-Goblin Assault|R
-Goblin Mountaineer|C
-Grixis Panorama|C
-Godtoucher|C
-Godsire|M
-Grixis Battlemage|U
-Grixis Charm|U
-Guardians of Akrasa|C
-Gustrider Exuberant|C
-Hell's Thunder|R
-Hindering Light|C
-Hellkite Overlord|M
-Hissing Iguanar|C
-Incurable Ogre|C
-Immortal Coil|R
-Island|L
-Invincible Hymn|R
-Infest|U
-Jhessian Infiltrator|U
-Jhessian Lookout|C
-Jund Battlemage|U
-Jungle Shrine|U
-Jund Panorama|C
-Jund Charm|U
-Etherium Astrolabe|U
-Esper Panorama|C
-Esper Charm|U
-Etherium Sculptor|C
-Ethersworn Canonist|R
-Executioner's Capsule|C
-Excommunicate|C
-Exuberant Firestoker|U
-Fatestitcher|U
-Filigree Sages|U
-Feral Hydra|R
-Flameblast Dragon|R
-Fire-Field Ogre|U
 Bloodpyre Elemental|C
 Bloodthorn Taunter|C
 Branching Bolt|C
@@ -82,21 +96,22 @@ Courier's Capsule|C
 Cradle of Vitality|R
 Covenant of Minds|R
 Crucible of Fire|R
-Crumbling Necropolis|U
-Dawnray Archer|U
-Cruel Ultimatum|R
-Cunning Lethemancer|R
-Cylian Elf|C
-Deathgreeter|C
-Death Baron|R
-Deft Duelist|C
-Demon's Herald|U
-Dragon Fodder|C
-Dispeller's Capsule|C
-Dragon's Herald|U
-Dregscape Zombie|C
-Dreg Reaver|C
-Druid of the Anima|C
+Jungle Weaver|C
+Kathari Screecher|C
+Kederekt Creeper|C
+Kederekt Leviathan|R
+Keeper of Progenitus|R
+Jhessian Infiltrator|U
+Jhessian Lookout|C
+Jund Battlemage|U
+Jungle Shrine|U
+Jund Panorama|C
+Jund Charm|U
+Knight of the Skyward Eye|C
+Kiss of the Amesha|U
+Knight of the White Orchid|R
+Knight-Captain of Eos|R
+Lich's Mirror|M
 Kresh the Bloodbraided|M
 Lightning Talons|C
 Manaplasm|R
@@ -115,7 +130,30 @@ Mountain|L
 Mycoloth|R
 Naya Battlemage|U
 Naturalize|C
+Scavenger Drake|U
+Savage Lands|U
+Scourge Devil|U
+Sedraxis Specter|R
+Seaside Citadel|U
+Scourglass|R
+Shadowfeed|C
+Sedris, the Traitor King|M
+Sharding Sphinx|R
+Shore Snapper|C
+Sharuum the Hegemon|M
+Sighted-Caste Sorcerer|C
+Sigil of Distinction|R
+Sigil Blessing|C
+Sigiled Paladin|U
+Skeletal Kathari|C
+Skill Borrower|R
+Skeletonize|U
+Skullmulcher|R
+Soul's Might|C
+Soul's Grace|C
+Soul's Fire|C
 Necrogenesis|U
+Spearbreaker Behemoth|R
 Naya Panorama|C
 Naya Charm|U
 Obelisk of Bant|C
@@ -149,17 +187,6 @@ Rhox Charger|U
 Rhox War Monk|U
 Ridge Rannet|C
 Rip-Clan Crasher|C
-Jungle Weaver|C
-Kathari Screecher|C
-Kederekt Creeper|C
-Kederekt Leviathan|R
-Keeper of Progenitus|R
-Knight of the Skyward Eye|C
-Kiss of the Amesha|U
-Knight of the White Orchid|R
-Knight-Captain of Eos|R
-Lich's Mirror|M
-Elspeth, Knight-Errant|M
 Rockcaster Platoon|U
 Rockslide Elemental|U
 Sacellum Godspeaker|R
@@ -167,34 +194,7 @@ Salvage Titan|R
 Sanctum Gargoyle|C
 Sarkhan Vol|M
 Sangrite Surge|U
-Drumhunter|U
-Elvish Visionary|C
-Esper Battlemage|U
-Empyrial Archangel|M
 Savage Hunger|C
-Scavenger Drake|U
-Savage Lands|U
-Scourge Devil|U
-Sedraxis Specter|R
-Scourglass|R
-Seaside Citadel|U
-Shadowfeed|C
-Sedris, the Traitor King|M
-Sharding Sphinx|R
-Shore Snapper|C
-Sharuum the Hegemon|M
-Sighted-Caste Sorcerer|C
-Sigil of Distinction|R
-Sigil Blessing|C
-Sigiled Paladin|U
-Skeletal Kathari|C
-Skill Borrower|R
-Skeletonize|U
-Skullmulcher|R
-Soul's Grace|C
-Soul's Might|C
-Soul's Fire|C
-Spearbreaker Behemoth|R
 Sphinx Sovereign|M
 Sphinx's Herald|U
 Spell Snip|C
@@ -205,9 +205,9 @@ Tar Fiend|R
 Sunseed Nurturer|U
 Stoic Angel|R
 Swamp|L
-Tezzeret the Seeker|M
-Swerve|U
 Thorn-Thrash Viashino|C
+Swerve|U
+Tezzeret the Seeker|M
 Thoughtcutter Agent|U
 Thunder-Thrash Elder|U
 Tidehollow Sculler|U

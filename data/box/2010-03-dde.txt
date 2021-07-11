@@ -1,7 +1,6 @@
-Gerrard Capashen|R
-Evasive Action|U
-Armadillo Cloak|C
+Exotic Curse|C
 Allied Strategies|U
+Armadillo Cloak|C
 Bone Shredder|U
 Carrion Feeder|C
 Charging Troll|U
@@ -9,47 +8,52 @@ Darigaaz's Charm|U
 Coalition Relic|R
 Dark Ritual|C
 Darigaaz, the Igniter|R
+Evasive Action|U
 Elfhame Palace|U
-Exotic Curse|C
 Fertile Ground|C
-Yavimaya Elder|C
-Verduran Emissary|U
-Whispersilk Cloak|U
-Voltaic Key|U
-Worn Powerstone|U
+Gerrard Capashen|R
 Forest|L
-Gerrard's Command|C
 Harrow|C
-Hideous End|C
 Hornet Cannon|U
+Gerrard's Command|C
+Hideous End|C
 Island|L
 Lightning Greaves|U
-Mountain|L
 Living Death|R
 Nomadic Elf|C
+Mountain|L
 Narrow Escape|C
 Order of Yawgmoth|U
 Phyrexian Arena|R
-Phyrexian Battleflies|C
 Phyrexian Broodlings|C
-Phyrexian Colossus|R
-Phyrexian Defiler|U
 Phyrexian Debaser|C
+Phyrexian Defiler|U
+Phyrexian Battleflies|C
 Phyrexian Denouncer|C
+Phyrexian Colossus|R
+Phyrexian Plaguelord|R
 Phyrexian Gargantua|U
 Phyrexian Ghoul|C
-Phyrexian Plaguelord|R
-Phyrexian Totem|U
+Phyrexian Hulk|U
 Phyrexian Negator|M
-Priest of Gix|U
+Phyrexian Totem|U
 Phyrexian Processor|R
-Plains|L
 Phyrexian Vault|U
+Plains|L
 Power Armor|U
 Quirion Elves|C
 Puppet Strings|U
 Sanguine Guard|U
+Tribal Flames|C
+Treva's Charm|U
+Treva, the Renewer|R
+Urza's Rage|M
+Yavimaya Elder|C
 Rith's Charm|U
+Verduran Emissary|U
+Whispersilk Cloak|U
+Voltaic Key|U
+Worn Powerstone|U
 Rith, the Awakener|R
 Slay|U
 Shivan Oasis|U
@@ -59,9 +63,5 @@ Swamp|L
 Tendrils of Corruption|C
 Thornscape Apprentice|C
 Thornscape Battlemage|U
-Tribal Flames|C
-Treva's Charm|U
 Thunderscape Battlemage|U
-Treva, the Renewer|R
-Urza's Rage|M
-Phyrexian Hulk|U
+Priest of Gix|U

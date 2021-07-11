@@ -1,17 +1,17 @@
-Alhammarret, High Arbiter|S
-Ajani Steadfast|S
 Acquire|S
 Aeronaut Tinkerer|S
+Ajani Steadfast|S
 Ajani, Caller of the Pride|S
+Alhammarret, High Arbiter|S
 Angelic Skirmisher|S
-Arashin Sovereign|S
 Ankle Shanker|S
-Angel of Glory's Rise|S
 Archfiend of Depravity|S
-Barrage Tyrant|S
+Angel of Glory's Rise|S
 Arrest|S
-Arena|S
+Arashin Sovereign|S
 Avalanche Tusker|S
+Arena|S
+Barrage Tyrant|S
 Birds of Paradise|S
 Boltwing Marauder|S
 Bloodthrone Vampire|S
@@ -30,8 +30,8 @@ Consume Spirit|S
 Deepfathom Skulker|S
 Day of Judgment|S
 Defiant Bloodlord|S
-Devil's Play|S
 Dragon Fodder|S
+Devil's Play|S
 Dragonlord's Servant|S
 Dragonscale General|S
 Dread Defiler|S
@@ -40,42 +40,17 @@ Dromoka, the Eternal|S
 Drowner of Hope|S
 Eidolon of Blossoms|S
 Duress|S
-Faithless Looting|S
 Dwynen, Gilt-Leaf Daen|S
+Faithless Looting|S
 Evolving Wilds|S
 Electrolyze|S
 Feast of Blood|S
 Fated Conflagration|S
 Fireball|S
-Siege Rhino|S
-Silverblade Paladin|S
-Soul of Ravnica|S
-Soul of Zendikar|S
-Stealer of Secrets|S
-Steward of Valeron|S
-Standstill|S
-Sunblast Angel|S
-Spined Wurm|S
-Sultai Charm|S
-Sylvan Caryatid|S
-Supreme Verdict|S
-Surgical Extraction|S
-Temur War Shaman|S
-Terastodon|S
-Turnabout|S
-Treasure Hunt|S
-Tyrant of Valakut|S
-Valorous Stance|S
-Vampire Nocturnus|S
-Windseeker Centaur|S
-Voidmage Husher|S
-Warmonger|S
-Xathrid Necromancer|S
-Wash Out|S
 Flamerush Rider|S
 Foe-Razer Regent|S
-Garruk Wildspeaker|S
 Frost Titan|S
+Garruk Wildspeaker|S
 Garruk, Apex Predator|S
 Garruk, Caller of Beasts|S
 Genesis Hydra|S
@@ -88,7 +63,6 @@ Gravecrawler|S
 Grave Titan|S
 Guul Draz Assassin|S
 Hamletback Goliath|S
-Harbinger of the Hunt|S
 Hero of Goma Fada|S
 Honored Hierarch|S
 Hixus, Prison Warden|S
@@ -100,8 +74,8 @@ Ivorytusk Fortress|S
 Jace, Memory Adept|S
 Jace, the Living Guildpact|S
 Jaya Ballard, Task Mage|S
-Knight Exemplar|S
 Karametra's Acolyte|S
+Knight Exemplar|S
 Kor Skyfisher|S
 Kothophed, Soul Hoarder|S
 Lightning Hounds|S
@@ -110,17 +84,17 @@ Liliana Vess|S
 Magister of Worth|S
 Merfolk Mesmerist|S
 Memoricide|S
-Mirran Crusader|S
 Mana Crypt|S
+Mirran Crusader|S
 Munda's Vanguard|S
 Nalathni Dragon|S
 Necromaster Dragon|S
+Nightveil Specter|S
 Nissa Revane|S
 Nissa, Worldwaker|S
 Ogre Arsonist|S
-Nightveil Specter|S
-Oran-Rief Hydra|S
 Ogre Battledriver|S
+Oran-Rief Hydra|S
 Ojutai's Command|S
 Phyrexian Rager|S
 Pia and Kiran Nalaar|S
@@ -139,8 +113,34 @@ Scavenging Ooze|S
 Sandsteppe Citadel|S
 Scythe Leopard|S
 Scent of Cinder|S
-Sewers of Estark|S
 Seeker of the Way|S
+Sewers of Estark|S
 Serra Avatar|S
 Shamanic Revelation|S
 Silver Drake|S
+Siege Rhino|S
+Silverblade Paladin|S
+Soul of Ravnica|S
+Soul of Zendikar|S
+Stealer of Secrets|S
+Spined Wurm|S
+Steward of Valeron|S
+Standstill|S
+Sunblast Angel|S
+Sultai Charm|S
+Sylvan Caryatid|S
+Supreme Verdict|S
+Surgical Extraction|S
+Temur War Shaman|S
+Turnabout|S
+Terastodon|S
+Treasure Hunt|S
+Voidmage Husher|S
+Tyrant of Valakut|S
+Valorous Stance|S
+Vampire Nocturnus|S
+Windseeker Centaur|S
+Xathrid Necromancer|S
+Wash Out|S
+Warmonger|S
+Harbinger of the Hunt|S

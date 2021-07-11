@@ -1,42 +1,15 @@
+Bog Imp|C
 Abyssal Horror|R
 Air Elemental|U
 Ancient Craving|R
 Alluring Scent|R
 Angel of Light|U
-Path of Peace|C
-Hulking Ogre|U
-Ingenious Thief|C
-Knight Errant|C
-Jagged Lightning|U
-Island|L
-Lone Wolf|C
-Lava Axe|C
-Last Chance|R
-Loyal Sentry|R
-Man-o'-War|U
-Lynx|U
-Merfolk of the Pearl Trident|S
-Mons's Goblin Raiders|S
-Moon Sprite|U
-Mind Rot|C
-Muck Rats|C
-Mountain|L
-Natural Spring|U
-Monstrous Growth|C
-Nature's Cloak|R
-Nature's Lore|C
-Norwood Archers|C
-Norwood Ranger|C
-Ogre Warrior|C
-Owl Familiar|U
-Phantom Warrior|R
 Angel of Mercy|U
 Archangel|R
 Angelic Blessing|C
 Ardent Militia|U
 Barbtooth Wurm|C
 Armageddon|R
-Bog Imp|C
 Blinding Light|R
 Bargain|U
 Bog Raiders|C
@@ -45,6 +18,48 @@ Border Guard|C
 Bull Hippo|U
 Breath of Life|U
 Champion Lancer|R
+Hulking Ogre|U
+Ingenious Thief|C
+Knight Errant|C
+Jagged Lightning|U
+Lava Axe|C
+Lone Wolf|C
+Last Chance|R
+Loyal Sentry|R
+Man-o'-War|U
+Lynx|U
+Merfolk of the Pearl Trident|S
+Moon Sprite|U
+Mons's Goblin Raiders|S
+Mind Rot|C
+Monstrous Growth|C
+Muck Rats|C
+Mountain|L
+Nature's Cloak|R
+Nature's Lore|C
+Natural Spring|U
+Norwood Archers|C
+Norwood Ranger|C
+Owl Familiar|U
+Ogre Warrior|C
+Phantom Warrior|R
+Path of Peace|C
+Pride of Lions|U
+Island|L
+Plains|L
+Raging Goblin|C
+Piracy|R
+Psychic Transfer|R
+Ravenous Rats|U
+Ransack|R
+Raise Dead|C
+Remove Soul|C
+Relearn|U
+Relentless Assault|R
+Righteous Charge|U
+Righteous Fury|R
+Royal Falcon|S
+Renewing Touch|U
 Charging Paladin|U
 Cinder Storm|U
 Chorus of Woe|C
@@ -93,21 +108,31 @@ Hollow Dogs|C
 Hand of Death|C
 Hulking Goblin|C
 Howling Fury|U
-Pride of Lions|U
-Plains|L
-Piracy|R
-Psychic Transfer|R
-Ravenous Rats|U
-Ransack|R
-Raging Goblin|C
-Raise Dead|C
-Remove Soul|C
-Relearn|U
-Relentless Assault|R
-Righteous Charge|U
-Renewing Touch|U
-Righteous Fury|R
-Royal Falcon|S
+Thunder Dragon|R
+Time Warp|R
+Time Ebb|C
+Tidings|U
+Touch of Brilliance|C
+Trained Orgg|R
+Untamed Wilds|U
+Undo|U
+Tremor|C
+Venerable Monk|C
+Volcanic Dragon|R
+Veteran Cavalier|U
+Vengeance|U
+Vizzerdrix|R
+Water Elemental|U
+Volcanic Hammer|C
+Whiptail Wurm|U
+Wild Griffin|C
+Whirlwind|R
+Wicked Pact|R
+Willow Elf|S
+Wild Ox|U
+Wood Elves|U
+Wind Sail|U
+Wind Drake|C
 Royal Trooper|U
 Scathe Zombies|S
 Sacred Nectar|C
@@ -131,28 +156,3 @@ Swamp|L
 Sylvan Basilisk|R
 Thorn Elemental|R
 Sylvan Yeti|R
-Thunder Dragon|R
-Time Warp|R
-Tidings|U
-Touch of Brilliance|C
-Time Ebb|C
-Trained Orgg|R
-Untamed Wilds|U
-Undo|U
-Tremor|C
-Venerable Monk|C
-Volcanic Dragon|R
-Vengeance|U
-Vizzerdrix|R
-Veteran Cavalier|U
-Water Elemental|U
-Volcanic Hammer|C
-Whiptail Wurm|U
-Wild Griffin|C
-Wicked Pact|R
-Whirlwind|R
-Willow Elf|S
-Wild Ox|U
-Wind Drake|C
-Wood Elves|U
-Wind Sail|U

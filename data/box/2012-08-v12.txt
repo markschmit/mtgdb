@@ -1,11 +1,10 @@
-Ancient Tomb|M
 Boseiju, Who Shelters All|M
 Desert|M
 Cephalid Coliseum|M
-Grove of the Burnwillows|M
 Forbidden Orchard|M
 Dryad Arbor|M
 Glacial Chasm|M
+Grove of the Burnwillows|M
 High Market|M
 Maze of Ith|M
 Murmuring Bosk|M
@@ -13,3 +12,4 @@ Shivan Gorge|M
 Urborg, Tomb of Yawgmoth|M
 Windbrisk Heights|M
 Vesuva|M
+Ancient Tomb|M

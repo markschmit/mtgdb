@@ -1,18 +1,18 @@
-Sylvan Library|R
-The Mimeoplasm|M
-Vela the Night-Clad|M
+Decree of Pain|R
 Command Tower|C
 Chaos Warp|R
-Decree of Pain|R
 Desertion|R
-Duplicant|R
 Diaochan, Artful Beauty|R
 Dragonlair Spider|R
 Edric, Spymaster of Trest|R
 Loyal Retainers|U
+Duplicant|R
 Kaalia of the Vast|M
 Mind's Eye|R
 Maelstrom Wanderer|M
 Rhystic Study|C
 Mirari's Wake|R
 Scroll Rack|R
+Sylvan Library|R
+Vela the Night-Clad|M
+The Mimeoplasm|M
