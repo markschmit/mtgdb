@@ -1,0 +1,220 @@
+Banshee|U
+Akron Legionnaire|R
+Active Volcano|U
+All Hallow's Eve|R
+Alabaster Potion|U
+Amrou Kithkin|C
+Anaba Spirit Crafter|C
+Angus Mackenzie|R
+Anaba Ancestor|C
+Arena of the Ancients|R
+Arboria|R
+Arcades Sabboth|R
+Ashes to Ashes|U
+Astrolabe|C
+Shu General|C
+Shu Elite Companions|C
+Sir Shandlar of Eberyn|C
+Sivitri Scarzam|C
+Shu Soldier-Farmers|C
+Shu Cavalry|C
+Slashing Tiger|C
+D'Avenant Archer|C
+Demonic Torment|C
+Dance of Many|U
+Desperate Charge|C
+Desert Twister|U
+Axelrod Gunnarson|U
+Barl's Cage|R
+Barktooth Warbeard|C
+Bartel Runeaxe|U
+Bayou|R
+Benthic Explorers|C
+Bazaar of Baghdad|R
+Bone Flute|C
+Blood Lust|C
+Black Vise|R
+Boris Devilboon|U
+Boomerang|C
+Brilliant Plan|C
+Borrowing 100,000 Arrows|U
+Burning of Xinye|R
+Capture of Jingzhou|R
+Carrion Ants|U
+Call to Arms|U
+Cinder Storm|U
+Chain Lightning|C
+City of Shadows|R
+Chromium|R
+Cleanse|R
+Corrupt Eunuchs|U
+Coal Golem|C
+Crimson Kobolds|C
+Concordant Crossroads|R
+Cosmic Horror|R
+Crimson Manticore|U
+Didgeridoo|U
+Disharmony|U
+Disenchant|C
+Divine Intervention|R
+Dong Zhou, the Tyrant|R
+Elves of Deep Shadow|C
+Eightfold Maze|U
+Evil Presence|C
+Faerie Noble|U
+Exorcist|U
+Famine|U
+False Defeat|U
+Fellwar Stone|C
+Fevered Strength|C
+Fire Ambush|C
+Fire Drake|C
+Fire Sprites|C
+Firestorm Phoenix|R
+Forced Retreat|C
+Force Spike|C
+Flash Flood|U
+Forest|L
+Freyalise's Winds|R
+Forked Lightning|U
+Gabriel Angelfire|R
+Gaea's Touch|U
+Frost Giant|U
+Gauntlets of Chaos|R
+Ghostly Visit|C
+Grim Tutor|R
+Giant Growth|C
+Ghosts of the Damned|C
+Guan Yu, Sainted Warrior|U
+Guan Yu's 1,000-Li March|R
+Halfdane|R
+Gwendlyn Di Corci|R
+Hazezon Tamar|R
+Hammerheim|U
+Heal|C
+Hua Tuo, Honored Physician|R
+Heavy Fog|C
+Hunting Cheetah|C
+Hunding Gjornersen|U
+Hellfire|R
+Hurloon Minotaur|C
+Immolation|C
+Illusionary Mask|R
+Island|L
+Infuse|C
+Ivory Guardians|U
+Jerrard of the Closed Fist|C
+Jedit Ojanen|C
+Jungle Lion|C
+Karakas|R
+Kei Takahashi|U
+Kjeldoran Frostbeast|U
+Killer Bees|U
+Kobold Drill Sergeant|U
+Knowledge Vault|U
+Kobold Overlord|U
+Kobold Taskmaster|C
+Kobolds of Kher Keep|C
+Kongming, "Sleeping Dragon"|R
+Labyrinth Minotaur|C
+Lady Evangela|U
+Lady Caleria|U
+Land Tax|R
+Lady Orca|C
+Land Equilibrium|R
+Lesser Werewolf|C
+Liu Bei, Lord of Shu|R
+Lightning Blow|C
+Life Chisel|R
+Living Plane|R
+Loyal Retainers|U
+Livonya Silone|U
+Lu Bu, Master-at-Arms|R
+Lu Meng, Wu General|U
+Lu Xun, Scholar General|U
+Meng Huo's Horde|C
+Mana Vortex|R
+Mana Drain|R
+Marhault Elsdragon|U
+Meng Huo, Barbarian King|R
+Mountain|L
+Misfortune's Gain|C
+Mind Twist|R
+Nebuchadnezzar|U
+Nova Pentacle|R
+Nether Void|R
+Old Man of the Sea|R
+Nicol Bolas|R
+Pavel Maliki|U
+Palladia-Mors|R
+Plains|L
+Peach Garden Oath|C
+Plateau|R
+Raging Minotaur|C
+Princess Lucrezia|U
+Ramses Overdark|U
+Ragnar|U
+Ramirez DePietro|C
+Rasputin Dreamweaver|R
+Remove Soul|C
+Reincarnation|U
+Recall|U
+Reveka, Wizard Savant|U
+Reset|R
+Riven Turnbull|U
+Riding the Dilu Horse|U
+Rolling Earthquake|R
+Rohgahh of Kher Keep|R
+Scrubland|R
+Rubinia Soulsinger|R
+Scryb Sprites|C
+Spectral Shield|U
+Sorrow's Path|R
+Sol Grail|C
+Spiny Starfish|U
+Spirit Shackle|C
+Stangg|U
+Spoils of Victory|C
+Storm World|R
+Stolen Grain|U
+Sun Ce, Young Conquerer|U
+Strategic Planning|C
+Sun Quan, Lord of Wu|R
+Sunastian Falconer|U
+Takklemaggot|U
+Swamp|L
+Sword of the Ages|R
+Tetsuo Umezawa|R
+The Lady of the Mountain|C
+The Abyss|R
+The Tabernacle at Pendrell Vale|R
+The Wretched|U
+Tobias Andrion|C
+Three Visits|C
+Tracker|U
+Torsten Von Ursus|C
+Tor Wauki|U
+Tropical Island|R
+Trip Wire|C
+Urborg|U
+Tuknir Deathlock|U
+Volcanic Island|R
+Vaevictis Asmadi|R
+Wall of Light|C
+Voodoo Doll|R
+Wandering Mage|R
+Wei Elite Companions|C
+Wei Infantry|C
+Wei Night Raiders|U
+Wei Strike Force|C
+Willow Priestess|U
+Willow Satyr|R
+Wormwood Treefolk|U
+Wu Elite Cavalry|C
+Wu Longbowman|C
+Xiahou Dun, the One-Eyed|U
+Wu Warship|C
+Young Wei Recruits|C
+Xira Arien|R
+Zhang Fei, Fierce Warrior|U
+Zodiac Dragon|R

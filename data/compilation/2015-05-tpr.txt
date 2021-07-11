@@ -1,0 +1,254 @@
+Carnassid|U
+Canopy Spider|C
+Canyon Wildcat|C
+Charging Paladin|C
+Acidic Sliver|U
+Anarchist|C
+Aluren|R
+Aftershock|C
+Angelic Blessing|C
+Angelic Protector|U
+Armor Sliver|C
+Anoint|C
+Armored Pegasus|C
+Avenging Angel|U
+Barbed Sliver|C
+Bandage|C
+Bottle Gnomes|C
+Cannibalize|U
+Caldera Lake|U
+Capsize|U
+Carnophage|C
+City of Traitors|R
+Cataclysm|M
+Cinder Marsh|U
+Clot Sliver|C
+Coercion|C
+Coat of Arms|R
+Coffin Queen|R
+Coiled Tinviper|C
+Conviction|C
+Commander Greven il-Vec|R
+Counterspell|U
+Corpse Dance|R
+Crashing Boars|U
+Craven Giant|C
+Crovax the Cursed|R
+Crystalline Sliver|U
+Cursed Flesh|C
+Curiosity|U
+Dark Banishing|C
+Cursed Scroll|M
+Dark Ritual|C
+Dauthi Horror|C
+Dauthi Jackal|C
+Dauthi Marauder|U
+Dauthi Slayer|U
+Dauthi Warlord|U
+Death Stroke|C
+Death Pits of Rath|R
+Deadshot|U
+Death's Duet|C
+Diabolic Edict|C
+Disenchant|C
+Dracoplasm|R
+Dismiss|U
+Dream Prowler|U
+Dream Halls|M
+Dungeon Shade|C
+Emmessi Tome|U
+Elvish Fury|C
+Elven Rite|C
+Endangered Armodon|C
+Evincar's Justice|U
+Ephemeron|R
+Erratic Portal|R
+Exalted Dragon|R
+Field of Souls|R
+Fanning the Flames|R
+Fighting Drake|U
+Flowstone Mauler|U
+Flowstone Blade|C
+Flame Wave|R
+Flowstone Wyvern|U
+Forest|L
+Forbid|R
+Furnace Brood|C
+Fugue|U
+Gaseous Form|C
+Gallantry|U
+Goblin Bombardment|U
+Gerrard's Battle Cry|R
+Gravedigger|C
+Hammerhead Shark|C
+Grindstone|M
+Heartwood Dryad|C
+Harrow|C
+Heartwood Giant|R
+Hermit Druid|U
+Hibernation Sliver|U
+Horned Sliver|C
+Horned Turtle|C
+Island|L
+Intuition|R
+Humility|M
+Killer Whale|U
+Kezzerdrix|R
+Jinxed Idol|R
+Krakilin|R
+Kor Chant|U
+Kindle|C
+Legerdemain|U
+Legacy's Allure|R
+Lab Rats|C
+Living Death|M
+Lightning Blast|C
+Lotus Petal|U
+Lowland Giant|C
+Lowland Basilisk|U
+Magmasaur|R
+Mage il-Vec|U
+Manabond|R
+Maniacal Rage|C
+Mana Leak|C
+Master Decoy|C
+Meditate|R
+Mawcor|R
+Maze of Shadows|U
+Metallic Sliver|C
+Merfolk Looter|C
+Mindless Automaton|R
+Mirri, Cat Warrior|R
+Mnemonic Sliver|C
+Mogg Conscripts|C
+Mogg Fanatic|C
+Mogg Flunkies|C
+Mogg Infestation|R
+Mogg Hollows|U
+Mogg Maniac|U
+Mountain|L
+Mounted Archers|C
+Muscle Sliver|C
+Mulch|C
+Mox Diamond|M
+Nomads en-Kor|C
+Needle Storm|U
+Necrologia|R
+Oath of Druids|M
+Ogre Shaman|R
+Orim, Samite Healer|R
+Phyrexian Hulk|U
+Pacifism|U
+Overrun|U
+Paladin en-Vec|R
+Patchwork Gnomes|C
+Pandemonium|R
+Pegasus Stampede|U
+Plains|L
+Pine Barrens|U
+Skyshroud Elf|C
+Skyshaper|C
+Skyshroud Troll|C
+Skyshroud Forest|U
+Skyshroud Vampire|U
+Smite|C
+Sliver Queen|M
+Soltari Guerrillas|R
+Soltari Champion|U
+Soltari Lancer|C
+Soltari Monk|U
+Soltari Priest|U
+Soltari Trooper|C
+Spike Breeder|U
+Spellshock|U
+Spell Blast|C
+Spike Colony|C
+Spike Feeder|U
+Spike Hatcher|R
+Spinal Graft|C
+Spined Sliver|U
+Spirit en-Kor|C
+Spined Wurm|C
+Spitting Hydra|R
+Spirit Mirror|R
+Standing Troops|C
+Stalking Stones|U
+Starke of Rath|M
+Staunch Defenders|C
+Stronghold Assassin|R
+Swamp|L
+Survival of the Fittest|M
+Stun|C
+Telethopter|C
+Thalakos Drifters|U
+Thalakos Scout|C
+Thalakos Lowlands|U
+Thalakos Seer|C
+Thopter Squadron|R
+Thrull Surgeon|C
+Tradewind Rider|R
+Time Warp|M
+Time Ebb|C
+Trained Armodon|C
+Vampire Hounds|C
+Twitch|C
+Tranquility|U
+Verdant Touch|U
+Vec Townships|U
+Verdant Force|R
+Verdigris|C
+Vhati il-Dal|R
+Victual Sliver|U
+Volrath's Curse|U
+Volrath's Stronghold|M
+Volrath's Laboratory|R
+Wall of Blossoms|U
+Wall of Diffusion|C
+Wall of Essence|U
+Wall of Souls|U
+Warrior en-Kor|U
+Wayward Soul|C
+Wasteland|R
+Wind Dancer|U
+Whispers of the Muse|C
+Wind Drake|C
+Winged Sliver|C
+Winds of Rath|R
+Youthful Knight|C
+Wood Sage|R
+Rampant Growth|C
+Rathi Dragon|R
+Provoke|C
+Rats of Rath|C
+Reanimate|U
+Reality Anchor|C
+Recycle|R
+Recurring Nightmare|M
+Rootbreaker Wurm|U
+Renegade Warlord|U
+Revenant|U
+Repentance|U
+Rolling Thunder|U
+Rootwater Hunter|U
+Rootwalla|C
+Rootwater Depths|U
+Sabertooth Wyvern|U
+Screeching Harpy|U
+Sandstone Warrior|C
+Salt Flats|U
+Scabland|U
+Sarcomancy|U
+Sea Monster|C
+Scrivener|C
+Seething Anger|C
+Searing Touch|U
+Selenia, Dark Angel|R
+Serpent Warrior|C
+Shadowstorm|U
+Shackles|C
+Shaman en-Kor|R
+Shadow Rift|C
+Shard Phoenix|M
+Silver Wyvern|R
+Sift|C
+Shatter|C

@@ -1,0 +1,245 @@
+Armor Thrull|C
+Adarkar Sentinel|C
+Abbey Gargoyles|U
+Ambush Party|C
+Aether Storm|U
+Aeolipile|C
+Anarchy|R
+An-Zerrin Ruins|R
+Angel of Fury|R
+Angel of Light|U
+Armor of Faith|C
+Armored Griffin|C
+Aurochs|C
+Ashen Ghoul|U
+Ashnod's Cylix|R
+Aysen Bureaucrats|C
+Aysen Crusader|U
+Balduvian Conjurer|C
+Badlands|R
+Balduvian Dead|U
+Balduvian Hydra|R
+Barbed Sextant|C
+Balduvian Trading Post|R
+Binding Grasp|R
+Brainstorm|C
+Bounty of the Hunt|R
+Brassclaw Orcs|C
+Brimstone Dragon|R
+Brine Shaman|C
+Browse|U
+Broken Visage|U
+Carapace|C
+Burnout|U
+Caribou Range|R
+Cloak of Confusion|C
+Clockwork Steed|U
+Combat Medic|C
+Dance of the Dead|U
+Conquer|U
+Counterspell|U
+Death Spark|C
+Dark Banishing|C
+Deep Spawn|R
+Demonic Consultation|U
+Despotic Scepter|R
+Diabolic Vision|U
+Disenchant|C
+Drift of the Dead|C
+Dreams of the Dead|R
+Dystopia|R
+Dwarven Ruins|U
+Dry Spell|C
+Ebon Praetor|R
+Elemental Augury|R
+Earthlink|R
+Ebon Stronghold|U
+Elkin Bottle|R
+Elven Lyre|C
+Elvish Farmer|R
+Elvish Hunter|C
+Elvish Ranger|C
+Elvish Spirit Guide|U
+Enervate|C
+Energy Storm|R
+Errantry|C
+Errand of Duty|U
+Essence Flare|C
+Essence Filter|U
+Farrel's Mantle|U
+Farrel's Zealot|U
+Fire Dragon|R
+Feral Thallid|C
+Flame Spirit|U
+Folk of the Pines|C
+Forbidden Lore|U
+Foul Familiar|C
+Forgotten Lore|U
+Funeral March|C
+Fumarole|U
+Fyndhorn Pollen|R
+Fungal Bloom|R
+Gangrenous Zombies|C
+Giant Trap Door Spider|U
+Giant Growth|C
+Glacial Crevasses|R
+Glacial Chasm|R
+Goblin Ski Patrol|C
+Gorilla Shaman|U
+Grandmother Sengir|R
+Havenwood Battleground|U
+Gustha's Scepter|R
+Heart of Yavimaya|R
+Helm of Obedience|R
+Icatian Javelineers|C
+Icatian Phalanx|C
+Icatian Scout|C
+Icequake|C
+Iceberg|U
+Ice Floe|U
+Icy Prison|C
+Imperial Recruiter|R
+Ihsan's Shade|R
+Incinerate|C
+Imperial Seal|R
+Inheritance|U
+Infernal Darkness|R
+Ironclaw Orcs|C
+Ivory Gargoyle|R
+Jeweled Amulet|U
+Jester's Mask|R
+Johtull Wurm|U
+Joven's Ferrets|U
+Juniper Order Advocate|U
+Karplusan Giant|U
+Kjeldoran Dead|C
+Kaysa|R
+Kjeldoran Elite Guard|C
+Kjeldoran Home Guard|U
+Kjeldoran Skycaptain|C
+Kjeldoran Outpost|R
+Knight of Stromgald|U
+Krovikan Fetish|C
+Krovikan Horror|R
+Krovikan Sorcerer|C
+Krovikan Vampire|U
+Lava Burst|U
+Lat-Nam's Legacy|C
+Leaping Lizard|C
+Lim-Dûl's High Guard|U
+Lodestone Bauble|R
+Lost Order of Jarkeld|R
+Magus of the Unseen|R
+Mesmeric Trance|R
+Marjhan|R
+Mana Crypt|R
+Meteor Shower|C
+Mishra's Groundbreaker|U
+Minion of Leshrac|R
+Misinformation|U
+Mudslide|R
+Nature's Wrath|R
+Musician|R
+Narwhal|U
+Nature's Blessing|U
+Necrite|C
+Night Soil|U
+Necropotence|R
+Orcish Captain|U
+Orc General|U
+Orcish Cannoneers|U
+Orcish Conscripts|C
+Orcish Farmer|C
+Orcish Lumberjack|C
+Orcish Squatters|R
+Orcish Veteran|C
+Order of the Sacred Torch|R
+Order of the White Shield|U
+Phantasmal Fiend|C
+Personal Tutor|U
+Panic|C
+Phantasmal Mount|C
+Phyrexian Devourer|U
+Pillage|U
+Phyrexian Portal|R
+Pyrokinesis|R
+Portent|C
+Ravages of War|R
+Ray of Command|U
+Red Cliffs Armada|C
+Reprisal|C
+Reinforcements|C
+Righteous Fury|R
+Retribution|U
+Ritual of Subdual|R
+Ritual of the Machine|R
+Rogue Skycaptain|R
+Roterothopter|C
+Royal Trooper|C
+Royal Decree|R
+Sacred Boon|U
+Ruins of Trokair|U
+Scars of the Veteran|R
+Savannah|R
+Screeching Drake|C
+Sea Spirit|U
+Sea Drake|R
+Shield Bearer|C
+Shyft|C
+Shrink|C
+Sibilant Spirit|R
+Skeleton Ship|R
+Snow Fortress|U
+Skull Catapult|U
+Snow-Covered Forest|L
+Snow-Covered Island|L
+Snow-Covered Mountain|L
+Snow-Covered Plains|L
+Snow-Covered Swamp|L
+Soldevi Excavations|R
+Soldevi Digger|U
+Soldevi Simulacrum|U
+Soul Exchange|U
+Songs of the Damned|C
+Soul Kiss|U
+Spore Flower|U
+Spore Cloud|U
+Stone Spirit|U
+Stampede|U
+Storm Elemental|U
+Stonehands|C
+Stromgald Cabal|R
+Storm Spirit|R
+Sustaining Spirit|R
+Stunted Growth|R
+Swords to Plowshares|U
+Svyelunite Temple|U
+Taiga|R
+Thallid|C
+Temporal Manipulation|R
+Thallid Devourer|C
+Thelonite Druid|R
+Thunder Wall|U
+Thought Lash|R
+Thermokarst|C
+Underground Sea|R
+Tinder Wall|C
+Time Bomb|R
+Tundra|R
+Varchild's Crusader|C
+Viscerid Armor|C
+Viscerid Drone|U
+Wall of Kelp|C
+Whiteout|C
+Whirling Catapult|U
+Warning|C
+Wiitigo|R
+Wind Spirit|U
+Winter's Night|R
+Wings of Aesthir|U
+Wolf Pack|R
+Withering Wisps|U
+Woolly Mammoths|C
+Woolly Spider|U
+Yavimaya Ancients|U
+Zuran Spellcaster|C

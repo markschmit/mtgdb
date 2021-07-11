@@ -1,0 +1,260 @@
+Ashnod's Altar|R
+Armageddon|R
+Argothian Treefolk|U
+Artifact Blast|C
+Argothian Pixies|C
+Armageddon Clock|R
+Basalt Monolith|U
+Bayou|R
+Badlands|R
+Atog|C
+Aesthir Glider|C
+Acid Rain|R
+Air Elemental|U
+Alaborn Musketeer|C
+Alaborn Trooper|C
+Al-abara's Carpet|R
+Ali from Cairo|R
+Aladdin|R
+Alchor's Tomb|R
+Amulet of Kroog|C
+Alluring Scent|C
+Angelic Voices|U
+Animate Artifact|U
+Argivian Blacksmith|U
+Mahamoti Djinn|R
+Martyr's Cry|R
+Mana Vault|R
+Mana Matrix|R
+Minion of Tevesh Szat|R
+Martyrs of Korlis|U
+Mijae Djinn|R
+Maze of Ith|R
+Mishra's Workshop|R
+Mightstone|C
+Mystic Decree|U
+Oasis|C
+Naked Singularity|R
+Obsianus Golem|C
+Orcish Mechanics|U
+Osai Vultures|C
+Onulet|C
+Owl Familiar|C
+Overwhelming Forces|R
+Phantasmal Forces|C
+Pentagram of the Ages|U
+Personal Incarnation|R
+Phantasmal Terrain|C
+Plateau|R
+Planar Gate|U
+Power Artifact|R
+Prodigal Sorcerer|U
+Primal Clay|C
+Prowling Nightstalker|C
+Radjan Spirit|U
+Obelisk of Undoing|R
+Ogre Taskmaster|C
+Rakalite|R
+Primitive Justice|U
+Rain of Daggers|R
+Red Elemental Blast|U
+Reconstruction|C
+Regrowth|R
+Ring of Renewal|R
+Righteous Charge|C
+Roc of Kher Ridges|U
+Balance|R
+Bee Sting|U
+Bird Maiden|C
+Blue Elemental Blast|U
+Black Knight|U
+Blaze of Glory|U
+Book of Rass|U
+Bottle of Suleiman|R
+Braingeyser|R
+Brass Man|C
+Bronze Horse|U
+Celestial Sword|U
+Candelabra of Tawnos|R
+Champion Lancer|R
+Citanul Druid|C
+Channel|R
+Clay Statue|U
+City of Brass|R
+Clockwork Avian|U
+Clockwork Gnomes|U
+Clockwork Swarm|C
+Cloud Dragon|R
+Cloud Spirit|C
+Colossus of Sardia|R
+Control Magic|R
+Coral Helm|U
+Copy Artifact|R
+Conversion|R
+Crumble|C
+Counterspell|C
+Cyclopean Mummy|C
+Cyclone|R
+Dakmor Plague|U
+Cyclopean Tomb|R
+Dark Ritual|C
+Deathcoil Wurm|R
+Demonic Hordes|R
+Demonic Tutor|R
+Deathgrip|R
+Detonate|U
+Diabolic Machine|U
+Devastation|R
+Dragon Engine|C
+Divine Offering|C
+Dread Reaper|R
+Dread Wight|U
+Drain Power|R
+Drowned|C
+Drop of Honey|R
+Ebon Dragon|R
+Dust to Dust|U
+Ebony Rhino|C
+Elephant Graveyard|U
+Ebony Horse|C
+Elite Cat Warrior|C
+False Summoning|C
+Eye for an Eye|R
+Energy Flux|U
+Fastbond|R
+Fire Tempest|R
+Fire Imp|U
+Fireball|U
+Flying Carpet|C
+Floodwater Dam|R
+Fog|C
+Fork|R
+Force of Nature|R
+Serendib Djinn|R
+Sengir Vampire|U
+Serra Aviary|U
+Serra Angel|U
+Serra Bestiary|C
+Shapeshifter|U
+Shivan Dragon|R
+Smoke|R
+Sleight of Hand|C
+Sinkhole|R
+Sandstorm|C
+Soldevi Golem|U
+Sol Ring|R
+Rock Hydra|R
+Rockslide Ambush|C
+Savannah|R
+Savannah Lions|U
+Scarwood Bandits|R
+Scarecrow|U
+Scavenger Folk|C
+Scavenging Ghoul|U
+Sea Serpent|C
+Scrubland|R
+Sedge Troll|R
+Soldevi Machinist|U
+Spotted Griffin|C
+Southern Elephant|C
+Soul Shred|C
+Stasis|R
+Staff of Zegon|C
+Squall|U
+Steam Catapult|R
+Sylvan Tutor|U
+Swords to Plowshares|U
+Strip Mine|R
+Symbol of Unsummoning|C
+Tablet of Epityr|C
+Taiga|R
+Talas Researcher|U
+Tawnos's Weaponry|U
+Tawnos's Wand|C
+Temple Acolyte|C
+Theft of Dreams|U
+Tetravus|R
+Terror|C
+Thunder Dragon|R
+Thing from the Deep|R
+Transmute Artifact|R
+Titania's Song|R
+Time Vault|R
+Triassic Egg|R
+Tropical Island|R
+Underground Sea|R
+Tsunami|R
+Two-Headed Giant of Foriys|U
+Tundra|R
+Urza's Mine|L
+Urza's Chalice|C
+Urza's Power Plant|L
+Urza's Miter|R
+Urza's Tower|L
+Veteran Bodyguard|R
+Volcanic Island|R
+Vibrating Sphere|R
+Warp Artifact|C
+War Mammoth|C
+Water Elemental|U
+Wheel of Fortune|R
+Weakness|C
+Whiptail Wurm|U
+Weakstone|U
+White Knight|U
+Wild Aesthir|C
+Wicked Pact|U
+Wild Griffin|C
+Wood Elemental|R
+Wild Ox|U
+Xenic Poltergeist|U
+Word of Command|R
+Yotian Soldier|C
+Zombie Master|U
+Foul Spirit|C
+Gaea's Avenger|U
+Gauntlet of Might|R
+Gate to Phyrexia|U
+Giant Growth|C
+Giant Tortoise|C
+Gloom|R
+Glasses of Urza|C
+Goblin Bully|C
+Goblin Cavaliers|C
+Goblin Caves|C
+Goblin Firestarter|C
+Goblin General|U
+Goblin Shrine|C
+Gorilla War Cry|C
+Goblin Warrens|U
+Grapeshot Catapult|U
+Guardian Beast|R
+Gravebind|C
+Hasran Ogress|C
+Harsh Justice|R
+Horn of Deafening|U
+Healing Salve|C
+Howl from Beyond|C
+Ice Cauldron|R
+Icy Manipulator|U
+In the Eye of Chaos|R
+Instill Energy|U
+Jade Monolith|R
+Ironhoof Ox|C
+Island Sanctuary|R
+Juggernaut|U
+Junun Efreet|U
+Kismet|R
+Kormus Bell|R
+Just Fate|C
+Kudzu|U
+Leeches|R
+Lava Flow|C
+Last Chance|R
+Library of Alexandria|R
+Library of Leng|C
+Lifeforce|R
+Lim-Dûl's Cohort|C
+Living Wall|U
+Lich|R
+Living Lands|R

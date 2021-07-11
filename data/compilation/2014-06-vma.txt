@@ -1,0 +1,325 @@
+Akroma's Blessing|U
+Balance|M
+Ancestral Recall|S
+Ancient Tomb|R
+Animate Dead|U
+Aquamoeba|C
+Ankh of Mishra|R
+Armadillo Cloak|U
+Armor of Thorns|C
+Arrogant Wurm|C
+Armageddon|M
+Bad River|U
+Astral Slide|U
+Baleful Force|R
+Badlands|R
+Baleful Strix|R
+Jungle Wurm|C
+Rescind|C
+Ivory Tower|U
+Jareth, Leonine Titan|R
+Karmic Guide|R
+Kaervek's Torch|U
+Karn, Silver Golem|R
+Keeneye Aven|C
+Killer Whale|C
+Keldon Necropolis|R
+Kezzerdrix|U
+Kongming, "Sleeping Dragon"|R
+Kindle|C
+Krosan Tusker|C
+Kjeldoran Outpost|R
+Krosan Vorine|C
+Krovikan Sorcerer|C
+Laquatus's Champion|R
+Lake of the Dead|R
+Lightning Dragon|R
+Library of Alexandria|M
+Lion's Eye Diamond|M
+Lightning Rift|U
+Living Death|R
+Lonely Sandbar|C
+Lurking Evil|U
+Magister of Worth|R
+Mana Drain|M
+Man-o'-War|C
+Mana Prism|C
+Mana Crypt|M
+Mana Vault|R
+Marchesa, the Black Rose|M
+Masticore|R
+Memory Jar|M
+Mesmeric Fiend|C
+Mishra's Workshop|M
+Mistmoon Griffin|C
+Mox Emerald|S
+Morphling|M
+Mind's Desire|R
+Mountain Valley|U
+Mox Pearl|S
+Mox Ruby|S
+Mox Sapphire|S
+Muzzio, Visionary Architect|M
+Mox Jet|S
+Mystic Zealot|U
+Nature's Ruin|R
+Nature's Lore|C
+Necropotence|R
+Nevinyrral's Disk|R
+Noble Templar|C
+Nightscape Familiar|C
+Norwood Priestess|R
+Null Rod|R
+Nostalgic Dreams|U
+Obsessive Search|C
+Oath of Druids|M
+Ophidian|C
+Orcish Lumberjack|C
+Owl Familiar|C
+Paralyze|C
+Palinchron|R
+Penumbra Wurm|U
+Parallax Wave|R
+Phantom Nomad|C
+Phyrexian Defiler|U
+Ring of Gix|R
+Pillaging Horde|U
+Pianna, Nomad Captain|U
+Plateau|R
+Power Sink|U
+Pine Barrens|U
+Plea for Power|R
+Predator, Flagship|R
+Predatory Nightstalker|C
+Provoke|C
+Radiant, Archangel|U
+Psychatog|U
+Prophetic Bolt|U
+Radiant's Judgment|C
+Putrid Imp|C
+Realm Seekers|R
+Reckless Charge|C
+Reanimate|U
+Recurring Nightmare|R
+Regrowth|R
+Renewed Faith|C
+Repel|C
+Reign of the Pit|R
+Reviving Vapors|U
+Basking Rootwalla|C
+Basandra, Battle Seraph|R
+Barren Moor|C
+Bayou|R
+Battle Screech|C
+Beetleback Chief|C
+Bazaar of Baghdad|M
+Benalish Trapper|C
+Benevolent Bodyguard|C
+Blastoderm|U
+Black Lotus|S
+Berserk|R
+Blazing Specter|U
+Brago, King Eternal|R
+Brainstorm|C
+Brain Freeze|U
+Brilliant Halo|C
+Breath of Life|U
+Brindle Shoat|C
+Academy Elite|R
+Afterlife|C
+Aether Mutation|U
+Addle|C
+Aftershock|C
+Crater Hellion|R
+Crovax the Cursed|R
+Crescendo of War|R
+Cursed Scroll|R
+Cruel Bargain|R
+Dack Fayden|M
+Dack's Duplicate|R
+Dark Hatchling|U
+Dauthi Mercenary|C
+Deep Analysis|C
+Death's-Head Buzzard|C
+Dark Ritual|C
+Deathreap Ritual|U
+Death Grasp|U
+Decree of Justice|R
+Deftblade Elite|C
+Deranged Hermit|R
+Demonic Tutor|M
+Desert Twister|U
+Devout Witness|U
+Drakestown Forgotten|R
+Dreampod Druid|U
+Edric, Spymaster of Trest|R
+Elephant Guide|C
+Elvish Aberration|C
+Empyrial Armor|U
+Erhnam Djinn|U
+Eternal Dragon|R
+Ephemeron|R
+Exile|C
+Eureka|M
+Expunge|C
+Fact or Fiction|U
+Fallen Askari|C
+Fastbond|M
+Famine|U
+Falter|C
+Fireblast|U
+Fires of Yavimaya|U
+Flametongue Kavu|U
+Fledgling Djinn|C
+Flowstone Sculpture|R
+Flowstone Hellion|U
+Flood Plain|U
+Force of Will|R
+Flusterstorm|R
+Forgotten Cave|C
+Frantic Search|C
+Fyndhorn Elves|C
+Future Sight|R
+Gaea's Embrace|U
+Gerrard's Battle Cry|R
+Genesis|R
+Gamble|R
+Giant Mantis|C
+Giant Strength|C
+Goblin Commando|C
+Gigapede|R
+Gilded Light|C
+Council's Judgment|R
+Goblin General|C
+Goblin Lackey|R
+Goblin Matron|C
+Goblin Goon|U
+Goblin Patrol|C
+Goblin Piledriver|R
+Goblin Ringleader|U
+Goblin Settler|U
+Goblin Warchief|U
+Goblin Trenches|U
+Grasslands|U
+Grand Coliseum|R
+Gush|U
+Grenzo, Dungeon Warden|R
+Grizzly Fate|U
+Hermit Druid|R
+Gustcloak Harrier|C
+Hulking Goblin|C
+High Tide|U
+Ichorid|R
+Hymn to Tourach|U
+Jace, the Mind Sculptor|M
+Roar of the Wurm|U
+Rites of Initiation|U
+Rocky Tar Pit|U
+Rofellos, Llanowar Emissary|R
+Salt Flats|U
+Rorix Bladewing|R
+Sarcomancy|U
+Saproling Burst|R
+Scrubland|R
+Savannah|R
+Scourge of the Throne|M
+Scabland|U
+Scrivener|C
+Sea Drake|R
+Secluded Steppe|C
+Seal of Cleansing|C
+Selvala, Explorer Returned|R
+Serendib Efreet|U
+Shivan Wurm|R
+Shelter|C
+Sidar Jabari|U
+Simian Grunts|C
+Silvos, Rogue Elemental|R
+Skirge Familiar|C
+Skirk Drill Sergeant|C
+Skirk Prospector|C
+Skywing Aven|C
+Skullclamp|M
+Skyshroud Forest|U
+Solar Blast|C
+Sol Ring|M
+Smokestack|R
+Soltari Emissary|C
+Soltari Trooper|C
+Spinal Graft|C
+Sphere of Resistance|R
+Spark Spray|C
+Spirit Mirror|R
+Spirit Cairn|R
+Spiritmonger|R
+Stoic Champion|U
+Starstorm|R
+Su-Chi|U
+Stroke of Genius|R
+Strip Mine|R
+Sulfuric Vortex|R
+Sudden Strength|C
+Survival of the Fittest|R
+Swords to Plowshares|U
+Sylvan Library|R
+Taiga|R
+Symbiotic Wurm|U
+Temporal Fissure|C
+Tendrils of Agony|U
+Tangle|C
+Teroh's Faithful|C
+Thalakos Drifters|U
+Thopter Squadron|U
+Thawing Glaciers|R
+Timetwister|S
+Time Walk|S
+Time Vault|M
+Tolarian Academy|M
+Tradewind Rider|R
+Triangle of War|U
+Tranquil Thicket|C
+Tribute to the Wild|C
+Tropical Island|R
+Tyrant's Choice|C
+Tundra|R
+Underground Sea|R
+Turnabout|U
+Vampiric Tutor|R
+Urborg Uprising|C
+Upheaval|M
+Volcanic Island|R
+Visara the Dreadful|R
+Volrath's Shapeshifter|R
+Wall of Diffusion|C
+Waterfront Bouncer|U
+Wild Mongrel|C
+Wheel of Fortune|M
+Yavimaya Elder|U
+Winds of Rath|R
+Worldgorger Dragon|R
+Yavimaya Hollow|R
+Yawgmoth's Will|M
+Yawgmoth's Bargain|M
+Zhalfirin Crusader|R
+Burning Wish|R
+Burning of Xinye|R
+Cabal Ritual|U
+Caldera Lake|U
+Carnophage|C
+Chainer's Edict|C
+Chain Lightning|C
+Channel|M
+Coercive Portal|M
+Counterspell|C
+Chaos Warp|R
+Choking Sands|C
+Chimeric Idol|U
+Chartooth Cougar|C
+Choking Tethers|C
+Circular Logic|C
+City in a Bottle|M
+Claws of Wirewood|C
+Cloud Djinn|U
+Clickslither|R
+Cloud of Faeries|U
+Control Magic|R

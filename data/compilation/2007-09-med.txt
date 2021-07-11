@@ -1,0 +1,185 @@
+Derelor|U
+Adun Oakenshield|R
+Animate Wall|U
+Angry Mob|U
+Amnesia|R
+Animate Dead|U
+Apprentice Wizard|C
+Ankh of Mishra|R
+Argivian Archaeologist|R
+Arcane Denial|C
+Ashnod's Transmogrant|C
+Artifact Blast|C
+Armageddon|R
+Autumn Willow|R
+Balduvian Horde|R
+Ball Lightning|R
+Basal Thrull|C
+Baron Sengir|R
+Benalish Hero|C
+Bestial Fury|C
+Berserk|R
+Black Knight|U
+Brothers of Fire|C
+Blight|U
+Breeding Pit|U
+Carnivorous Plant|U
+Centaur Archer|U
+Chub Toad|C
+Chains of Mephistopheles|R
+Clockwork Beast|U
+Crookshank Kobolds|C
+Copper Tablet|U
+Contagion|R
+Dakkon Blackblade|R
+Cuombajj Witches|C
+Crusade|R
+Death Speakers|C
+Cursed Rack|U
+Diminishing Returns|R
+Death Ward|C
+Diamond Valley|R
+Divine Transformation|U
+Dragon Engine|C
+Dwarven Catapult|U
+Dust to Dust|C
+Dwarven Soldier|C
+Eater of the Dead|U
+Energy Arc|U
+Elder Land Wurm|U
+Feast or Famine|C
+Erg Raiders|C
+Exile|C
+Eureka|R
+Fire Covenant|U
+Fissure|C
+Forcefield|R
+Force of Will|R
+Forest|L
+Fyndhorn Elves|C
+Ghazban Ogre|C
+Gargantuan Gorilla|R
+Giant Tortoise|C
+Goblin Chirurgeon|C
+Goblin Mutant|U
+Goblin Grenade|U
+Goblin Wizard|R
+Goblins of the Flarg|C
+Granite Gargoyle|U
+Hallowed Ground|U
+Greater Realm of Preservation|U
+Hand of Justice|R
+Holy Light|C
+High Tide|U
+Hecatomb|R
+Homarid Spawning Bed|U
+Hungry Mist|C
+Hyalopterous Lemure|C
+Hymn to Tourach|U
+Hymn of Rebirth|U
+Hydroblast|C
+Icatian Lieutenant|C
+Ice Storm|U
+Icatian Town|U
+Ifh-Biff Efreet|R
+Illusionary Forces|U
+Illusionary Wall|C
+Island|L
+Illusions of Grandeur|R
+Ivory Tower|R
+Island of Wak-Wak|R
+Jacques le Vert|R
+Jokulhaups|R
+Juzam Djinn|R
+Juxtapose|U
+Keldon Warlord|U
+Knights of Thorn|C
+Khabal Ghoul|R
+Lightning Bolt|C
+Lake of the Dead|R
+Lim-Dûl's Vault|U
+Mana Flare|R
+Lord of Tresserhorn|R
+Marton Stromgald|R
+Mesa Pegasus|C
+Mindstab Thrull|C
+Mishra's Factory|U
+Mirror Universe|R
+Moat|R
+Mountain|L
+Mountain Yeti|C
+Nature's Lore|C
+Mystic Remora|U
+Nether Shadow|U
+Onulet|C
+Nevinyrral's Disk|R
+Orcish Mechanics|U
+Order of Leitbur|C
+Order of the Ebon Hand|C
+Phantom Monster|C
+Paralyze|C
+Oubliette|C
+Petra Sphinx|R
+Phyrexian Boon|C
+Phelddagrif|R
+Phyrexian War Beast|U
+Pox|R
+Plains|L
+Polar Kraken|R
+Preacher|R
+Psychic Purge|U
+Primal Order|R
+Psychic Venom|C
+Rabid Wombat|U
+Pyroblast|C
+Righteous Avengers|C
+Rainbow Vale|R
+River Merfolk|C
+Ring of Ma'rûf|R
+Roots|C
+Scryb Sprites|C
+Seasinger|U
+Sea Sprite|C
+Seraph|R
+Serendib Efreet|R
+Shambling Strider|C
+Serpent Generator|R
+Shield Sphere|C
+Shield of the Ages|U
+Singing Tree|U
+Spectral Bears|U
+Spinal Villain|U
+Stone Giant|U
+Stone Calendar|U
+Su-Chi|R
+Storm Seeker|U
+Swamp|L
+Sylvan Library|R
+Sunken City|U
+Tawnos's Coffin|R
+Telekinesis|C
+Thicket Basilisk|U
+Thawing Glaciers|R
+Thorn Thallid|C
+The Fallen|U
+Thrull Champion|R
+Thrull Retainer|C
+Thunder Spirit|U
+Time Elemental|R
+Tornado|R
+Tivadar's Crusade|U
+Urza's Chalice|C
+Urza's Bauble|U
+Varchild's War-Riders|R
+Vesuvan Doppelganger|R
+Vodalian Knights|U
+Walking Wall|U
+Winter Blast|U
+Wanderlust|C
+Winds of Change|U
+Winter Orb|R
+Wyluli Wolf|C
+Word of Undoing|C
+Yavimaya Ants|U
+Ydwen Efreet|R
+Zuran Orb|U
